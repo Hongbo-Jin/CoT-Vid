@@ -1,0 +1,210 @@
+[
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/4H8hcvNeWtg.mp4",
+        "question_id": 0,
+        "question": "Did they successfully play the game of telephone in the video?",
+        "answer_number": 1,
+        "candidates": [
+            "A. Yes..",
+            "B. No.",
+            "C. They did not play this game in the video.",
+            "D. It is not possible to determine from the video if they successfully played the game of telephone."
+        ],
+        "answer": "B. No.",
+        "category": "efficiency_evaluation",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/xre_3dxdhkQ.mp4",
+        "question_id": 0,
+        "question": "What is the highest weight that the boys' group can successfully bench press in the video?",
+        "answer_number": 2,
+        "candidates": [
+            "A. 405 lbs.",
+            "B. 415 lbs.",
+            "C. 420 lbs.",
+            "D. 385 lbs."
+        ],
+        "answer": "C. 420 lbs.",
+        "category": "efficiency_evaluation",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/VP4GtrEsefk.mp4",
+        "question_id": 0,
+        "question": "Which player in the video successfully copied a penalty kick?",
+        "answer_number": 0,
+        "candidates": [
+            "A. The first player of the team wearing black.",
+            "B. The first player of the team wearing red.",
+            "C. The third player of the team wearing black.",
+            "D. The second player of the team wearing black."
+        ],
+        "answer": "A. The first player of the team wearing black.",
+        "category": "efficiency_evaluation",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/55Jas5HrzcQ.mp4",
+        "question_id": 0,
+        "question": "After the first successful moon landing, what challenge did NASA's Apollo Program face?",
+        "answer_number": 0,
+        "candidates": [
+            "A. Declining public interest and reduced government funding.",
+            "B. Technological limitations in space suit design.",
+            "C. Soviet competition in space exploration.",
+            "D. The inability to return samples from the lunar surface."
+        ],
+        "answer": "A. Declining public interest and reduced government funding.",
+        "category": "efficiency_evaluation",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/1NYQf_OXDqI.mp4",
+        "question_id": 0,
+        "question": "In line with the video evidence, what is the weakness of the villain?",
+        "answer_number": 0,
+        "candidates": [
+            "A. Water.",
+            "B. Dark.",
+            "C. Overconfidence.",
+            "D. Attachment."
+        ],
+        "answer": "A. Water.",
+        "category": "efficiency_evaluation",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/XOfeqRgaF1A.mp4",
+        "question_id": 0,
+        "question": "What was the experiment in which a man with a ponytail invited volunteers to assess the accuracy of determining COVID-19 infection based on voice, aiming to explore?",
+        "answer_number": 2,
+        "candidates": [
+            "A. To explore whether everyone hears the same thing when talking to someone.",
+            "B. To explore whether someone actually has COVID-19.",
+            "C. To explore whether the method of judging someone's trustworthiness through their voice is reliable.",
+            "D. To explore whether someone has difficulty breathing."
+        ],
+        "answer": "C. To explore whether the method of judging someone's trustworthiness through their voice is reliable.",
+        "category": "efficiency_evaluation",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/yk4eWjYVNYg.mp4",
+        "question_id": 0,
+        "question": "Which one is a condition for successfully applying for housing?",
+        "answer_number": 3,
+        "candidates": [
+            "A. Having a recommendation letter.",
+            "B. Having a good rental history.",
+            "C. Having an income.",
+            "D. A successful person in urgent need of accommodation."
+        ],
+        "answer": "D. A successful person in urgent need of accommodation.",
+        "category": "efficiency_evaluation",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/E-YnmCB6yjo.mp4",
+        "question_id": 0,
+        "question": "What does the successful appeal by a group of Swiss women on health and climate as a fundamental human right signify?",
+        "answer_number": 2,
+        "candidates": [
+            "A. It signifies that climate change will no longer lead to human rights claims.",
+            "B. It signifies that Swiss women will no longer be as vulnerable to the impacts of climate change.",
+            "C. It signifies that the government will take more action to reduce greenhouse gas emissions.",
+            "D. Cannot be determined."
+        ],
+        "answer": "C. It signifies that the government will take more action to reduce greenhouse gas emissions.",
+        "category": "efficiency_evaluation",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/HT2iYl6E_Vo.mp4",
+        "question_id": 0,
+        "question": "What are the comparative strengths of each team?",
+        "answer_number": 0,
+        "candidates": [
+            "A. The level is comparable.",
+            "B. Team TL has a higher level.",
+            "C. Team G2 has a higher level.",
+            "D. None of the above."
+        ],
+        "answer": "A. The level is comparable.",
+        "category": "efficiency_evaluation",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/ZLRyTFIZOIs.mp4",
+        "question_id": 0,
+        "question": "What is the final mode of transportation used by the team that successfully finishes the second challenge?",
+        "answer_number": 2,
+        "candidates": [
+            "A. Coach.",
+            "B. Taxi.",
+            "C. Van.",
+            "D. Scooter."
+        ],
+        "answer": "C. Van.",
+        "category": "efficiency_evaluation",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/goyWFUzCqF4.mp4",
+        "question_id": 0,
+        "question": "Which of the following descriptions of the male protagonist's process from preparing for the marathon to successfully completing the marathon in the video is correct?",
+        "answer_number": 0,
+        "candidates": [
+            "A. The male protagonist did not manage to secure a ticket for the marathon. Then, at the 30-kilometer mark, his legs suddenly started hurting, forcing him to stop training. After arriving in South Africa, his legs recovered, and he also got another chance to participate in the race, ultimately successfully completing the marathon.",
+            "B. The male protagonist experienced sudden leg pain and had to stop training when he reached the 30-kilometer mark. Following this, he failed to secure a ticket for the marathon. After arriving in South Africa, his legs recovered, and he also received another opportunity to participate in the race. Eventually, he successfully completed the marathon.",
+            "C. The male protagonist failed to secure a ticket for the marathon. Subsequently, when he was running at the 30-kilometer mark, he experienced sudden leg pain and had to stop training. Upon reaching South Africa, his legs did not recover fully, but he still received an opportunity to participate in the race. Eventually, he endured the pain and successfully completed the marathon.",
+            "D. None of the above."
+        ],
+        "answer": "A. The male protagonist did not manage to secure a ticket for the marathon. Then, at the 30-kilometer mark, his legs suddenly started hurting, forcing him to stop training. After arriving in South Africa, his legs recovered, and he also got another chance to participate in the race, ultimately successfully completing the marathon.",
+        "category": "efficiency_evaluation",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/elprD1hnDyU.mp4",
+        "question_id": 0,
+        "question": "What is the maximum weight that the woman in the video can successfully bench press?",
+        "answer_number": 3,
+        "candidates": [
+            "A. 50 kilograms.",
+            "B. 55 kilograms.",
+            "C. 60 kilograms.",
+            "D. 57.5 kilograms."
+        ],
+        "answer": "D. 57.5 kilograms.",
+        "category": "efficiency_evaluation",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/N1ZRYx46ye4.mp4",
+        "question_id": 0,
+        "question": "In the video, after using the leg press machine, which part of the body mainly relies on the strength of the next training movements?",
+        "answer_number": 0,
+        "candidates": [
+            "A. Buttock.",
+            "B. Thigh.",
+            "C. Calf.",
+            "D. Back."
+        ],
+        "answer": "A. Buttock.",
+        "category": "efficiency_evaluation",
+        "need_reasoning": false
+    }
+]

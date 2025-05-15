@@ -1,0 +1,98 @@
+[
+    {
+        "task_name": " VideoEspresso Event Dynamic Analysis",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/videoespresso/all_video/XD-Violence/Mission.Impossible.V.Rogue.Nation.2015__#00-35-24_00-36-24_label_B1-0-0.mp4",
+        "question_id": 0,
+        "question": "Using information from the given video, describe the escalating conflict between the two men and how it culminates in the closeup image. ",
+        "answer_number": 3,
+        "candidates": [
+            "A. The conflict begins in a dimly lit office where two men, sharply dressed, are engaged in a volatile negotiation over a critical deal. Voices are raised, and one man abruptly slams his hand into the desk, causing a tense silence to fall. The closeup captures a piercing glare, suggesting a mix of fury and desperation.  ",
+            "B. The two men face off during an exclusive dinner meeting at an upscale restaurant. One delivers a biting comment, leading the other to grip his wine glass so tightly that it tilts and spills red wine onto the tablecloth. The closeup homes in on his tightened jaw, reflecting seething anger or calculated resolve.  ",
+            "C. A dispute takes place on a crowded sidewalk outside a luxurious corporate building. Two well-dressed men, locked in an intense exchange, gesture aggressively as one of their briefcases topples to the ground, scattering papers in the process. The closeup focuses on a cold, unwavering glare, signaling a moment filled with unspoken threats or restrained tension.  ",
+            "D. Two men in formal attire engage in a physical altercation, hinting at a personal or professional spat. Tension escalates as one brandishes a gun, with blue lighting intensifying the scene. A close-up reveals his wide-eyed expression, signaling a dramatic climax."
+        ],
+        "answer": "The conflict begins with a physical altercation between two men in formal attire, suggesting a personal or professional disagreement that has become violent. The setting with ornate furniture implies a formal or possibly elite environment. The intensity escalates in the second image, where the confrontation becomes even more threatening as one man brandishes a gun and adopts a defensive or aggressive stance. The blue lighting and dark background heighten the sense of danger and urgency. Finally, the closeup image of the man's face with an intense and angry expression, wide-open eyes indicating surprise or shock, suggests a moment of realization or an emotional climax, possibly indicative of the high tension and dramatic crescendo of the conflict.",
+        "need_reasoning": false,
+        "category": "interaction_analysis"
+    },
+    {
+        "task_name": " VideoEspresso Event Dynamic Analysis",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/videoespresso/all_video/Moviechat/9.mp4",
+        "question_id": 0,
+        "question": "How do these images indicate the resolution of the conflict?",
+        "answer_number": 1,
+        "candidates": [
+            "A. Initially, a confrontation occurs in a crowded marketplace where two individuals argue aggressively amidst a gathering crowd. The aftermath shows both characters sitting apart, appearing deep in thought, with subtle signs of tension easing yet no direct interaction to confirm a resolution.  ",
+            "B. Initially, in a tropical setting, an armed man threatens a bandaged, injured person, hinting at earlier violence. Later, he is shown pointing his gun and sitting on debris, gun in hand, pausing to consider his next move amid ongoing tensions.  ",
+            "C. Initially, a confrontation unfolds in a barren desert with an armed individual detaining several frightened people. The following image shows the armed individual lowering his weapon and sitting on the ground nearby, observing in silence, suggesting the conflict has momentarily subsided but remains unresolved.  ",
+            "D. Initially, a standoff occurs near a riverbank with two groups exchanging hostile gestures. Subsequent images show the groups turning their backs to each other and departing separately, hinting at a fragile, temporary standstill rather than a definitive end to the conflict."
+        ],
+        "answer": "Initially, a confrontation in the tropical setting begins with an armed individual threatening another, who appears injured and bandaged, suggesting prior violence or resistance. The man points a gun, indicating control or intimidation over the injured party. Subsequently, the man sits on debris, contemplatively holding his gun, which suggests the conflict reached a temporary resolution or standstill. The outcome could imply the armed man secured the area post-confrontation, pondering his next move or awaiting further orders, amid the unresolved tensions of the preceding standoff.",
+        "need_reasoning": false,
+        "category": "interaction_analysis"
+    },
+    {
+        "task_name": " VideoEspresso Causal Analysis",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/videoespresso/all_video/Storystream/The_Land/000044_0_0.mp4",
+        "question_id": 0,
+        "question": "How might the interaction between Beaky, Al, and Zazu be related to Foxy's actions in the forest?",
+        "answer_number": 1,
+        "candidates": [
+            "A. Beaky and Al find Zazu attentively observing the mouse, which could be indirectly linked to Foxy's elusive hunting activities nearby.  ",
+            "B. Beaky and Al observe Zazu's distressed reaction to the mouse, potentially connected to Foxy's nearby hunting.  ",
+            "C. Beaky and Al notice Zazu trying to quietly interact with the mouse, creating an ambiguous connection to Foxy\u2019s hunting behavior nearby.  ",
+            "D. Beaky and Al see Zazu watching the mouse from a distance while Foxy chases small prey nearby in another part of the forest."
+        ],
+        "answer": "Beaky and Al's casual chatter and observation from the tree branch may allow them to notice Zazu's angry arrival while holding a small mouse and scolding it. Since Foxy, a great hunter, has caught a fish and is roaming the forest at the same time, there might be some disturbance or chain of events that led to Zazu's mouse causing trouble, perhaps because the fox was hunting nearby. Beaky and Al could potentially witness or even hear the commotion caused by Zazu and the mouse, connecting the events of Foxy's hunting activities with the turmoil on the tree, especially if there was some competition for food or attention by Zazu while Foxy was active nearby.",
+        "need_reasoning": false,
+        "category": "interaction_analysis"
+    },
+    {
+        "task_name": " VideoEspresso Interaction Analysis",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/videoespresso/all_video/vatex/MR3MIgaHo3A_000018_000028.mp4",
+        "question_id": 0,
+        "question": "Describe the interactions between the horse jockeys or players and the officials as observed in multiple sequences of the video, and identify any conflicting activity described regarding the game being played.",
+        "answer_number": 3,
+        "candidates": [
+            "A. The horse jockeys argue with the referees, and there is a contradiction between the captions referring to polo and hockey.  ",
+            "B. The players discuss the rules with the officials, with one caption describing the game as polo and another labeling it as rugby.  ",
+            "C. The jockeys chat with the referees, with captions conflicting between polo and basketball.  ",
+            "D. The competitors chat with the referee, with one caption describing a game of polo and another mentioning lacrosse."
+        ],
+        "answer": "The horse jockeys or players interact with officials or a referee, as one jockey says something to an official then rides away, and another group of men speak to a referee while playing polo. There is a conflicting activity described: while some captions describe playing polo, one caption mentions playing lacrosse, indicating either a differing description or an error in the game identification.",
+        "need_reasoning": false,
+        "category": "interaction_analysis"
+    },
+    {
+        "task_name": " VideoEspresso Interaction Analysis",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/videoespresso/all_video/Storystream/Rabbids/000041_0_7.mp4",
+        "question_id": 0,
+        "question": "Analyze how the interaction between the hero rabbit and the white rabbit with the warning sign changed the course of their adventures and what new mission emerged from their meeting.",
+        "answer_number": 1,
+        "candidates": [
+            "A. The interaction prompted a mission to protect the sky islands from spiny creatures, as the white rabbit shared stories about previous encounters, motivating the hero rabbit to strengthen island defenses.  ",
+            "B. The encounter revealed the mission to safeguard the sky islands from spiky hedgehogs, inspired by the white rabbit's warning sign, prompting the hero rabbit to spread awareness across the islands.  ",
+            "C. The meeting resulted in a mission to seek long-forgotten relics across the sky islands, with the white rabbit uncovering clues, which led the hero rabbit to prioritize exploration and recovery of ancient artifacts.  ",
+            "D. The interaction inspired a collaborative endeavor to cultivate protective magical shrubs on the sky islands, as the white rabbit raised concerns about dwindling resources, convincing the hero rabbit to participate in a planting mission."
+        ],
+        "answer": "The interaction between the hero rabbit and the exhausted white rabbit introduced a new mission to their journey: protecting the sky islands from the threat posed by spiky hedgehogs, as indicated by the warning held by the white rabbit. The white rabbit's experience and stories of dealing with these creatures influenced the hero rabbit, leading him to join the mission of spreading the warning across the sky islands. The alliance formed as they exchanged knowledge and worked together intensified the focus of their adventures towards a proactive goal of safeguarding the islands.",
+        "need_reasoning": false,
+        "category": "interaction_analysis"
+    },
+    {
+        "task_name": " VideoEspresso Interaction Analysis",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/videoespresso/all_video/CUVA/00166.mp4",
+        "question_id": 0,
+        "question": " How does the provided multi-image evidence characterize the interaction between individuals and fenced areas in this park? ",
+        "answer_number": 2,
+        "candidates": [
+            "A. The interaction with fenced areas emphasizes a sense of separation, portraying these zones as restricted and potentially reducing opportunities for engagement with the park's design.  ",
+            "B. The video evidence underlines limited interaction with fenced areas, suggesting they are overlooked by visitors and play a subtle role in shaping the park's usage.  ",
+            "C. The theme of engaging with fenced areas, like dogs or statues, highlights their intentional purpose in the park's design, encouraging activities or drawing attention to key features.  ",
+            "D. The video presents fenced areas as primarily decorative, with minimal emphasis on interaction, implying their function is more related to visual appeal than practical engagement."
+        ],
+        "answer": " The repeated theme of interaction with fenced areas, whether with a dog or examining objects like statues within fenced zones, demonstrates that these areas are integral to the park's design, encouraging engagement and perhaps delineating areas for activities or particular points of interest like statues and pet zones.",
+        "need_reasoning": false,
+        "category": "interaction_analysis"
+    }
+]

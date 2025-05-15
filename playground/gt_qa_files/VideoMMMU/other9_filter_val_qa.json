@@ -1,0 +1,156 @@
+[
+    {
+        "task_name": " VideoMMMU ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/VideoMMMU/videos/validation_Mechanical_Engineering_10.mp4",
+        "question_id": -1,
+        "question": "At 2:54, if we double the area A_1 of the first section while keeping all other parameters constant, how would this change affect the equivalent spring constant Keq?",
+        "answer_number": 4,
+        "candidates": [
+            "A. Decrease Keq",
+            "B. No change in Keq",
+            "C. Double Keq",
+            "D. Halve Keq",
+            "E. Increase Keq",
+            "F. Triple Keq",
+            "G. Reduce Keq by 1/3",
+            "H. Square Keq",
+            "I. Increase by A_1/A_2",
+            "J. No effect as springs are in series"
+        ],
+        "answer": "E. Increase Keq",
+        "category": "other",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " VideoMMMU ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/VideoMMMU/videos/validation_Mechanical_Engineering_11.mp4",
+        "question_id": -1,
+        "question": "At 5:17,If the applied load is increased to 6000N (instead of 5000N), calculate the modified stress amplitude (Se) in MPa, assuming all other factors remain constant.",
+        "answer_number": 8,
+        "candidates": [
+            "A. 275",
+            "B. 300",
+            "C. 350",
+            "D. 325",
+            "E. 290",
+            "F. 315",
+            "G. 365",
+            "H. 340",
+            "I. 330",
+            "J. 285"
+        ],
+        "answer": "I. 330",
+        "category": "other",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " VideoMMMU ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/VideoMMMU/videos/validation_Mechanical_Engineering_12.mp4",
+        "question_id": -1,
+        "question": "If the height of the lower section is doubled while maintaining the same total width, calculate the new total height of the object in units.",
+        "answer_number": 2,
+        "candidates": [
+            "A. 35",
+            "B. 39",
+            "C. 37",
+            "D. 33",
+            "E. 41",
+            "F. 32",
+            "G. 36",
+            "H. 34",
+            "I. 38",
+            "J. 40"
+        ],
+        "answer": "C. 37",
+        "category": "other",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " VideoMMMU ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/VideoMMMU/videos/validation_Mechanical_Engineering_13.mp4",
+        "question_id": -1,
+        "question": "If the total height is reduced by 10 units while maintaining the same proportions, calculate the new height of the lower portion in units.",
+        "answer_number": 2,
+        "candidates": [
+            "A. 25",
+            "B. 15",
+            "C. 20",
+            "D. 30",
+            "E. 22.5",
+            "F. 17.5",
+            "G. 27.5",
+            "H. 12.5",
+            "I. 32.5",
+            "J. 35"
+        ],
+        "answer": "C. 20",
+        "category": "other",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " VideoMMMU ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/VideoMMMU/videos/validation_Mechanical_Engineering_15.mp4",
+        "question_id": -1,
+        "question": "If the width of horizontal section is increased by 5 units while maintaining the same heights, calculate the total width of the front view in units.",
+        "answer_number": 3,
+        "candidates": [
+            "A. 90",
+            "B. 75",
+            "C. 85",
+            "D. 80",
+            "E. 95",
+            "F. 70",
+            "G. 65",
+            "H. 100",
+            "I. 60",
+            "J. 55"
+        ],
+        "answer": "D. 80",
+        "category": "other",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " VideoMMMU ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/VideoMMMU/videos/validation_Mechanical_Engineering_16.mp4",
+        "question_id": -1,
+        "question": "At 5:02, if the mass of the block is increased to 4kg (instead of 2kg), calculate the maximum speed (in m/s) the block will reach during its fall before hitting the spring.",
+        "answer_number": 8,
+        "candidates": [
+            "A. 7.00",
+            "B. 8.85",
+            "C. 10.95",
+            "D. 11.20",
+            "E. 8.50",
+            "F. 9.25",
+            "G. 10.50",
+            "H. 7.85",
+            "I. 9.90",
+            "J. 8.20"
+        ],
+        "answer": "I. 9.90",
+        "category": "other",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " VideoMMMU ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/VideoMMMU/videos/validation_Mechanical_Engineering_18.mp4",
+        "question_id": -1,
+        "question": "If the plate mass is increased to 30 kg while maintaining the same dimensions, calculate the initial moment about point A in N\\cdotm.",
+        "answer_number": 8,
+        "candidates": [
+            "A. 68.42",
+            "B. 78.95",
+            "C. 62.84",
+            "D. 85.26",
+            "E. 70.15",
+            "F. 81.73",
+            "G. 66.90",
+            "H. 75.32",
+            "I. 73.58",
+            "J. 88.47"
+        ],
+        "answer": "I. 73.58",
+        "category": "other",
+        "need_reasoning": false
+    }
+]

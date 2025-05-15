@@ -1,0 +1,370 @@
+[
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/ebzbKa32kuk.mp4",
+        "question_id": 0,
+        "question": "Which of the following best describes the purpose of the content shown in the video?",
+        "answer_number": 0,
+        "candidates": [
+            "A. For medical education.",
+            "B. For psychological prevention and treatment.",
+            "C. For diagnosis of special cases.",
+            "D. To guide home exercise programmes."
+        ],
+        "answer": "A. For medical education.",
+        "category": "tool_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/TVkck1ACKDQ.mp4",
+        "question_id": 0,
+        "question": "What is the purpose of the video?",
+        "answer_number": 1,
+        "candidates": [
+            "A. Promotion for a hospital.",
+            "B. Admissions brochure for a school.",
+            "C. Introduction of a newly established medical laboratory.",
+            "D. Introduction of excellent characters."
+        ],
+        "answer": "B. Admissions brochure for a school.",
+        "category": "tool_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/JbDRs0ja3PE.mp4",
+        "question_id": 0,
+        "question": "What is the purpose of the video?",
+        "answer_number": 1,
+        "candidates": [
+            "A. To warn about environmental issues.",
+            "B. To offer health-related advice.",
+            "C. To provide a weather update.",
+            "D. To advertise a new movie."
+        ],
+        "answer": "B. To offer health-related advice.",
+        "category": "tool_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/39HTpUG1MwQ.mp4",
+        "question_id": 0,
+        "question": "Based on the video, what is the main function of the organelle featured in the footage?",
+        "answer_number": 1,
+        "candidates": [
+            "A. Protein synthesis.",
+            "B. Energy production.",
+            "C. Photosynthesis.",
+            "D. Lipid metabolism."
+        ],
+        "answer": "B. Energy production.",
+        "category": "tool_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/Gh_GtYtQoVI.mp4",
+        "question_id": 0,
+        "question": "What is the function of the stopwatch in the upper right corner of the video?",
+        "answer_number": 1,
+        "candidates": [
+            "A. To indicate the total duration of this video.",
+            "B. The video author made the annotations in order to explain clearly what finance is within one minute.",
+            "C. To display the current time when the narrator is sharing financial knowledge.",
+            "D. It is a countdown timer."
+        ],
+        "answer": "B. The video author made the annotations in order to explain clearly what finance is within one minute.",
+        "category": "tool_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/eICN548E2TU.mp4",
+        "question_id": 0,
+        "question": "What is the purpose of the performers sitting down?",
+        "answer_number": 0,
+        "candidates": [
+            "A. To drink tea.",
+            "B. To eat hot pot.",
+            "C. To drink beer.",
+            "D. Because Standing is not allowed here."
+        ],
+        "answer": "A. To drink tea.",
+        "category": "tool_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/1q-5IIyZL20.mp4",
+        "question_id": 0,
+        "question": "What is the function of the black plastic bag shown in the video?",
+        "answer_number": 3,
+        "candidates": [
+            "A. To store the dog's treats for later.",
+            "B. To carry the dog's toys during walks.",
+            "C. To collect water for the dog to drink.",
+            "D. To catch the dog's poo."
+        ],
+        "answer": "D. To catch the dog's poo.",
+        "category": "tool_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/ufZMrlZRn8o.mp4",
+        "question_id": 0,
+        "question": "What is the function of the scissors that are used in the video?",
+        "answer_number": 0,
+        "candidates": [
+            "A. Making the paper look more like a heart.",
+            "B. Destroying the paper.",
+            "C. Cutting the paper into pieces.",
+            "D. None of the above."
+        ],
+        "answer": "A. Making the paper look more like a heart.",
+        "category": "tool_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/B_OL2TSrpKM.mp4",
+        "question_id": 0,
+        "question": "What is the intended use or function of the needle used in the video?",
+        "answer_number": 3,
+        "candidates": [
+            "A. To damage its functionality of the stick.",
+            "B. To sculpture a word on the stick.",
+            "C. To create loops and stitches on the stick.",
+            "D. To drill a keyring hole on the popsicle stick."
+        ],
+        "answer": "D. To drill a keyring hole on the popsicle stick.",
+        "category": "tool_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/iPi-QNYgAa4.mp4",
+        "question_id": 0,
+        "question": "What is the exact order in which the video presents the following events?\n(a) Application of respiratory cells to cardiovascular cure therapy.\n(b) The use of nanorobots in cancer treatment.\n(c) Nanorobots for haemostasis.",
+        "answer_number": 0,
+        "candidates": [
+            "A. (b)(a)(c).",
+            "B. (a)(b)(c).",
+            "C. (b)(c)(a).",
+            "D. (c)(a)(b)."
+        ],
+        "answer": "A. (b)(a)(c).",
+        "category": "tool_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/qFUuUzZNznY.mp4",
+        "question_id": 0,
+        "question": "According to the video, in which tier of hotels do major brands like Marriott and Hyatt still predominantly own and operate the properties?",
+        "answer_number": 3,
+        "candidates": [
+            "A. Economy.",
+            "B. Midscale.",
+            "C. Upscale.",
+            "D. Luxury."
+        ],
+        "answer": "D. Luxury.",
+        "category": "tool_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/phM_SYH6aA0.mp4",
+        "question_id": 0,
+        "question": "What is the function of the phone display at the end of this video?",
+        "answer_number": 3,
+        "candidates": [
+            "A. Leading the user to download and install the application.",
+            "B. Showing the services available on the website.",
+            "C. Displaying the advertisements inserted on the web page to advertise the products.",
+            "D. Guiding users to log in to the website and complete the settings."
+        ],
+        "answer": "D. Guiding users to log in to the website and complete the settings.",
+        "category": "tool_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/us78iBEMihk.mp4",
+        "question_id": 0,
+        "question": "What is the function of the red bucket shown in the video?",
+        "answer_number": 2,
+        "candidates": [
+            "A. To contain the water for irrigation.",
+            "B. To store gardening tools and equipment.",
+            "C. To accommodate the shoveled soil when digging a hole.",
+            "D. Can not be deduced."
+        ],
+        "answer": "C. To accommodate the shoveled soil when digging a hole.",
+        "category": "tool_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/QI9VIulqTCA.mp4",
+        "question_id": 0,
+        "question": "What is the purpose of the ship coming here?",
+        "answer_number": 3,
+        "candidates": [
+            "A. Finding someone lost.",
+            "B. Having a sightseeing.",
+            "C. Making friends with iceberg.",
+            "D. Capturing killer whales."
+        ],
+        "answer": "D. Capturing killer whales.",
+        "category": "tool_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/WO86oRJt8lM.mp4",
+        "question_id": 0,
+        "question": "What is the likely purpose of the scene being performed?",
+        "answer_number": 1,
+        "candidates": [
+            "A. Provide comedic entertainment for the after-dinner amusement of the audience.",
+            "B. Demonstrate the storytelling and creative elements of theatre.",
+            "C. Recreates historical scenes and remembers history with the audience.",
+            "D. Cannot be inferred from the video."
+        ],
+        "answer": "B. Demonstrate the storytelling and creative elements of theatre.",
+        "category": "tool_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/F4v0BZtrSbY.mp4",
+        "question_id": 0,
+        "question": "What is the function of the bike on the stage?",
+        "answer_number": 3,
+        "candidates": [
+            "A. It serves as a tool for magic.",
+            "B. It helps the magician leave the stage quickly.",
+            "C. It is a sponsored advertisement.",
+            "D. It is just for stage background."
+        ],
+        "answer": "D. It is just for stage background.",
+        "category": "tool_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/dy8AvyRlXpQ.mp4",
+        "question_id": 0,
+        "question": "What is the function of the actor hanging on the left swing?",
+        "answer_number": 1,
+        "candidates": [
+            "A. The actor hanging on the left swing is responsible for swinging higher than the performer on the right swing.",
+            "B. The actor hanging on the left swing is there to catch the performer who jumps out of the right swing.",
+            "C. The actor hanging on the left swing is there to distract the audience with his acrobatic tricks.",
+            "D. The actor hanging on the left swing is there to balance the weight distribution of the swings."
+        ],
+        "answer": "B. The actor hanging on the left swing is there to catch the performer who jumps out of the right swing.",
+        "category": "tool_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/pQIGOTs6XWg.mp4",
+        "question_id": 0,
+        "question": "What is the purpose of the high table placed at the back of the classroom in the video?",
+        "answer_number": 3,
+        "candidates": [
+            "A. Used to display trophies won by the class.",
+            "B. Used to place mobile phones handed in by classmates.",
+            "C. Used to hold snacks and refreshments for the students.",
+            "D. Used as a designated area for students to doze off to stand."
+        ],
+        "answer": "D. Used as a designated area for students to doze off to stand.",
+        "category": "tool_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/W-Q9AOp2FW8.mp4",
+        "question_id": 0,
+        "question": "What was the primary purpose of the gathering in Boca Raton, Florida in 1994, highlighted at the beginning of the video?",
+        "answer_number": 1,
+        "candidates": [
+            "A. To explore strategic mergers and acquisitions for expanding market share and diversifying investment portfolios.",
+            "B. To brainstorm innovative financial products aimed at reducing risk for financial institutions.",
+            "C. To discuss and implement strategies for exploiting loopholes in existing financial regulations.",
+            "D. To investigate international investment opportunities and optimize tax strategies within the bounds of legal compliance."
+        ],
+        "answer": "B. To brainstorm innovative financial products aimed at reducing risk for financial institutions.",
+        "category": "tool_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/lMxFbRc3Luk.mp4",
+        "question_id": 0,
+        "question": "In line with the video evidence, what is the function of the necklace that the girl stole from the museum?",
+        "answer_number": 3,
+        "candidates": [
+            "A. Generate fire.",
+            "B. Make people invisible.",
+            "C. Generate electricity.",
+            "D. Seize superpowers from others."
+        ],
+        "answer": "D. Seize superpowers from others.",
+        "category": "tool_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/HKbJtgUrHGk.mp4",
+        "question_id": 0,
+        "question": "What is the function of the whiteboard?",
+        "answer_number": 1,
+        "candidates": [
+            "A. It is used for presentations.",
+            "B. It serves as a scoreboard.",
+            "C. It is used for teaching.",
+            "D. It serves as a billboard."
+        ],
+        "answer": "B. It serves as a scoreboard.",
+        "category": "tool_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/XDq08lk5GnQ.mp4",
+        "question_id": 0,
+        "question": "What is the purpose of the mirrors in the last magic?",
+        "answer_number": 1,
+        "candidates": [
+            "A. To create an optical illusion that makes it appear as though the magician is in two places at once.",
+            "B. To prevent the audience from seeing the magician's escape route.",
+            "C. To enhance the visual aesthetics of the performance and create a mesmerizing atmosphere for the audience.",
+            "D. To serve as a symbolic representation of the magician's ability to manipulate reality and bend the laws of physics."
+        ],
+        "answer": "B. To prevent the audience from seeing the magician's escape route.",
+        "category": "tool_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/25Pt1AZO9EM.mp4",
+        "question_id": 0,
+        "question": "What is the purpose of the man in the video processing the blue plastic barrel?",
+        "answer_number": 3,
+        "candidates": [
+            "A. Processing the blue plastic barrel into troughs for feeding cattle.",
+            "B. Processing the blue plastic barrel into troughs for feeding ducks.",
+            "C. Processing the blue plastic barrel into troughs for feeding chicken.",
+            "D. Processing the blue plastic barrel into troughs for feeding pigs."
+        ],
+        "answer": "D. Processing the blue plastic barrel into troughs for feeding pigs.",
+        "category": "tool_analysis",
+        "need_reasoning": false
+    }
+]

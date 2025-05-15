@@ -1,0 +1,1056 @@
+[
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/04c51dba-1dcb-4b8f-a62c-efc363561d7b.mp4",
+        "question_id": "00011",
+        "question": "Out of all the actions that took place, identify the most significant one related to food preparation and explain its importance in the context of the video.",
+        "answer_number": "4",
+        "candidates": [
+            "A. C picking up the spoon from the pot lid.",
+            "B. C scraping food off the lid.",
+            "C. C placing the spoon on the white chopping board.",
+            "D. C eating remnants of food from the pot lid.",
+            "E. C stirring the food in the pot."
+        ],
+        "answer": "E. C stirring the food in the pot.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/0725f410-3cf9-4f24-98ac-6610d1038ab1.mp4",
+        "question_id": "00018",
+        "question": "Identify the critical steps taken by c to organize and prepare the engine oil for use on the lawn mower, and highlight the importance of these actions in the overall video narrative.",
+        "answer_number": "1",
+        "candidates": [
+            "A. The critical steps taken by c to organize and prepare the engine oil for use on the lawn mower were adjusting the torch light and hanging it on the rail.",
+            "B. The critical steps taken by c to organize and prepare the engine oil for use on the lawn mower were opening the carton of engine oil and picking containers of engine oil from the carton.",
+            "C. The critical steps diligently taken by c to efficiently organize and prepare the engine oil for optimal use on the lawn mower involved skillfully using the wrench on the lawn mower and subsequently removing the wrench from the lawn mower.",
+            "D. The crucial steps executed by c to systematically organize and prepare the engine oil specifically for use on the lawn mower included walking into a designated store room and effortlessly carrying a carton of the essential engine oil.",
+            "E. The vital critical steps carefully taken by c to effectively organize and efficiently prepare the engine oil for optimal use on the lawn mower included diligently dropping the carton of engine oil on the lawn mower and thoroughly cleaning the floor."
+        ],
+        "answer": "B. The critical steps taken by c to organize and prepare the engine oil for use on the lawn mower were opening the carton of engine oil and picking containers of engine oil from the carton.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/0750fa27-b049-4ded-9dd1-d495ffe23e75.mp4",
+        "question_id": "00019",
+        "question": "Identify the three key phases of c's actions in the video and explain the significance of each phase.",
+        "answer_number": "0",
+        "candidates": [
+            "A. The three key phases of c's actions in the video are preparation, assembly, and cleaning.",
+            "B. In the video, the three crucial key phases of c's actions consist of thorough preparation, careful disassembly, and meticulous cleaning.",
+            "C. In the video, the three key crucial phases of c's actions notably include assembly, disassembly, and thorough cleaning.",
+            "D. The three key phases of c's actions in the video are preparation, testing, and cleaning.",
+            "E. In the video, the three crucial key phases of c's actions consist of assembly, meticulous testing, and thorough cleaning."
+        ],
+        "answer": "A. The three key phases of c's actions in the video are preparation, assembly, and cleaning.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/07a9d3ee-6d81-4bb4-ba24-f8555f8b1929.mp4",
+        "question_id": "00020",
+        "question": "What was the primary tool used by c in the video, and how did c utilize this tool in order to create a desired outcome?",
+        "answer_number": "0",
+        "candidates": [
+            "A. The primary tool used by c in the video is a rake.",
+            "B. The primary tool used by c in the video is a shovel.",
+            "C. In the video, the primary tool prominently utilized by character c is a gardening instrument known as a hoe.",
+            "D. In the video, the primary tool predominantly utilized by c is, interestingly, a pickaxe.",
+            "E. In the video, the primary tool utilized by individual c is indeed a wheelbarrow for transporting materials."
+        ],
+        "answer": "A. The primary tool used by c in the video is a rake.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/0f75f8eb-e104-4221-b4fc-8426367d2b63.mp4",
+        "question_id": "00039",
+        "question": "From the sequence of events, identify the most crucial moments in the video that indicate a shift in focus or a progression in the task being performed.",
+        "answer_number": "0",
+        "candidates": [
+            "A. The most crucial moments in the video are when c collects potatoes from the bag, when the man washes the potatoes, and when c throws the potatoes into the sink.",
+            "B. The most crucial moments in the video are when c and the man interact.",
+            "C. The most crucial moments depicted in the video involve when character c and the man diligently clean up after cooking the potatoes together.",
+            "D. The highly significant, most crucial moments in the video occur when both person c and the man partake in devouring the potatoes.",
+            "E. In the video, the most crucial moments to observe are when both person c and the unidentified man carefully store the potatoes."
+        ],
+        "answer": "A. The most crucial moments in the video are when c collects potatoes from the bag, when the man washes the potatoes, and when c throws the potatoes into the sink.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/0f9d1d44-8a15-4135-a77e-d64064afc1e4.mp4",
+        "question_id": "00040",
+        "question": "Identify the two most important moments in the video that are critical to achieving the key objective, and provide a brief rationale for why you chose them. remember to compress the information and avoid simply listing actions.",
+        "answer_number": "4",
+        "candidates": [
+            "A. The two most important moments in the video are when c mixes soil in a basin and when c puts the plant in the basin. these are the two actions that are directly related to repotting the plant.",
+            "B. The two most important moments in the video are when c closes a window and when c opens a window. these are the two actions that are directly related to adjusting the temperature of the room.",
+            "C. The two most important moments in the video are when c puts on a sweater and when c closes a door. these are the two actions that are directly related to getting warm.",
+            "D. The two most important moments in the video are when c walks towards a laptop and when c opens a laptop. these are the two actions that are directly related to checking the weather forecast.",
+            "E. The two most important moments in the video are when c picks up the plant and when c puts the plant in the tin. these are the two actions that are directly related to watering the plant."
+        ],
+        "answer": "E. The two most important moments in the video are when c picks up the plant and when c puts the plant in the tin. these are the two actions that are directly related to watering the plant.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/101628a9-37be-4555-99c0-589ced677ee6.mp4",
+        "question_id": "00042",
+        "question": "In what sequence did the person interact with a variety of necessary tools and materials to complete the primary objective, and how were those steps related to one another?",
+        "answer_number": "0",
+        "candidates": [
+            "A. The person in the video first used the glue machine to apply glue to the black paper. next, they used the needle and thread to stitch the black paper to the white paper. finally, they folded the paper and trimmed it to create a finished craft.",
+            "B. In the video, the person initially utilized the needle and thread to precisely stitch the black paper to the white one. subsequently, they employed the glue machine for applying adhesive to the black paper surface. eventually, they skillfully folded the paper and neatly trimmed the edges, resulting in a completed craft.",
+            "C. In the video, the person initially used the scissors skillfully to cut the black paper. afterwards, they applied glue to the black paper using the glue machine. in the end, they carefully folded and trimmed the paper, resulting in a beautifully finished craft.",
+            "D. The person in the video first used the scissors to cut the white paper. next, they used the glue machine to apply glue to the white paper. finally, they folded the paper and trimmed it to create a finished craft.",
+            "E. In the video, the person initially used the scissors to accurately cut both the black paper and the white paper. subsequently, they skillfully used the glue machine to apply adhesive to the black paper. in the end, they neatly folded the paper and precisely trimmed it, resulting in a polished, finished craft."
+        ],
+        "answer": "A. The person in the video first used the glue machine to apply glue to the black paper. next, they used the needle and thread to stitch the black paper to the white paper. finally, they folded the paper and trimmed it to create a finished craft.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/1bf1fdea-6f44-4d3a-b5c0-6852aaada71b.mp4",
+        "question_id": "00057",
+        "question": "From the video, identify the key turning points or crucial moments and explain why you think these events are the most important.",
+        "answer_number": "2",
+        "candidates": [
+            "A. The key turning points or crucial moments in the video are when c walks, jogs, and kicks the ball.",
+            "B. The key turning points or crucial moments in the video are when c walks, sits, and stands.",
+            "C. The key turning points or crucial moments in the video are when c tackles the ball.",
+            "D. The key turning points or crucial moments in the video are when c walks, puts his hands on his knees, and lifts his hands.",
+            "E. The key turning points or crucial moments in the video are when c walks, adjusts the camera, and gestures with his hands."
+        ],
+        "answer": "C. The key turning points or crucial moments in the video are when c tackles the ball.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/22a479e6-4054-4520-89a7-c7d068eadbe3.mp4",
+        "question_id": "00074",
+        "question": "Identify the two main activities c engages in throughout the video and explain how he shifts focus between them.",
+        "answer_number": "4",
+        "candidates": [
+            "A. C's main activities are eating and operating a laptop.",
+            "B. C's main activities are watching a movie and operating a laptop.",
+            "C. C's main activities are eating, watching a movie, and operating a laptop.",
+            "D. C's main activity is eating.",
+            "E. C's main activities are eating and watching a movie."
+        ],
+        "answer": "E. C's main activities are eating and watching a movie.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/2487a677-28a5-4767-a03b-f34e3f7ba151.mp4",
+        "question_id": "00079",
+        "question": "In the video, describe and analyze the primary objects the person is using to wash various types of plates. what are their purposes, and how are they used differently depending on plate material or a specific task?",
+        "answer_number": "2",
+        "candidates": [
+            "A. The person uses a sponge scourer, a steel scourer, and a dishwashing liquid to wash the plates. the sponge scourer is used to remove dirt and grime from the plates, while the steel scourer is used to remove tough stains. the dishwashing liquid is used to create suds, which help to loosen dirt and grime.",
+            "B. The person uses a sponge scourer, a steel scourer, and a dishwasher to wash the plates. the sponge scourer is used to remove dirt and grime from the plates, while the steel scourer is used to remove tough stains. the dishwasher is used to rinse the plates and to dry them.",
+            "C. The person uses a sponge scourer, a steel scourer, and a tap to wash the plates. the sponge scourer is used to remove dirt and grime from the plates, while the steel scourer is used to remove tough stains. the tap is used to rinse the plates and to apply soap.",
+            "D. The person uses a sponge scourer, a steel scourer, and a sink to wash the plates. the sponge scourer is used to remove dirt and grime from the plates, while the steel scourer is used to remove tough stains. the sink is used to rinse the plates and to drain them.",
+            "E. The person uses a sponge scourer, a steel scourer, and a bucket to wash the plates. the sponge scourer is used to remove dirt and grime from the plates, while the steel scourer is used to remove tough stains. the bucket is used to rinse the plates and to soak them."
+        ],
+        "answer": "C. The person uses a sponge scourer, a steel scourer, and a tap to wash the plates. the sponge scourer is used to remove dirt and grime from the plates, while the steel scourer is used to remove tough stains. the tap is used to rinse the plates and to apply soap.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/263666b2-3229-429a-b5a7-defc6433dc29.mp4",
+        "question_id": "00083",
+        "question": "Summarize the primary technique used by c to create and refine the flower pot. how did c utilize the tools and materials available to her?",
+        "answer_number": "1",
+        "candidates": [
+            "A. C uses a hammer and chisel to shape the flower pot.",
+            "B. C uses her hands to smoothen the flower pot and to add more clay to it. she also uses a cup of water to keep her hands wet.",
+            "C. Skillfully, c uses a pottery wheel to carefully shape the beautiful flower pot with ease.",
+            "D. Carefully, c employs a mold to accurately shape the flower pot's design.",
+            "E. Creatively, c employs her hands to skillfully shape the flower pot, and subsequently utilizes a kiln to thoroughly bake it."
+        ],
+        "answer": "B. C uses her hands to smoothen the flower pot and to add more clay to it. she also uses a cup of water to keep her hands wet.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/2f192c07-9e89-40d6-bc8c-418e92563bd9.mp4",
+        "question_id": "00096",
+        "question": "In this video, identify the recurring three-step process that c executes multiple times and explain its significance or purpose in the overall video context.",
+        "answer_number": "2",
+        "candidates": [
+            "A. C cuts the cotton wool, drops it on the floor, and then picks it up with her hand.",
+            "B. C cuts the cotton wool, drops it in a bag, and then pulls it out with her hand.",
+            "C. C cuts the cotton wool, drops it on her lap, and then pulls it with her hand.",
+            "D. C cuts the cotton wool, drops it in a box, and then pulls it out with her hand.",
+            "E. C cuts the cotton wool, drops it in a drawer, and then pulls it out with her hand."
+        ],
+        "answer": "C. C cuts the cotton wool, drops it on her lap, and then pulls it with her hand.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/358bdb29-d3e8-4af7-99e8-4d81da2d77b1.mp4",
+        "question_id": "00111",
+        "question": "Based on the character's actions, what are two key tools or objects they utilized to accomplish their goal, and why are these tools significant?",
+        "answer_number": "0",
+        "candidates": [
+            "A. The two key tools or objects that the character utilized to accomplish their goal are the marker and the table saw.",
+            "B. The two key tools or objects that the character utilized to accomplish their goal are the wood plank and the box.",
+            "C. The two key tools or objects that the character utilized to accomplish their goal are the engineer square and the pencil.",
+            "D. The two key tools or objects that the character utilized to accomplish their goal are the left hand and the right hand.",
+            "E. The two key tools or objects that the character utilized to accomplish their goal are the floor and the table."
+        ],
+        "answer": "A. The two key tools or objects that the character utilized to accomplish their goal are the marker and the table saw.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/39aade26-1db8-4d3f-965e-841d5dc9981a.mp4",
+        "question_id": "00118",
+        "question": "Assess the importance of the tools used by c in the video and explain how they contributed to achieving the overall purpose of the tasks performed.",
+        "answer_number": "0",
+        "candidates": [
+            "A. The tools used by c in the video were essential for achieving his goal.",
+            "B. The tools used by c in the video were not essential for achieving his goal.",
+            "C. The tools used by c in the video were helpful but not essential for achieving his goal.",
+            "D. The tools used by c in the video were unnecessary for achieving his goal.",
+            "E. The tools used by c in the video were harmful for achieving his goal."
+        ],
+        "answer": "A. The tools used by c in the video were essential for achieving his goal.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/425f2fb4-a2a7-4925-94b5-25f6b0b85f78.mp4",
+        "question_id": "00132",
+        "question": "Identify the key steps that c consistently repeats, and infer the potential purpose behind these actions.",
+        "answer_number": "4",
+        "candidates": [
+            "A. C consistently picks up a block, shakes it, and then throws it on the ground.",
+            "B. C consistently picks up a block, moves it around, and then throws it on the ground.",
+            "C. C consistently picks up a block, touches it, and then throws it on the ground.",
+            "D. C consistently picks up a block, wraps it around his waist, and then throws it on the ground.",
+            "E. C consistently picks up a block, throws it on the ground, and then picks up another block."
+        ],
+        "answer": "E. C consistently picks up a block, throws it on the ground, and then picks up another block.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/57420efd-6d84-462f-b03d-f45133760d79.mp4",
+        "question_id": "00175",
+        "question": "Identify the key recurring steps c uses when cleaning various objects in the video. can you summarize these steps into a general approach or strategy for cleaning?",
+        "answer_number": "4",
+        "candidates": [
+            "A. C's key recurring steps are washing, rinsing, and drying.",
+            "B. C's key recurring steps are rinsing, washing, and putting in the dishwasher.",
+            "C. C's key recurring steps are washing, rinsing, and putting in the oven.",
+            "D. C's key recurring steps are rinsing, washing, and putting in the freezer.",
+            "E. C's key recurring steps are rinsing, washing, and rinsing again."
+        ],
+        "answer": "E. C's key recurring steps are rinsing, washing, and rinsing again.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/594255d7-0253-467d-abf6-c1b83ed0ff62.mp4",
+        "question_id": "00179",
+        "question": "Identify the two main categories of activities c participates in throughout the video and, focusing on the most critical actions, briefly explain the goals of each category.",
+        "answer_number": "3",
+        "candidates": [
+            "A. The two main categories of activities c participates in are cleaning and repairing.",
+            "B. The two main categories of activities c participates in are decorating and vandalizing.",
+            "C. The two main categories of activities c participates in are moving around and checking on the seedlings.",
+            "D. The two main categories of activities c participates in are labeling mortars and using the phone.",
+            "E. The two main categories of activities c participates in are operating the phone and walking around."
+        ],
+        "answer": "D. The two main categories of activities c participates in are labeling mortars and using the phone.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/59dcde1d-f210-48fc-b888-5574d8962a2c.mp4",
+        "question_id": "00181",
+        "question": "Summarize the overall process demonstrated in the video and identify two materials used by c to stir the paint in the coconut shell.",
+        "answer_number": "0",
+        "candidates": [
+            "A. C stirs the paint in the coconut shell with a paint brush and a piece of wood.",
+            "B. Casually, c stirs the paint thoroughly inside the coconut shell, utilizing a repurposed bottle cover.",
+            "C. Carefully, c stirs the paint inside the coconut shell using his hands, mixing it well.",
+            "D. Enthusiastically, c stirs the paint carefully inside the coconut shell with a thin wooden stick.",
+            "E. C stirs the paint in the coconut shell with a spoon."
+        ],
+        "answer": "A. C stirs the paint in the coconut shell with a paint brush and a piece of wood.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/5b6b26d5-a6dd-459d-829c-98a3034f3741.mp4",
+        "question_id": "00183",
+        "question": "Identify and summarize the key steps c takes to prepare materials and tools before and during their work with the leaves. how do these steps contribute to the overall leaf-folding process?",
+        "answer_number": "0",
+        "candidates": [
+            "A. C prepares materials and tools by gathering leaves, scissors, and pins. he then folds the leaves and secures them with pins.",
+            "B. Carefully, c prepares materials and essential tools by diligently gathering leaves, scissors, and adhesive glue. he skillfully then folds the collected leaves and firmly secures them using the glue.",
+            "C. C prepares materials and tools by gathering leaves, scissors, and tape. he then folds the leaves and secures them with tape.",
+            "D. C diligently prepares materials and tools by carefully gathering leaves, scissors, and string. he then skillfully folds the leaves and expertly secures them with string.",
+            "E. In the process, c prepares essential materials and tools by diligently gathering leaves, scissors, and wire. next, he carefully folds the leaves and firmly secures them using the wire."
+        ],
+        "answer": "A. C prepares materials and tools by gathering leaves, scissors, and pins. he then folds the leaves and secures them with pins.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/6c8fe7a9-3917-4397-b73b-90d93371b008.mp4",
+        "question_id": "00213",
+        "question": "What were the primary steps c followed to attach the planks to the stair railing? consider summarizing the entire process, including the tools used and any changes in his approach.",
+        "answer_number": "4",
+        "candidates": [
+            "A. C drilled the plank on the stair railing with the drill driver, then placed the plank on the stair railing and drove in the wood screws with the hammer.",
+            "B. Carefully, c drilled the plank on the stair railing with the hammer, after that, c placed the plank on the stair railing meticulously and drove in the wood screws securely with the drill driver.",
+            "C. Carefully, c placed the wooden plank on the stair railing, then firmly drilled the plank onto the stair railing utilizing the drill driver, and finally drove in the wood screws using the hammer.",
+            "D. Carefully, c placed the sturdy plank on the stair railing, then firmly drilled the wooden plank onto the stair railing using the hammer, and finally drove in the wood screws with the dependable drill driver.",
+            "E. C drilled the plank on the stair railing with the drill driver, then placed the plank on the stair railing and drove in the wood screws with the drill driver."
+        ],
+        "answer": "E. C drilled the plank on the stair railing with the drill driver, then placed the plank on the stair railing and drove in the wood screws with the drill driver.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/6f42ba6a-cb2a-428f-bffb-7a15abd94727.mp4",
+        "question_id": "00219",
+        "question": "Identify the primary tools and ingredients c used throughout the video, and discuss how they contributed to the overall dessert preparation process.",
+        "answer_number": "0",
+        "candidates": [
+            "A. The primary tools and ingredients c used throughout the video were a spatula, a strainer, a dessert bowl, cocoa powder, and tissue paper. the spatula was used to spread the batter in the bowl. the strainer was used to sieve the cocoa powder into the bowl. the dessert bowl was used to hold the batter. the cocoa powder was used to add flavor and color to the batter. the tissue paper was used to wipe the edges of the bowl.",
+            "B. The primary tools and ingredients c used throughout the video were a mixing bowl, a whisk, a baking dish, flour, sugar, eggs, and butter. the mixing bowl was used to mix the batter. the whisk was used to beat the eggs. the baking dish was used to bake the cake. the flour was used to add structure to the cake. the sugar was used to add sweetness to the cake. the eggs were used to add moisture to the cake. the butter was used to add flavor and richness to the cake.",
+            "C. The primary tools and ingredients c used throughout the video were a muffin tin, a spoon, chocolate chips, flour, sugar, eggs, and butter. the muffin tin was used to bake the muffins. the spoon was used to scoop the batter into the muffin tin. the chocolate chips were used to add flavor and color to the muffins. the flour was used to add structure to the muffins. the sugar was used to add sweetness to the muffins. the eggs were used to add moisture to the muffins. the butter was used to add flavor and richness to the muffins.",
+            "D. The primary tools and ingredients c used throughout the video were a cake pan, a spatula, chocolate frosting, flour, sugar, eggs, and butter. the cake pan was used to bake the cake. the spatula was used to spread the frosting on the cake. the chocolate frosting was used to add flavor and color to the cake. the flour was used to add structure to the cake. the sugar was used to add sweetness to the cake. the eggs were used to add moisture to the cake. the butter was used to add flavor and richness to the cake.",
+            "E. The primary tools and ingredients c used throughout the video were a mixing bowl, a whisk, a baking sheet, flour, sugar, eggs, and butter. the mixing bowl was used to mix the batter. the whisk was used to beat the eggs. the baking sheet was used to bake the cookies. the flour was used to add structure to the cookies. the sugar was used to add sweetness to the cookies. the eggs were used to add moisture to the cookies. the butter was used to add flavor and richness to the cookies."
+        ],
+        "answer": "A. The primary tools and ingredients c used throughout the video were a spatula, a strainer, a dessert bowl, cocoa powder, and tissue paper. the spatula was used to spread the batter in the bowl. the strainer was used to sieve the cocoa powder into the bowl. the dessert bowl was used to hold the batter. the cocoa powder was used to add flavor and color to the batter. the tissue paper was used to wipe the edges of the bowl.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/71d00225-7ea5-46a0-8015-9b5a667f619a.mp4",
+        "question_id": "00223",
+        "question": "Analyze the video and identify the main components of the dish being prepared. what are the most significant ingredients and techniques used during the cooking process?",
+        "answer_number": "0",
+        "candidates": [
+            "A. The main components of the dish being prepared are eggs, garlic, oil, food, spices, and a pan. the most significant ingredients are eggs and garlic. the most significant techniques are stirring, pouring, and dicing.",
+            "B. The main components of the dish being prepared are milk, sugar, and chocolate. the most significant ingredients are milk and sugar. the most significant techniques are blending, pouring, and stirring.",
+            "C. The main components of the dish being prepared are lettuce, tomatoes, cucumbers, and onions. the most significant ingredients are lettuce and tomatoes. the most significant techniques are chopping, adding, and tossing.",
+            "D. The main components of the dish being prepared are bread, mayonnaise, cheese, lettuce, tomato, and ham. the most significant ingredients are bread and mayonnaise. the most significant techniques are spreading, adding, and putting together.",
+            "E. The main components of the dish being prepared are pizza crust, tomato sauce, cheese, pepperoni, sausage, and mushrooms. the most significant ingredients are pizza crust and tomato sauce. the most significant techniques are spreading, adding, and baking."
+        ],
+        "answer": "A. The main components of the dish being prepared are eggs, garlic, oil, food, spices, and a pan. the most significant ingredients are eggs and garlic. the most significant techniques are stirring, pouring, and dicing.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/7ad240de-34ab-4694-a6be-05a47e14793f.mp4",
+        "question_id": "00241",
+        "question": "How does c ensure that their paintbrush is clean and prepared for each painting action? identify the primary strategies they use throughout the video.",
+        "answer_number": "2",
+        "candidates": [
+            "A. C dips the paintbrush in paint, then rubs it on the table to remove excess paint.",
+            "B. Carefully, c dips the paintbrush into water, and then gently rubs it on the sketch to remove any excess paint present.",
+            "C. C dips the paintbrush in water, then rubs it on the table to remove excess paint.",
+            "D. Casually, c dips the fine paintbrush gently into the paint, then smoothly rubs it on the sketch to remove any excess paint effectively.",
+            "E. Curiously, c doesn't clean the paintbrush while transitioning between painting the sketch and the book."
+        ],
+        "answer": "C. C dips the paintbrush in water, then rubs it on the table to remove excess paint.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/811deb7d-78a8-4aed-8a7e-cb340ce8670d.mp4",
+        "question_id": "00248",
+        "question": "Identify the primary action performed by character c throughout the course of the video and explain how the auxiliary actions complement this activity.",
+        "answer_number": "3",
+        "candidates": [
+            "A. Character c washes the vegetables.",
+            "B. The character, named c, diligently peels the vegetables with care.",
+            "C. The character named c skillfully chops the various vegetables with ease.",
+            "D. Character c cuts the vegetables.",
+            "E. The character \"c\" skillfully prepares and cooks the nutritious vegetables."
+        ],
+        "answer": "D. Character c cuts the vegetables.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/86cb525a-d61c-46f1-9c5f-cc7284184900.mp4",
+        "question_id": "00261",
+        "question": "Identify the three main components of character c's task flow that were repeated multiple times during the video. how are these components interconnected and why are they crucial for the completion of his objective?",
+        "answer_number": "4",
+        "candidates": [
+            "A. The three main components of character c's task flow are cleaning the table, repairing the oven, and baking a cake.",
+            "B. The three main components of character c's task flow are gathering ingredients, preparing the dough, and making a pizza.",
+            "C. The three main components of character c's task flow are gathering ingredients, kneading the dough, and baking the bread.",
+            "D. The three main components of character c's task flow are gathering ingredients, shaping the dough, and baking the bread.",
+            "E. The three main components of character c's task flow are gathering ingredients, preparing the dough, and baking the bread."
+        ],
+        "answer": "E. The three main components of character c's task flow are gathering ingredients, preparing the dough, and baking the bread.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/8955952a-946c-4841-895f-1fe0e2f000fb.mp4",
+        "question_id": "00267",
+        "question": "Identify the most important parts of the video that demonstrate c's main objective and summarize them in one or two sentences.",
+        "answer_number": "0",
+        "candidates": [
+            "A. The most important parts of the video that demonstrate c's main objective are when he washes the meat, chops it into two halves, and puts it in two plastic bags in the fridge.",
+            "B. The most crucial and significant parts of the video, which effectively demonstrate c's primary objective, are the moments when he thoroughly washes the meat and skillfully chops it into two equal halves.",
+            "C. The most crucial parts of the video that effectively exhibit c's primary objective are when he diligently washes the meat and securely puts it in two separate plastic bags in the refrigerator.",
+            "D. The most important parts of the video that demonstrate c's main objective are when he chops the meat into two halves and puts it in two plastic bags in the fridge.",
+            "E. The most crucial and significant parts of the video that effectively demonstrate c's primary objective are when he thoroughly washes the meat, diligently chops it into two equal halves, and securely places it in the refrigerator."
+        ],
+        "answer": "A. The most important parts of the video that demonstrate c's main objective are when he washes the meat, chops it into two halves, and puts it in two plastic bags in the fridge.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/8b462af5-dd9e-49a8-ab0a-92e28b7d7dd4.mp4",
+        "question_id": "00268",
+        "question": "In the context of the video, identify the main objective that c is working towards and explain how their interaction with various objects helps achieve that goal. please compress the information and avoid listing each action.",
+        "answer_number": "0",
+        "candidates": [
+            "A. C is trying to set up a tent.",
+            "B. Currently, c is diligently attempting to repair a damaged, broken table.",
+            "C. Currently, c is actively attempting to construct a warm fire.",
+            "D. C is trying to cook a meal.",
+            "E. C is diligently attempting to clean up and organize the campsite area."
+        ],
+        "answer": "A. C is trying to set up a tent.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/8eed2026-9f16-4004-92dd-9a31eceefa32.mp4",
+        "question_id": "00278",
+        "question": "Identify the most significant sequences of actions in the video, highlighting their relevance to the character's main purpose. what conclusions can be drawn from these sequences?",
+        "answer_number": "1",
+        "candidates": [
+            "A. In the video, the most significant sequences of actions primarily occur when the character deliberately opens and subsequently closes the drawer.",
+            "B. The most significant sequences of actions in the video are when the character picks up a piece of clothing, folds it, and puts it away in the drawer.",
+            "C. In the video, the most significant sequences of actions involve the character strategically moving clothes around on the bed.",
+            "D. The most significant sequences of actions in the video are when the character picks up socks.",
+            "E. The most significant sequences of actions showcased in the video occur when the main character selects and picks up a jumper."
+        ],
+        "answer": "B. The most significant sequences of actions in the video are when the character picks up a piece of clothing, folds it, and puts it away in the drawer.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/901ae1fe-5be2-495b-9506-9ec2a28d8ae0.mp4",
+        "question_id": "00279",
+        "question": "Identify the primary theme present throughout the video, and provide key actions or scenes that support your assessment of this theme.",
+        "answer_number": "2",
+        "candidates": [
+            "A. The primary theme present throughout the video is anxiety. this is evident in the fact that c stares at her hand, touches her shoes, and looks around.",
+            "B. In the video, the primary theme consistently present throughout is nervousness. this is clearly evident due to the fact that character c repeatedly stares at her hand, fidgets with her shoes, and constantly looks around.",
+            "C. The primary theme present throughout the video is cleanliness. this is evident in the fact that c washes her hands multiple times, interacts with the man in a friendly way, and wipes her hands on a tissue paper.",
+            "D. The predominant primary theme present consistently throughout the entire video is friendliness. this aspect is clearly evident in the fact that character c interacts with the man in a genuinely friendly way.",
+            "E. The most noticeable primary theme present throughout the entire video is politeness. this aspect is clearly evident in the fact that character c courteously shakes the man's hand."
+        ],
+        "answer": "C. The primary theme present throughout the video is cleanliness. this is evident in the fact that c washes her hands multiple times, interacts with the man in a friendly way, and wipes her hands on a tissue paper.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/93b1de09-2f89-4b4b-94ac-9d2d94df3d66.mp4",
+        "question_id": "00285",
+        "question": "Based on the video, identify the primary responsibility of the person referred to as \"c\" and describe how their activities contribute to the overall scene.",
+        "answer_number": "3",
+        "candidates": [
+            "A. C is responsible for building the construction site.",
+            "B. The individual, c, is responsible for the crucial task of maintaining the construction site efficiently.",
+            "C. Person c is responsible for meticulously inspecting the construction site for safety and progress.",
+            "D. C is responsible for keeping the construction site clean and free of debris.",
+            "E. The individual, c, is duly responsible for meticulously repairing and maintaining the construction site."
+        ],
+        "answer": "D. C is responsible for keeping the construction site clean and free of debris.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/943374f4-4514-4e22-827b-7452b91e5559.mp4",
+        "question_id": "00287",
+        "question": "Identify the main purpose of c's adjustments in the video, and explain the importance of these adjustments in the context of the entire video.",
+        "answer_number": "2",
+        "candidates": [
+            "A. C's adjustments are specifically designed to generate a more complex pattern. she meticulously adjusts the position of her stitches, the diverse type of stitches she utilizes, and the order in which she effortlessly stitches them. these vital adjustments assist her in creating a more detailed, intricate pattern.",
+            "B. C's adjustments aim to create a more vibrant, colorful pattern. she modifies the yarn color choice, the sequence she uses the hues, and the technique for combining them. these adaptations help her achieve a more visually appealing colorful pattern.",
+            "C. C's adjustments are designed to maintain the tension in the yarn and to prevent her finger from becoming sore. she adjusts the position of her finger, the amount of pressure she applies, and the speed at which she crochets. these adjustments help her to crochet more efficiently and to avoid pain.",
+            "D. C's adjustments are designed to create a more textured pattern. she changes the type of yarn she is using, the way she stitches the yarn, and the way she combines the stitches. these adjustments help her to create a more textured pattern.",
+            "E. C's precise adjustments are intentionally designed to create a more symmetrical pattern. carefully, she modifies the position of her stitches, the specific type of stitches she employs, and the particular order in which she stitches them. these alterations greatly assist her in establishing a more symmetrical pattern."
+        ],
+        "answer": "C. C's adjustments are designed to maintain the tension in the yarn and to prevent her finger from becoming sore. she adjusts the position of her finger, the amount of pressure she applies, and the speed at which she crochets. these adjustments help her to crochet more efficiently and to avoid pain.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/9af82064-62c5-4373-a94a-6815c0b6b53a.mp4",
+        "question_id": "00304",
+        "question": "Identify the primary activity in the first part of the video (before c starts dealing with the knife) and compare it to the main activity in the second part of the video (after c starts dealing with the knife). what changes between these two parts regarding c's actions?",
+        "answer_number": "2",
+        "candidates": [
+            "A. C was sharpening a knife in the first part of the video, and then started walking around in the second part.",
+            "B. C was preparing a meal in the first part of the video, and then started cleaning up in the second part.",
+            "C. C was walking around in the first part of the video, and then started sharpening a knife in the second part.",
+            "D. C was working on a project in the first part of the video, and then took a break in the second part.",
+            "E. C was doing nothing in the first part of the video, and then started doing something in the second part."
+        ],
+        "answer": "C. C was walking around in the first part of the video, and then started sharpening a knife in the second part.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/9e50476f-2e77-46f3-8b06-f1005ee55974.mp4",
+        "question_id": "00309",
+        "question": "Identify the pattern of actions related to handling the box within the video. what can you infer about the importance of these specific actions throughout the process?",
+        "answer_number": "1",
+        "candidates": [
+            "A. C lifted the box, placed it on the table, and taped it shut.",
+            "B. C lifted the box, placed it on the ground, and taped it shut.",
+            "C. C lifted the box, placed it on the shelf, and taped it shut.",
+            "D. C lifted the box, placed it in the car, and taped it shut.",
+            "E. C lifted the box, placed it on the conveyor belt, and taped it shut."
+        ],
+        "answer": "B. C lifted the box, placed it on the ground, and taped it shut.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/a07ac4b3-d2b8-48cb-bdad-5ab8da3f77a6.mp4",
+        "question_id": "00313",
+        "question": "Analyze the character's behavior and actions after finishing the meal. identify the high-level transition in the video, and describe how this transition relates to the main theme.",
+        "answer_number": "2",
+        "candidates": [
+            "A. In the story, the character seamlessly transitions from eating a meal to comfortably resting afterward.",
+            "B. Eventually, the character smoothly transitions from eating their meal to diligently working on tasks.",
+            "C. The character transitions from eating to cleaning up.",
+            "D. Gradually, the character transitions smoothly from eating a meal to engaging in playful activities.",
+            "E. The character transitions from eating to sleeping."
+        ],
+        "answer": "C. The character transitions from eating to cleaning up.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/a6f20af7-21e8-4ee9-aa66-f23056ecab48.mp4",
+        "question_id": "00327",
+        "question": "Identify the primary task c was engaged in throughout the video, and how did their actions progress from start to finish?",
+        "answer_number": "1",
+        "candidates": [
+            "A. In the morning, c was diligently cleaning the entire kitchen area.",
+            "B. C was preparing a meal.",
+            "C. C was chopping vegetables.",
+            "D. In the cozy kitchen, c was energetically cooking potatoes with care.",
+            "E. In the kitchen, c was diligently making a fresh, delicious salad."
+        ],
+        "answer": "B. C was preparing a meal.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/abc71897-eb92-4236-a92b-ca2d0573aa45.mp4",
+        "question_id": "00338",
+        "question": "Provide a summary of the primary goal of the main character (c) in the video and identify the key events associated with the achievement of that goal.",
+        "answer_number": "2",
+        "candidates": [
+            "A. The main character's principal objective, their primary goal, is to construct and build a house for themselves.",
+            "B. Throughout the story, the main character's primary objective is to diligently fix a severely broken foundation.",
+            "C. The main character's primary goal is to build a foundation. the key events associated with the achievement of that goal are:",
+            "D. The primary objective of the main character is to create and complete a unique, artistic sculpture.",
+            "E. The main character's primary goal is to play with the cement."
+        ],
+        "answer": "C. The main character's primary goal is to build a foundation. the key events associated with the achievement of that goal are:",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/adfb2285-406f-4cbf-8a6c-52e7b222215d.mp4",
+        "question_id": "00341",
+        "question": "Describe the central goal of the video and explain how the two primary tools used help achieve this goal.",
+        "answer_number": "2",
+        "candidates": [
+            "A. The principal objective of this video is to demonstrate grinding an aluminum piece effectively. the two main tools employed are a grinder and a hammer, both essential. the grinder functions to remove material from the aluminum, while the hammer serves the purpose of shaping the aluminum.",
+            "B. The primary aim of the video revolves around cutting an aluminum piece. the two main tools utilized are a saw and a hammer. to cut the aluminum, the saw is employed, while the hammer effectively shapes the aluminum.",
+            "C. The central goal of the video is to weld an aluminum piece. the two primary tools used are a welding machine and a hammer. the welding machine is used to melt the aluminum, and the hammer is used to shape the molten aluminum.",
+            "D. The central objective of the video focuses on polishing an aluminum piece meticulously. the two main tools utilized include a precise polisher and a sturdy hammer. the polisher effectively removes scratches from the aluminum surface, and the hammer skillfully reshapes the aluminum piece.",
+            "E. The central goal of the video is to paint an aluminum piece. the two primary tools used are a paintbrush and a hammer. the paintbrush is used to apply paint to the aluminum, and the hammer is used to shape the aluminum."
+        ],
+        "answer": "C. The central goal of the video is to weld an aluminum piece. the two primary tools used are a welding machine and a hammer. the welding machine is used to melt the aluminum, and the hammer is used to shape the molten aluminum.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/b53ce673-003f-415f-a6f7-9057dc6a5b2c.mp4",
+        "question_id": "00354",
+        "question": "Identify the most critical moments in the video and explain how they are essential to the video's overarching narrative.",
+        "answer_number": "1",
+        "candidates": [
+            "A. In the video, the most critical moments occur when individual 'c' pauses to take a break and check their phone.",
+            "B. The most critical moments in the video are when c chops the broccoli, washes the chopping board, and stirs the food.",
+            "C. The most crucial moments captured in the video involve when character c walks deliberately towards the cabinet and subsequently opens the cabinet door.",
+            "D. The most critical moments in the video are when c opens the tap and picks the washing brush.",
+            "E. The most crucial moments featured in the video involve when c meticulously rinses the knife, then proceeds to carefully close the tap."
+        ],
+        "answer": "B. The most critical moments in the video are when c chops the broccoli, washes the chopping board, and stirs the food.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/b5865ae0-e176-4e82-a651-2507ee2d6930.mp4",
+        "question_id": "00356",
+        "question": "What were the primary tools used by c during the entire process of fixing the wheel bearing, and how did the usage of each tool change throughout the video?",
+        "answer_number": "0",
+        "candidates": [
+            "A. A screwdriver and a pliers.",
+            "B. A wrench and a hammer.",
+            "C. A screwdriver and a wrench.",
+            "D. A pliers and a hammer.",
+            "E. A screwdriver, a pliers, and a hammer."
+        ],
+        "answer": "A. A screwdriver and a pliers.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/b5d7c421-2b86-4ed0-b314-ce810c778c47.mp4",
+        "question_id": "00360",
+        "question": "Identify the main action performed by c throughout the video and provide a brief explanation of the pattern of behavior exhibited by c over time?",
+        "answer_number": "1",
+        "candidates": [
+            "A. Casually, c turns slightly towards the side direction.",
+            "B. C paints a board with a paint brush.",
+            "C. C holds paint brushes.",
+            "D. Casually, c takes a few leisurely steps forward, walking.",
+            "E. Casually, c glances over and examines the laptop screen closely."
+        ],
+        "answer": "B. C paints a board with a paint brush.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/b81bb7b2-a16d-4cdc-8326-f4019f3be544.mp4",
+        "question_id": "00368",
+        "question": "Identify the instances where c makes adjustments or changes while painting the wall. what significance do these actions have on the overall painting process?",
+        "answer_number": "0",
+        "candidates": [
+            "A. C makes two adjustments while painting the wall. first, he changes the brush he is using. second, he moves to a different part of the room. these adjustments allow him to continue painting efficiently and without making any mistakes.",
+            "B. C does not make any adjustments while painting the wall. he continues using the same brush and working in the same spot. this makes it difficult for him to paint the wall evenly and without making any mistakes.",
+            "C. C makes too many adjustments while painting the wall. he changes the brush he is using several times and moves to different parts of the room frequently. this makes it difficult for him to keep track of what he is doing and results in a lot of wasted time.",
+            "D. C makes the wrong adjustments while painting the wall. he changes the brush he is using to a smaller one, which makes it difficult for him to cover the wall evenly. he also moves to a part of the room that is already painted, which results in wasted paint.",
+            "E. C does not make any adjustments while painting the wall, but he should. the brush he is using is too small, and he is working in a part of the room that is already painted. these factors make it difficult for him to paint the wall evenly and without making any mistakes."
+        ],
+        "answer": "A. C makes two adjustments while painting the wall. first, he changes the brush he is using. second, he moves to a different part of the room. these adjustments allow him to continue painting efficiently and without making any mistakes.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/b92dec6a-00ce-4767-a899-3d0aebcf2141.mp4",
+        "question_id": "00370",
+        "question": "Identify the most critical steps in c's painting technique and discuss the importance of these steps in achieving the final artwork.",
+        "answer_number": "4",
+        "candidates": [
+            "A. The most critical steps in c's painting technique involve making expressive gestures in the air and gently touching her face. these specific steps aid her in staying concentrated and effectively visualizing the final desired product.",
+            "B. The most critical steps in c's painting technique are dropping the paintbrush on the ground and picking it up. these steps help her to experiment with different colors and techniques.",
+            "C. The most critical steps in c's painting technique involve carefully scooping paint from the pallet and skillfully painting the image on the canvas. these steps are absolutely the most essential to creating a visually stunning final product.",
+            "D. Among the most critical steps in c's painting technique are consistently alternating between the key actions. this approach helps her to create a smooth rhythm and fluid flow in her artwork.",
+            "E. The most critical steps in c's painting technique are scooping paint from the pallet, cleaning the tip of the paintbrush, and dipping the paintbrush in water. these steps ensure that the paintbrush is always in good condition and that the paint is applied evenly."
+        ],
+        "answer": "E. The most critical steps in c's painting technique are scooping paint from the pallet, cleaning the tip of the paintbrush, and dipping the paintbrush in water. these steps ensure that the paintbrush is always in good condition and that the paint is applied evenly.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/bbf66dab-376a-4c11-8528-22ca0c5b01c8.mp4",
+        "question_id": "00374",
+        "question": "Summarize the primary activity that c is involved in throughout the video and identify the tools that are being used.",
+        "answer_number": "0",
+        "candidates": [
+            "A. C is making a basket out of bamboo strips.",
+            "B. Currently, c is skillfully crafting a hat using strips made out of eco-friendly bamboo.",
+            "C. Currently, c is meticulously crafting a chair using strips of durable bamboo material.",
+            "D. C is making a table out of bamboo strips.",
+            "E. C is constructing a fence using bamboo strips as material, diligently working."
+        ],
+        "answer": "A. C is making a basket out of bamboo strips.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/bd389c94-28a0-4ef4-a8ee-9759291beb72.mp4",
+        "question_id": "00378",
+        "question": "Based on the sequence of events in the video, identify the most crucial steps in c's overall creative or functional objective and explain their importance.",
+        "answer_number": "1",
+        "candidates": [
+            "A. The most crucial steps in c's overall creative or functional objective are cutting the clay, shaping the clay, and cooking the clay.",
+            "B. The most crucial steps in c's overall creative or functional objective are rolling the clay, shaping the clay, and compressing the clay.",
+            "C. The most crucial steps in c's overall creative or functional objective are rolling the clay, shaping the clay, and building a house out of it.",
+            "D. The most crucial steps in c's overall creative or functional objective are rolling the clay, shaping the clay, and playing with it.",
+            "E. The most crucial steps in c's overall creative or functional objective are rolling the clay, shaping the clay, and wrapping it in a sack."
+        ],
+        "answer": "B. The most crucial steps in c's overall creative or functional objective are rolling the clay, shaping the clay, and compressing the clay.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/bd5c107d-3d17-418c-a315-9d6b85072aef.mp4",
+        "question_id": "00380",
+        "question": "Describe the main focus of the video, considering the different objects and materials that c works with throughout the video.",
+        "answer_number": "4",
+        "candidates": [
+            "A. Currently, c is diligently working on repairing a broken camera.",
+            "B. Currently, person c is meticulously disassembling a camera piece by piece.",
+            "C. Currently, c is diligently cleaning and maintaining a camera.",
+            "D. C is taking pictures with a camera.",
+            "E. C is building a model of a camera."
+        ],
+        "answer": "E. C is building a model of a camera.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/c83b4b7d-56e8-433b-b743-13a8a0b3211b.mp4",
+        "question_id": "00396",
+        "question": "Describe the relationships between the cardboard, transparent paper, and kraft paper in the video, and explain how c interacts with and works on these materials. focus on the main techniques used to manipulate these materials.",
+        "answer_number": "4",
+        "candidates": [
+            "A. The cardboard, transparent paper, and kraft paper are all used to create a model of a building. c interacts with these materials by cutting them, measuring them, and assembling them. he uses a variety of techniques to manipulate these materials, including using a ruler, a utility knife, and his hands.",
+            "B. The cardboard, transparent paper, and kraft paper are all utilized to create a unique piece of furniture. c skillfully interacts with these materials by accurately cutting them, measuring them, and diligently assembling them. he expertly uses a variety of techniques to manipulate these materials, including employing a ruler, a sharp utility knife, and his own hands.",
+            "C. The cardboard, transparent paper, and kraft paper are all utilized to create a unique piece of clothing. 'c' interacts with these materials by cutting them, measuring them, cautiously sewing them together. he employs a variety of techniques to manipulate these chosen materials, including using a ruler, a utility knife, and his skilled hands.",
+            "D. The cardboard, transparent paper, and kraft paper are all utilized collaboratively to create an exquisite piece of art. artist c interacts intimately with these diverse materials by skillfully painting them, drawing on them, and carefully gluing them together. he employs a variety of techniques to manipulate these elements, including using a paintbrush, a pencil, and his own hands.",
+            "E. The cardboard, transparent paper, and kraft paper are all used to create a template for a piece of art. the cardboard is used as the base, the transparent paper is used to create the design, and the kraft paper is used to protect the design from being damaged. c interacts with these materials by cutting them, measuring them, and organizing them. he uses a variety of techniques to manipulate these materials, including using a ruler, a utility knife, and his hands."
+        ],
+        "answer": "E. The cardboard, transparent paper, and kraft paper are all used to create a template for a piece of art. the cardboard is used as the base, the transparent paper is used to create the design, and the kraft paper is used to protect the design from being damaged. c interacts with these materials by cutting them, measuring them, and organizing them. he uses a variety of techniques to manipulate these materials, including using a ruler, a utility knife, and his hands.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/cca8ab2f-4e4b-40ef-80e7-d04c404895c1.mp4",
+        "question_id": "00400",
+        "question": "What are the primary tools used by the man and c during the video, and how do they utilize these tools to achieve a specific objective? analyze their skill levels and improvements during the process.",
+        "answer_number": "3",
+        "candidates": [
+            "A. The man and c are using a screwdriver, a wrench, and a hammer. the man is using the screwdriver to turn the screws, while c is using the wrench to turn the nuts. they are using the tools effectively, and the task is progressing smoothly.",
+            "B. The man and c are skillfully using a saw, a drill, and a hammer together. the man is carefully using the saw to cut the wood, while c is diligently using the drill to make holes in the wood. successfully, they are using the tools effectively, and the task is progressing quite smoothly.",
+            "C. The man and c are skillfully using a paintbrush, a roller, and a bucket for painting. the man is diligently using the paintbrush to paint the walls, while c is expertly using the roller to paint the ceiling. together, they are using the tools effectively, and the task is progressing impressively smoothly.",
+            "D. The man and c are using a hammer, a masonry chisel, and a tape measure. the man is using the hammer to drive the chisel into the wood, while c is using the tape measure to measure the distance between the pieces of wood. they are using the tools effectively, and the task is progressing smoothly.",
+            "E. The man and c are skillfully using a broom, a dustpan, and a vacuum cleaner together. the man is diligently using the broom to sweep the floor, while c is efficiently using the dustpan to collect the dirt. they are using the cleaning tools effectively, and the task is progressing quite smoothly."
+        ],
+        "answer": "D. The man and c are using a hammer, a masonry chisel, and a tape measure. the man is using the hammer to drive the chisel into the wood, while c is using the tape measure to measure the distance between the pieces of wood. they are using the tools effectively, and the task is progressing smoothly.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/cd882b7a-0766-4582-8388-3990b009b11b.mp4",
+        "question_id": "00405",
+        "question": "Describe the different materials and tools c utilized to achieve the main action of the video, and explain the role of each in the process without listing individual actions.",
+        "answer_number": "2",
+        "candidates": [
+            "A. C used a knife, sandpaper, and a pair of gloves.",
+            "B. C used a knife, sandpaper, and a piece of paper.",
+            "C. C used a knife, sandpaper, scissors, and a towel.",
+            "D. C used a knife, sandpaper, and a table.",
+            "E. C used a knife, sandpaper, and a chair."
+        ],
+        "answer": "C. C used a knife, sandpaper, scissors, and a towel.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/cf9298e5-6da3-42ba-bae9-fa3d75ad4d02.mp4",
+        "question_id": "00408",
+        "question": "What is the overall progression of c's exploration throughout the construction site, including their interaction with specific items?",
+        "answer_number": "0",
+        "candidates": [
+            "A. C enters the construction site, drops a cable reel and a blue file, picks up a silicone gun, drops it, and then walks around the site.",
+            "B. C enters the construction site, drops a cable reel and a blue file, picks up a silicone gun, drops it, and then walks around the site, looking for something.",
+            "C. C enters the construction site, drops a cable reel and a blue file, picks up a silicone gun, drops it, and then walks around the site, looking for someone.",
+            "D. C enters the construction site, drops a cable reel and a blue file, picks up a silicone gun, drops it, and then walks around the site, looking for a way out.",
+            "E. C enters the construction site, drops a cable reel and a blue file, picks up a silicone gun, drops it, and then walks around the site, looking for something to do."
+        ],
+        "answer": "A. C enters the construction site, drops a cable reel and a blue file, picks up a silicone gun, drops it, and then walks around the site.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/d135be4f-96a4-4a14-82a1-7d8d34546752.mp4",
+        "question_id": "00412",
+        "question": "Identify the primary objective of the actions performed in the video and describe the techniques used to achieve that objective without listing the individual actions.",
+        "answer_number": "0",
+        "candidates": [
+            "A. The primary objective of the actions performed in the video is to clean the inside of a vacuum wand. the techniques used to achieve this objective include using a metal rod to reach into the narrow openings of the vacuum wand and using a flashlight to illuminate the inside of the vacuum wand.",
+            "B. The main primary objective of the various actions skillfully performed in the demonstrative video is to carefully disassemble a vacuum wand component.",
+            "C. The primary objective of the actions performed in the video is to repair a vacuum wand.",
+            "D. The main purpose behind the primary objective of the actions performed in the video is to carefully inspect and examine a vacuum wand.",
+            "E. The main primary objective of all the actions carefully performed in the informative video is to efficiently assemble a vacuum wand."
+        ],
+        "answer": "A. The primary objective of the actions performed in the video is to clean the inside of a vacuum wand. the techniques used to achieve this objective include using a metal rod to reach into the narrow openings of the vacuum wand and using a flashlight to illuminate the inside of the vacuum wand.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/d204f3d8-47a1-4e84-a3d3-ca20ebccd932.mp4",
+        "question_id": "00413",
+        "question": "Can you identify the primary activity that c is engaged in throughout the video, and how they incorporated breaks or pauses during this activity?",
+        "answer_number": "3",
+        "candidates": [
+            "A. C is working on a computer.",
+            "B. Currently, c is spending time attentively watching an entertaining movie.",
+            "C. Currently, individual c is enjoying and listening to their favorite music.",
+            "D. C is playing a video game.",
+            "E. Currently, c is peacefully sleeping and resting."
+        ],
+        "answer": "D. C is playing a video game.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/d68218d2-5071-458d-8e4d-87f5707b7fbc.mp4",
+        "question_id": "00423",
+        "question": "Identify the critical steps in c's workflow that, if skipped, would have the most substantial impact on the outcome of the task he was performing. analyze the importance of these steps in the context of the overall process.",
+        "answer_number": "0",
+        "candidates": [
+            "A. The critical steps in c's workflow are the steps where he puts the plate, small bricks, wood, and spoons in the molding machine. these steps are essential for creating the mold for the spoon.",
+            "B. The critical steps in c's workflow involve the instances where he walks around the workshop area. interestingly, these particular steps are not essential or required for creating the mold for the spoon.",
+            "C. The critical steps in c's workflow are the steps where he picks up a plate, small bricks, wood, and spoons. these steps are not essential for creating the mold for the spoon.",
+            "D. The critical steps in c's workflow process involve the steps where he transports the wood. however, these specific steps are not essential for constructing the mold designated for the spoon.",
+            "E. The crucially important steps in c's workflow involve the stages where he carefully places the spoons into the molding machine. these specific steps are absolutely essential for accurately creating the desired mold for the spoon."
+        ],
+        "answer": "A. The critical steps in c's workflow are the steps where he puts the plate, small bricks, wood, and spoons in the molding machine. these steps are essential for creating the mold for the spoon.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/e0c9d250-fce2-49b5-8559-60d3925329be.mp4",
+        "question_id": "00438",
+        "question": "Based on the actions taken by c in this video, how would you concisely describe c's overall goal and the key tools used during the process?",
+        "answer_number": "1",
+        "candidates": [
+            "A. The primary objective of c's overall goal is to precisely cut the wood pieces. the essential key tools used during this woodworking process are the saw and the chisel.",
+            "B. C's overall goal is to smooth and refine the wood pieces. the key tools used during the process are the hand planer and the sander.",
+            "C. C's overall primary goal is to efficiently assemble the wood pieces together. the essential key tools utilized during this assembly process are the hammer and nails.",
+            "D. C's overall goal is to paint the wood pieces. the key tools used during the process are the brush and the paint.",
+            "E. The primary objective of c's overall goal is to effectively varnish the wooden pieces. the crucial tools employed during this process are the brush and the varnish itself."
+        ],
+        "answer": "B. C's overall goal is to smooth and refine the wood pieces. the key tools used during the process are the hand planer and the sander.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/e5becfe2-05aa-4ef2-bca8-a859dfe9d4f4.mp4",
+        "question_id": "00448",
+        "question": "From the series of actions and tasks performed by c, identify the most important parts concerning the lumber and construction project, and explain why these particular parts are crucial to the overall process.",
+        "answer_number": "0",
+        "candidates": [
+            "A. The most important parts of the lumber and construction project were measuring, cutting, and installing the lumber.",
+            "B. The most crucial aspects of the lumber and construction project involved accurately measuring, precisely cutting, and thoroughly sanding the lumber materials.",
+            "C. The most important parts of the lumber and construction project were measuring, cutting, and painting the lumber.",
+            "D. The most vital aspects of the lumber and construction project were precisely measuring, accurately cutting, and securely gluing the lumber materials together.",
+            "E. The most crucial aspects of the lumber and construction project involved accurately measuring, precisely cutting, and securely nailing the lumber pieces together."
+        ],
+        "answer": "A. The most important parts of the lumber and construction project were measuring, cutting, and installing the lumber.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/e8999794-34b7-40c0-a9d7-2346a82dbc48.mp4",
+        "question_id": "00454",
+        "question": "How does character c handle the dough throughout the video? describe the different methods and tools used without listing the individual steps.",
+        "answer_number": "1",
+        "candidates": [
+            "A. The character c diligently handles the dough throughout the entire video by skillfully using a knife, a fork, and their hands.",
+            "B. Character c handles the dough throughout the video by using a dough scraper, a brush, and their hands.",
+            "C. Character c handles the dough throughout the video by using a rolling pin, a spatula, and their hands.",
+            "D. In the video, character c skillfully handles the dough using a whisk, a bowl, and their hands throughout the entire process.",
+            "E. In the video, character c skillfully handles the dough throughout by employing a measuring cup, a spoon, and their hands for accuracy."
+        ],
+        "answer": "B. Character c handles the dough throughout the video by using a dough scraper, a brush, and their hands.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/e9322513-15b2-4b89-8ddb-7d1432beb8a1.mp4",
+        "question_id": "00456",
+        "question": "Considering the entire process shown in the video, can you identify the critical steps that c took, and briefly explain their significance in the craft projects?",
+        "answer_number": "2",
+        "candidates": [
+            "A. The critical steps in the craft projects are choosing the right materials, cutting out the shapes, and sewing the pieces together.",
+            "B. The crucial, critical steps in executing the craft projects effectively are diligently following the instructions carefully, consistently being patient, and employing a steady hand.",
+            "C. The critical steps in the craft projects are cutting the thread, knotting the ends of the thread together, straightening out the thread, and sewing the craft with the needle.",
+            "D. The essential critical steps in executing craft projects are being creative, actively using your vivid imagination, and thoroughly having immense fun.",
+            "E. The critical steps in executing various craft projects include being careful not to cut yourself, ensuring not to lose the tiny pieces, and diligently avoiding making any errors or mistakes."
+        ],
+        "answer": "C. The critical steps in the craft projects are cutting the thread, knotting the ends of the thread together, straightening out the thread, and sewing the craft with the needle.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/ece69b04-2e67-434a-b923-1329feed590d.mp4",
+        "question_id": "00461",
+        "question": "What is the primary objective c is trying to achieve in the video, and how does their interaction with various materials (ruler, cutter, craft pieces, glue, etc.) contribute to that objective?",
+        "answer_number": "0",
+        "candidates": [
+            "A. C is trying to build a model. they use the ruler to measure the craft pieces, the cutter to cut them out, the glue to put them together, and the paper to decorate them.",
+            "B. C is trying to make a craft. they use the ruler to measure the craft pieces, the cutter to cut them out, the glue to put them together, and the paper to decorate them.",
+            "C. C is diligently attempting to construct a structure. they skillfully utilize the ruler for measuring the various craft elements, employ the cutter to accurately shape them, apply the adhesive glue for securely assembling, and utilize the colorful paper to aesthetically decorate them.",
+            "D. Creatively, c is attempting to make an imaginative toy. diligently, they use the ruler to precisely measure the craft pieces, the cutter to skillfully cut them out, the glue to securely put them together, and the vibrant paper to beautifully decorate them.",
+            "E. C is attempting to create a thoughtful gift. they utilize the ruler to precisely measure the craft pieces, employ the cutter to shape them, the adhesive glue to assemble them securely, and the decorative paper to enhance their appearance."
+        ],
+        "answer": "A. C is trying to build a model. they use the ruler to measure the craft pieces, the cutter to cut them out, the glue to put them together, and the paper to decorate them.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/f10119f9-631e-47d0-8921-9ce6859a3708.mp4",
+        "question_id": "00472",
+        "question": "After analyzing c's actions, what could be inferred about his approach to handling materials and ensuring safety in the process?",
+        "answer_number": "1",
+        "candidates": [
+            "A. Carelessly, c does not take any essential precautions to steer clear of spills or contamination incidents. he avoids wearing gloves or utilizing a pipette, and he absolutely neglects to cover the glass tube securely with a lid.",
+            "B. C takes precautions to avoid spills and contamination by wearing gloves and using a pipette to transfer the liquid. he also covers the glass tube with a lid when he is not using it.",
+            "C. C takes precautions to avoid spills, but not contamination. he wears gloves and uses a pipette to transfer the liquid, but he does not cover the glass tube with a lid.",
+            "D. Carefully, c takes essential precautions to avoid any contamination, but not spills. diligently, he wears gloves and securely covers the glass tube with a lid, however, he does not utilize a pipette for transferring the liquid safely.",
+            "E. Carefully, c takes necessary precautions to both prevent spills and reduce contamination risks. diligently, he wears gloves, skillfully uses a pipette for transferring the liquid, and securely covers the glass tube with a fitted lid."
+        ],
+        "answer": "B. C takes precautions to avoid spills and contamination by wearing gloves and using a pipette to transfer the liquid. he also covers the glass tube with a lid when he is not using it.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/f1d9d07c-fd79-44c3-9cd7-a4dc792b9828.mp4",
+        "question_id": "00474",
+        "question": "Analyze c's process of handling and preparing the dough at different stages, and identify the two major themes of her actions that reflect careful attention to detail and precision.",
+        "answer_number": "1",
+        "candidates": [
+            "A. In the kitchen, c's process of handling, kneading, and preparing the dough appears to be quite careless and noticeably sloppy.",
+            "B. C's process of handling and preparing the dough reflects careful attention to detail and precision.",
+            "C. In the kitchen, c's process of handling and meticulously preparing the dough is quite haphazard, seemingly disorganized, and messy.",
+            "D. The chef's process of handling, kneading, and preparing the dough in the kitchen is relatively inefficient and considerably time-consuming.",
+            "E. C's process of handling and preparing the dough is creative and innovative."
+        ],
+        "answer": "B. C's process of handling and preparing the dough reflects careful attention to detail and precision.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/f55b9e19-8dbf-49d1-aa0c-499adf0fa9d0.mp4",
+        "question_id": "00477",
+        "question": "Why would c perform specific techniques to handle specific items (like chopsticks, spoons, and bowls) throughout the video, and how do these techniques show her prioritizing cleanliness?",
+        "answer_number": "0",
+        "candidates": [
+            "A. C washes the chopsticks, spoons, and bowls by holding them with one hand and scrubbing them with the sponge in her other hand. she then rinses them off and places them in the sink.",
+            "B. Carefully, c washes the chopsticks, spoons, and bowls by gently placing them in the sink and then thoroughly scrubbing them with the sponge.",
+            "C. C meticulously washes the chopsticks, spoons, and bowls, carefully placing them in the sink and then gently rinsing them off.",
+            "D. C carefully washes the chopsticks, spoons, and bowls by placing them in the sink, rinsing, and then efficiently placing them in the dishwasher for thorough cleaning.",
+            "E. C washes the chopsticks, spoons, and bowls by placing them in the sink and then placing them in the oven."
+        ],
+        "answer": "A. C washes the chopsticks, spoons, and bowls by holding them with one hand and scrubbing them with the sponge in her other hand. she then rinses them off and places them in the sink.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/f671a773-cb56-49ed-ae8c-a529c977b33d.mp4",
+        "question_id": "00479",
+        "question": "Identify the most important activities c performs during the process of assembling and refining the metal parts, and explain why these steps are crucial to ensuring the desired outcome.",
+        "answer_number": "4",
+        "candidates": [
+            "A. Among the most crucial activities c performs throughout the process of assembling and refining the metal parts are accurately cutting the rods to size, meticulously sanding the rods, and uniformly painting the rods.",
+            "B. The most crucial activities performed by c during the process of assembling and refining the metal parts include drilling holes in the rods, threading the rods accurately, and securely fastening the rods together for stability.",
+            "C. The most crucial activities c executes during the process of assembling and refining the metal components are bending the rods, accurately shaping the rods, and meticulously polishing the rods for precision.",
+            "D. The most important activities c performs during the process of assembling and refining the metal parts are assembling the rods, disassembling the rods, and cleaning the rods.",
+            "E. The most important activities c performs during the process of assembling and refining the metal parts are welding the rods to the pipe, hammering the rods into place, and grinding the metal."
+        ],
+        "answer": "E. The most important activities c performs during the process of assembling and refining the metal parts are welding the rods to the pipe, hammering the rods into place, and grinding the metal.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/f9a68735-7030-4fb5-95fd-cef0529611bf.mp4",
+        "question_id": "00486",
+        "question": "Analyze the sequence of events and identify the overarching process shown in the video. what is its purpose?",
+        "answer_number": "4",
+        "candidates": [
+            "A. The video shows the process of making a sandwich. the purpose of this process is to create a quick and easy meal.",
+            "B. The video shows the process of making a smoothie. the purpose of this process is to create a healthy and refreshing drink.",
+            "C. The video shows the process of making a soup. the purpose of this process is to create a warm and comforting meal.",
+            "D. The video shows the process of making a stir-fry. the purpose of this process is to create a quick and easy meal with lots of vegetables.",
+            "E. The video shows the process of preparing a salad. the purpose of this process is to create a healthy and delicious meal."
+        ],
+        "answer": "E. The video shows the process of preparing a salad. the purpose of this process is to create a healthy and delicious meal.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    }
+]

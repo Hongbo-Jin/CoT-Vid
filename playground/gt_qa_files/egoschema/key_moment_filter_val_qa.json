@@ -1,0 +1,19 @@
+[
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/4e0e4bbb-a86c-4c8d-bd05-87a52f037561.mp4",
+        "question_id": "00157",
+        "question": "Throughout the video, what specific actions or events could be considered as turning points or key moments that may alter the character's approach or objective?",
+        "answer_number": "0",
+        "candidates": [
+            "A. The turning point in the video is when c starts to cut the weeds.",
+            "B. The turning point in the video is when c starts to touch the plants.",
+            "C. The turning point in the video is when c starts to walk around the garden.",
+            "D. The turning point in the video is when c starts to examine the plants.",
+            "E. The turning point in the video is when c starts to fold the stems of the plants."
+        ],
+        "answer": "A. The turning point in the video is when c starts to cut the weeds.",
+        "category": "key_moment",
+        "need_reasoning": false
+    }
+]

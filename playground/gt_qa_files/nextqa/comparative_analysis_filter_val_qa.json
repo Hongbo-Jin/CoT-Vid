@@ -1,0 +1,19 @@
+[
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/2596300565.mp4",
+        "question_id": "25963005657",
+        "question": "how does the baby push the pram differently in the start versus the end of the video",
+        "answer_number": 0,
+        "candidates": [
+            "different direction",
+            "smiling",
+            "waving",
+            "move body",
+            "right"
+        ],
+        "answer": "different direction",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    }
+]

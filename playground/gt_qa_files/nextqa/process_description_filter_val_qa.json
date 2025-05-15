@@ -1,0 +1,121 @@
+[
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/2679130168.mp4",
+        "question_id": "26791301680",
+        "question": "how did the girl learn how to play with the cushion",
+        "answer_number": 2,
+        "candidates": [
+            "remote control",
+            "use controller outside the machine",
+            "copy the adult",
+            "touching and swing",
+            "played next to him"
+        ],
+        "answer": "copy the adult",
+        "category": "process_description",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/3508407941.mp4",
+        "question_id": "35084079413",
+        "question": "how does the walker help the baby learn how to stand",
+        "answer_number": 1,
+        "candidates": [
+            "hold baby by armpits",
+            "balance on its legs",
+            "walking toy",
+            "hold onto side of the chair",
+            "with his hands"
+        ],
+        "answer": "balance on its legs",
+        "category": "process_description",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/9213637099.mp4",
+        "question_id": "92136370992",
+        "question": "why is the the girl in black being taught how to stand up and do the stunt",
+        "answer_number": 0,
+        "candidates": [
+            "to learn a new skill",
+            "dancing",
+            "spectating performance",
+            "stay clear of the hula hoop",
+            "give rhythm and beat"
+        ],
+        "answer": "to learn a new skill",
+        "category": "process_description",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/4372494989.mp4",
+        "question_id": "43724949893",
+        "question": "how does the man in red attempt to teach the child about how to pray",
+        "answer_number": 0,
+        "candidates": [
+            "hold his hands",
+            "show him a video",
+            "dance with him",
+            "read to him",
+            "talk and nod"
+        ],
+        "answer": "hold his hands",
+        "category": "process_description",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/3981865268.mp4",
+        "question_id": "39818652688",
+        "question": "how did the man knew how to control his performance",
+        "answer_number": 3,
+        "candidates": [
+            "move left and right",
+            "copy the man s action",
+            "look at the screen behind",
+            "operate the machine",
+            "play the piano"
+        ],
+        "answer": "operate the machine",
+        "category": "process_description",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/9213637099.mp4",
+        "question_id": "92136370993",
+        "question": "why is the lady demonstrating how to execute the stunt",
+        "answer_number": 4,
+        "candidates": [
+            "attract the baby",
+            "explain well to the men",
+            "to show baby something in her hands",
+            "playing and enjoying with other boy",
+            "to teach the girl"
+        ],
+        "answer": "to teach the girl",
+        "category": "process_description",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/7308042410.mp4",
+        "question_id": "73080424108",
+        "question": "how did the man teach the girl how to hold the tools",
+        "answer_number": 3,
+        "candidates": [
+            "use rope",
+            "pictures",
+            "demonstrated 1 time",
+            "held her hands",
+            "use hand gestures"
+        ],
+        "answer": "held her hands",
+        "category": "process_description",
+        "need_reasoning": false
+    }
+]

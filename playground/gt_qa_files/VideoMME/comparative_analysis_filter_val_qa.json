@@ -1,0 +1,194 @@
+[
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/e-P5IFTqB98.mp4",
+        "question_id": 0,
+        "question": "How does the diameter of the black hole S5 0014+81 compare to other distances in space?",
+        "answer_number": 3,
+        "candidates": [
+            "A. It is roughly equal to the size of the Milky Way.",
+            "B. It is smaller than the distance from the Sun to Pluto.",
+            "C. It is about the same as the distance from Earth to the Sun.",
+            "D. The history of telescopes."
+        ],
+        "answer": "D. The history of telescopes.",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/_rC5V5vEprs.mp4",
+        "question_id": 0,
+        "question": "Which codexes are compared in common in the second half of the video?",
+        "answer_number": 1,
+        "candidates": [
+            "A. Code of Hammurabi and the Laws of Manu.",
+            "B. Code of Hammurabi and Code of Deuteronomy.",
+            "C. Code of Ur-Nammu and Code of Deuteronomy.",
+            "D. Code of Hammurabi and Code of Deuteronomy and the Laws of Manu."
+        ],
+        "answer": "B. Code of Hammurabi and Code of Deuteronomy.",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/e3fz3dqhN44.mp4",
+        "question_id": 0,
+        "question": "Which transportation is the quantum computer compared to in the video?",
+        "answer_number": 1,
+        "candidates": [
+            "A. Riding horses.",
+            "B. Boats.",
+            "C. Walking.",
+            "D. Faster cars."
+        ],
+        "answer": "B. Boats.",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/-XpJeDGh8No.mp4",
+        "question_id": 0,
+        "question": "Who fight versus the black dinosaur at last?",
+        "answer_number": 3,
+        "candidates": [
+            "A. A spider.",
+            "B. A snake.",
+            "C. A King Kong.",
+            "D. A dragon."
+        ],
+        "answer": "D. A dragon.",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/RN1ZC7Tb2Pg.mp4",
+        "question_id": 0,
+        "question": "What happens when Gragas and Akali fight versus Sylas?",
+        "answer_number": 3,
+        "candidates": [
+            "A. Sylas is dead but slays Gragas only.",
+            "B. They slay Sylas without cost.",
+            "C. Sylas is dead but slays Akali only.",
+            "D. Sylas is dead and slays them both."
+        ],
+        "answer": "D. Sylas is dead and slays them both.",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/hZ8DmOpRTVc.mp4",
+        "question_id": 0,
+        "question": "What distinguishes the second unicycle from the others?",
+        "answer_number": 0,
+        "candidates": [
+            "A. Its frame is not straight.",
+            "B. It does not have a saddle.",
+            "C. Its wheel is much smaller.",
+            "D. It has three pedals."
+        ],
+        "answer": "A. Its frame is not straight.",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/PHe0bXAIuk0.mp4",
+        "question_id": 0,
+        "question": "According to the video, what is the primary factor that distinguishes a recession from a deleveraging?",
+        "answer_number": 3,
+        "candidates": [
+            "A. The severity of unemployment and economic contraction.",
+            "B. The level of government debt and budget deficits.",
+            "C. The rate of inflation and deflation.",
+            "D. The effectiveness of lowering interest rates to stimulate borrowing."
+        ],
+        "answer": "D. The effectiveness of lowering interest rates to stimulate borrowing.",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/HKbJtgUrHGk.mp4",
+        "question_id": 0,
+        "question": "What is special to their homemade baseball game when compared to a usual baseball game?",
+        "answer_number": 0,
+        "candidates": [
+            "A. The ball is not caught by real persons after it is pinched.",
+            "B. The ball is served by an automatic tee machine.",
+            "C. The ball is much bigger than the usual baseball game.",
+            "D. None of the above."
+        ],
+        "answer": "A. The ball is not caught by real persons after it is pinched.",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/k2FIFQIYBvA.mp4",
+        "question_id": 0,
+        "question": "What similarities exist between the first two magic tricks?",
+        "answer_number": 0,
+        "candidates": [
+            "A. Both of them are performed in the same place.",
+            "B. Both of them require 5 volunteers.",
+            "C. Neither of them needs deck cards.",
+            "D. All of the above."
+        ],
+        "answer": "A. Both of them are performed in the same place.",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/7TydWUguPRU.mp4",
+        "question_id": 0,
+        "question": "Which two programs have similarities in the use of the ring?",
+        "answer_number": 2,
+        "candidates": [
+            "A. The first and fourth programs.",
+            "B. Second and fourth programs.",
+            "C. Third and fifth programs.",
+            "D. Third and seventh programs."
+        ],
+        "answer": "C. Third and fifth programs.",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/Z2G9bTvffAw.mp4",
+        "question_id": 0,
+        "question": "What distinguishes the yellow lion from the red lion?",
+        "answer_number": 0,
+        "candidates": [
+            "A. No obvious difference apart from the color can be told from this video.",
+            "B. The red lion is so much bigger.",
+            "C. The red lion always stands in the middle of yellow lions.",
+            "D. It requires extra two performers to manipulate the red lion."
+        ],
+        "answer": "A. No obvious difference apart from the color can be told from this video.",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/uuCVnqV4cNc.mp4",
+        "question_id": 0,
+        "question": "Based on the information provided by the video, what is unique about the Factory 56 production line compared to other automotive factories?",
+        "answer_number": 1,
+        "candidates": [
+            "A. It utilizes a traditional assembly line with human workers.",
+            "B. It can produce vehicles of different powertrains (combustion, hybrid, electric) on the same line.",
+            "C. It exclusively manufactures electric vehicles.",
+            "D. It solely manufactures Mercedes-Benz's top-of-the-line Maybach vehicles."
+        ],
+        "answer": "B. It can produce vehicles of different powertrains (combustion, hybrid, electric) on the same line.",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    }
+]

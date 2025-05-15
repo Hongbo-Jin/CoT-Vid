@@ -1,0 +1,34 @@
+[
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/XS6ysDFTbLU.mp4",
+        "question_id": 0,
+        "question": "Based on the words spoken by the person in the video, what is the main significance of the activity shown in the video?",
+        "answer_number": 0,
+        "candidates": [
+            "A. To raise awareness for Lou Gehrig's disease.",
+            "B. To encourage individuals to push their limits.",
+            "C. To invite others to take part in the challenge.",
+            "D. Not relevant to physical health."
+        ],
+        "answer": "A. To raise awareness for Lou Gehrig's disease.",
+        "category": "behavior_inference",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/FEzcqbzTwvA.mp4",
+        "question_id": 0,
+        "question": "Which of the following is NOT a significance of the Ping Pong Parkinson event according to the video?",
+        "answer_number": 3,
+        "candidates": [
+            "A. Alleviating the conditions of Parkinson's patients participating in the activity.",
+            "B. Enhancing the understanding among Parkinson's patients participating in the activity.",
+            "C. Improving the mental state of Parkinson's patients participating in the activity.",
+            "D. Research on the impact of table tennis on Parkinson's patients."
+        ],
+        "answer": "D. Research on the impact of table tennis on Parkinson's patients.",
+        "category": "behavior_inference",
+        "need_reasoning": true
+    }
+]

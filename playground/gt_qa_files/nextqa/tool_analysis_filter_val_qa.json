@@ -1,0 +1,36 @@
+[
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/7164729910.mp4",
+        "question_id": "71647299107",
+        "question": "how does the boy operate the toy car",
+        "answer_number": 2,
+        "candidates": [
+            "romote controller",
+            "seat belt and baby chair",
+            "turn the wheel",
+            "use their hands",
+            "pull the seatbelt"
+        ],
+        "answer": "turn the wheel",
+        "category": "tool_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/11670386946.mp4",
+        "question_id": "116703869460",
+        "question": "what is the purpose of the piece of paper that the man with brown hat is holding on to",
+        "answer_number": 0,
+        "candidates": [
+            "provide information on displays",
+            "tripod",
+            "cup",
+            "wooden stick",
+            "driver"
+        ],
+        "answer": "provide information on displays",
+        "category": "tool_analysis",
+        "need_reasoning": false
+    }
+]

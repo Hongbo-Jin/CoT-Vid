@@ -1,0 +1,70 @@
+[
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/2622c5be-1147-4a6a-bd4a-cca88b4aa4f7.mp4",
+        "question_id": "00082",
+        "question": "How would you describe the efficiency and effectiveness of c's actions while performing tasks related to the main activity, considering the sequence and steps throughout the video?",
+        "answer_number": "0",
+        "candidates": [
+            "A. C's actions are efficient and effective.",
+            "B. C's actions are inefficient and ineffective.",
+            "C. C's actions are neither efficient nor effective.",
+            "D. C's actions are efficient but ineffective.",
+            "E. C's actions are effective but inefficient."
+        ],
+        "answer": "A. C's actions are efficient and effective.",
+        "category": "efficiency_evaluation",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/53bd3263-96b7-426a-b869-b14457ef3f84.mp4",
+        "question_id": "00169",
+        "question": "Analyze and outline the person's approach to the primary activity shown in the video; describe any possible improvements or changes they could make to increase their effectiveness in the task.",
+        "answer_number": "4",
+        "candidates": [
+            "A. The person's approach is to first check the plants, then wipe the pavement, and then point at a plant.",
+            "B. The individual's chosen approach involves initially playing with the dog, subsequently engaging with a bug on the pavement, and ultimately proceeding to remove the plants from the ground.",
+            "C. The individual's approach initially involves carefully removing the plants from the ground, subsequently inspecting them, later diligently wiping the pavement clean, and finally gesturing towards them.",
+            "D. The individual's chosen approach involves initially removing the plants from the ground, subsequently inspecting them, afterwards wiping the pavement clean, subsequently pointing at the plants, and finally engaging in play with the dog.",
+            "E. The person's approach to removing the plants from the ground is to first put on gloves, then touch the plants to identify which ones they want to remove, and then pull them out of the ground and put them in a bucket."
+        ],
+        "answer": "E. The person's approach to removing the plants from the ground is to first put on gloves, then touch the plants to identify which ones they want to remove, and then pull them out of the ground and put them in a bucket.",
+        "category": "efficiency_evaluation",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/c3ef6035-08c6-458e-b2d4-d7dc8f97f658.mp4",
+        "question_id": "00387",
+        "question": "How does c effectively use the available kitchen resources and tools to prepare the dish? discuss the role of various tools in the process and how their use has facilitated the preparation.",
+        "answer_number": "4",
+        "candidates": [
+            "A. C uses a knife, a cutting board, a pot, a spoon, and a fork.",
+            "B. C skillfully uses a blender, a food processor, a whisk, a handy measuring cup, and a precise measuring spoon.",
+            "C. C efficiently uses a microwave, a toaster, a kettle, a coffee maker, and a high-performance blender.",
+            "D. Consequently, c utilizes a stove, a frying pan, a pot, a spoon, and a fork while cooking.",
+            "E. C uses a frying pan, a stove, a sachet of potato chips, a pair of chopsticks, a piece of tissue paper, a bottle of oil, and a pack of seasoning."
+        ],
+        "answer": "E. C uses a frying pan, a stove, a sachet of potato chips, a pair of chopsticks, a piece of tissue paper, a bottle of oil, and a pack of seasoning.",
+        "category": "efficiency_evaluation",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/cd569206-229f-44ac-aa8f-be52f68b0fd6.mp4",
+        "question_id": "00403",
+        "question": "In this video, what is the primary task that c is performing and how does he ensure that it is completed effectively?",
+        "answer_number": "2",
+        "candidates": [
+            "A. Currently, c is busy cooking in the kitchen.",
+            "B. Currently, c is occupied with doing their laundry task.",
+            "C. C is cleaning the room.",
+            "D. Currently, c is in the bathroom taking a refreshing shower.",
+            "E. C is sleeping."
+        ],
+        "answer": "C. C is cleaning the room.",
+        "category": "efficiency_evaluation",
+        "need_reasoning": false
+    }
+]

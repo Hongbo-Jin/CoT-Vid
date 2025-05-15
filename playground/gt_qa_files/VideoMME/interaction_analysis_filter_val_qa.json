@@ -1,0 +1,82 @@
+[
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/0ay2Qy3wBe8.mp4",
+        "question_id": 0,
+        "question": "What kind of communication is listed before Semaphore?",
+        "answer_number": 3,
+        "candidates": [
+            "A. Telephone.",
+            "B. Homing pigeon.",
+            "C. Telegraph.",
+            "D. Pony express."
+        ],
+        "answer": "D. Pony express.",
+        "category": "interaction_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/NrtwBO_nyFA.mp4",
+        "question_id": 0,
+        "question": "Which step introduced in this video does not require the collaboration of two excavators?",
+        "answer_number": 3,
+        "candidates": [
+            "A. Detachment phase of the marble blocks.",
+            "B. Loading the marble blocks into a dumper.",
+            "C. Carrying the marble blocks in the narrow streets.",
+            "D. Mining for cutting the marble blocks."
+        ],
+        "answer": "D. Mining for cutting the marble blocks.",
+        "category": "interaction_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/QTyzyP2Afys.mp4",
+        "question_id": 0,
+        "question": "What is the central conflict regarding the main theme of the video presentation?",
+        "answer_number": 3,
+        "candidates": [
+            "A. The conflict between the environmental impact of Bitcoin mining and the need for sustainable energy solutions.",
+            "B. The debate over the regulation of cryptocurrencies and the balance between innovation and consumer protection.",
+            "C. The ethical concerns surrounding the use of cryptocurrencies in illegal activities and the need for greater transparency.",
+            "D. The struggle between established financial institutions and the disruptive potential of decentralized digital currencies."
+        ],
+        "answer": "D. The struggle between established financial institutions and the disruptive potential of decentralized digital currencies.",
+        "category": "interaction_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/SfZrnoo1GPM.mp4",
+        "question_id": 0,
+        "question": "Which two people are the main focus of conflict in the film's plot in the second half of the video?",
+        "answer_number": 0,
+        "candidates": [
+            "A. Male defense counsel and male colonel sitting in the witness box.",
+            "B. Male defense counsel and male prosecutor.",
+            "C. Female defense lawyer and male colonel sitting in the witness box.",
+            "D. Female defense counsel and male prosecutor."
+        ],
+        "answer": "A. Male defense counsel and male colonel sitting in the witness box.",
+        "category": "interaction_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/jIx5Zi84Z3Q.mp4",
+        "question_id": 0,
+        "question": "What is the central conflict involving the woman dressed in a black top and white skirt in the video?",
+        "answer_number": 1,
+        "candidates": [
+            "A. Her efforts to seek artistic recognition were met with opposition from family and friends.",
+            "B. Her secret financial dealings and the consequent threat of exposure.",
+            "C. Her ambition to take over her husband's business, which creates an irreconcilable conflict with him.",
+            "D. Her efforts to restore the family's lost wealth to no avail."
+        ],
+        "answer": "B. Her secret financial dealings and the consequent threat of exposure.",
+        "category": "interaction_analysis",
+        "need_reasoning": false
+    }
+]

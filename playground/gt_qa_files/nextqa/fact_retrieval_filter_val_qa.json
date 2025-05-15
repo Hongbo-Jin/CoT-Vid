@@ -1,0 +1,3028 @@
+[
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/8547321641.mp4",
+        "question_id": "85473216417",
+        "question": "how many babies are in the video",
+        "answer_number": 4,
+        "candidates": [
+            "kitchen",
+            "four",
+            "two",
+            "three",
+            "one"
+        ],
+        "answer": "one",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/4942054721.mp4",
+        "question_id": "49420547217",
+        "question": "how many goats can be spotted",
+        "answer_number": 0,
+        "candidates": [
+            "eight",
+            "two",
+            "one",
+            "three",
+            "four"
+        ],
+        "answer": "eight",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/9213637099.mp4",
+        "question_id": "92136370996",
+        "question": "how many people are involved",
+        "answer_number": 2,
+        "candidates": [
+            "six",
+            "two",
+            "five",
+            "seven",
+            "one"
+        ],
+        "answer": "five",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/3206694342.mp4",
+        "question_id": "32066943423",
+        "question": "how many people are on stage",
+        "answer_number": 1,
+        "candidates": [
+            "one",
+            "six",
+            "three",
+            "five",
+            "seven"
+        ],
+        "answer": "six",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/4798585428.mp4",
+        "question_id": "47985854286",
+        "question": "how many people are posing for the photos",
+        "answer_number": 1,
+        "candidates": [
+            "two",
+            "five",
+            "six",
+            "thirteen",
+            "one"
+        ],
+        "answer": "five",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/4984417707.mp4",
+        "question_id": "49844177078",
+        "question": "how many elephants were playing with the ball",
+        "answer_number": 2,
+        "candidates": [
+            "three",
+            "six",
+            "two",
+            "five",
+            "one"
+        ],
+        "answer": "two",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/5237219621.mp4",
+        "question_id": "52372196214",
+        "question": "how many people are there",
+        "answer_number": 2,
+        "candidates": [
+            "four",
+            "two",
+            "six",
+            "eleven",
+            "five"
+        ],
+        "answer": "six",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/2834146886.mp4",
+        "question_id": "28341468869",
+        "question": "how many dogs are there",
+        "answer_number": 2,
+        "candidates": [
+            "four",
+            "one",
+            "two",
+            "six",
+            "three"
+        ],
+        "answer": "two",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/8563398032.mp4",
+        "question_id": "85633980322",
+        "question": "how many people are presenting",
+        "answer_number": 4,
+        "candidates": [
+            "seven",
+            "five",
+            "six",
+            "three",
+            "two"
+        ],
+        "answer": "two",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/2679328607.mp4",
+        "question_id": "267932860710",
+        "question": "how many times does the girl pass the toy to the boy",
+        "answer_number": 4,
+        "candidates": [
+            "six",
+            "two",
+            "four",
+            "five",
+            "three"
+        ],
+        "answer": "three",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/5801184682.mp4",
+        "question_id": "58011846828",
+        "question": "how many cats are there",
+        "answer_number": 3,
+        "candidates": [
+            "three",
+            "four",
+            "two",
+            "one",
+            "five"
+        ],
+        "answer": "one",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/2978295992.mp4",
+        "question_id": "29782959925",
+        "question": "how many ladies are filmed",
+        "answer_number": 1,
+        "candidates": [
+            "six",
+            "two",
+            "seven",
+            "five",
+            "four"
+        ],
+        "answer": "two",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/3388598772.mp4",
+        "question_id": "33885987727",
+        "question": "how many people are mainly involved in the video",
+        "answer_number": 3,
+        "candidates": [
+            "four",
+            "six",
+            "three",
+            "two",
+            "one"
+        ],
+        "answer": "two",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/4036955771.mp4",
+        "question_id": "40369557716",
+        "question": "how many performers are there",
+        "answer_number": 1,
+        "candidates": [
+            "six",
+            "seven",
+            "eleven",
+            "eight",
+            "five"
+        ],
+        "answer": "seven",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/6265968082.mp4",
+        "question_id": "626596808210",
+        "question": "how many people are performing on stage",
+        "answer_number": 0,
+        "candidates": [
+            "four",
+            "one",
+            "five",
+            "three",
+            "nine"
+        ],
+        "answer": "four",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/11541421563.mp4",
+        "question_id": "1154142156310",
+        "question": "how many people are involved in reading the score",
+        "answer_number": 4,
+        "candidates": [
+            "six",
+            "four",
+            "eight",
+            "seven",
+            "two"
+        ],
+        "answer": "two",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/2573424030.mp4",
+        "question_id": "25734240307",
+        "question": "how many people in total are there in the video",
+        "answer_number": 4,
+        "candidates": [
+            "six",
+            "one",
+            "two",
+            "five",
+            "seven"
+        ],
+        "answer": "seven",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/5017166671.mp4",
+        "question_id": "50171666713",
+        "question": "how many pople are on stage",
+        "answer_number": 4,
+        "candidates": [
+            "nine",
+            "six",
+            "three",
+            "two",
+            "four"
+        ],
+        "answer": "four",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/4516967897.mp4",
+        "question_id": "45169678978",
+        "question": "how many ladies are there",
+        "answer_number": 1,
+        "candidates": [
+            "three",
+            "two",
+            "seven",
+            "one",
+            "six"
+        ],
+        "answer": "two",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/8225502382.mp4",
+        "question_id": "82255023829",
+        "question": "how many times does the man in dark green attempt to go up the slope",
+        "answer_number": 2,
+        "candidates": [
+            "one",
+            "eight",
+            "five",
+            "three",
+            "twelve"
+        ],
+        "answer": "five",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/5658916668.mp4",
+        "question_id": "56589166689",
+        "question": "how many people were filmed sliding down",
+        "answer_number": 1,
+        "candidates": [
+            "four",
+            "one",
+            "seven",
+            "two",
+            "six"
+        ],
+        "answer": "one",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/4444192938.mp4",
+        "question_id": "44441929388",
+        "question": "how many kids are there at the area",
+        "answer_number": 4,
+        "candidates": [
+            "one",
+            "four",
+            "nine",
+            "two",
+            "three"
+        ],
+        "answer": "three",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/9409566840.mp4",
+        "question_id": "94095668400",
+        "question": "how many dogs are playng biting with each other in the video",
+        "answer_number": 1,
+        "candidates": [
+            "three",
+            "two",
+            "five",
+            "six",
+            "four"
+        ],
+        "answer": "two",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/12392885583.mp4",
+        "question_id": "123928855832",
+        "question": "how many babies are in the video",
+        "answer_number": 1,
+        "candidates": [
+            "three",
+            "one",
+            "four",
+            "two",
+            "kitchen"
+        ],
+        "answer": "one",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/5235909148.mp4",
+        "question_id": "52359091484",
+        "question": "how many people are in the video",
+        "answer_number": 3,
+        "candidates": [
+            "three",
+            "six",
+            "one",
+            "four",
+            "eight"
+        ],
+        "answer": "four",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/9208803675.mp4",
+        "question_id": "92088036756",
+        "question": "how many people are on the swing in the video",
+        "answer_number": 3,
+        "candidates": [
+            "five",
+            "one",
+            "six",
+            "two",
+            "eight"
+        ],
+        "answer": "two",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/4636208292.mp4",
+        "question_id": "46362082924",
+        "question": "how many people are cheering their glasses at the end",
+        "answer_number": 2,
+        "candidates": [
+            "five",
+            "three",
+            "four",
+            "seven",
+            "one"
+        ],
+        "answer": "four",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/7887764754.mp4",
+        "question_id": "78877647548",
+        "question": "how many people are involved in the video",
+        "answer_number": 3,
+        "candidates": [
+            "four",
+            "six",
+            "three",
+            "one",
+            "two"
+        ],
+        "answer": "one",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/8253302563.mp4",
+        "question_id": "82533025638",
+        "question": "how many people are involved in the video",
+        "answer_number": 3,
+        "candidates": [
+            "three",
+            "six",
+            "two",
+            "one",
+            "five"
+        ],
+        "answer": "one",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/2589540862.mp4",
+        "question_id": "25895408626",
+        "question": "how many children are there",
+        "answer_number": 3,
+        "candidates": [
+            "nine",
+            "two",
+            "six",
+            "one",
+            "four"
+        ],
+        "answer": "one",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/6046149003.mp4",
+        "question_id": "60461490032",
+        "question": "how many girls are there",
+        "answer_number": 1,
+        "candidates": [
+            "five",
+            "two",
+            "four",
+            "one",
+            "three"
+        ],
+        "answer": "two",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/3626788516.mp4",
+        "question_id": "36267885166",
+        "question": "how many people are in the video",
+        "answer_number": 2,
+        "candidates": [
+            "four",
+            "eight",
+            "two",
+            "nine",
+            "ten"
+        ],
+        "answer": "two",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/8552680285.mp4",
+        "question_id": "85526802858",
+        "question": "how many people are there",
+        "answer_number": 0,
+        "candidates": [
+            "two",
+            "six",
+            "one",
+            "eleven",
+            "three"
+        ],
+        "answer": "two",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/2835125654.mp4",
+        "question_id": "28351256547",
+        "question": "how many elephants are there",
+        "answer_number": 2,
+        "candidates": [
+            "one",
+            "five",
+            "two",
+            "four",
+            "three"
+        ],
+        "answer": "two",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/2705374471.mp4",
+        "question_id": "27053744717",
+        "question": "how many people are there in the room",
+        "answer_number": 3,
+        "candidates": [
+            "three",
+            "one",
+            "four",
+            "two",
+            "eight"
+        ],
+        "answer": "two",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/11584566583.mp4",
+        "question_id": "115845665836",
+        "question": "how many people can be seen in the video",
+        "answer_number": 1,
+        "candidates": [
+            "five",
+            "two",
+            "three",
+            "thirteen",
+            "eight"
+        ],
+        "answer": "two",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/3469864014.mp4",
+        "question_id": "34698640145",
+        "question": "how many cats were there",
+        "answer_number": 1,
+        "candidates": [
+            "three",
+            "two",
+            "four",
+            "one",
+            "five"
+        ],
+        "answer": "two",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/6754608321.mp4",
+        "question_id": "67546083219",
+        "question": "how many people are shown in the video",
+        "answer_number": 1,
+        "candidates": [
+            "eight",
+            "two",
+            "five",
+            "eleven",
+            "one"
+        ],
+        "answer": "two",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/6097994550.mp4",
+        "question_id": "60979945508",
+        "question": "how many men were there",
+        "answer_number": 1,
+        "candidates": [
+            "seven",
+            "two",
+            "four",
+            "three",
+            "one"
+        ],
+        "answer": "two",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/4264435046.mp4",
+        "question_id": "42644350461",
+        "question": "how many dogs are there",
+        "answer_number": 1,
+        "candidates": [
+            "one",
+            "two",
+            "four",
+            "six",
+            "nine"
+        ],
+        "answer": "two",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/4092992100.mp4",
+        "question_id": "40929921009",
+        "question": "how many people are filmed",
+        "answer_number": 2,
+        "candidates": [
+            "three",
+            "nine",
+            "two",
+            "five",
+            "four"
+        ],
+        "answer": "two",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/8531675050.mp4",
+        "question_id": "853167505010",
+        "question": "how many people are acting on the stage",
+        "answer_number": 0,
+        "candidates": [
+            "two",
+            "nine",
+            "one",
+            "eleven",
+            "six"
+        ],
+        "answer": "two",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/10109097475.mp4",
+        "question_id": "101090974758",
+        "question": "how many planes are involved in the video",
+        "answer_number": 3,
+        "candidates": [
+            "six",
+            "four",
+            "three",
+            "one",
+            "eight"
+        ],
+        "answer": "one",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/6277800530.mp4",
+        "question_id": "62778005304",
+        "question": "how many people were on the jeep",
+        "answer_number": 2,
+        "candidates": [
+            "two",
+            "five",
+            "one",
+            "six",
+            "nine"
+        ],
+        "answer": "one",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/8505893258.mp4",
+        "question_id": "85058932589",
+        "question": "how many people were in the video",
+        "answer_number": 2,
+        "candidates": [
+            "seven",
+            "twelve",
+            "six",
+            "five",
+            "two"
+        ],
+        "answer": "six",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/4465235803.mp4",
+        "question_id": "44652358037",
+        "question": "how many people are involved in the video",
+        "answer_number": 2,
+        "candidates": [
+            "five",
+            "six",
+            "three",
+            "one",
+            "four"
+        ],
+        "answer": "three",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/5429688959.mp4",
+        "question_id": "54296889596",
+        "question": "how many people are playing instruments",
+        "answer_number": 2,
+        "candidates": [
+            "five",
+            "eleven",
+            "one",
+            "four",
+            "three"
+        ],
+        "answer": "one",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/8513603944.mp4",
+        "question_id": "85136039446",
+        "question": "how many children are there",
+        "answer_number": 1,
+        "candidates": [
+            "one",
+            "two",
+            "four",
+            "nine",
+            "three"
+        ],
+        "answer": "two",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/2809330695.mp4",
+        "question_id": "28093306955",
+        "question": "how many times does the baby attempt to flip over",
+        "answer_number": 4,
+        "candidates": [
+            "five",
+            "one",
+            "four",
+            "two",
+            "three"
+        ],
+        "answer": "three",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/4276006683.mp4",
+        "question_id": "42760066839",
+        "question": "how many people are involved in the video",
+        "answer_number": 3,
+        "candidates": [
+            "two",
+            "six",
+            "five",
+            "one",
+            "four"
+        ],
+        "answer": "one",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/6096998186.mp4",
+        "question_id": "60969981866",
+        "question": "how many items was the woman in blonde hair holding at the end",
+        "answer_number": 3,
+        "candidates": [
+            "four",
+            "three",
+            "six",
+            "two",
+            "seven"
+        ],
+        "answer": "two",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/5521781780.mp4",
+        "question_id": "55217817809",
+        "question": "how many people were under the umbrella",
+        "answer_number": 4,
+        "candidates": [
+            "six",
+            "eleven",
+            "five",
+            "one",
+            "two"
+        ],
+        "answer": "two",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/3158022797.mp4",
+        "question_id": "31580227973",
+        "question": "how many people were playing together",
+        "answer_number": 1,
+        "candidates": [
+            "eight",
+            "four",
+            "two",
+            "three",
+            "eleven"
+        ],
+        "answer": "four",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/5256928210.mp4",
+        "question_id": "52569282106",
+        "question": "how many dogs are there",
+        "answer_number": 2,
+        "candidates": [
+            "two",
+            "nine",
+            "one",
+            "three",
+            "four"
+        ],
+        "answer": "one",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/2435633172.mp4",
+        "question_id": "24356331726",
+        "question": "how many people are there",
+        "answer_number": 4,
+        "candidates": [
+            "one",
+            "seven",
+            "four",
+            "eleven",
+            "three"
+        ],
+        "answer": "three",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/3846475848.mp4",
+        "question_id": "384647584812",
+        "question": "how many people are involved in the video",
+        "answer_number": 4,
+        "candidates": [
+            "five",
+            "six",
+            "four",
+            "two",
+            "one"
+        ],
+        "answer": "one",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/6356067859.mp4",
+        "question_id": "63560678599",
+        "question": "how many children are involved in the video",
+        "answer_number": 1,
+        "candidates": [
+            "one",
+            "four",
+            "six",
+            "kitchen",
+            "seven"
+        ],
+        "answer": "four",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/3711681535.mp4",
+        "question_id": "37116815359",
+        "question": "how many people are in the video",
+        "answer_number": 2,
+        "candidates": [
+            "buying drink",
+            "performing a song",
+            "three",
+            "talking",
+            "martial arts class"
+        ],
+        "answer": "three",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/5421648216.mp4",
+        "question_id": "54216482166",
+        "question": "how many sheeps are involved in the video",
+        "answer_number": 2,
+        "candidates": [
+            "six",
+            "four",
+            "three",
+            "one",
+            "two"
+        ],
+        "answer": "three",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/3851913128.mp4",
+        "question_id": "38519131287",
+        "question": "how many people are involved in the video",
+        "answer_number": 1,
+        "candidates": [
+            "two",
+            "five",
+            "four",
+            "three",
+            "one"
+        ],
+        "answer": "five",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/7786283208.mp4",
+        "question_id": "778628320810",
+        "question": "how many children are there in total",
+        "answer_number": 1,
+        "candidates": [
+            "six",
+            "three",
+            "two",
+            "one",
+            "nine"
+        ],
+        "answer": "three",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/6142416815.mp4",
+        "question_id": "61424168153",
+        "question": "how many children are in the video",
+        "answer_number": 0,
+        "candidates": [
+            "one",
+            "two",
+            "kitchen",
+            "four",
+            "three"
+        ],
+        "answer": "one",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/3063380173.mp4",
+        "question_id": "30633801738",
+        "question": "how many kittens are in the video",
+        "answer_number": 2,
+        "candidates": [
+            "one",
+            "three",
+            "two",
+            "four",
+            "five"
+        ],
+        "answer": "two",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/9873067604.mp4",
+        "question_id": "98730676049",
+        "question": "how many people were singing",
+        "answer_number": 1,
+        "candidates": [
+            "four",
+            "three",
+            "two",
+            "nine",
+            "eleven"
+        ],
+        "answer": "three",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/4087654898.mp4",
+        "question_id": "40876548989",
+        "question": "how many children are there",
+        "answer_number": 0,
+        "candidates": [
+            "two",
+            "nine",
+            "six",
+            "three",
+            "one"
+        ],
+        "answer": "two",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/2461993294.mp4",
+        "question_id": "24619932947",
+        "question": "how many audiences are there",
+        "answer_number": 0,
+        "candidates": [
+            "four",
+            "two",
+            "six",
+            "one",
+            "five"
+        ],
+        "answer": "four",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/3303565503.mp4",
+        "question_id": "33035655038",
+        "question": "how many people are posing in this shoot",
+        "answer_number": 3,
+        "candidates": [
+            "seven",
+            "five",
+            "six",
+            "two",
+            "three"
+        ],
+        "answer": "two",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/5702201498.mp4",
+        "question_id": "57022014985",
+        "question": "how many people are present in the video",
+        "answer_number": 4,
+        "candidates": [
+            "five",
+            "four",
+            "two",
+            "eight",
+            "one"
+        ],
+        "answer": "one",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/8493226484.mp4",
+        "question_id": "84932264847",
+        "question": "how many people are involved in the video",
+        "answer_number": 2,
+        "candidates": [
+            "five",
+            "one",
+            "two",
+            "six",
+            "four"
+        ],
+        "answer": "two",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/3555755537.mp4",
+        "question_id": "35557555374",
+        "question": "how many people are in the video",
+        "answer_number": 1,
+        "candidates": [
+            "three",
+            "one",
+            "seven",
+            "eight",
+            "nine"
+        ],
+        "answer": "one",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/3861485381.mp4",
+        "question_id": "38614853819",
+        "question": "how many animals are in the video",
+        "answer_number": 4,
+        "candidates": [
+            "two",
+            "one",
+            "three",
+            "four",
+            "five"
+        ],
+        "answer": "five",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/3355698421.mp4",
+        "question_id": "33556984215",
+        "question": "how many people are there together",
+        "answer_number": 3,
+        "candidates": [
+            "eleven",
+            "seven",
+            "five",
+            "three",
+            "six"
+        ],
+        "answer": "three",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/7651639778.mp4",
+        "question_id": "765163977810",
+        "question": "how many people are present",
+        "answer_number": 2,
+        "candidates": [
+            "three",
+            "two",
+            "four",
+            "seven",
+            "eleven"
+        ],
+        "answer": "four",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/9917882506.mp4",
+        "question_id": "99178825068",
+        "question": "how many children are cycling",
+        "answer_number": 3,
+        "candidates": [
+            "four",
+            "one",
+            "three",
+            "two",
+            "eight"
+        ],
+        "answer": "two",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/5840177726.mp4",
+        "question_id": "58401777266",
+        "question": "how many people were cycling",
+        "answer_number": 3,
+        "candidates": [
+            "five",
+            "four",
+            "seven",
+            "two",
+            "six"
+        ],
+        "answer": "two",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/2697261300.mp4",
+        "question_id": "26972613000",
+        "question": "how many dogs are filmed",
+        "answer_number": 3,
+        "candidates": [
+            "one",
+            "five",
+            "four",
+            "two",
+            "three"
+        ],
+        "answer": "two",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/3581585756.mp4",
+        "question_id": "35815857566",
+        "question": "how many adults are on the bus",
+        "answer_number": 0,
+        "candidates": [
+            "one",
+            "four",
+            "nine",
+            "five",
+            "two"
+        ],
+        "answer": "one",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/8457210773.mp4",
+        "question_id": "84572107736",
+        "question": "how many dogs are in the video",
+        "answer_number": 2,
+        "candidates": [
+            "one",
+            "three",
+            "two",
+            "five",
+            "six"
+        ],
+        "answer": "two",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/3972259774.mp4",
+        "question_id": "39722597748",
+        "question": "how many people are filmed by the camera",
+        "answer_number": 1,
+        "candidates": [
+            "one",
+            "five",
+            "six",
+            "seven",
+            "two"
+        ],
+        "answer": "five",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/3105728894.mp4",
+        "question_id": "310572889410",
+        "question": "how many people are practising their tricks in the video",
+        "answer_number": 0,
+        "candidates": [
+            "four",
+            "three",
+            "five",
+            "two",
+            "one"
+        ],
+        "answer": "four",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/8403741210.mp4",
+        "question_id": "84037412108",
+        "question": "how many people are involved in the video",
+        "answer_number": 3,
+        "candidates": [
+            "five",
+            "two",
+            "four",
+            "three",
+            "one"
+        ],
+        "answer": "three",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/4189100053.mp4",
+        "question_id": "41891000539",
+        "question": "how many people are involved in the video",
+        "answer_number": 1,
+        "candidates": [
+            "one",
+            "two",
+            "five",
+            "four",
+            "three"
+        ],
+        "answer": "two",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/7453733046.mp4",
+        "question_id": "74537330468",
+        "question": "how many people are playing in the water playground",
+        "answer_number": 4,
+        "candidates": [
+            "one",
+            "kitchen",
+            "four",
+            "five",
+            "two"
+        ],
+        "answer": "two",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/2679130168.mp4",
+        "question_id": "26791301685",
+        "question": "how many times did the girl try to stuff her face into the cushion in the beginning of the video",
+        "answer_number": 3,
+        "candidates": [
+            "four",
+            "two",
+            "three",
+            "five",
+            "six"
+        ],
+        "answer": "five",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/6143391925.mp4",
+        "question_id": "61433919259",
+        "question": "how many babies are there",
+        "answer_number": 0,
+        "candidates": [
+            "one",
+            "nine",
+            "three",
+            "four",
+            "six"
+        ],
+        "answer": "one",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/5145526755.mp4",
+        "question_id": "51455267559",
+        "question": "how many people are involved in the video",
+        "answer_number": 4,
+        "candidates": [
+            "one",
+            "three",
+            "four",
+            "five",
+            "two"
+        ],
+        "answer": "two",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/3441428429.mp4",
+        "question_id": "344142842912",
+        "question": "how many skaters are performing on the ice",
+        "answer_number": 4,
+        "candidates": [
+            "eight",
+            "nine",
+            "six",
+            "four",
+            "two"
+        ],
+        "answer": "two",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/2925298951.mp4",
+        "question_id": "29252989516",
+        "question": "how many women are posing for the photo",
+        "answer_number": 0,
+        "candidates": [
+            "six",
+            "five",
+            "two",
+            "four",
+            "one"
+        ],
+        "answer": "six",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/3375218204.mp4",
+        "question_id": "337521820413",
+        "question": "how many people are involved in the video",
+        "answer_number": 0,
+        "candidates": [
+            "three",
+            "five",
+            "two",
+            "six",
+            "one"
+        ],
+        "answer": "three",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/8211075660.mp4",
+        "question_id": "82110756602",
+        "question": "how many men are filmed",
+        "answer_number": 0,
+        "candidates": [
+            "three",
+            "six",
+            "two",
+            "one",
+            "four"
+        ],
+        "answer": "three",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/11503803033.mp4",
+        "question_id": "115038030334",
+        "question": "how many people are skiing",
+        "answer_number": 1,
+        "candidates": [
+            "four",
+            "three",
+            "five",
+            "one",
+            "two"
+        ],
+        "answer": "three",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/4925211209.mp4",
+        "question_id": "49252112097",
+        "question": "how many people are in the video",
+        "answer_number": 3,
+        "candidates": [
+            "nine",
+            "five",
+            "seven",
+            "one",
+            "six"
+        ],
+        "answer": "one",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/2669452260.mp4",
+        "question_id": "26694522601",
+        "question": "how many people walk past the man",
+        "answer_number": 1,
+        "candidates": [
+            "three",
+            "two",
+            "seven",
+            "thirteen",
+            "four"
+        ],
+        "answer": "two",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/3372023610.mp4",
+        "question_id": "337202361010",
+        "question": "how many people are there in the video",
+        "answer_number": 3,
+        "candidates": [
+            "seven",
+            "one",
+            "two",
+            "four",
+            "six"
+        ],
+        "answer": "four",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/3719793245.mp4",
+        "question_id": "37197932456",
+        "question": "how many people are there in the video",
+        "answer_number": 3,
+        "candidates": [
+            "six",
+            "four",
+            "five",
+            "two",
+            "thirteen"
+        ],
+        "answer": "two",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/3175315183.mp4",
+        "question_id": "31753151834",
+        "question": "how many toys are hang above the baby",
+        "answer_number": 2,
+        "candidates": [
+            "three",
+            "two",
+            "five",
+            "one",
+            "four"
+        ],
+        "answer": "five",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/4164771889.mp4",
+        "question_id": "41647718899",
+        "question": "how many boys are working together to bury the boy",
+        "answer_number": 3,
+        "candidates": [
+            "seven",
+            "three",
+            "one",
+            "five",
+            "twice"
+        ],
+        "answer": "five",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/6542914065.mp4",
+        "question_id": "65429140657",
+        "question": "how many people are involved in the video",
+        "answer_number": 2,
+        "candidates": [
+            "three",
+            "six",
+            "five",
+            "two",
+            "one"
+        ],
+        "answer": "five",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/4126010904.mp4",
+        "question_id": "41260109047",
+        "question": "how many times does the tall man lean his face on the television",
+        "answer_number": 0,
+        "candidates": [
+            "four",
+            "three",
+            "five",
+            "one",
+            "two"
+        ],
+        "answer": "four",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/3477387686.mp4",
+        "question_id": "34773876869",
+        "question": "how many times did the girl put her palm out",
+        "answer_number": 2,
+        "candidates": [
+            "one",
+            "five",
+            "four",
+            "three",
+            "seven"
+        ],
+        "answer": "four",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/6297019062.mp4",
+        "question_id": "62970190622",
+        "question": "how many babies are there in the video",
+        "answer_number": 3,
+        "candidates": [
+            "two",
+            "three",
+            "five",
+            "four",
+            "seven"
+        ],
+        "answer": "four",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/8455160795.mp4",
+        "question_id": "84551607953",
+        "question": "how many people are there",
+        "answer_number": 3,
+        "candidates": [
+            "four",
+            "seven",
+            "five",
+            "two",
+            "three"
+        ],
+        "answer": "two",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/7499763064.mp4",
+        "question_id": "74997630641",
+        "question": "how many people are climbing",
+        "answer_number": 3,
+        "candidates": [
+            "eleven",
+            "four",
+            "seven",
+            "two",
+            "six"
+        ],
+        "answer": "two",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/5889898795.mp4",
+        "question_id": "58898987955",
+        "question": "how many people ziplined down",
+        "answer_number": 4,
+        "candidates": [
+            "six",
+            "four",
+            "seven",
+            "three",
+            "two"
+        ],
+        "answer": "two",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/8388104887.mp4",
+        "question_id": "83881048877",
+        "question": "how many times did the dog run back and forth",
+        "answer_number": 4,
+        "candidates": [
+            "three",
+            "fifteen",
+            "one",
+            "nine",
+            "two"
+        ],
+        "answer": "two",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/6860322796.mp4",
+        "question_id": "68603227964",
+        "question": "how many dogs are there playing",
+        "answer_number": 2,
+        "candidates": [
+            "four",
+            "one",
+            "two",
+            "three",
+            "five"
+        ],
+        "answer": "two",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/4859057828.mp4",
+        "question_id": "48590578288",
+        "question": "how many ladies are there",
+        "answer_number": 1,
+        "candidates": [
+            "six",
+            "three",
+            "four",
+            "two",
+            "seven"
+        ],
+        "answer": "three",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/4264435046.mp4",
+        "question_id": "42644350468",
+        "question": "how many vehicles were filmed",
+        "answer_number": 3,
+        "candidates": [
+            "four",
+            "one",
+            "six",
+            "three",
+            "five"
+        ],
+        "answer": "three",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/13515224395.mp4",
+        "question_id": "135152243956",
+        "question": "how many dogs appear in the video",
+        "answer_number": 0,
+        "candidates": [
+            "two",
+            "five",
+            "one",
+            "four",
+            "three"
+        ],
+        "answer": "two",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/5863411262.mp4",
+        "question_id": "58634112627",
+        "question": "how many people are involved in the video",
+        "answer_number": 0,
+        "candidates": [
+            "five",
+            "three",
+            "one",
+            "four",
+            "two"
+        ],
+        "answer": "five",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/4094488636.mp4",
+        "question_id": "40944886361",
+        "question": "how many dogs are there",
+        "answer_number": 4,
+        "candidates": [
+            "six",
+            "four",
+            "three",
+            "one",
+            "two"
+        ],
+        "answer": "two",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/5133787349.mp4",
+        "question_id": "51337873499",
+        "question": "how many of the man are actually involved in the fighting on stage",
+        "answer_number": 1,
+        "candidates": [
+            "three",
+            "four",
+            "one",
+            "seven",
+            "five"
+        ],
+        "answer": "four",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/4130504920.mp4",
+        "question_id": "41305049205",
+        "question": "how many babies are there",
+        "answer_number": 3,
+        "candidates": [
+            "three",
+            "four",
+            "two",
+            "one",
+            "nine"
+        ],
+        "answer": "one",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/3078294001.mp4",
+        "question_id": "30782940018",
+        "question": "how many people are there",
+        "answer_number": 3,
+        "candidates": [
+            "five",
+            "six",
+            "eleven",
+            "two",
+            "one"
+        ],
+        "answer": "two",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/3155382178.mp4",
+        "question_id": "31553821786",
+        "question": "how many people are there",
+        "answer_number": 4,
+        "candidates": [
+            "eleven",
+            "one",
+            "seven",
+            "four",
+            "two"
+        ],
+        "answer": "two",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/4260763967.mp4",
+        "question_id": "42607639675",
+        "question": "how many boys are in the video",
+        "answer_number": 3,
+        "candidates": [
+            "five",
+            "eight",
+            "eleven",
+            "two",
+            "nine"
+        ],
+        "answer": "two",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/4412508597.mp4",
+        "question_id": "44125085975",
+        "question": "how many people are filmed",
+        "answer_number": 4,
+        "candidates": [
+            "two",
+            "four",
+            "seven",
+            "one",
+            "three"
+        ],
+        "answer": "three",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/6253433310.mp4",
+        "question_id": "62534333109",
+        "question": "how many people were in the pool",
+        "answer_number": 1,
+        "candidates": [
+            "eleven",
+            "three",
+            "two",
+            "four",
+            "nine"
+        ],
+        "answer": "three",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/4825843801.mp4",
+        "question_id": "48258438011",
+        "question": "how many penguins are there",
+        "answer_number": 1,
+        "candidates": [
+            "five",
+            "three",
+            "one",
+            "four",
+            "two"
+        ],
+        "answer": "three",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/9293415110.mp4",
+        "question_id": "92934151101",
+        "question": "how many people are on the stage",
+        "answer_number": 2,
+        "candidates": [
+            "two",
+            "nine",
+            "four",
+            "seven",
+            "three"
+        ],
+        "answer": "four",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/2482028659.mp4",
+        "question_id": "24820286594",
+        "question": "how many people are in the video",
+        "answer_number": 3,
+        "candidates": [
+            "one",
+            "five",
+            "eight",
+            "four",
+            "three"
+        ],
+        "answer": "four",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/3427674558.mp4",
+        "question_id": "34276745587",
+        "question": "how many people can be seen dancing on the stage",
+        "answer_number": 1,
+        "candidates": [
+            "one",
+            "six",
+            "three",
+            "nine",
+            "two"
+        ],
+        "answer": "six",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/10779838974.mp4",
+        "question_id": "107798389749",
+        "question": "how many girls are there",
+        "answer_number": 1,
+        "candidates": [
+            "three",
+            "two",
+            "four",
+            "six",
+            "five"
+        ],
+        "answer": "two",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/3066064005.mp4",
+        "question_id": "30660640054",
+        "question": "how many women in total that can be seen in the video",
+        "answer_number": 2,
+        "candidates": [
+            "four",
+            "one",
+            "five",
+            "seven",
+            "six"
+        ],
+        "answer": "five",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/4103088549.mp4",
+        "question_id": "41030885499",
+        "question": "how many people successfully got on the surfboard",
+        "answer_number": 3,
+        "candidates": [
+            "twelve",
+            "five",
+            "three",
+            "one",
+            "two"
+        ],
+        "answer": "one",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/4333544549.mp4",
+        "question_id": "43335445499",
+        "question": "how many men are there",
+        "answer_number": 4,
+        "candidates": [
+            "three",
+            "six",
+            "four",
+            "eight",
+            "two"
+        ],
+        "answer": "two",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/4761953886.mp4",
+        "question_id": "47619538865",
+        "question": "how many dogs are there",
+        "answer_number": 2,
+        "candidates": [
+            "three",
+            "two",
+            "one",
+            "six",
+            "four"
+        ],
+        "answer": "one",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/2735019707.mp4",
+        "question_id": "27350197079",
+        "question": "how many drums in total are there for the people to play",
+        "answer_number": 2,
+        "candidates": [
+            "four",
+            "two",
+            "six",
+            "three",
+            "eleven"
+        ],
+        "answer": "six",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/3708066257.mp4",
+        "question_id": "37080662571",
+        "question": "how many peopl are dancing",
+        "answer_number": 4,
+        "candidates": [
+            "one",
+            "three",
+            "four",
+            "five",
+            "two"
+        ],
+        "answer": "two",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/4983922034.mp4",
+        "question_id": "49839220345",
+        "question": "how many dogs are there",
+        "answer_number": 4,
+        "candidates": [
+            "six",
+            "two",
+            "nine",
+            "one",
+            "three"
+        ],
+        "answer": "three",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/2984974097.mp4",
+        "question_id": "29849740976",
+        "question": "how many wheels does the girl s bike have",
+        "answer_number": 3,
+        "candidates": [
+            "five",
+            "six",
+            "seven",
+            "four",
+            "three"
+        ],
+        "answer": "four",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/6018490041.mp4",
+        "question_id": "60184900418",
+        "question": "how many players are involved in the video",
+        "answer_number": 2,
+        "candidates": [
+            "three",
+            "two",
+            "four",
+            "five",
+            "one"
+        ],
+        "answer": "four",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/2552130183.mp4",
+        "question_id": "25521301837",
+        "question": "how many people are in the room",
+        "answer_number": 0,
+        "candidates": [
+            "three",
+            "one",
+            "eight",
+            "two",
+            "five"
+        ],
+        "answer": "three",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/3557498300.mp4",
+        "question_id": "35574983001",
+        "question": "how many children are in the video",
+        "answer_number": 2,
+        "candidates": [
+            "one",
+            "five",
+            "three",
+            "seven",
+            "kitchen"
+        ],
+        "answer": "three",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/4984331176.mp4",
+        "question_id": "49843311763",
+        "question": "how many groups passed the rope",
+        "answer_number": 4,
+        "candidates": [
+            "one",
+            "two",
+            "five",
+            "six",
+            "three"
+        ],
+        "answer": "three",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/7987845241.mp4",
+        "question_id": "79878452417",
+        "question": "how many people were needed to hold the dog down during the injection",
+        "answer_number": 4,
+        "candidates": [
+            "six",
+            "three",
+            "four",
+            "one",
+            "two"
+        ],
+        "answer": "two",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/7059877301.mp4",
+        "question_id": "70598773017",
+        "question": "how many dogs are there in the video",
+        "answer_number": 2,
+        "candidates": [
+            "one",
+            "four",
+            "three",
+            "six",
+            "five"
+        ],
+        "answer": "three",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/7364407194.mp4",
+        "question_id": "73644071941",
+        "question": "how many babies are in the video",
+        "answer_number": 3,
+        "candidates": [
+            "four",
+            "one",
+            "three",
+            "two",
+            "kitchen"
+        ],
+        "answer": "two",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/2810112808.mp4",
+        "question_id": "28101128088",
+        "question": "how many people are there",
+        "answer_number": 0,
+        "candidates": [
+            "three",
+            "eleven",
+            "five",
+            "one",
+            "four"
+        ],
+        "answer": "three",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/4333544549.mp4",
+        "question_id": "43335445498",
+        "question": "how many dogs are there",
+        "answer_number": 4,
+        "candidates": [
+            "one",
+            "nine",
+            "six",
+            "four",
+            "two"
+        ],
+        "answer": "two",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/3383804222.mp4",
+        "question_id": "33838042226",
+        "question": "how many pandas are involved in the video",
+        "answer_number": 3,
+        "candidates": [
+            "five",
+            "three",
+            "one",
+            "two",
+            "four"
+        ],
+        "answer": "two",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/2599937944.mp4",
+        "question_id": "25999379448",
+        "question": "how many people were in the video",
+        "answer_number": 0,
+        "candidates": [
+            "four",
+            "one",
+            "five",
+            "two",
+            "nine"
+        ],
+        "answer": "four",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/8783897632.mp4",
+        "question_id": "87838976329",
+        "question": "how many people are filmed",
+        "answer_number": 4,
+        "candidates": [
+            "four",
+            "one",
+            "three",
+            "six",
+            "two"
+        ],
+        "answer": "two",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/10727696143.mp4",
+        "question_id": "107276961439",
+        "question": "how many children are there",
+        "answer_number": 2,
+        "candidates": [
+            "nine",
+            "four",
+            "one",
+            "six",
+            "three"
+        ],
+        "answer": "one",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/2535384528.mp4",
+        "question_id": "25353845288",
+        "question": "how many people are together on the field",
+        "answer_number": 0,
+        "candidates": [
+            "three",
+            "six",
+            "one",
+            "seven",
+            "eleven"
+        ],
+        "answer": "three",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/2833209794.mp4",
+        "question_id": "28332097949",
+        "question": "how many bags is the man in black carrying",
+        "answer_number": 1,
+        "candidates": [
+            "five",
+            "two",
+            "three",
+            "one",
+            "four"
+        ],
+        "answer": "two",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/6011836129.mp4",
+        "question_id": "60118361294",
+        "question": "how many ladies are doing yoga",
+        "answer_number": 4,
+        "candidates": [
+            "nine",
+            "two",
+            "one",
+            "three",
+            "four"
+        ],
+        "answer": "four",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/4968805923.mp4",
+        "question_id": "49688059239",
+        "question": "how many people are in the video",
+        "answer_number": 0,
+        "candidates": [
+            "three",
+            "eleven",
+            "seven",
+            "six",
+            "five"
+        ],
+        "answer": "three",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/9576671750.mp4",
+        "question_id": "95766717506",
+        "question": "how many phones are shown in the video",
+        "answer_number": 3,
+        "candidates": [
+            "six",
+            "five",
+            "three",
+            "one",
+            "nine"
+        ],
+        "answer": "one",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/2731071928.mp4",
+        "question_id": "27310719283",
+        "question": "how many children are in the video",
+        "answer_number": 0,
+        "candidates": [
+            "one",
+            "five",
+            "four",
+            "three",
+            "two"
+        ],
+        "answer": "one",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/5940941487.mp4",
+        "question_id": "59409414875",
+        "question": "how many people are performing",
+        "answer_number": 0,
+        "candidates": [
+            "five",
+            "four",
+            "eight",
+            "seven",
+            "eleven"
+        ],
+        "answer": "five",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/4138579400.mp4",
+        "question_id": "41385794009",
+        "question": "how many times did he put stuffs in the cup before it dropped",
+        "answer_number": 4,
+        "candidates": [
+            "seven",
+            "three",
+            "two",
+            "one",
+            "five"
+        ],
+        "answer": "five",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/4249756405.mp4",
+        "question_id": "42497564059",
+        "question": "how many people are there in the video",
+        "answer_number": 1,
+        "candidates": [
+            "eleven",
+            "two",
+            "six",
+            "five",
+            "thirteen"
+        ],
+        "answer": "two",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/9735768590.mp4",
+        "question_id": "97357685901",
+        "question": "how many babies are in the video",
+        "answer_number": 3,
+        "candidates": [
+            "two",
+            "seven",
+            "four",
+            "one",
+            "three"
+        ],
+        "answer": "one",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/4757890069.mp4",
+        "question_id": "47578900694",
+        "question": "how many vehicles passed by",
+        "answer_number": 4,
+        "candidates": [
+            "one",
+            "six",
+            "three",
+            "two",
+            "four"
+        ],
+        "answer": "four",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/4419096437.mp4",
+        "question_id": "44190964378",
+        "question": "how many times does the person signal for the cat to close its eyes",
+        "answer_number": 0,
+        "candidates": [
+            "five",
+            "two",
+            "four",
+            "one",
+            "three"
+        ],
+        "answer": "five",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/3060478605.mp4",
+        "question_id": "30604786057",
+        "question": "how many people were riding the horse",
+        "answer_number": 0,
+        "candidates": [
+            "one",
+            "two",
+            "six",
+            "five",
+            "three"
+        ],
+        "answer": "one",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/10607095936.mp4",
+        "question_id": "1060709593611",
+        "question": "how many people are involved in the video",
+        "answer_number": 0,
+        "candidates": [
+            "five",
+            "two",
+            "three",
+            "one",
+            "four"
+        ],
+        "answer": "five",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/14012319794.mp4",
+        "question_id": "140123197941",
+        "question": "how many children are in the video",
+        "answer_number": 4,
+        "candidates": [
+            "three",
+            "six",
+            "seven",
+            "kitchen",
+            "one"
+        ],
+        "answer": "one",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/3869005094.mp4",
+        "question_id": "38690050949",
+        "question": "how many people are in the video",
+        "answer_number": 1,
+        "candidates": [
+            "eleven",
+            "four",
+            "nine",
+            "seven",
+            "two"
+        ],
+        "answer": "four",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/8318310610.mp4",
+        "question_id": "83183106109",
+        "question": "how many girls are involved in the video",
+        "answer_number": 1,
+        "candidates": [
+            "seven",
+            "five",
+            "one",
+            "three",
+            "two"
+        ],
+        "answer": "five",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/3902997424.mp4",
+        "question_id": "39029974246",
+        "question": "how many people were watching the man playing keyboard",
+        "answer_number": 4,
+        "candidates": [
+            "four",
+            "one",
+            "three",
+            "five",
+            "two"
+        ],
+        "answer": "two",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/4935987905.mp4",
+        "question_id": "49359879051",
+        "question": "how many dogs are there in the video",
+        "answer_number": 3,
+        "candidates": [
+            "one",
+            "five",
+            "two",
+            "three",
+            "six"
+        ],
+        "answer": "three",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/3897746373.mp4",
+        "question_id": "38977463731",
+        "question": "how many people are standing on the white stage at the end",
+        "answer_number": 1,
+        "candidates": [
+            "five",
+            "six",
+            "four",
+            "three",
+            "two"
+        ],
+        "answer": "six",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/4882821564.mp4",
+        "question_id": "48828215649",
+        "question": "how many children are in the video",
+        "answer_number": 1,
+        "candidates": [
+            "six",
+            "one",
+            "kitchen",
+            "two",
+            "four"
+        ],
+        "answer": "one",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/7508439506.mp4",
+        "question_id": "75084395067",
+        "question": "how many people are there in the video",
+        "answer_number": 1,
+        "candidates": [
+            "two",
+            "three",
+            "four",
+            "eleven",
+            "six"
+        ],
+        "answer": "three",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/5308503740.mp4",
+        "question_id": "53085037400",
+        "question": "how many rabbits are there in the video",
+        "answer_number": 4,
+        "candidates": [
+            "three",
+            "six",
+            "five",
+            "four",
+            "two"
+        ],
+        "answer": "two",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/11584566583.mp4",
+        "question_id": "115845665835",
+        "question": "how many people are speaking on the microphone",
+        "answer_number": 0,
+        "candidates": [
+            "one",
+            "five",
+            "nine",
+            "six",
+            "three"
+        ],
+        "answer": "one",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/5467727317.mp4",
+        "question_id": "54677273174",
+        "question": "how many elephants are there",
+        "answer_number": 4,
+        "candidates": [
+            "one",
+            "four",
+            "three",
+            "six",
+            "two"
+        ],
+        "answer": "two",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/2697214342.mp4",
+        "question_id": "26972143429",
+        "question": "how many guys can be seen working in the video",
+        "answer_number": 1,
+        "candidates": [
+            "one",
+            "four",
+            "two",
+            "five",
+            "six"
+        ],
+        "answer": "four",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/2871995580.mp4",
+        "question_id": "28719955808",
+        "question": "how many children are in the video",
+        "answer_number": 1,
+        "candidates": [
+            "four",
+            "one",
+            "five",
+            "two",
+            "seven"
+        ],
+        "answer": "one",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/7331927796.mp4",
+        "question_id": "73319277967",
+        "question": "how many dogs are there in the video",
+        "answer_number": 4,
+        "candidates": [
+            "five",
+            "two",
+            "four",
+            "one",
+            "three"
+        ],
+        "answer": "three",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/5919180502.mp4",
+        "question_id": "59191805029",
+        "question": "how many people are sitting at the ledge of the swimming pool",
+        "answer_number": 2,
+        "candidates": [
+            "six",
+            "four",
+            "two",
+            "eight",
+            "seven"
+        ],
+        "answer": "two",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/2510696559.mp4",
+        "question_id": "251069655910",
+        "question": "how many people are cycling in the video",
+        "answer_number": 2,
+        "candidates": [
+            "eleven",
+            "eight",
+            "one",
+            "six",
+            "five"
+        ],
+        "answer": "one",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/5498331490.mp4",
+        "question_id": "54983314904",
+        "question": "how many cats are there",
+        "answer_number": 4,
+        "candidates": [
+            "two",
+            "four",
+            "three",
+            "five",
+            "one"
+        ],
+        "answer": "one",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/11670386946.mp4",
+        "question_id": "116703869468",
+        "question": "how many people are mainly involved in the video",
+        "answer_number": 2,
+        "candidates": [
+            "eight",
+            "four",
+            "one",
+            "six",
+            "three"
+        ],
+        "answer": "one",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/3112351937.mp4",
+        "question_id": "31123519378",
+        "question": "how many people are there",
+        "answer_number": 4,
+        "candidates": [
+            "seven",
+            "three",
+            "four",
+            "eleven",
+            "two"
+        ],
+        "answer": "two",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " nextqa ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/nextqa/4483447009.mp4",
+        "question_id": "44834470096",
+        "question": "how many ducks are involved in the video",
+        "answer_number": 4,
+        "candidates": [
+            "five",
+            "six",
+            "four",
+            "one",
+            "two"
+        ],
+        "answer": "two",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "task_name": " VideoMMMU ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/VideoMMMU/videos/new_Sociology_3.mp4",
+        "question_id": -1,
+        "question": "Which of the following statements about different sociological views of culture is false based on the video?\nStatements:\n1. Conflict theories' view on culture contradicts the main idea of functionalists' view.\n2. The video uses the example of colonial education systems promoting the colonizer's language and values to illustrate the conflict theory's view suggesting that culture is imposed upon society by powerful groups.\n3. After introducing feminists' views, the video discusses that Marxists believe that culture is fragmented, and individuals freely choose their own cultural norms based on personal experiences.\n4. Feminists argue that society's culture is male-dominated and reflects patriarchal values, prioritizing men's interests over women's.",
+        "answer_number": 7,
+        "candidates": [
+            "A. Statement 1 is false",
+            "B. Statement 2 is false",
+            "C. Statement 3 is false",
+            "D. Statement 4 is false",
+            "E. Statements 1 and 2 are false",
+            "F. Statements 3 and 4 are false",
+            "G. Statements 1 and 4 are false",
+            "H. Statements 2 and 3 are false",
+            "I. Statements 2 and 4 are false",
+            "J. None of the statements are false"
+        ],
+        "answer": "H. Statements 2 and 3 are false",
+        "category": "interaction_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " VideoMMMU ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/VideoMMMU/videos/new_Sociology_7.mp4",
+        "question_id": -1,
+        "question": "Which of the following statements about theoretical approaches to globalization are correct?\nStatements:\n1. Hyper-globalists argue that globalization is driven by the removal of trade barriers and promotes innovation and cooperation between nations, which benefits both developed and developing countries.\n2. Pessimistic globalists believe that globalization leads to cultural imperialism, where Western values and consumerism replace local traditions, resulting in the decline of indigenous cultures.\n3. World-systems theorists suggest that globalization reinforces global inequalities by allowing wealthier, core nations to exploit peripheral nations for cheap labor and resources, maintaining their economic dominance.\n4. Transformationalists argue that globalization leads to the homogenization of cultures, where local traditions are completely replaced by global, predominantly Western, consumer culture.\n5. Transformationalists propose that globalization results in hybrid identities, where nations adopt some elements of global culture but retain aspects of their local traditions, as seen in countries like the UAE, which mixes Western consumerism with Islamic practices.",
+        "answer_number": 3,
+        "candidates": [
+            "A. Statement 1 is correct",
+            "B. Statement 1 and 3 are correct",
+            "C. Statement 1, 3, and 5 are correct",
+            "D. Statement 1, 2, 3, and 5 are correct",
+            "E. Statement 2 and 4 are correct",
+            "F. Statement 3 and 5 are correct",
+            "G. Statement 4 and 5 are correct",
+            "H. Statement 1, 3, and 4 are correct",
+            "I. All are correct",
+            "J. None are correct"
+        ],
+        "answer": "D. Statement 1, 2, 3, and 5 are correct",
+        "category": "interaction_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " VideoMMMU ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/VideoMMMU/videos/new_Sociology_3.mp4",
+        "question_id": -1,
+        "question": "Complete the sentence based on the exact video content: Conflict theories ____",
+        "answer_number": 4,
+        "candidates": [
+            "A. argue that culture is determined and shaped by dominant groups in society",
+            "B. state that culture reflects the interests and values of those in power",
+            "C. claim that powerful groups impose their values and norms on society",
+            "D. maintain that culture serves to uphold the authority of influential social groups",
+            "E. suggest that culture is imposed upon society by powerful groups",
+            "F. assert that culture is a tool used by elites to maintain their dominance",
+            "G. imply that culture is shaped by the priorities of ruling social classes",
+            "H. argue that dominant groups manipulate cultural norms for their benefit",
+            "I. hold that cultural norms and values are enforced by powerful elites",
+            "J. propose that culture is dictated by the interests of those who hold power"
+        ],
+        "answer": "E. suggest that culture is imposed upon society by powerful groups",
+        "category": "interaction_analysis",
+        "need_reasoning": false
+    }
+]

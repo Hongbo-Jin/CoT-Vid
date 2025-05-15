@@ -1,0 +1,34 @@
+[
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/Z4HGQL_McDQ.mp4",
+        "question_id": "1112",
+        "question": "What is the yellow semi-circular tool used by black clad engineers in cars?",
+        "answer_number": 3,
+        "candidates": [
+            "A.  Wheel",
+            "B.  Bearing",
+            "C.  Engine",
+            "D.  Brake caliper"
+        ],
+        "answer": "D.  Brake caliper",
+        "category": "tool_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/AeEYQ62t8hA.mp4",
+        "question_id": "4792",
+        "question": "After the host let go of the hand of the man in the drab suit, what is the interaction with him and the man with the white beard?",
+        "answer_number": 1,
+        "candidates": [
+            "A.  They shake hands with each other",
+            "B.  They hug together",
+            "C.  They kiss each other",
+            "D.  They cry together"
+        ],
+        "answer": "B.  They hug together",
+        "category": "tool_analysis",
+        "need_reasoning": false
+    }
+]

@@ -1,0 +1,226 @@
+[
+    {
+        "task_name": "MVBench Unexpected Action",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/MVBench/video/FunQA_test/test/test_humor/H_H_165_4617_4709.mp4",
+        "question_id": 0,
+        "question": "What actions led to the humorous event in the snowy setting?",
+        "answer_number": 0,
+        "candidates": [
+            "Child tossed a snowball and adult poured snow from shovel onto kid.",
+            "Kid slipped in snow trying to hit adult.",
+            "Adult retaliated to a kid's snowball with a shovel full of snow.",
+            "Kid kicked a snowball onto the adult."
+        ],
+        "answer": "Child tossed a snowball and adult poured snow from shovel onto kid.",
+        "need_reasoning": false,
+        "category": "causal_reasoning"
+    },
+    {
+        "task_name": "MVBench Unexpected Action",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/MVBench/video/FunQA_test/test/test_humor/H_H_20_3372_3540.mp4",
+        "question_id": 0,
+        "question": "How did the man enter the lavatory in the video?",
+        "answer_number": 3,
+        "candidates": [
+            "The man unlocked the door with a key.",
+            "The man used a code to unlock the door.",
+            "The man politely knocked before entering.",
+            "The man pushed the door open."
+        ],
+        "answer": "The man pushed the door open.",
+        "need_reasoning": false,
+        "category": "causal_reasoning"
+    },
+    {
+        "task_name": "MVBench Unexpected Action",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/MVBench/video/FunQA_test/test/test_humor/H_H_127_1628_1761.mp4",
+        "question_id": 0,
+        "question": "Why did the man in the video become a source of amusement?",
+        "answer_number": 3,
+        "candidates": [
+            "The man made no attempts to jump and stayed still.",
+            "The man jumped incredibly high right from the start.",
+            "His jump was flawless with no stumbles or errors.",
+            "He tried numerous times, then jumped low and stumbled."
+        ],
+        "answer": "He tried numerous times, then jumped low and stumbled.",
+        "need_reasoning": false,
+        "category": "causal_reasoning"
+    },
+    {
+        "task_name": "MVBench Unexpected Action",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/MVBench/video/FunQA_test/test/test_humor/H_H_196_0303_0504.mp4",
+        "question_id": 0,
+        "question": "What elements in the video contribute to its comedic nature?",
+        "answer_number": 2,
+        "candidates": [
+            "The man uses water to style his hair and he has a full head of hair.",
+            "The man is using a comb to style his hair and is completely bald.",
+            "Using flames to style his hair and the man's partial baldness.",
+            "The scene features a man cutting his own hair with scissors."
+        ],
+        "answer": "Using flames to style his hair and the man's partial baldness.",
+        "need_reasoning": false,
+        "category": "causal_reasoning"
+    },
+    {
+        "task_name": "MVBench Unexpected Action",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/MVBench/video/FunQA_test/test/test_humor/H_H_125_2858_3029.mp4",
+        "question_id": 0,
+        "question": "What action in the video led to a comedic outcome?",
+        "answer_number": 2,
+        "candidates": [
+            "The wall was unexpectedly strong.",
+            "The worker was unable to use the hammer effectively.",
+            "The wall was surprisingly knocked down with ease.",
+            "The worker decided to quit his job."
+        ],
+        "answer": "The wall was surprisingly knocked down with ease.",
+        "need_reasoning": false,
+        "category": "causal_reasoning"
+    },
+    {
+        "task_name": "MVBench Unexpected Action",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/MVBench/video/FunQA_test/test/test_creative/C_KT_30_0810_0857.mp4",
+        "question_id": 0,
+        "question": "What elements in the video contribute to the suspense and excitement?",
+        "answer_number": 3,
+        "candidates": [
+            "Clear steps and splendid display.",
+            "Use of modern technology and special effects.",
+            "Diverse colors and lighting effects.",
+            "Forest background, lion roars, and woman's cry."
+        ],
+        "answer": "Forest background, lion roars, and woman's cry.",
+        "need_reasoning": false,
+        "category": "causal_reasoning"
+    },
+    {
+        "task_name": "MVBench Unexpected Action",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/MVBench/video/FunQA_test/test/test_magic/M_Z_30_5780_6125.mp4",
+        "question_id": 0,
+        "question": "What elements contribute to the illusion in the video?",
+        "answer_number": 0,
+        "candidates": [
+            "A model airplane cannot become a real airplane.",
+            "The background music creates an immersive experience.",
+            "A toy car can turn into a real car.",
+            "The color of an object can be altered instantly."
+        ],
+        "answer": "A model airplane cannot become a real airplane.",
+        "need_reasoning": false,
+        "category": "causal_reasoning"
+    },
+    {
+        "task_name": "MVBench Unexpected Action",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/MVBench/video/FunQA_test/test/test_magic/M_Z_206_4085_4350.mp4",
+        "question_id": 0,
+        "question": "Why is it impossible for a child to walk on hovering grasslands?",
+        "answer_number": 1,
+        "candidates": [
+            "Because the child is afraid of heights.",
+            "Because grasslands can not float in the sky.",
+            "Because grasslands are too big.",
+            "Because children cannot walk on air."
+        ],
+        "answer": "Because grasslands can not float in the sky.",
+        "need_reasoning": false,
+        "category": "causal_reasoning"
+    },
+    {
+        "task_name": "MVBench Unexpected Action",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/MVBench/video/FunQA_test/test/test_magic/M_Z_259_0000_0141.mp4",
+        "question_id": 0,
+        "question": "What explains the mysterious disappearance of the object in the video?",
+        "answer_number": 1,
+        "candidates": [
+            "The drawer is a portal to another dimension.",
+            "The object must still be present in the drawer.",
+            "Someone took it out when we were not looking.",
+            "The object was never in the drawer."
+        ],
+        "answer": "The object must still be present in the drawer.",
+        "need_reasoning": false,
+        "category": "causal_reasoning"
+    },
+    {
+        "task_name": "MVBench Unexpected Action",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/MVBench/video/FunQA_test/test/test_magic/M_Z_31_5331_6294.mp4",
+        "question_id": 0,
+        "question": "What elements in the video contribute to its sense of fantasy?",
+        "answer_number": 1,
+        "candidates": [
+            "Ordinary people performing everyday tasks.",
+            "Projector displays attire, human climbs ceiling.",
+            "Documentary showcases diverse wildlife species.",
+            "Scientific theories discussed in depth."
+        ],
+        "answer": "Projector displays attire, human climbs ceiling.",
+        "need_reasoning": false,
+        "category": "causal_reasoning"
+    },
+    {
+        "task_name": "MVBench Unexpected Action",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/MVBench/video/FunQA_test/test/test_magic/M_Z_21_0864_1280.mp4",
+        "question_id": 0,
+        "question": "Why is the man unable to grab the snacks from the window above?",
+        "answer_number": 0,
+        "candidates": [
+            "The computer screen prevents physical interaction.",
+            "The man does not have sufficient strength.",
+            "The windows are too high for him to reach.",
+            "The snacks are virtual and cannot be touched."
+        ],
+        "answer": "The computer screen prevents physical interaction.",
+        "need_reasoning": false,
+        "category": "causal_reasoning"
+    },
+    {
+        "task_name": "MVBench Unexpected Action",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/MVBench/video/FunQA_test/test/test_magic/M_Z_23_1345_1620.mp4",
+        "question_id": 0,
+        "question": "Why can the coins not appear magically in the video?",
+        "answer_number": 1,
+        "candidates": [
+            "Magic tricks are allowed in videos.",
+            "Objects cannot appear out of thin air.",
+            "Coins can typically appear out of thin air.",
+            "The director did not want them to appear."
+        ],
+        "answer": "Objects cannot appear out of thin air.",
+        "need_reasoning": false,
+        "category": "causal_reasoning"
+    },
+    {
+        "task_name": "MVBench Unexpected Action",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/MVBench/video/FunQA_test/test/test_magic/M_Z_333_7182_7446.mp4",
+        "question_id": 0,
+        "question": "Why is the sudden appearance of a tree and two Christmas stockings indoors considered impossible?",
+        "answer_number": 0,
+        "candidates": [
+            "Because things cannot appear out of thin air.",
+            "Because it interrupts the video sequence.",
+            "Because it obstructs the view.",
+            "Because it requires a lot of space."
+        ],
+        "answer": "Because things cannot appear out of thin air.",
+        "need_reasoning": false,
+        "category": "causal_reasoning"
+    },
+    {
+        "task_name": "MVBench Unexpected Action",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/MVBench/video/FunQA_test/test/test_magic/M_Z_261_2395_2790.mp4",
+        "question_id": 0,
+        "question": "What principle explains the unchanging position of a person in the video even when wearing a hat?",
+        "answer_number": 1,
+        "candidates": [
+            "The color of the hat influences spatial perception.",
+            "The location of a person cannot alter without movement.",
+            "The style of the hat can manipulate surroundings.",
+            "The speed of a person dictates their location."
+        ],
+        "answer": "The location of a person cannot alter without movement.",
+        "need_reasoning": false,
+        "category": "causal_reasoning"
+    }
+]

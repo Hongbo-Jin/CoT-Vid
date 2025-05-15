@@ -1,0 +1,66 @@
+[
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/TZ0j6kr4ZJ0.mp4",
+        "question_id": "1430",
+        "question": "What is the number of the student trainer that is further away from the camera compared to the 9772 student trainer?",
+        "answer_number": 3,
+        "candidates": [
+            "A.  9964",
+            "B.  9946",
+            "C.  9679",
+            "D.  9619"
+        ],
+        "answer": "D.  9619",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/-WnyRMZqV1U.mp4",
+        "question_id": "1753",
+        "question": "Compared to the character the Best Actor portrayed in the movie, the Best Actor winner is ___ on the stage.",
+        "answer_number": 0,
+        "candidates": [
+            "A.  More built",
+            "B.  Quieter",
+            "C.  More animated",
+            "D.  Slimer"
+        ],
+        "answer": "A.  More built",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/_T2Avd3tFHc.mp4",
+        "question_id": "2884",
+        "question": "Compared to most other amusement parks, the one the vlogger team visits in the afternoon on the first day is ___.",
+        "answer_number": 0,
+        "candidates": [
+            "A.  Not well maintained",
+            "B.  Not as well functioning",
+            "C.  Smaller",
+            "D.  More modern"
+        ],
+        "answer": "A.  Not well maintained",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/hjoDzK0siaM.mp4",
+        "question_id": "4227",
+        "question": "What are the differences in attire between the second and third contestants?",
+        "answer_number": 0,
+        "candidates": [
+            "A.  There are no differences because they are from the same national team",
+            "B.  The styles are completely different, but the color distribution is consistent",
+            "C.  The color schemes are completely different, but the styles are similar",
+            "D.  The attire of the third contestant is the mirror image of the second contestant's"
+        ],
+        "answer": "A.  There are no differences because they are from the same national team",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    }
+]

@@ -1,0 +1,1506 @@
+[
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/Cm73ma6Ibcs.mp4",
+        "question_id": "65",
+        "question": "Why are the mother and child, who line in front of the protagonist, unable to enter the city?",
+        "answer_number": 0,
+        "candidates": [
+            "A.  They do not bribe the guard",
+            "B.  They are foreigners",
+            "C.  They bring illegal weapons",
+            "D.  They do not have a pass"
+        ],
+        "answer": "A.  They do not bribe the guard",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/Cm73ma6Ibcs.mp4",
+        "question_id": "73",
+        "question": "Why does the protagonist tie iron to her limbs?",
+        "answer_number": 0,
+        "candidates": [
+            "A.  Because she wants to strength her body",
+            "B.  Because irons are decorations",
+            "C.  Because she has superpower and iron surpress it",
+            "D.  Because tying iron is a culture tradition"
+        ],
+        "answer": "A.  Because she wants to strength her body",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/Cm73ma6Ibcs.mp4",
+        "question_id": "78",
+        "question": "Why does the protagonist aim her sword at the cook?",
+        "answer_number": 3,
+        "candidates": [
+            "A.  Because he is a spy",
+            "B.  Because he wants to steal the sword",
+            "C.  Because he wants to challenge the protagonist",
+            "D.  Because he finds out that the protagonist is a woman"
+        ],
+        "answer": "D.  Because he finds out that the protagonist is a woman",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/q01CUy_gwdU.mp4",
+        "question_id": "121",
+        "question": "Why does the man follow the woman in red after they meet for the third time?",
+        "answer_number": 3,
+        "candidates": [
+            "A.  He falls in love with the woman",
+            "B.  He is a spy",
+            "C.  The woman has his phone",
+            "D.  The woman has his book"
+        ],
+        "answer": "D.  The woman has his book",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/28CIeC8cZks.mp4",
+        "question_id": "203",
+        "question": "Why does the girl wear a mask in the video?",
+        "answer_number": 2,
+        "candidates": [
+            "A.  Because she's participating in a costume party",
+            "B.  Because it's a fashion statement",
+            "C.  She wants to know where someone is",
+            "D.  Because she's trying to hide her identity"
+        ],
+        "answer": "C.  She wants to know where someone is",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/TJR1oYDDTwg.mp4",
+        "question_id": "277",
+        "question": "Why is the king so happy after using the telescope?",
+        "answer_number": 3,
+        "candidates": [
+            "A.  Because the king is curious about binoculars",
+            "B.  Because he sees his children greeting him",
+            "C.  Because he sees the first prize",
+            "D.  The villain makes a fool of himself because his sleigh caught fire"
+        ],
+        "answer": "D.  The villain makes a fool of himself because his sleigh caught fire",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/HfEVEGf1A8Q.mp4",
+        "question_id": "399",
+        "question": "Why doesn't the vampire want the lollipop?",
+        "answer_number": 3,
+        "candidates": [
+            "A.  Because he thinks it is child who eat lollipop",
+            "B.  Because he can't eat lollipop",
+            "C.  Because he doesn't like lollipop",
+            "D.  Because he thinks the lollipop is dirty"
+        ],
+        "answer": "D.  Because he thinks the lollipop is dirty",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/HfEVEGf1A8Q.mp4",
+        "question_id": "407",
+        "question": "Why the girl faints after the Frankenstein enters the room in the night she hides in the cabinet?",
+        "answer_number": 1,
+        "candidates": [
+            "A.  She is scared by a ghost hunter",
+            "B.  She is scared by a zombie's head",
+            "C.  She is scared by a vampire",
+            "D.  She is scared by the Frankenstein"
+        ],
+        "answer": "B.  She is scared by a zombie's head",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/HfEVEGf1A8Q.mp4",
+        "question_id": "410",
+        "question": "Why does vampire bang his head on a table?",
+        "answer_number": 1,
+        "candidates": [
+            "A.  He have no money to compensate",
+            "B.  The girl is noisy and doesn't study hard",
+            "C.  He is hungry",
+            "D.  He is nervous"
+        ],
+        "answer": "B.  The girl is noisy and doesn't study hard",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/2sriHX3PbXw.mp4",
+        "question_id": "508",
+        "question": "Why do the two women break down and cover their ears?",
+        "answer_number": 3,
+        "candidates": [
+            "A.  Because they can not finish the chores",
+            "B.  Because the neighbor is renovating the house",
+            "C.  Because there are dogs everywhere",
+            "D.  Because there are rats everywhere"
+        ],
+        "answer": "D.  Because there are rats everywhere",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/_zrgbA3FMVE.mp4",
+        "question_id": "657",
+        "question": "Why does the three girls run?",
+        "answer_number": 1,
+        "candidates": [
+            "A.  They are chasing the escaped pig",
+            "B.  They are afraid of being hit by a giant green cylinder",
+            "C.  They are comparing the running speed",
+            "D.  They are being chased by a man with a gun"
+        ],
+        "answer": "B.  They are afraid of being hit by a giant green cylinder",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/_zrgbA3FMVE.mp4",
+        "question_id": "668",
+        "question": "Why does the boat where the man with gray hair in a suit sink into the river?",
+        "answer_number": 3,
+        "candidates": [
+            "A.  Because the girl with long black hair throws an explosive charge on his boat",
+            "B.  Because the girl with short black hair throws an explosive charge on his boat",
+            "C.  Because the girl with short red hair throws an explosive charge on his boat",
+            "D.  Because the girl with short blond hair throws an explosive charge on his boat"
+        ],
+        "answer": "D.  Because the girl with short blond hair throws an explosive charge on his boat",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/5dZ_lvDgevk.mp4",
+        "question_id": "903",
+        "question": "What is the relationship between the first two people appear in the video after the appearance of blue words 'TRUCK WASH' on a blue factory?",
+        "answer_number": 2,
+        "candidates": [
+            "A.  Colleagues",
+            "B.  Husband and wife",
+            "C.  Interviewer and interviewee",
+            "D.  Brother and sister"
+        ],
+        "answer": "C.  Interviewer and interviewee",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/xi6r3hZe5Tg.mp4",
+        "question_id": "1071",
+        "question": "What is the relationship between the lady in blue clothes and the kid in yellow clothes?",
+        "answer_number": 3,
+        "candidates": [
+            "A.  Friendship",
+            "B.  Stranger relationship",
+            "C.  Mother-child relationship",
+            "D.  Teacher-student relationship"
+        ],
+        "answer": "D.  Teacher-student relationship",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/aJI8XTa_DII.mp4",
+        "question_id": "1248",
+        "question": "After Yevgenia Albats spoke, how did Putin and Biden communicate in the next scene?",
+        "answer_number": 2,
+        "candidates": [
+            "A.  Communicate by letter",
+            "B.  Face-to-face communication",
+            "C.  Online video communication",
+            "D.  Communicate by telephone"
+        ],
+        "answer": "C.  Online video communication",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/IsdbCjlZ5cQ.mp4",
+        "question_id": "1570",
+        "question": "Why two sentences have red underlines on two different documents?",
+        "answer_number": 1,
+        "candidates": [
+            "A.  To highlight the central theme of the documentary, serving as a thematic anchor",
+            "B.  To support a specific point",
+            "C.  As evidence presented in a court trial",
+            "D.  To visually emphasize the theme of the two documents"
+        ],
+        "answer": "B.  To support a specific point",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/t-RtDI2RWQs.mp4",
+        "question_id": "1692",
+        "question": "Why does Gosling wear pink suit when performing?",
+        "answer_number": 0,
+        "candidates": [
+            "A.  Pink is theme color",
+            "B.  Pink brings good luck",
+            "C.  Pink grabs attention",
+            "D.  Pink is his favorite color"
+        ],
+        "answer": "A.  Pink is theme color",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/t-RtDI2RWQs.mp4",
+        "question_id": "1703",
+        "question": "Why is there letter on the screen when the Rock appears on the stage with another presenter?",
+        "answer_number": 0,
+        "candidates": [
+            "A.  It is the translation of an audio that is not English",
+            "B.  It is the auto-generated English subtitles",
+            "C.  It is the description of the next award name",
+            "D.  It is the description of the presenters"
+        ],
+        "answer": "A.  It is the translation of an audio that is not English",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/-hgaSElC3wU.mp4",
+        "question_id": "2567",
+        "question": "From how other cats treat the cat with the white cane, we can infer about its status?",
+        "answer_number": 1,
+        "candidates": [
+            "A.  There is no such thing as status for cats",
+            "B.  Its status is very high",
+            "C.  Its status is very low",
+            "D.  Its status is similar to theirs"
+        ],
+        "answer": "B.  Its status is very high",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/hROKtPqktO8.mp4",
+        "question_id": "2657",
+        "question": "Why can't the vlogger close her mouth at 28:00?",
+        "answer_number": 1,
+        "candidates": [
+            "A.  Because the food is so delicious",
+            "B.  Because the food tastes weird",
+            "C.  Because the food is so hard",
+            "D.  Because her jaw is dislocated"
+        ],
+        "answer": "B.  Because the food tastes weird",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/tH_5YbklevQ.mp4",
+        "question_id": "2689",
+        "question": "What is the most possible relationship between the woman in white robe and the vlogger?",
+        "answer_number": 3,
+        "candidates": [
+            "A.  Teacher-student relationship",
+            "B.  Friendship",
+            "C.  Brother-sister relationship",
+            "D.  Boyfriend and girlfriend"
+        ],
+        "answer": "D.  Boyfriend and girlfriend",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/USfvmoalqsw.mp4",
+        "question_id": "2728",
+        "question": "Why does the vlogger wear a white accessory?",
+        "answer_number": 0,
+        "candidates": [
+            "A.  It is culture cloth to give to the guests",
+            "B.  It is a gift from his girlfriend",
+            "C.  It is a fashion piece for newest trend",
+            "D.  It is a tool for sun protection"
+        ],
+        "answer": "A.  It is culture cloth to give to the guests",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/USfvmoalqsw.mp4",
+        "question_id": "2733",
+        "question": "Why is the vlogger happy to see two Bhutanese who wear brown clothes and fake leaves hats?",
+        "answer_number": 2,
+        "candidates": [
+            "A.  They are dancing and giving traditional gifts to the vlogger",
+            "B.  They are giving traditional gifts to the vlogger and are genuinely happy",
+            "C.  They are dancing and are genuinely happy",
+            "D.  They are dancing, giving traditional gifts to the vlogger and are genuinely happy"
+        ],
+        "answer": "C.  They are dancing and are genuinely happy",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/USfvmoalqsw.mp4",
+        "question_id": "2746",
+        "question": "Why does the vlogger's team park the car on the side of the road?",
+        "answer_number": 0,
+        "candidates": [
+            "A.  They want to eat some fresh corn",
+            "B.  They want to make some friends",
+            "C.  They want to drink some water",
+            "D.  The car has something wrong"
+        ],
+        "answer": "A.  They want to eat some fresh corn",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/evYm0cELO3I.mp4",
+        "question_id": "2768",
+        "question": "Why does Sonny look so expected at 07:27?",
+        "answer_number": 1,
+        "candidates": [
+            "A.  He wants to eat the Lobster Quesadilla",
+            "B.  He wants to eat the Bohemian Lobster",
+            "C.  He wants to start the maritime navigation",
+            "D.  He enjoys the juicy cheese"
+        ],
+        "answer": "B.  He wants to eat the Bohemian Lobster",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/evYm0cELO3I.mp4",
+        "question_id": "2773",
+        "question": "Why does the vlogger take the whole tail of a lobster out?",
+        "answer_number": 3,
+        "candidates": [
+            "A.  To split more easily",
+            "B.  To ask the price",
+            "C.  To eat more easily",
+            "D.  To show the size"
+        ],
+        "answer": "D.  To show the size",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/RbpKkvlHYTw.mp4",
+        "question_id": "2807",
+        "question": "Why does the vlogger do push-ups in hotel?",
+        "answer_number": 2,
+        "candidates": [
+            "A.  He is in a push-up competition",
+            "B.  Hotel asks all guests to do so",
+            "C.  He eats too much food these days",
+            "D.  He is engaged in a workout"
+        ],
+        "answer": "C.  He eats too much food these days",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/Mcggugol2ts.mp4",
+        "question_id": "2815",
+        "question": "Why does the vlogger not take the Narita express?",
+        "answer_number": 3,
+        "candidates": [
+            "A.  Because the vlogger is a foreigner",
+            "B.  Because the vlogger comes too late and misses the train time",
+            "C.  Because the train is suspended",
+            "D.  Because the vlogger does not make a reservation"
+        ],
+        "answer": "D.  Because the vlogger does not make a reservation",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/uusf1qG_uZ4.mp4",
+        "question_id": "3171",
+        "question": "Why does Boss Baby sneak JJ's birthday cake?",
+        "answer_number": 0,
+        "candidates": [
+            "A.  Because he was hungry",
+            "B.  Because he doesn't like JJ",
+            "C.  Because he likes to eat sweets",
+            "D.  Because he wanted to play a trick"
+        ],
+        "answer": "A.  Because he was hungry",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/uusf1qG_uZ4.mp4",
+        "question_id": "3173",
+        "question": "Why does JJ look terrified after Boss Baby says 'It's boss boy'?",
+        "answer_number": 1,
+        "candidates": [
+            "A.  Because he is afraid of Boss Baby",
+            "B.  Because it reminds him of his nightmare",
+            "C.  Because he notices something that scares him",
+            "D.  Because he doesn't want to be woke up"
+        ],
+        "answer": "B.  Because it reminds him of his nightmare",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/uusf1qG_uZ4.mp4",
+        "question_id": "3177",
+        "question": "Why does Janice act so nice?",
+        "answer_number": 2,
+        "candidates": [
+            "A.  Because she is a nice person",
+            "B.  Because she treats other kids as good friends",
+            "C.  Because her mom is the teacher",
+            "D.  Because she is happy to see the visitors"
+        ],
+        "answer": "C.  Because her mom is the teacher",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/uusf1qG_uZ4.mp4",
+        "question_id": "3181",
+        "question": "Why is the daycare teacher very irritable with the kids?",
+        "answer_number": 0,
+        "candidates": [
+            "A.  She receives a hefty fine by mistake",
+            "B.  She goes through a breakup",
+            "C.  She doesn't like these kids",
+            "D.  She doesn't like her job"
+        ],
+        "answer": "A.  She receives a hefty fine by mistake",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/rSE2YPcv89U.mp4",
+        "question_id": 3642,
+        "question": "Why did Player number 4 in white push down Player number 17 in purple during the match?",
+        "answer_number": 2,
+        "candidates": [
+            "A.  Player number 4 in white was attempting to maneuver past Player number 17 in purple during an offensive play.",
+            "B.  Player number 4 in white was retaliating for an earlier foul by Player number 17 in purple.",
+            "C.  Player number 4 in white was making a defensive play to prevent Player number 17 in purple from successfully dribbling past him.",
+            "D.  It was an accidental collision as both players were competing for the ball."
+        ],
+        "answer": "C.  Player number 4 in white was making a defensive play to prevent Player number 17 in purple from successfully dribbling past him.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/T1yhBv1ytzw.mp4",
+        "question_id": "3789",
+        "question": "Why does Elliott fall at 42:37?",
+        "answer_number": 2,
+        "candidates": [
+            "A.  His leg hurts",
+            "B.  His bowl hurts",
+            "C.  His head hurts",
+            "D.  His knee hurts"
+        ],
+        "answer": "C.  His head hurts",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/Xjf5N9S3jAA.mp4",
+        "question_id": "3963",
+        "question": "Why was the start of this game considered awful?",
+        "answer_number": 1,
+        "candidates": [
+            "A.  Because Djokovic was distracted when he plays",
+            "B.  Because Tsitsipas lost the first point due to a service error",
+            "C.  Because the level of the two athletes were very poor",
+            "D.  Because their skills were too high to be enjoyable to watch"
+        ],
+        "answer": "B.  Because Tsitsipas lost the first point due to a service error",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/tKIFQI9cH2c.mp4",
+        "question_id": "3978",
+        "question": "Why is the score 0-30 after the second ball?",
+        "answer_number": 2,
+        "candidates": [
+            "A.  Serena's nother backhand error takes it to 0-30",
+            "B.  Serena's chip and charge",
+            "C.  Venus's nother backhand error takes it to 0-30",
+            "D.  Venus's chip and charge"
+        ],
+        "answer": "C.  Venus's nother backhand error takes it to 0-30",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/vZV2WCKMsKs.mp4",
+        "question_id": "4684",
+        "question": "Why do the four judges stand up for Amber and Nymeria?",
+        "answer_number": 3,
+        "candidates": [
+            "A.  Because they are so touched about Nymeria's performance",
+            "B.  Because they are so traumatised about Nymeria's performance errors",
+            "C.  Because they are so sad about Nymeria's performance errors",
+            "D.  Because they are so excited about Nymeria's performance"
+        ],
+        "answer": "D.  Because they are so excited about Nymeria's performance",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/vZV2WCKMsKs.mp4",
+        "question_id": "4699",
+        "question": "Why does Miracle's owner play a video clip?",
+        "answer_number": 3,
+        "candidates": [
+            "A.  To explain why Miracle becomes so beautiful",
+            "B.  To explain why Miracle' gets hurt",
+            "C.  To explain why Miracle's owner cries",
+            "D.  To explain why Miracle's owner have over 40 dogs"
+        ],
+        "answer": "D.  To explain why Miracle's owner have over 40 dogs",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/Vk_Af0htZGU.mp4",
+        "question_id": "5052",
+        "question": "Why are the audience so happy at 04:19?",
+        "answer_number": 3,
+        "candidates": [
+            "A.  A joyful event unfolds on stage, eliciting cheers from the audience",
+            "B.  The male protagonist delivers an unexpected surprise to the audience",
+            "C.  The audience reacts positively to a heartwarming gesture made by one of the characters",
+            "D.  The wife next to the male protagonist on the screen and the female protagonist are engaged in a heated argument"
+        ],
+        "answer": "D.  The wife next to the male protagonist on the screen and the female protagonist are engaged in a heated argument",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/qAIRFyR6NyQ.mp4",
+        "question_id": "10",
+        "question": "Why does the family use candle for illumination?",
+        "answer_number": 2,
+        "candidates": [
+            "A.  Power supply is disrupted",
+            "B.  One family member is allergic to electric light",
+            "C.  There is no electricity in the attic",
+            "D.  One family member wants cozy atmosphere"
+        ],
+        "answer": "C.  There is no electricity in the attic",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/qAIRFyR6NyQ.mp4",
+        "question_id": "22",
+        "question": "Why are the people cheering and jumping for joy in the video?",
+        "answer_number": 2,
+        "candidates": [
+            "A.  Because they win a competition",
+            "B.  Because they find a treasure",
+            "C.  Because the Allies make a comeback",
+            "D.  Because the war ends"
+        ],
+        "answer": "C.  Because the Allies make a comeback",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/Za2Z_JRxCuk.mp4",
+        "question_id": "47",
+        "question": "Why does the tall man cut off the chains at 21:49?",
+        "answer_number": 1,
+        "candidates": [
+            "A.  To open the gate",
+            "B.  To blow out the candles",
+            "C.  To trigger a trap",
+            "D.  To help the character"
+        ],
+        "answer": "B.  To blow out the candles",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/qYMnM5blZIE.mp4",
+        "question_id": "296",
+        "question": "What can be inferred about the interaction between the ladybugs and the coconut?",
+        "answer_number": 3,
+        "candidates": [
+            "A.  The coconut is hard. From sunset to late night, the ladybugs can not open it",
+            "B.  The coconut is hard. From noon to sunset, the ladybugs can not open it",
+            "C.  The whole process takes a long time, from sunset to late night",
+            "D.  The whole process takes a long time, from noon to sunset"
+        ],
+        "answer": "D.  The whole process takes a long time, from noon to sunset",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/gXnhqF0TqqI.mp4",
+        "question_id": "344",
+        "question": "Why does the first animal appear in the cartoon rub his eyes?",
+        "answer_number": 0,
+        "candidates": [
+            "A.  The river water is shiny",
+            "B.  The sun is shiny",
+            "C.  The star is shiny",
+            "D.  The river water is risky"
+        ],
+        "answer": "A.  The river water is shiny",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/81SbCR6p3Z0.mp4",
+        "question_id": "542",
+        "question": "Why does the gardener suddenly laugh from 14:15-14:18?",
+        "answer_number": 0,
+        "candidates": [
+            "A.  Because the little girl falls, he is mocking",
+            "B.  Because he also likes skipping rope",
+            "C.  Because he is very happy to see the flowers blooming",
+            "D.  Because he feels happy working"
+        ],
+        "answer": "A.  Because the little girl falls, he is mocking",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/81SbCR6p3Z0.mp4",
+        "question_id": "543",
+        "question": "What is the relationship between two people on the screen from 27:20-27:25?",
+        "answer_number": 1,
+        "candidates": [
+            "A.  A romantic relationship",
+            "B.  Good friend",
+            "C.  Father daughter relationship",
+            "D.  Siblings"
+        ],
+        "answer": "B.  Good friend",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/81SbCR6p3Z0.mp4",
+        "question_id": "552",
+        "question": "Why does the girl pick up a handful of water during 43:22-43:27?",
+        "answer_number": 2,
+        "candidates": [
+            "A.  Because she wants to wash her face",
+            "B.  Because she wants to drink water",
+            "C.  Because she wants to water the flowers",
+            "D.  Because she wants to give the boy water"
+        ],
+        "answer": "C.  Because she wants to water the flowers",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/81SbCR6p3Z0.mp4",
+        "question_id": "555",
+        "question": "Why does the boy fall during 45:01-45:07?",
+        "answer_number": 0,
+        "candidates": [
+            "A.  Because he is sick and unable to stand",
+            "B.  Because he suddenly faints due to hypoglycemia",
+            "C.  Because he suddenly falls asleep and collapses",
+            "D.  Because he accidentally trips over a stone"
+        ],
+        "answer": "A.  Because he is sick and unable to stand",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/81SbCR6p3Z0.mp4",
+        "question_id": "556",
+        "question": "Why does the man wearing a hat smile from 46:20-46:25?",
+        "answer_number": 3,
+        "candidates": [
+            "A.  The boy almost falls, he is mocking",
+            "B.  He sees the boy making good friends and smiles proudly",
+            "C.  He catches the boy who is about to fall and smiles proudly",
+            "D.  The boy can stand up and walk, and he feels relieved"
+        ],
+        "answer": "D.  The boy can stand up and walk, and he feels relieved",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/QgWRyDV9Ozs.mp4",
+        "question_id": "628",
+        "question": "Why does the dog become agitated when Thumbelina comes out of the teapot to talk to the prince?",
+        "answer_number": 3,
+        "candidates": [
+            "A.  Because the prince stabs the dog with his sword",
+            "B.  Because the prince and Thumbelina has a conflict",
+            "C.  Because the dog is awakened by them and is angry",
+            "D.  Because the dog thinks the prince is a danger to Thumbelina"
+        ],
+        "answer": "D.  Because the dog thinks the prince is a danger to Thumbelina",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/QgWRyDV9Ozs.mp4",
+        "question_id": "635",
+        "question": "What is the relationship between the three characters who appear at 35:29?",
+        "answer_number": 3,
+        "candidates": [
+            "A.  The relationship between friends and opponents",
+            "B.  The relationship between teachers and students",
+            "C.  The relationship between superiors and subordinates",
+            "D.  The relationship between parents and children"
+        ],
+        "answer": "D.  The relationship between parents and children",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/pXD3txG2bVQ.mp4",
+        "question_id": "735",
+        "question": "Why does the man with the mustache chase the bird when boy, cat, and dog carrying treasure chest, shovel and pickaxe back?",
+        "answer_number": 1,
+        "candidates": [
+            "A.  The bird holds his hat",
+            "B.  The bird holds his coin",
+            "C.  The bird holds his box",
+            "D.  The bird holds his letter"
+        ],
+        "answer": "B.  The bird holds his coin",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/pXD3txG2bVQ.mp4",
+        "question_id": "746",
+        "question": "Why does the cat looks so happy while it is operating the sewing machine?",
+        "answer_number": 2,
+        "candidates": [
+            "A.  The dog comes",
+            "B.  The old man comes",
+            "C.  The boy comes",
+            "D.  The couple comes"
+        ],
+        "answer": "C.  The boy comes",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/RjDrZkBwzho.mp4",
+        "question_id": "760",
+        "question": "Why does the mice run away?",
+        "answer_number": 0,
+        "candidates": [
+            "A.  Because the black cat sheriff calls the police",
+            "B.  Because they meet more powerful mice",
+            "C.  Because their boss is injured",
+            "D.  Because the owner of the house is back"
+        ],
+        "answer": "A.  Because the black cat sheriff calls the police",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/RjDrZkBwzho.mp4",
+        "question_id": "771",
+        "question": "Why does \"one ear\" change its name to \"one ear\"?",
+        "answer_number": 3,
+        "candidates": [
+            "A.  Because it has an ear bitten off by a cat",
+            "B.  Because one of its ears is pulled off",
+            "C.  Because one of its ears is cut off by a knife",
+            "D.  Because one of its ears is shot off"
+        ],
+        "answer": "D.  Because one of its ears is shot off",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/XNtNNplAwiI.mp4",
+        "question_id": "786",
+        "question": "Why is this old man shaking when he appears?",
+        "answer_number": 1,
+        "candidates": [
+            "A.  He feels excited",
+            "B.  He feels cold",
+            "C.  He feels shocked",
+            "D.  He feels scared"
+        ],
+        "answer": "B.  He feels cold",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/KktLi3UifPY.mp4",
+        "question_id": "1167",
+        "question": "What is the possible reason why two hosts are standing on the roadside with bowls in their hands?",
+        "answer_number": 2,
+        "candidates": [
+            "A.  Because eating noodles is not allowed inside the 711 convenience store",
+            "B.  Because filming is not allowed inside the 711 convenience store",
+            "C.  Because they buy ramen from a convenience store, and there are no seats inside",
+            "D.  Because they are waiting for a bus at the bus stop"
+        ],
+        "answer": "C.  Because they buy ramen from a convenience store, and there are no seats inside",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/KktLi3UifPY.mp4",
+        "question_id": "1180",
+        "question": "Why does the worker pour the small fish from the blue basket into the large container?",
+        "answer_number": 2,
+        "candidates": [
+            "A.  Drying them",
+            "B.  Cleaning them",
+            "C.  Cooking them",
+            "D.  Mincing them"
+        ],
+        "answer": "C.  Cooking them",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/uW9mcG0rdLY.mp4",
+        "question_id": "1348",
+        "question": "Why did the person jump up at the end of the clip that has a white reticle at the center?",
+        "answer_number": 2,
+        "candidates": [
+            "A.  This person witnessed people hunting orca on the beach, so the person was angry",
+            "B.  This person saw an orca hunting elephant seals on the beach, so he attempted to drive away the orca",
+            "C.  This person and their companions successfully helped a stranded orca return to the ocean, so the person was happy",
+            "D.  This person captured a rare sighting of an orca on the beach, so the person was happy"
+        ],
+        "answer": "C.  This person and their companions successfully helped a stranded orca return to the ocean, so the person was happy",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/uW9mcG0rdLY.mp4",
+        "question_id": "1354",
+        "question": "Why is the penguin lying down at 22:14?",
+        "answer_number": 0,
+        "candidates": [
+            "A.  It is knocked over by a wave",
+            "B.  It is getting ready to enter the sea",
+            "C.  It is preparing to catch fish",
+            "D.  It just finished swimming and comes ashore"
+        ],
+        "answer": "A.  It is knocked over by a wave",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/TZ0j6kr4ZJ0.mp4",
+        "question_id": "1417",
+        "question": "Why is there so much water on the road in the video?",
+        "answer_number": 0,
+        "candidates": [
+            "A.  Because rising sea levels caused the water to inundate the road",
+            "B.  Due to a burst pipe",
+            "C.  Because of melting ice",
+            "D.  Because of heavy rainfall"
+        ],
+        "answer": "A.  Because rising sea levels caused the water to inundate the road",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/ihfjEFGdZdc.mp4",
+        "question_id": "1593",
+        "question": "Why is everyone celebrating after the test drive is over?",
+        "answer_number": 2,
+        "candidates": [
+            "A.  Because they really like the car",
+            "B.  Because Andy shows off his skills during the test drive",
+            "C.  Because Andy drives to a very fast speed",
+            "D.  Because there is no accident during the test drive"
+        ],
+        "answer": "C.  Because Andy drives to a very fast speed",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/-WnyRMZqV1U.mp4",
+        "question_id": "1749",
+        "question": "What is the relationship between Bong Joon Ho and the elderly man whom people are standing up and applauding for during his speech?",
+        "answer_number": 3,
+        "candidates": [
+            "A.  Actor and producer",
+            "B.  Employer and employee",
+            "C.  Father and son",
+            "D.  Senior producer and young producer"
+        ],
+        "answer": "D.  Senior producer and young producer",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/7HjNIPIgUg4.mp4",
+        "question_id": "1838",
+        "question": "What is the relationship between Ronaldo and the woman in the white dress sitting next to him?",
+        "answer_number": 0,
+        "candidates": [
+            "A.  Husband and wife relationship",
+            "B.  Friendships",
+            "C.  It does not matter",
+            "D.  Sister and brother relationship"
+        ],
+        "answer": "A.  Husband and wife relationship",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/16Z-XQh9jhk.mp4",
+        "question_id": "2271",
+        "question": "Why doesn't the dancer in red tights have hair?",
+        "answer_number": 1,
+        "candidates": [
+            "A.  Because they cut their hair short",
+            "B.  Because they wrapped their hair in tights",
+            "C.  Because they are a buzz cut",
+            "D.  Because they shaved their heads"
+        ],
+        "answer": "B.  Because they wrapped their hair in tights",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/QB7FoIpx8os.mp4",
+        "question_id": "2483",
+        "question": "Why does the camera suddenly cut at 13:28 in the video?",
+        "answer_number": 3,
+        "candidates": [
+            "A.  Because there was a loud noise off-camera",
+            "B.  Because the lighting suddenly changed",
+            "C.  Because there was a technical glitch",
+            "D.  Because the second speaker is scratching their nose to avoid an awkward moment"
+        ],
+        "answer": "D.  Because the second speaker is scratching their nose to avoid an awkward moment",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/KbahC-QCKU8.mp4",
+        "question_id": "2597",
+        "question": "Why are the vlogger family members so happy at 22:03?",
+        "answer_number": 3,
+        "candidates": [
+            "A.  They catch a king crab by themselves and it taste good",
+            "B.  They buy a king crab and it taste good",
+            "C.  They have starve for a long time",
+            "D.  The locals present him with a king crab and it taste good"
+        ],
+        "answer": "D.  The locals present him with a king crab and it taste good",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/KbahC-QCKU8.mp4",
+        "question_id": "2601",
+        "question": "Why does the vlogger point the barrel of the gun toward his mouth?",
+        "answer_number": 0,
+        "candidates": [
+            "A.  He is trying to clear the barrel of the gun",
+            "B.  He is trying to get the most excitement",
+            "C.  He is trying to commit suicide",
+            "D.  No information"
+        ],
+        "answer": "A.  He is trying to clear the barrel of the gun",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/RCAqKnvu_P0.mp4",
+        "question_id": "2900",
+        "question": "Why does everything go smoothly after the vlogger exits the airport?",
+        "answer_number": 0,
+        "candidates": [
+            "A.  Because there are so many signages here",
+            "B.  Because there are so many wokers here",
+            "C.  Because there are friends to give some help",
+            "D.  Because the author fully prepares"
+        ],
+        "answer": "A.  Because there are so many signages here",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/RCAqKnvu_P0.mp4",
+        "question_id": "2919",
+        "question": "Why is the refrigerator at the vlogger's hotel full?",
+        "answer_number": 3,
+        "candidates": [
+            "A.  Hotel offers a meal prep service",
+            "B.  Hotel provides a complimentary minibar",
+            "C.  The vlogger has lots of leftover food",
+            "D.  The vlogger shares the refrigerator with other guests"
+        ],
+        "answer": "D.  The vlogger shares the refrigerator with other guests",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/LLSJrEgOOtw.mp4",
+        "question_id": "3235",
+        "question": "Why do they go to the wooden cabin?",
+        "answer_number": 1,
+        "candidates": [
+            "A.  They go to the wooden cabin to find their son",
+            "B.  They go to the wooden cabin to cook",
+            "C.  They go to the wooden cabin to have a cup of tea",
+            "D.  They go to the wooden cabin to seek shelter from the rain"
+        ],
+        "answer": "B.  They go to the wooden cabin to cook",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/1FsiZgGZU70.mp4",
+        "question_id": "3424",
+        "question": "What evidence can be used to infer the vlog is filmed on two days?",
+        "answer_number": 3,
+        "candidates": [
+            "A.  The words written on the screen",
+            "B.  The difference in makeup on the vlogger's face",
+            "C.  The date on the vlogger's phone",
+            "D.  The sun changes to moon through the vlogger's sunglasses"
+        ],
+        "answer": "D.  The sun changes to moon through the vlogger's sunglasses",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/jp2M1hIEtsk.mp4",
+        "question_id": "3469",
+        "question": "Why does the vlogger take the flowers out of the bottle?",
+        "answer_number": 3,
+        "candidates": [
+            "A.  She doesn't like these flowers any more",
+            "B.  The flowers are dying",
+            "C.  She wants to replace it with some new flowers",
+            "D.  She wants to divide the flowers according to species"
+        ],
+        "answer": "D.  She wants to divide the flowers according to species",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/jp2M1hIEtsk.mp4",
+        "question_id": "3474",
+        "question": "Why does the vlogger shake the white bag at 16:55-17:20?",
+        "answer_number": 2,
+        "candidates": [
+            "A.  To get the tomatoes mixed up with the seasoning",
+            "B.  To crash the ice",
+            "C.  To get the potatoes mixed up with the seasoning",
+            "D.  Just for fun"
+        ],
+        "answer": "C.  To get the potatoes mixed up with the seasoning",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/oZEVgDXJwCc.mp4",
+        "question_id": "3529",
+        "question": "Why is Puyol so sad at 15:06?",
+        "answer_number": 1,
+        "candidates": [
+            "A.  His team is goaled in by German",
+            "B.  His header doesn't result in a goal",
+            "C.  He is fouled by others",
+            "D.  He fouls"
+        ],
+        "answer": "B.  His header doesn't result in a goal",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/oZEVgDXJwCc.mp4",
+        "question_id": "3530",
+        "question": "Why doesn't German's first corner kick go in?",
+        "answer_number": 0,
+        "candidates": [
+            "A.  A finger-tip save from the goalkeeper",
+            "B.  Spain fouls",
+            "C.  No information",
+            "D.  Blocked by Spain"
+        ],
+        "answer": "A.  A finger-tip save from the goalkeeper",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/oZEVgDXJwCc.mp4",
+        "question_id": "3535",
+        "question": "Why does Spain get a free kick for the first time?",
+        "answer_number": 1,
+        "candidates": [
+            "A.  Boateng squares into the shoulder of Puyol",
+            "B.  Boateng squares into the shoulder of Iniesta",
+            "C.  Iniesta squares into the shoulder of Friedrich",
+            "D.  Iniesta squares into the shoulder of Boateng"
+        ],
+        "answer": "B.  Boateng squares into the shoulder of Iniesta",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/Hf-n1yfd8II.mp4",
+        "question_id": "3925",
+        "question": "Why does Lin Dan look so frustrated at 27:10?",
+        "answer_number": 1,
+        "candidates": [
+            "A.  He fails to beat the shuttlecock cross the net",
+            "B.  He beats the shuttlecock out of the bounds",
+            "C.  He  fails to return the shuttlecock before it lands",
+            "D.  He fails to catch the shuttlecock"
+        ],
+        "answer": "B.  He beats the shuttlecock out of the bounds",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/Hf-n1yfd8II.mp4",
+        "question_id": "3928",
+        "question": "Why does Lee Chong Wei lose the the most points for the first game?",
+        "answer_number": 1,
+        "candidates": [
+            "A.  Fail to return the shuttlecock",
+            "B.  Beat the shuttlecock out of bounds",
+            "C.  Fail to catch the shuttlecock",
+            "D.  Fail to beat the shuttlecock cross the net"
+        ],
+        "answer": "B.  Beat the shuttlecock out of bounds",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/JlrzSvCsIjE.mp4",
+        "question_id": "4004",
+        "question": "Why does Team USA lose the first point of the second game of the first set?",
+        "answer_number": 2,
+        "candidates": [
+            "A.  They are spiked",
+            "B.  They fail to hit the ball over the net",
+            "C.  They hit the ball out of bounds",
+            "D.  They fail to catch the ball"
+        ],
+        "answer": "C.  They hit the ball out of bounds",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/JlrzSvCsIjE.mp4",
+        "question_id": "4009",
+        "question": "Why is Tiafoe so happy when the game score is 1-1, point score is 40-0?",
+        "answer_number": 0,
+        "candidates": [
+            "A.  They score consecutively without losing a point",
+            "B.  They win that game without losing a point",
+            "C.  They win that set without losing a point",
+            "D.  He serves a nice ball"
+        ],
+        "answer": "A.  They score consecutively without losing a point",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/JlrzSvCsIjE.mp4",
+        "question_id": "4021",
+        "question": "Why does Tiafoe fall during the first score when the set score is 0-1, game score is 1-0?",
+        "answer_number": 0,
+        "candidates": [
+            "A.  He is hit by the ball",
+            "B.  He tries hard to hit the ball",
+            "C.  He steps on his shoelace",
+            "D.  The ground is slippery"
+        ],
+        "answer": "A.  He is hit by the ball",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/JlrzSvCsIjE.mp4",
+        "question_id": "4023",
+        "question": "Why does the lens focus on a number when the set score is 0-1, game score is 1-1, point score is 15-15?",
+        "answer_number": 0,
+        "candidates": [
+            "A.  The serve speed is really high",
+            "B.  The serve speed is really low",
+            "C.  The ball hit this number",
+            "D.  Someone is shouting around the number"
+        ],
+        "answer": "A.  The serve speed is really high",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/JlrzSvCsIjE.mp4",
+        "question_id": "4025",
+        "question": "Why do Tiafoe and Federer tap each other in the fourth game of the second set?",
+        "answer_number": 2,
+        "candidates": [
+            "A.  Tiafoe shows his apology for hit the ball on Federer's abdomen",
+            "B.  Tiafoe encourges Federer after winning the game",
+            "C.  Tiafoe shows his apology for hit the ball on Federer's head",
+            "D.  Tiafoe shows his apology for hit the ball on Federer's leg"
+        ],
+        "answer": "C.  Tiafoe shows his apology for hit the ball on Federer's head",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/cXDT44zT8JY.mp4",
+        "question_id": "4042",
+        "question": "Why is the referee clapping at 37:39 in the video?",
+        "answer_number": 0,
+        "candidates": [
+            "A.  Signaling the start of the match",
+            "B.  Applauding cheerfully",
+            "C.  For nothing",
+            "D.  Encouraging the players"
+        ],
+        "answer": "A.  Signaling the start of the match",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/cXDT44zT8JY.mp4",
+        "question_id": "4043",
+        "question": "At 42:40, why does the referee separate the two?",
+        "answer_number": 2,
+        "candidates": [
+            "A.  Because the referee gets the time wrong",
+            "B.  The referee wants to call it a day",
+            "C.  Because someone faints",
+            "D.  The fighter forfeits"
+        ],
+        "answer": "C.  Because someone faints",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/Aiem1w_TvaA.mp4",
+        "question_id": "4148",
+        "question": "Why does White Team No. 8 stand at the free throw line for the first time?",
+        "answer_number": 2,
+        "candidates": [
+            "A.  An Australian player fouls him dribbling",
+            "B.  An Australian player fouls him for passing the ball",
+            "C.  An Australian player fouls him on a three-pointer",
+            "D.  An Australian player fouls him on a layup"
+        ],
+        "answer": "C.  An Australian player fouls him on a three-pointer",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/Aiem1w_TvaA.mp4",
+        "question_id": "4152",
+        "question": "Why are the fans in the audience so excited from 45:14-50:00?",
+        "answer_number": 1,
+        "candidates": [
+            "A.  Because they are genuinely happy",
+            "B.  Because both teams performed very well",
+            "C.  Because Australian National Team performed very well",
+            "D.  Because United States National Team performed very well"
+        ],
+        "answer": "B.  Because both teams performed very well",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/Aiem1w_TvaA.mp4",
+        "question_id": "4161",
+        "question": "Why are the audience cheering when the score is 61-56?",
+        "answer_number": 2,
+        "candidates": [
+            "A.  Australia No. 14 scores a three-pointer",
+            "B.  The Australian team successfully defends the US team's attack",
+            "C.  Australia No. 6 scores a three-pointer",
+            "D.  Australia No. 5 scores a three-pointer"
+        ],
+        "answer": "C.  Australia No. 6 scores a three-pointer",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/Aiem1w_TvaA.mp4",
+        "question_id": "4162",
+        "question": "Why does James take free throws?",
+        "answer_number": 2,
+        "candidates": [
+            "A.  Australia No. 9 fouled James",
+            "B.  Australia No. 14 fouled James",
+            "C.  Australia No. 7 fouled James",
+            "D.  Because the Australian team had a technical foul"
+        ],
+        "answer": "C.  Australia No. 7 fouled James",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/9tBsMSDoDqk.mp4",
+        "question_id": "4603",
+        "question": "Why does Brynn Cummings' mother wipe away tears?",
+        "answer_number": 3,
+        "candidates": [
+            "A.  Although the girl fails, she completes her performance and receives applause from the audience, she is deeply moved",
+            "B.  The girl becomes the first place, so she is very happy",
+            "C.  The girl fails, so she is very sad",
+            "D.  The girl completes her performance and receives applause from the audience, she is nervous and excited"
+        ],
+        "answer": "D.  The girl completes her performance and receives applause from the audience, she is nervous and excited",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/vHlSoxg8WHo.mp4",
+        "question_id": "5067",
+        "question": "What's the relationship between Raymond and Jason?",
+        "answer_number": 2,
+        "candidates": [
+            "A.  Brothers",
+            "B.  Friends",
+            "C.  Cousins",
+            "D.  Father and son"
+        ],
+        "answer": "C.  Cousins",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/vHlSoxg8WHo.mp4",
+        "question_id": "5087",
+        "question": "What's the relationship between Brad and Lily?",
+        "answer_number": 0,
+        "candidates": [
+            "A.  Mother and son",
+            "B.  Sister and brother",
+            "C.  Couple",
+            "D.  Grandma and grandchind"
+        ],
+        "answer": "A.  Mother and son",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/pe_LddfHAUU.mp4",
+        "question_id": "5124",
+        "question": "Why the age for Baba Yega is 21-33?",
+        "answer_number": 1,
+        "candidates": [
+            "A.  Baba Yega fills the form wrong when asking for the age",
+            "B.  It is a display error",
+            "C.  Baba Yega is a group",
+            "D.  Baba Yega wants to keeps mystery"
+        ],
+        "answer": "B.  It is a display error",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    }
+]

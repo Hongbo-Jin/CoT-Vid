@@ -1,0 +1,240 @@
+[
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/1bd933df-3575-4fa7-839f-765c7108259e.mp4",
+        "question_id": "00056",
+        "question": "What are the similarities and differences in c's handling of the saxophone throughout the video?",
+        "answer_number": "0",
+        "candidates": [
+            "A. C holds the saxophone with both hands when playing it, and with her left hand when not playing it.",
+            "B. C holds the saxophone with her right hand when playing it, and with her left hand when not playing it.",
+            "C. C holds the saxophone with both hands at all times.",
+            "D. C holds the saxophone with her left hand at all times.",
+            "E. C holds the saxophone with her right hand when playing it, and with both hands when not playing it."
+        ],
+        "answer": "A. C holds the saxophone with both hands when playing it, and with her left hand when not playing it.",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/39423dd1-6c62-4927-b9f9-8252352847eb.mp4",
+        "question_id": "00115",
+        "question": "What notable similarities can be observed between the man and the woman's interactions with their cups throughout the video?",
+        "answer_number": "2",
+        "candidates": [
+            "A. Both the man and the woman pick up their cups with their left hands, drink from them, and then place them back on the table.",
+            "B. Simultaneously, both the man and woman proceed to pick up their cups using their right hands, take a sip, and subsequently place them back on their laps gently.",
+            "C. Both the man and the woman pick up their cups with their right hands, drink from them, and then place them back on the table.",
+            "D. Simultaneously, both the man and the woman pick up their respective cups with their left hands, carefully drink from them, and then gently place them back on their laps.",
+            "E. Simultaneously, both the man and the woman carefully pick up their cups with their right hands, take a drink from them, and then deliberately throw them on the floor."
+        ],
+        "answer": "C. Both the man and the woman pick up their cups with their right hands, drink from them, and then place them back on the table.",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/5ff686f3-b211-4fad-97a0-70e134e09bd5.mp4",
+        "question_id": "00191",
+        "question": "Describe the primary activities of both individuals in the video and compare how they differ in terms of their focus and engagement.",
+        "answer_number": "4",
+        "candidates": [
+            "A. C is reading a book, while the lady is watching tv. c is more focused and engaged in his activity than the lady is in hers.",
+            "B. C is reading a book, while the lady is talking on the phone. c is more focused and engaged in his activity than the lady is in hers.",
+            "C. C is reading a book, while the lady is taking a nap. c is more focused and engaged in his activity than the lady is in hers.",
+            "D. C is reading a book, while the lady is playing a video game. c is more focused and engaged in his activity than the lady is in hers.",
+            "E. C is reading a book, while the lady is operating a laptop. c is more focused and engaged in his activity than the lady is in hers."
+        ],
+        "answer": "E. C is reading a book, while the lady is operating a laptop. c is more focused and engaged in his activity than the lady is in hers.",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/72d99202-1167-4dba-a5bc-07c16b5cb849.mp4",
+        "question_id": "00225",
+        "question": "What is the recurrent activity performed by c in the video, and how does it contrast with the woman's activities?",
+        "answer_number": "1",
+        "candidates": [
+            "A. C continuously picks up and drops sachets of corn flakes from the kitchen shelf, again and again. contrarily, the woman does not perform this action.",
+            "B. C repeatedly picks up and drops cans of chicken noodle soup from the kitchen shelf. the woman does not perform this action.",
+            "C. Continuously, c picks up and drops cans of soup from the kitchen cabinet numerous times. however, the woman refrains from performing this particular action.",
+            "D. Consistently, c repeatedly picks up and drops bowls from the kitchen cabinet. meanwhile, the woman does not perform this action at all.",
+            "E. C repeatedly picks up and drops pots from the kitchen cabinet. the woman does not perform this action."
+        ],
+        "answer": "B. C repeatedly picks up and drops cans of chicken noodle soup from the kitchen shelf. the woman does not perform this action.",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/824c2b85-b40b-4bbd-82bf-70468f9c042b.mp4",
+        "question_id": "00252",
+        "question": "Compare the man and c's interactions with potatoes throughout the video. what pattern emerges regarding their respective roles?",
+        "answer_number": "2",
+        "candidates": [
+            "A. C and the man wash the potatoes together.",
+            "B. Collaboratively, c and the man decide to cook the potatoes together as a team.",
+            "C. C collects potatoes from the bag and gives them to the man, who washes them and then throws them into the sink.",
+            "D. Charlie and the man happily eat the delicious potatoes together while enjoying the meal.",
+            "E. Collaboratively, c and the man diligently clean up after preparing and cooking the potatoes together."
+        ],
+        "answer": "C. C collects potatoes from the bag and gives them to the man, who washes them and then throws them into the sink.",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/83acbfe5-4c09-440c-ab8b-62479b2915df.mp4",
+        "question_id": "00254",
+        "question": "Compare and contrast c's interactions with the wooden mechanical model pieces and the instruction manual throughout the video. what do these interactions reveal about c's approach to the task?",
+        "answer_number": "2",
+        "candidates": [
+            "A. C interacts with the instruction manual more frequently and carefully than with the wooden mechanical model pieces.",
+            "B. C interacts with both the wooden mechanical model pieces and the instruction manual with equal frequency and care.",
+            "C. C interacts with the wooden mechanical model pieces more frequently and carefully than with the instruction manual.",
+            "D. C interacts with the wooden mechanical model pieces more frequently but less carefully than with the instruction manual.",
+            "E. C interacts with the instruction manual more frequently but less carefully than with the wooden mechanical model pieces."
+        ],
+        "answer": "C. C interacts with the wooden mechanical model pieces more frequently and carefully than with the instruction manual.",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/86d91c31-1bfe-4f99-a803-7466c8d801d1.mp4",
+        "question_id": "00262",
+        "question": "What is the primary purpose or task that c completes at the parking lot, and how does this compare to earlier actions in the video?",
+        "answer_number": "4",
+        "candidates": [
+            "A. You will need to carefully fold the receipt into a smaller size.",
+            "B. Leisurely stroll to walk around the extensive parking lot area.",
+            "C. In order to open the car boot effortlessly.",
+            "D. To move the supermarket stroller.",
+            "E. To put the shopping bags in the car boot."
+        ],
+        "answer": "E. To put the shopping bags in the car boot.",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/994aecb6-ded3-4d5f-8f52-f0038a6dc057.mp4",
+        "question_id": "00301",
+        "question": "Compare and contrast the behaviors of the two characters in the video. how do their actions reflect their respective priorities or interests?",
+        "answer_number": "2",
+        "candidates": [
+            "A. The two characters in the video have the same priorities and interests. they are both focused on reading the book.",
+            "B. The two characters in the video have opposite priorities and interests. the man is focused on reading the book, while the woman is focused on other activities, such as watching tv or talking on the phone.",
+            "C. The two characters in the video have different priorities and interests. the man is focused on reading the book, while the woman is focused on other activities, such as moving around the room and adjusting her position.",
+            "D. The two characters in the video have complementary priorities and interests. the man is focused on reading the book, while the woman is focused on providing him with support, such as making sure he has a comfortable chair to sit in and a cup of coffee to drink.",
+            "E. The two characters in the video have no priorities or interests. they are both just sitting there, doing nothing."
+        ],
+        "answer": "C. The two characters in the video have different priorities and interests. the man is focused on reading the book, while the woman is focused on other activities, such as moving around the room and adjusting her position.",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/9a6f0324-9516-461a-a9c7-e08b639e48ea.mp4",
+        "question_id": "00303",
+        "question": "In the context of the video, can you identify and contrast the main foci of group and individual activities taking place?",
+        "answer_number": "0",
+        "candidates": [
+            "A. The main focus of the group activities is to exercise, while the main focus of the individual activities is to get ready for the exercise.",
+            "B. The primary emphasis of the group activities remains to socialize with others, whereas the main concentration of individual pursuits is to engage in exercise.",
+            "C. The main focus of the group activities is to learn, while the main focus of the individual activities is to exercise.",
+            "D. The primary objective of the group activities is to engage in competition, whereas the main emphasis of the individual activities is to participate in exercise sessions.",
+            "E. The central aim of the group activities predominantly involves performing, whereas the primary objective for individual activities primarily centers on exercising."
+        ],
+        "answer": "A. The main focus of the group activities is to exercise, while the main focus of the individual activities is to get ready for the exercise.",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/a7b381f3-7f73-46fa-a99c-80a717a34556.mp4",
+        "question_id": "00328",
+        "question": "Analyze the overall pattern of c's actions throughout the video and compare the focus of his movements during the first half versus the second half.",
+        "answer_number": "3",
+        "candidates": [
+            "A. C's actions in the first half of the video are focused on warming up and stretching. in the second half of the video, c focuses on cooling down and stretching.",
+            "B. In the first half of the video, c's actions primarily concentrate on performing various cardio exercises. then, in the second half of the video, c shifts focus towards executing strength-training exercises effectively.",
+            "C. In the initial half of the video, c's actions primarily concentrate on exercising his upper body. during the latter section, c shifts focus to engage his lower body muscles instead.",
+            "D. C's actions in the first half of the video are focused on setting up the resistance band and getting into position. in the second half of the video, c focuses on performing exercises with the resistance band.",
+            "E. In the initial portion of the video, c's actions primarily concentrate on strengthening his core muscles. in the latter half, he shifts attention to exercising his arms effectively."
+        ],
+        "answer": "D. C's actions in the first half of the video are focused on setting up the resistance band and getting into position. in the second half of the video, c focuses on performing exercises with the resistance band.",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/b5b05854-df14-43bd-ac45-4301c6d734ec.mp4",
+        "question_id": "00359",
+        "question": "Compare the tasks c performs in the earlier segments of the video to those in the latter segments. how has the purpose or intensity of c's work evolved over the course of the video?",
+        "answer_number": "4",
+        "candidates": [
+            "A. C's work in the earlier segments of the video is more focused on conversing with the person, while his work in the latter segments is more focused on hammering metal rods.",
+            "B. C's work in the earlier segments of the video is more focused on picking up and putting down tools, while his work in the latter segments is more focused on turning and looking around the workshop.",
+            "C. C's work in the earlier segments of the video is more focused on turning and looking around the workshop, while his work in the latter segments is more focused on hammering metal rods.",
+            "D. C's work in the earlier segments of the video is more focused on hammering metal rods, while his work in the latter segments is more focused on filing them.",
+            "E. C's work in the earlier segments of the video is more focused on filing the metal rods, while his work in the latter segments is more focused on welding them."
+        ],
+        "answer": "E. C's work in the earlier segments of the video is more focused on filing the metal rods, while his work in the latter segments is more focused on welding them.",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/cee8ee9e-723a-45f8-9a09-889790f60f7e.mp4",
+        "question_id": "00407",
+        "question": "Compare and contrast the significance of the various interactions between c and the man throughout the video. what patterns emerge, and what can we understand from their relationship?",
+        "answer_number": "1",
+        "candidates": [
+            "A. Currently, c and the man are actively engaged in having a friendly conversation with each other.",
+            "B. C and the man are playing a card game.",
+            "C. C and the man are arguing.",
+            "D. Currently, c and the man seem to be playfully flirting with each other.",
+            "E. Currently, both c and the man are actively collaborating and working together efficiently."
+        ],
+        "answer": "B. C and the man are playing a card game.",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/e0d0c4f6-7290-42f7-980d-b5590db33051.mp4",
+        "question_id": "00439",
+        "question": "Throughout the video, c uses several tools and techniques to measure, cut, and manipulate wood planks. can you identify and compare the effectiveness of different techniques or tools c used to achieve his objective?",
+        "answer_number": "2",
+        "candidates": [
+            "A. The most effective technique c used to measure the wood plank was to use his eyes.",
+            "B. The most efficient and effective technique he employed to measure the wood plank's length accurately was to simply use his hands.",
+            "C. The most effective technique c used to measure the wood plank was to use the foldable ruler.",
+            "D. Surprisingly, the most effective technique consistently used to measure the wood plank accurately was to simply use a tape measure.",
+            "E. The most efficient and effective technique commonly used to precisely measure the wood plank involved utilizing a trusted carpenter's square."
+        ],
+        "answer": "C. The most effective technique c used to measure the wood plank was to use the foldable ruler.",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/fe375c7f-6cf0-41aa-8eac-df89817c38e2.mp4",
+        "question_id": "00496",
+        "question": "Compare c's actions and behaviors throughout the video. are there any patterns or techniques that c repeats? discuss how this contributes to the overall process and the efficiency of the preparation.",
+        "answer_number": "3",
+        "candidates": [
+            "A. Throughout the entire video, c's actions and behaviors consistently align with the goal of preparing a bowl of cereal. initially, c pours cereal into a bowl, followed by adding milk. subsequently, c stirs the cereal and milk mixture together before proceeding to consume it.",
+            "B. Throughout the video, c's actions and behaviors consistently align with the goal of preparing a sandwich. initially, c spreads peanut butter and jelly on bread slices. subsequently, c cuts the completed sandwich in half before proceeding to eat it.",
+            "C. C's actions and behaviors throughout the video are consistent with the goal of preparing a salad. c first chops vegetables and adds them to a bowl. then, c adds dressing to the salad and eats it.",
+            "D. C's actions and behaviors throughout the video are consistent with the goal of preparing a pancake. c first mixes the flour, water, and eggs in a bowl. then, c heats a frying pan on the stove and pours the batter into the pan. c cooks the pancake until it is golden brown on both sides, then removes it from the pan and places it on a plate. finally, c adds syrup and fruit to the pancake and enjoys it.",
+            "E. C's purposeful actions and behaviors in the video demonstrate the goal of preparing a delightful stir-fry. initially, c skillfully chops fresh vegetables and tender meat. next, c heats some oil in a wok and gently adds the vegetables and meat. c stir-fries the ingredients until they're cooked, then blends in sauce and cooks for additional minutes. finally, c serves the delicious, steaming stir-fry atop perfectly cooked rice."
+        ],
+        "answer": "D. C's actions and behaviors throughout the video are consistent with the goal of preparing a pancake. c first mixes the flour, water, and eggs in a bowl. then, c heats a frying pan on the stove and pours the batter into the pan. c cooks the pancake until it is golden brown on both sides, then removes it from the pan and places it on a plate. finally, c adds syrup and fruit to the pancake and enjoys it.",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "task_name": "MVBench Unexpected Action",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/MVBench/video/FunQA_test/test/test_humor/H_T_848_0000_0538.mp4",
+        "question_id": 0,
+        "question": "What made the interaction between the speaker and the person at the back amusing?",
+        "answer_number": 3,
+        "candidates": [
+            "The speaker was making funny faces.",
+            "Both were trying to grab the same object.",
+            "They were constantly arguing.",
+            "The location of item presentation kept shifting."
+        ],
+        "answer": "The location of item presentation kept shifting.",
+        "need_reasoning": false,
+        "category": "interaction_analysis"
+    },
+    {
+        "task_name": "MVBench Unexpected Action",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/MVBench/video/FunQA_test/test/test_creative/C_KT_14_6653_6758.mp4",
+        "question_id": 0,
+        "question": "What was the unique interaction between the characters dressed as a fly and a fish?",
+        "answer_number": 3,
+        "candidates": [
+            "The fly stayed on land, the fish remained in water.",
+            "Fish pursued fly around, but failed to catch it.",
+            "Fly swam to fish, and they engaged in a dance.",
+            "Fly scratched legs, fish spat at it, then wrapped it up."
+        ],
+        "answer": "Fly scratched legs, fish spat at it, then wrapped it up.",
+        "need_reasoning": false,
+        "category": "interaction_analysis"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "task_name": "MVBench Unexpected Action",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/MVBench/video/FunQA_test/test/test_creative/C_KT_28_0548_0629.mp4",
+        "question_id": 0,
+        "question": "What unique method does the video use to represent human teeth?",
+        "answer_number": 2,
+        "candidates": [
+            "Using animation and bright colors.",
+            "Making use of drawings and sketches.",
+            "Applying people wrapped in white cloth and props.",
+            "Utilizing computer-generated imagery (CGI)."
+        ],
+        "answer": "Applying people wrapped in white cloth and props.",
+        "need_reasoning": false,
+        "category": "process_description"
+    }
+]

@@ -1,0 +1,114 @@
+[
+    {
+        "task_name": " VideoEspresso Causal Analysis",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/videoespresso/all_video/vatex/btGnQqhJjnk_000206_000216.mp4",
+        "question_id": 0,
+        "question": "How does the level of detail and precision depicted in each caption change throughout the sequence, and what does this imply about the overall makeup process?",
+        "answer_number": 2,
+        "candidates": [
+            "A. The sequence shifts from an emphasis on broader facial features to progressively detailed aspects of makeup application, culminating in a refined focus on finishing techniques, emphasizing an overall structured yet evolving precision in the process.",
+            "B. The sequence begins with a general explanation of tool usage, transitions into discussing detailed applications for individual features like eyes and lips, and concludes with a broader perspective on blending and final touches, highlighting a balanced yet shifting focus throughout the process.",
+            "C. The sequence displays a progression in precision, starting with general applications such as shading, narrowing to eyeliner detailing, and finally concluding with precise techniques for intricate features like eye drawing, showcasing a gradual refinement in the makeup process.",
+            "D. The sequence uniformly emphasizes the interplay between general facial applications and specific feature techniques, hinting at a dynamic process that alternates between broad and detailed steps rather than strictly progressing in one direction."
+        ],
+        "answer": "The sequence shows a progression in detail and precision: starting from a broad application to the eyelid slowly, moving to a closeup where precision increases as she applies eyelash liner, and finally to the detailed drawing of the eyelash on the sides of her eyes. This implies that the overall makeup process involves stages, starting from general application and moving towards more precise and intricate detailing as the process progresses.",
+        "need_reasoning": false,
+        "category": "efficiency_evaluation"
+    },
+    {
+        "task_name": " VideoEspresso Causal Analysis",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/videoespresso/all_video/Storystream/The_Land/000073_0_0.mp4",
+        "question_id": 0,
+        "question": "What lessons might Spot have learned from meeting the Diplodocus family that allowed him to interact successfully with the purple dinosaurs later on?",
+        "answer_number": 2,
+        "candidates": [
+            "A. Spot's encounter with the Diplodocus family might have taught him how to adapt to new environments and interact with different species, skills he later used with the purple dinosaurs.  ",
+            "B. Spot's observation of the Diplodocus family probably helped him develop an understanding of social behaviors and patterns, aiding his interactions with the purple dinosaurs.  ",
+            "C. Spot's encounter with the Diplodocus family likely taught him about family dynamics and respecting diverse dinosaur families, which he applied with the purple dinosaurs.  ",
+            "D. Spot's interaction with the Diplodocus family might have shown him the value of cooperation and group unity, lessons he practiced with the purple dinosaurs."
+        ],
+        "answer": "Spot's meeting with the baby brown Diplodocus and observing its parents towering over them likely taught him about family dynamics and the importance of respecting different dinosaur families and their social structures. These insights could have been applied later when he met the purple dinosaurs, allowing him to engage positively and respectfully, resulting in a successful interaction and invitation to play in their grassy field.",
+        "need_reasoning": false,
+        "category": "efficiency_evaluation"
+    },
+    {
+        "task_name": " VideoEspresso Causal Analysis",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/videoespresso/all_video/Storystream/Rabbids/000027_1_51.mp4",
+        "question_id": 0,
+        "question": "How was the superhero rabbit's ordeal with the windy cape connected to later successfully protecting their comic book from a diving pigeon? ",
+        "answer_number": 1,
+        "candidates": [
+            "A. The superhero rabbit\u2019s experience with the windy cape prepared him to counter sudden disturbances, allowing him to outmaneuver the diving pigeon and secure the comic book.  ",
+            "B. The rabbit\u2019s windy cape ordeal trained him in balance and reflexes, enabling him to react quickly and protect the comic book from the diving pigeon.  ",
+            "C. The challenge posed by the windy cape helped the rabbit develop sharp timing and instinct, which he used to anticipate the pigeon\u2019s dive and protect the comic book.  ",
+            "D. Battling the windy cape taught the rabbit dynamic movement skills, which allowed him to dodge the pigeon\u2019s dive and shield the comic book."
+        ],
+        "answer": "The superhero rabbit's experience with his cape struggling in the wind prepared him for agility and quick thinking, as he was forced to maintain control and balance while striking a pose despite the fluttering cape. This earlier ordeal honed his reflexes and awareness, which came into play when a pigeon suddenly swooped down towards their group. Drawing from that heightened alertness and his ability to act swiftly under surprise elements (bolstered by maintaining composure against the wind), he effectively shielded the comic book from the pigeon's dive. This sequence underscores the rabbit's ability to manage unexpected challenges while maintaining the constant thread of heroics drawn from their comic book inspirations.",
+        "need_reasoning": false,
+        "category": "efficiency_evaluation"
+    },
+    {
+        "task_name": " VideoEspresso Causal Analysis",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/videoespresso/all_video/Storystream/The_Land/000116_0_3.mp4",
+        "question_id": 0,
+        "question": "What might have caused Cera to feel the need to rest and gather her strength before continuing the journey?",
+        "answer_number": 1,
+        "candidates": [
+            "A. Confronting a swarm of loud, scurrying mammals, along with a threatening snake with piercing eyes, likely created a tense and overwhelming atmosphere. This could have left Cera feeling both physically and emotionally drained, necessitating a brief pause to recover her energy.  ",
+            "B. Encountering fierce feathered dinosaurs and an angry, sharp-toothed pterodactyl likely created a stressful, tense environment, exhausting Cera mentally and emotionally. She needed to rest on a rocky hill to recuperate before continuing the journey.  ",
+            "C. Coming across a group of calm and harmless dinosaurs, accompanied by a protective but assertive pterodactyl, may have resulted in a less hostile but slightly demanding environment, prompting Cera to take a moment to reassess and regain focus for the journey ahead.  ",
+            "D. Entering a rugged landscape filled with jagged cliffs and swirling winds, with a weary pterodactyl showing signs of strain, could have given rise to a sense of fatigue and unease, forcing Cera to take a short break to recharge for the challenging path ahead."
+        ],
+        "answer": "Encountering the intimidating feathered dinosaurs, combined with being led by a pterodactyl with an angry expression and sharp teeth, likely created a stressful and tense environment. This tension might have exhausted Cera mentally and emotionally, prompting the need to rest and recuperate on a rocky hill before proceeding with the journey.",
+        "need_reasoning": false,
+        "category": "efficiency_evaluation"
+    },
+    {
+        "task_name": " VideoEspresso Causal Analysis",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/videoespresso/all_video/vatex/4uRG1e66WHM_000003_000013.mp4",
+        "question_id": 0,
+        "question": "Considering the girl's practice and the adult's advice, what potential improvements might the adult be suggesting to help the girl successfully complete the movements without falling?",
+        "answer_number": 2,
+        "candidates": [
+            "A. Adjusting her grip strength, focusing on body alignment, and fine-tuning her transitions to maintain overall balance.  ",
+            "B. Improving her breathing rhythm, concentrating on stable landings, and practicing precise foot and hand placements during movements.  ",
+            "C. Focusing on hand placement, straight body line, stable landings, and timing jumps or flips for better balance.  ",
+            "D. Enhancing her flexibility with stretches, maintaining proper alignment during spins, and using her core for controlled momentum."
+        ],
+        "answer": "The adult might be suggesting improvements such as better hand placement, maintaining a straight body line during the cartwheels, or focusing on landing technique to ensure stability. Additionally, they could be advising the girl on timing her jumps or flips to achieve better balance, allowing her to complete the movements without falling.",
+        "need_reasoning": false,
+        "category": "efficiency_evaluation"
+    },
+    {
+        "task_name": " VideoEspresso Causal Analysis",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/videoespresso/all_video/Storystream/Rabbids/000053_1_13.mp4",
+        "question_id": 0,
+        "question": "How do the efforts of the rabbids lead to the successful launch of their machine, and what steps in the sequence were crucial for this success? ",
+        "answer_number": 3,
+        "candidates": [
+            "A. The rabbids' teamwork and creativity lead to their successful launch. They start by collecting screws and bolts while focusing on repairing the primary components. After assembling the necessary parts, the machine undergoes minimal testing. As the machine roars to life, they cheer in excitement, celebrating their moon-bound voyage. Key steps include part collection, quick fixes, assembling components, and initiating the launch.  ",
+            "B. The rabbids' persistence and problem-solving skills ensure their success. Focusing first on the engine, they collect nuts and bolts to repair critical areas. They then perform a quick test before flipping the power switch. When the machine starts humming, the team celebrates its functionality. Key steps include engine repair, part collection, basic testing, and lift-off execution.  ",
+            "C. The rabbids' coordination and hard work result in their success. They begin by inspecting circuits and polishing machine elements to ensure optimal performance. After gathering the required repair components and performing initial preparations, the machine activates. With beaming anticipation, they celebrate as the machine takes off. Key steps include circuit inspection, component polishing, collecting materials, and triggering the launch.  ",
+            "D. The rabbids' determination and teamwork drive their successful launch. They secure the nut and bolt, gather tools, and fix the machine. After prepping, they anticipate liftoff. The machine roars to life with a loud whirr and dust, sparking celebration. As it lifts off, the brave rabbids wave goodbye, starting their moon adventure. Key steps: securing, gathering, preparing, launching."
+        ],
+        "answer": "The rabbids' determination and teamwork are crucial for their successful launch. First, they ensure the nut and bolt are secure and gather additional tools and supplies to fix the machine. After extensive work, they prepare the machine for launch, filled with anticipation. Upon starting the machine, it roars to life with a loud whirr and cloud of dust, leading to their celebration. Finally, as the machine lifts off, the brave rabbids wave goodbye to their friends, successfully beginning their adventure to the moon. Key steps include securing the nut and bolt, gathering tools, preparing for the countdown, and the actual launch.",
+        "need_reasoning": false,
+        "category": "efficiency_evaluation"
+    },
+    {
+        "task_name": " VideoEspresso Cooking Process",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/videoespresso/all_video/Youcook2/wSGwQJQKR5Y.mp4",
+        "question_id": 0,
+        "question": "How does the woman ensure that the cooking process in the kitchen is efficient, considering both the stovetop and oven are in use? Identify specific actions or tools involved.",
+        "answer_number": 2,
+        "candidates": [
+            "A. The woman coordinates her tasks by chopping vegetables on a cutting board while allowing a dish to cook on the stovetop, occasionally adjusting the heat and setting the oven timer in anticipation of its use.  ",
+            "B. The woman ensures an organized process by checking the stovetop frequently while simultaneously slicing ingredients nearby and preparing the oven for baking, relying on a cutting board and utensils to streamline the workflow.  ",
+            "C. The woman achieves efficient cooking by stirring ingredients in a pot on the stove and preheating the oven for future baking, using a cutting board for preparation and covering the kadai to save heat.  ",
+            "D. The woman maintains efficiency by placing ingredients on the cutting board for preparation while managing heat distribution on the stovetop and pre-setting the oven to reduce cooking delays."
+        ],
+        "answer": "The woman ensures efficient cooking by using the stove to stir and cook ingredients in a pot while simultaneously adjusting the oven to preheat. She uses a cutting board for ingredient preparation and follows instructions to cover the kadai for efficient stovetop cooking. The preheating of the oven suggests she plans to use it for the subsequent baking step, coordinating multiple tasks seamlessly.",
+        "need_reasoning": false,
+        "category": "efficiency_evaluation"
+    }
+]

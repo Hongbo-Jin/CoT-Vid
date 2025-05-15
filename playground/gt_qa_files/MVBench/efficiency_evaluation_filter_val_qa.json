@@ -1,0 +1,18 @@
+[
+    {
+        "task_name": "MVBench Unexpected Action",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/MVBench/video/FunQA_test/test/test_creative/C_KT_14_3500_3554.mp4",
+        "question_id": 0,
+        "question": "What elements in the video effectively simulate a woman tying an obi belt on her kimono?",
+        "answer_number": 2,
+        "candidates": [
+            "A white cloth draped over a wooden board.",
+            "The background music and sound effects.",
+            "A child wearing colorful clothes.",
+            "The use of vibrant lighting and shadows."
+        ],
+        "answer": "A child wearing colorful clothes.",
+        "need_reasoning": false,
+        "category": "efficiency_evaluation"
+    }
+]

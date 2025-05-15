@@ -1,0 +1,66 @@
+[
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/vZV2WCKMsKs.mp4",
+        "question_id": "4704",
+        "question": "What is the last interaction between Joe and Chico?",
+        "answer_number": 1,
+        "candidates": [
+            "A.  The dog catches the ball thrown by the person",
+            "B.  The dog finds the person who has the ball",
+            "C.  The dog bites the person who has the ball",
+            "D.  The dog miss the ball thrown by the person"
+        ],
+        "answer": "B.  The dog finds the person who has the ball",
+        "category": "interaction_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/f8DKD78BrQA.mp4",
+        "question_id": "2074",
+        "question": "Which company do the presenters mention after the collaboration between NVIDIA and Google?",
+        "answer_number": 1,
+        "candidates": [
+            "A.  Amazon",
+            "B.  Oracle",
+            "C.  Microsoft",
+            "D.  AMD"
+        ],
+        "answer": "B.  Oracle",
+        "category": "interaction_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/vHlSoxg8WHo.mp4",
+        "question_id": "5073",
+        "question": "Who Raymond prefer to continue his relationship with?",
+        "answer_number": 2,
+        "candidates": [
+            "A.  Jason",
+            "B.  Amaya",
+            "C.  Brittany",
+            "D.  Tacara"
+        ],
+        "answer": "C.  Brittany",
+        "category": "interaction_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/JTa_Ue2MSwc.mp4",
+        "question_id": "5138",
+        "question": "Who is in an online relationship with another woman's man?",
+        "answer_number": 0,
+        "candidates": [
+            "A.  A girl with a pink top with roses on it",
+            "B.  A man with a checkered shirt",
+            "C.  A girl with green dress and glasses",
+            "D.  A girl with pink hair"
+        ],
+        "answer": "A.  A girl with a pink top with roses on it",
+        "category": "interaction_analysis",
+        "need_reasoning": false
+    }
+]

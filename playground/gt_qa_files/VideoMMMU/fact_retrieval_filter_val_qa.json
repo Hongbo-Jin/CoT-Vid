@@ -1,0 +1,499 @@
+[
+    {
+        "task_name": " VideoMMMU ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/VideoMMMU/videos/validation_Accounting_5.mp4",
+        "question_id": -1,
+        "question": "The following data show the units in beginning work in process inventory, the number of units started, the number of units transferred, and the percent completion of the ending work in process for conversion. Given that materials are added at the beginning of the process, what are the equivalent units for conversion costs for each quarter using the weighted-average method? Assume that the quarters are independent.<image 1>",
+        "answer_number": 1,
+        "candidates": [
+            "A. 132,625",
+            "B. 134,485",
+            "C. 135,332",
+            "D. 132,685",
+            "E. 133,450",
+            "F. 136,210",
+            "G. 131,900",
+            "H. 135,500",
+            "I. 133,750",
+            "J. 134,900"
+        ],
+        "answer": "B. 134,485",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " VideoMMMU ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/VideoMMMU/videos/test_Computer_Science_351.mp4",
+        "question_id": -1,
+        "question": "After inserting 7 into the 2-3 tree given in the figure, how many of the following statements are TRUE?\n(S1) The root still contains 9 only;\n(S2) the tree grows higher;  \n(S3) 4 and 9 are in the same nonleaf node;\n(S4) the interior node containing 12 keeps unchanged.\n<image 1>",
+        "answer_number": 4,
+        "candidates": [
+            "A. 3",
+            "B. 4",
+            "C. 0",
+            "D. 1",
+            "E. 2"
+        ],
+        "answer": "E. 2",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " VideoMMMU ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/VideoMMMU/videos/validation_Agriculture_7.mp4",
+        "question_id": -1,
+        "question": "<image 1> For anyone experienced in potato cultivation, this should be a straightforward issue. It's a global concern, but can you identify the root cause?",
+        "answer_number": 4,
+        "candidates": [
+            "A. Downy mildew",
+            "B. Early blight (Alternaria solani)' \"Don't know and don't want to guess\" 'Powdery mildew",
+            "C. Late blight (Phytophthora infestans)",
+            "D. Blackleg",
+            "E. Verticillium wilt",
+            "F. Fusarium wilt",
+            "G. Bacterial wilt",
+            "H. Common scab"
+        ],
+        "answer": "E. Verticillium wilt",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " VideoMMMU ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/VideoMMMU/videos/validation_Architecture_and_Engineering_2.mp4",
+        "question_id": -1,
+        "question": "Compare the scales of photography for the area recorded and the strip widths given by cameras A and B at the same flying heights.<image 1>How many photographs would be taken by the camera A in covering a strip 16 km long at a flying height of 1350 m? The longitudinal overlap is 60%.",
+        "answer_number": 0,
+        "candidates": [
+            "A. $35.567 \\\\approx 36$",
+            "B. $36.567 \\\\approx 37$",
+            "C. $34.567 \\\\approx 35$",
+            "D. $37.567 \\\\approx 38$",
+            "E. $38.567 \\\\approx 39$",
+            "F. $39.567 \\\\approx 40$",
+            "G. $40.567 \\\\approx 41$",
+            "H. $41.567 \\\\approx 42$",
+            "I. $42.567 \\\\approx 43$",
+            "J. $43.567 \\\\approx 44$"
+        ],
+        "answer": "A. $35.567 \\\\approx 36$",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " VideoMMMU ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/VideoMMMU/videos/test_Pharmacy_96.mp4",
+        "question_id": -1,
+        "question": "Name the following halocarbons: <image 1>",
+        "answer_number": 0,
+        "candidates": [
+            "A. 3-chloro-1-propene; 1,2-dichloro-4-methypentane;  1,3-bromobenzene",
+            "B. 3-chloro-1-propene; 1,2-dichloro-4-methypentane;  1,3-iodobenzene",
+            "C. 3-chloro-1-propene; 1,2-dichloro-4-ethylpentane;  1,3-bromobenzene",
+            "D. 1,2-dichloro-4-methypentane;  1,3-bromobenzene; 3-chloro-1-propene",
+            "E. 3-chloro-1-butene; 1,2-dichloro-4-methypentane;  1,3-bromobenzene",
+            "F. 1-chloro-3-propene;  1,3-bromobenzene; 1,2-dichloro-4-methypentane",
+            "G. 3-chloro-1-propene; 1,3-dibromo-4-methypentane;  1,2-dichlorobenzene",
+            "H. 3-chloro-1-propene;  1,3-bromobenzene; 1,2-dichloro-4-methypentane",
+            "I. 3-bromo-1-propene; 1,2-dichloro-4-methypentane;  1,3-chlorobenzene"
+        ],
+        "answer": "A. 3-chloro-1-propene; 1,2-dichloro-4-methypentane;  1,3-bromobenzene",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " VideoMMMU ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/VideoMMMU/videos/test_Clinical_Medicine_173.mp4",
+        "question_id": -1,
+        "question": "Can you identify the abnormality on this plain film of the pelvis? <image 1> ",
+        "answer_number": 4,
+        "candidates": [
+            "A. Bone cyst",
+            "B. Acute hip fracture",
+            "C. Osteoarthritis",
+            "D. Surgical hardware",
+            "E. Resection of the pubic symphysis",
+            "F. Bone tumor",
+            "G. Hip dislocation",
+            "H. Osteoporosis' \"Paget's disease\" 'Bone infection"
+        ],
+        "answer": "E. Resection of the pubic symphysis",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " VideoMMMU ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/VideoMMMU/videos/validation_Pharmacy_10.mp4",
+        "question_id": -1,
+        "question": "Consider the molecule in blue bound to a binding site. Identify the binding interactions taking place at ii shown in red. <image 1>",
+        "answer_number": 1,
+        "candidates": [
+            "A. hydrogen bonds",
+            "B. ionic bonds",
+            "C. van der Waals interactions"
+        ],
+        "answer": "B. ionic bonds",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " VideoMMMU ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/VideoMMMU/videos/validation_Music_7.mp4",
+        "question_id": -1,
+        "question": "<image 1> Select to name the chord marked at position A. The key is E minor.",
+        "answer_number": 1,
+        "candidates": [
+            "A. Vb",
+            "B. Vc",
+            "C. IIa",
+            "D. IIb",
+            "E. IIIa",
+            "F. IIIb",
+            "G. IVa",
+            "H. IVb",
+            "I. Va",
+            "J. VIa"
+        ],
+        "answer": "B. Vc",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " VideoMMMU ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/VideoMMMU/videos/validation_Music_8.mp4",
+        "question_id": -1,
+        "question": "<image 1> Name the harmony in the above example.",
+        "answer_number": 1,
+        "candidates": [
+            "A. $C^7$",
+            "B. $A^7$",
+            "C. $G^7$",
+            "D. $E\\\\flat^7$",
+            "E. $D^7$",
+            "F. $F^7$",
+            "G. $B^7$",
+            "H. $B\\\\flat^7$",
+            "I. $E^7$",
+            "J. $A\\\\flat^7$"
+        ],
+        "answer": "B. $A^7$",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " VideoMMMU ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/VideoMMMU/videos/new_Sociology_4.mp4",
+        "question_id": -1,
+        "question": "<image 1>Identify the theory that the following argument represents.",
+        "answer_number": 0,
+        "candidates": [
+            "A. Functionalism",
+            "B. Marxism",
+            "C. New Right",
+            "D. Postmodernism",
+            "E. Social action approaches",
+            "F. Interactionism",
+            "G. Feminism",
+            "H. Conflict Theory",
+            "I. Modernity",
+            "J. Positivists"
+        ],
+        "answer": "A. Functionalism",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " VideoMMMU ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/VideoMMMU/videos/validation_Electronics_14.mp4",
+        "question_id": -1,
+        "question": "In the video example, how many changes and terms are there in the representation of the signal x(t)?",
+        "answer_number": 4,
+        "candidates": [
+            "A. 1 change, 1 term.",
+            "B. 2 changes, 2 terms.",
+            "C. 5 changes, 3 terms.",
+            "D. 4 changes, 4 terms.",
+            "E. 5 changes, 5 terms.",
+            "F. 6 changes, 6 terms.",
+            "G. 5 changes, 7 terms.",
+            "H. 5 changes, 8 terms.",
+            "I. 9 changes, 5 terms.",
+            "J. 10 changes, 5 terms."
+        ],
+        "answer": "E. 5 changes, 5 terms.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " VideoMMMU ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/VideoMMMU/videos/validation_Materials_12.mp4",
+        "question_id": -1,
+        "question": "If the cross-sectional area of the shear plane is increased to 200 mm^2, calculate the modulus of rigidity (G) of the material.",
+        "answer_number": 8,
+        "candidates": [
+            "A. 3.33 GPa",
+            "B. 5.21 GPa",
+            "C. 2.78 GPa",
+            "D. 6.25 GPa",
+            "E. 3.75 GPa",
+            "F. 5.83 GPa",
+            "G. 4.58 GPa",
+            "H. 3.13 GPa",
+            "I. 4.17 GPa",
+            "J. 2.92 GPa"
+        ],
+        "answer": "I. 4.17 GPa",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " VideoMMMU ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/VideoMMMU/videos/validation_Materials_18.mp4",
+        "question_id": -1,
+        "question": "Given the cube shown in the diagram experiences deformation under 15 MPa stress, and assuming a different material with elastic modulus E = 30 GPa, calculate the strain in microstrain units.",
+        "answer_number": 0,
+        "candidates": [
+            "A. 500",
+            "B. 450",
+            "C. 550",
+            "D. 400",
+            "E. 600",
+            "F. 350",
+            "G. 650",
+            "H. 300",
+            "I. 700",
+            "J. 250"
+        ],
+        "answer": "A. 500",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " VideoMMMU ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/VideoMMMU/videos/validation_Mechanical_Engineering_5.mp4",
+        "question_id": -1,
+        "question": "If the top row coefficients were changed to [1, 3, 5, 7], how many plus signs (+) would appear in the second column from the left? ",
+        "answer_number": 2,
+        "candidates": [
+            "A. 3",
+            "B. 5",
+            "C. 4",
+            "D. 2",
+            "E. 6",
+            "F. 1",
+            "G. 7",
+            "H. 8",
+            "I. 0",
+            "J. 9"
+        ],
+        "answer": "C. 4",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " VideoMMMU ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/VideoMMMU/videos/validation_Basic_Medical_Science_11.mp4",
+        "question_id": -1,
+        "question": "Based on the video, how many of the following characteristics can be used to identify the different types of muscle tissue?\n1. Presence of striations\n2. Presence of intercalated discs\n3. Voluntary control\n4. Involuntary control\n5. Branching appearance\n6. Smooth, spindle-shaped cells\n7. Long, cylindrical fibers\n8. Multinucleated cells\n9. Location",
+        "answer_number": 7,
+        "candidates": [
+            "A. 0",
+            "B. 1",
+            "C. 2",
+            "D. 3",
+            "E. 4",
+            "F. 5",
+            "G. 6",
+            "H. 7",
+            "I. 8",
+            "J. 9"
+        ],
+        "answer": "H. 7",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " VideoMMMU ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/VideoMMMU/videos/validation_Clinical_Medicine_11.mp4",
+        "question_id": -1,
+        "question": "How many of the following is a function of the tongue?\n1. Production of saliva\n2. Digestion of food\n3. Absorption of nutrients\n4. Filtration of blood\n5. Production of hormones\n6. Taste food\n7. Helps with speech",
+        "answer_number": 2,
+        "candidates": [
+            "A. 0",
+            "B. 1",
+            "C. 2",
+            "D. 3",
+            "E. 4",
+            "F. 5"
+        ],
+        "answer": "C. 2",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " VideoMMMU ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/VideoMMMU/videos/validation_Public_Health_6.mp4",
+        "question_id": -1,
+        "question": "How many statements below are true:\n1. For continuous outcome variables with more than 2 groups and normally distributed data, the One-way ANOVA test is used.\n2. For paired categorical outcome variables, the Chi-square test is recommended.\n3. Nominal variables can be ordered in a meaningful way.\n4. Interval variables have equal differences between values but no true zero point.\n5. The Mann-Whitney U test is used for skewed data with two groups of continuous variables.",
+        "answer_number": 3,
+        "candidates": [
+            "A. 0",
+            "B. 1",
+            "C. 2",
+            "D. 3",
+            "E. 4",
+            "F. 5"
+        ],
+        "answer": "D. 3",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " VideoMMMU ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/VideoMMMU/videos/validation_Music_4.mp4",
+        "question_id": -1,
+        "question": "Select ALL statements that are correct about the concepts of bars and time signatures mentioned in the video.\nStatements:\n1. The time signature's top number tells us how many beats are in each bar.\n2. In a 4/4 time signature, every bar will have exactly four beats.\n3. Bar lines help organize music into easily readable sections.\n4. A double bar line is added after every four bars to show repetition.",
+        "answer_number": 9,
+        "candidates": [
+            "A. All statements are correct",
+            "B. Statement 1 is correct",
+            "C. Statement 2 is correct",
+            "D. Statement 3 is correct",
+            "E. Statement 4 is correct",
+            "F. Statements 1 and 2 are correct",
+            "G. Statements 2 and 3 are correct",
+            "H. Statements 3 and 4 are correct",
+            "I. Statements 1, 2, and 3 are correct",
+            "J. None of the statements are correct"
+        ],
+        "answer": "J. None of the statements are correct",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " VideoMMMU ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/VideoMMMU/videos/validation_Sociology_22.mp4",
+        "question_id": -1,
+        "question": "Based on your understanding of cultural universals from the video, determine which of the following statements are correct:\nStatements:\n1. All human cultures have some form of communication, but not all use grammatically complex language.\n2. The video uses the example of the Maasai people of East Africa to illustrate that the dependence on material objects varies greatly, but all cultures show some level of reliance on them.\n3. At 3:35 the video introduces that, marriage, as a cultural universal, is a means to care for children.\n4. The incest taboo generally prohibits sexual relations within the immediate family across nearly all cultures, although there is variation beyond that.\n5. At 3:05, the video says that property rights are universal, but the form and ownership structure can differ widely between cultures.",
+        "answer_number": 2,
+        "candidates": [
+            "A. Statement 1 is correct",
+            "B. Statements 2 and 3 are correct",
+            "C. Statements 3 and 4 are correct",
+            "D. Statements 2, 4, and 5 are correct",
+            "E. Statements 1, 2, and 3 are correct",
+            "F. Statements 2, 3, and 4 are correct",
+            "G. Statements 3 and 5 are correct",
+            "H. All statements are correct",
+            "I. Statements 2, 4, and 5 are correct",
+            "J. Statements 2 and 4 are correct"
+        ],
+        "answer": "C. Statements 3 and 4 are correct",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " VideoMMMU ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/VideoMMMU/videos/new_History_5.mp4",
+        "question_id": -1,
+        "question": "Which of the following statements about architecture styles is correct?\n1. Victorian architecture is known for being highly decorative, mixing various styles and using intricate ornamentation and the video uses the example of the Royal Albert Hall in London to illustrate this.\n2. Renaissance architecture replaces the complexity of medieval structures with an emphasis on proportion, symmetry, and columns.\n3. Victorian architecture primarily focused on minimalism and avoided intricate ornamentation or mixing different styles.\n4. The Baroque architecture style is introduced right after the Victorian style in the video and it often emphasizes the dramatic use of light and shadow, with elaborate decorative elements and marble materials.\n5. Art Deco architecture is known for its sleek lines, geometric shapes, and use of rich materials, particularly during the 1920s and 1930s.",
+        "answer_number": 3,
+        "candidates": [
+            "A. Statement 1 is correct",
+            "B. Statement 1 and 2 are correct",
+            "C. All are correct",
+            "D. Statement 2 and 5 are correct",
+            "E. Statement 3 is correct",
+            "F. Statement 1, 3, and 4 are correct",
+            "G. Statement 1, 4, and 5 are correct",
+            "H. Statement 1, 2, 4, and 5 are correct",
+            "I. Statement 2, 3, and 5 are correct",
+            "J. Statement 1, 2, and 5 are correct"
+        ],
+        "answer": "D. Statement 2 and 5 are correct",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " VideoMMMU ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/VideoMMMU/videos/validation_Accounting_13.mp4",
+        "question_id": -1,
+        "question": "Based on the video example, identify the tuple of (Total Prime Cost, Prime Cost Per Unit, Total Conversion Cost, Conversion Cost Per Unit).",
+        "answer_number": 9,
+        "candidates": [
+            "A. ($107,800, $3.99, $139,800, $5.16)",
+            "B. ($105,000, $3.89, $137,000, $5.10)",
+            "C. ($107,800, $3.95, $139,800, $5.20)",
+            "D. ($109,000, $4.00, $140,000, $5.15)",
+            "E. ($107,800, $3.99, $137,500, $5.00)",
+            "F. ($106,000, $3.97, $139,800, $5.18)",
+            "G. ($107,500, $3.95, $138,800, $5.15)",
+            "H. ($108,000, $4.00, $139,800, $5.18)",
+            "I. ($107,800, $3.99, $140,000, $5.20)",
+            "J. ($107,800, $3.99, $139,800, $5.18)"
+        ],
+        "answer": "J. ($107,800, $3.99, $139,800, $5.18)",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " VideoMMMU ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/VideoMMMU/videos/validation_Marketing_2.mp4",
+        "question_id": -1,
+        "question": "In the provided video, identify the Degrees of Freedom for the numerator, Degrees of Freedom for the denominator, and the value of the Degrees of Freedom for the denominator from the ANOVA equation.",
+        "answer_number": 2,
+        "candidates": [
+            "A. (K-1, N-K, 48)",
+            "B. (Y-1, N-Y, 52)",
+            "C. (K-1, N-K, 28)",
+            "D. (K+1, N-K, 28)",
+            "E. (K-1, M-K, 35)",
+            "F. (K-1, N-K+1, 28)",
+            "G. (J-1, N-K, 30)",
+            "H. (K-1, N+K, 44)",
+            "I. (N-1, K-N, 20)",
+            "J. (K-2, N-2, 25)"
+        ],
+        "answer": "C. (K-1, N-K, 28)",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " VideoMMMU ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/VideoMMMU/videos/validation_Basic_Medical_Science_3.mp4",
+        "question_id": -1,
+        "question": "In 3: 36, the video says: The Golgi body does this by folding the protines into usable shapes, or adding other materials on to them, such as lipids or carbohydrates. At 3:47, the light blue represents _____, while the dark blue represents _____.",
+        "answer_number": 0,
+        "candidates": [
+            "A. The Golgi body does this by folding the protines into usable shapes, or adding other materials on to them, such as lipids or carbohydrates., lipids, carbohydrates",
+            "B. The Golgi body does this by folding the protines into usable shapes, or adding other materials on to them, such as lipids or carbohydrates., carbohydrates, lipids",
+            "C. The Golgi body modifies proteins by folding them into functional shapes or attaching additional materials, such as lipids or carbohydrates., lipids, carbohydrates",
+            "D. The Golgi body modifies proteins by folding them into functional shapes or attaching additional materials, such as lipids or carbohydrates. shapes, carbohydrates, lipids"
+        ],
+        "answer": "A. The Golgi body does this by folding the protines into usable shapes, or adding other materials on to them, such as lipids or carbohydrates., lipids, carbohydrates",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " VideoMMMU ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/VideoMMMU/videos/validation_Music_4.mp4",
+        "question_id": -1,
+        "question": "A bar is a segment of music that groups a set number of beats together. Bars are divided by barlines. Based on the example in the video from 0:43 to 1:58, how many bars are shown?",
+        "answer_number": 3,
+        "candidates": [
+            "A. One",
+            "B. Two",
+            "C. Three",
+            "D. Four",
+            "E. Five",
+            "F. Six",
+            "G. Seven",
+            "H. Eight",
+            "I. Nine",
+            "J. Ten"
+        ],
+        "answer": "D. Four",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    }
+]

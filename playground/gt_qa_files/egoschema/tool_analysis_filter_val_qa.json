@@ -1,0 +1,291 @@
+[
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/05defeef-40bd-4b08-b341-72879a6cf63e.mp4",
+        "question_id": "00014",
+        "question": "What is the overall process and purpose of the actions performed by c in the video?",
+        "answer_number": "0",
+        "candidates": [
+            "A. C is molding bricks with mortar and wet clay.",
+            "B. Currently, c is diligently working on constructing a wall.",
+            "C. Currently, artist c is diligently working on creating a unique sculpture.",
+            "D. Currently, young c is actively playing and having fun with mud.",
+            "E. C is doing a science experiment."
+        ],
+        "answer": "A. C is molding bricks with mortar and wet clay.",
+        "category": "tool_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/0a8109fe-15b9-4f5c-b5f2-993013cb216b.mp4",
+        "question_id": "00027",
+        "question": "In your own words, what was the primary function of the scrapper throughout the video? discuss how it contributed to the overall process without mentioning specific actions.",
+        "answer_number": "4",
+        "candidates": [
+            "A. Inaccurately, the wrong response to question 2 states: the primary purpose of the scrapper throughout the entire video is to effectively remove excess dough from the wooden plank.",
+            "B. Inaccurately, question 2's incorrect response states: the primary purpose of the scrapper present in the video is to shape and form the dumplings.",
+            "C. Inaccurately, the wrong answer to question 2 states: the primary function of the scrapper, as shown in the video, is essentially to knead the dough.",
+            "D. The wrong answer to question 2 is: the primary function of the scrapper throughout the video is to roll out the dough.",
+            "E. The correct answer to question 2 is: the primary function of the scrapper throughout the video is to cut the dough into small pieces."
+        ],
+        "answer": "E. The correct answer to question 2 is: the primary function of the scrapper throughout the video is to cut the dough into small pieces.",
+        "category": "tool_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/3e700f0b-b4a9-4000-92b7-f0fa3be55161.mp4",
+        "question_id": "00125",
+        "question": "In the context of the video, discuss the most important sequence of interactions between c and the lady, focusing on the purpose of their conversation.",
+        "answer_number": "2",
+        "candidates": [
+            "A. C and the lady are discussing the weather.",
+            "B. Casually, c and the lady engage in discussing the recent news events together.",
+            "C. C and the lady are discussing the ingredients for a meal.",
+            "D. During the conversation, both c and the lady are ardently discussing their plans for the day's activities.",
+            "E. Currently, c and the lady engage in a conversation, discussing their respective families' details."
+        ],
+        "answer": "C. C and the lady are discussing the ingredients for a meal.",
+        "category": "tool_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/51bea80c-3f6f-4406-ac56-9af2a547b2bf.mp4",
+        "question_id": "00166",
+        "question": "In this video, what is the main task that c and the woman are engaged in, and how does their interaction with each other evolve over the course of the video?",
+        "answer_number": "3",
+        "candidates": [
+            "A. C and the woman are eating pomegranates.",
+            "B. C and the woman are playing with pomegranates.",
+            "C. C and the woman are selling pomegranates.",
+            "D. C and the woman are peeling pomegranates.",
+            "E. C and the woman are buying pomegranates."
+        ],
+        "answer": "D. C and the woman are peeling pomegranates.",
+        "category": "tool_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/65a204f7-b699-4b08-b3de-b5004433a004.mp4",
+        "question_id": "00199",
+        "question": "What is the primary purpose of the interaction between c and the man in the video?",
+        "answer_number": "1",
+        "candidates": [
+            "A. The man is trying to steal the chapatis.",
+            "B. The man is helping c to cook the chapatis.",
+            "C. The man is giving c cooking instructions.",
+            "D. The man is trying to teach c how to cook chapatis.",
+            "E. The man is trying to impress c with his cooking skills."
+        ],
+        "answer": "B. The man is helping c to cook the chapatis.",
+        "category": "tool_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/70532caf-5e89-46da-9d1d-b77af403dce6.mp4",
+        "question_id": "00220",
+        "question": "Discuss the primary focus of the individual actions portrayed in the video and the overall purpose of these actions. how do the character's behaviors align with this purpose?",
+        "answer_number": "1",
+        "candidates": [
+            "A. The primary focus of the individual actions portrayed in the video is to relax. the character's behaviors align with this purpose by sitting in a comfortable position, adjusting their body as needed, and taking breaks to look around the room.",
+            "B. The primary focus of the individual actions portrayed in the video is to read a book. the character's behaviors align with this purpose by consistently reading the book and making minor adjustments to their position to maintain comfort.",
+            "C. The primary focus of the individual actions portrayed in the video is to socialize. the character's behaviors align with this purpose by looking around the room and making eye contact with the other person in the room.",
+            "D. The primary focus of the individual actions portrayed in the video is to work. the character's behaviors align with this purpose by sitting at a desk and using a laptop.",
+            "E. The primary focus of the individual actions portrayed in the video is to exercise. the character's behaviors align with this purpose by stretching and moving their body."
+        ],
+        "answer": "B. The primary focus of the individual actions portrayed in the video is to read a book. the character's behaviors align with this purpose by consistently reading the book and making minor adjustments to their position to maintain comfort.",
+        "category": "tool_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/7dcf85fb-1217-4eb7-b9c8-cc2ab06507fe.mp4",
+        "question_id": "00245",
+        "question": "How does c use her right leg and her right hand in a coordinated manner, and what conclusions can you draw about the purpose of these movements?",
+        "answer_number": "1",
+        "candidates": [
+            "A. Creatively, c uses her right leg and right hand prominently to express herself. she frequently waves her right hand energetically or kicks her right leg high in the air.",
+            "B. C uses her right leg and right hand to help her balance as she moves. she often places her right hand on her chest or abdomen to help her maintain her balance. she also uses her right hand to push off the ground as she moves.",
+            "C. C consistently uses her dominant right leg and right hand to effectively communicate with others. she frequently points using her right hand and skillfully makes gestures with her right leg.",
+            "D. C uses her right leg and right hand to manipulate objects. she often picks up objects with her right hand or kicks objects with her right leg.",
+            "E. C predominantly utilizes her right leg and right hand to perform various tasks. she frequently uses her right hand to open doors or turn on light switches. additionally, she employs her right leg to walk or run comfortably."
+        ],
+        "answer": "B. C uses her right leg and right hand to help her balance as she moves. she often places her right hand on her chest or abdomen to help her maintain her balance. she also uses her right hand to push off the ground as she moves.",
+        "category": "tool_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/81ba0fd6-cc69-410d-9e2d-8317fd22cce8.mp4",
+        "question_id": "00250",
+        "question": "In the context of the video, what is the primary purpose of the character's actions and how do they achieve this purpose?",
+        "answer_number": "4",
+        "candidates": [
+            "A. The character is making bread.",
+            "B. In this scene, the main character is enthusiastically making a delicious pizza.",
+            "C. The main character is joyfully making delicious cookies at home.",
+            "D. The main character in the story is skillfully making a delicious cake.",
+            "E. The character is making dough."
+        ],
+        "answer": "E. The character is making dough.",
+        "category": "tool_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/855f0685-fc29-463f-a796-8b68a722174f.mp4",
+        "question_id": "00259",
+        "question": "Analyze the interactions between c and the woman in the video, focusing on their primary collaborative goal. what can you conclude about the purpose of their actions?",
+        "answer_number": "3",
+        "candidates": [
+            "A. Currently, both c and the woman are diligently cleaning the kitchen together.",
+            "B. C and the woman are doing laundry.",
+            "C. Casually, c and the lovely woman are diligently packing a delightful picnic together.",
+            "D. C and the woman are preparing a meal for the baby.",
+            "E. Currently, c and the woman together are diligently setting the table beautifully for dinner."
+        ],
+        "answer": "D. C and the woman are preparing a meal for the baby.",
+        "category": "tool_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/88254e8e-6d05-4d2d-98b4-cd76f6412ac3.mp4",
+        "question_id": "00266",
+        "question": "What was the purpose of the series of actions that c took in both the room and the bathrooms?",
+        "answer_number": "4",
+        "candidates": [
+            "A. While at home, c was diligently cleaning the bathroom area.",
+            "B. Earlier today, c was diligently painting the bathroom walls and ceiling.",
+            "C. Recently, c was actively engaged in remodeling the bathroom interior.",
+            "D. C was repairing the bathroom.",
+            "E. C was installing tiles in the bathroom."
+        ],
+        "answer": "E. C was installing tiles in the bathroom.",
+        "category": "tool_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/98989bb7-999a-4f03-bc4b-84ff7addb090.mp4",
+        "question_id": "00300",
+        "question": "Based on the video's content, describe the primary purpose of the actions performed by the character throughout the video. do not list the actions, but instead, provide a summary that highlights the overall goal.",
+        "answer_number": "4",
+        "candidates": [
+            "A. Based on the video's content, the primary purpose of the actions performed by the character throughout the video is to read the books.",
+            "B. Based on the video's content, the primary purpose of the actions performed by the character throughout the video is to organize the books.",
+            "C. Based on the video's content, the primary purpose of the actions performed by the character throughout the video is to get rid of the books.",
+            "D. Based on the video's content, the primary purpose of the actions performed by the character throughout the video is to show off the books.",
+            "E. Based on the video's content, the primary purpose of the actions performed by the character throughout the video is to clean the books."
+        ],
+        "answer": "E. Based on the video's content, the primary purpose of the actions performed by the character throughout the video is to clean the books.",
+        "category": "tool_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/b3c34e88-65fb-442f-ad6c-57b3c31f7a98.mp4",
+        "question_id": "00349",
+        "question": "What is the main purpose of the actions performed by character c in the video, and how does this purpose change throughout different segments?",
+        "answer_number": "2",
+        "candidates": [
+            "A. The main purpose of the actions performed by character c in the video is to clean the bakery.",
+            "B. The main purpose of the actions performed by character c in the video is to decorate the bakery.",
+            "C. The main purpose of the actions performed by character c in the video is to prepare dough for baking.",
+            "D. The main purpose of the actions performed by character c in the video is to stock the bakery.",
+            "E. The main purpose of the actions performed by character c in the video is to prepare the bakery for opening."
+        ],
+        "answer": "C. The main purpose of the actions performed by character c in the video is to prepare dough for baking.",
+        "category": "tool_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/b44d457c-bb64-4d49-8989-42623e487782.mp4",
+        "question_id": "00350",
+        "question": "Describe the main objective and repetitive actions c performs throughout the video. focus on the purpose of these actions and how they relate to each other.",
+        "answer_number": "0",
+        "candidates": [
+            "A. C is trying to clean the book.",
+            "B. C is trying to read the book.",
+            "C. C is trying to write in the book.",
+            "D. C is trying to hide the book.",
+            "E. C is trying to destroy the book."
+        ],
+        "answer": "A. C is trying to clean the book.",
+        "category": "tool_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/cb029e59-85d7-48df-924c-a2f1cb33194d.mp4",
+        "question_id": "00398",
+        "question": "What seems to be the main purpose of the video? what actions did c perform to achieve this purpose?",
+        "answer_number": "3",
+        "candidates": [
+            "A. The main objective of this instructional video is to effectively demonstrate how to easily tie your hair back.",
+            "B. The main purpose of the video is to show how to open a jar.",
+            "C. The primary objective of the video presentation is to demonstrate the most effective methods for properly cleaning your windows.",
+            "D. The main purpose of the video is to show how to use a resistance band to exercise your arms and upper body.",
+            "E. The primary objective of this video presentation is to effectively demonstrate the proper way to engage in a fun tug-of-war match with your canine companion."
+        ],
+        "answer": "D. The main purpose of the video is to show how to use a resistance band to exercise your arms and upper body.",
+        "category": "tool_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/dfb6c468-e124-40f6-9c4e-c13ee45a2ad9.mp4",
+        "question_id": "00433",
+        "question": "In what ways does c manipulate the steel rods throughout the video and what do these actions indicate about their overall goal?",
+        "answer_number": "1",
+        "candidates": [
+            "A. C manipulates the steel rods by picking them up and putting them down. this indicates that c is trying to organize the rods or to move them to a different location.",
+            "B. C manipulates the steel rods by greasing them with a brush and then hitting them with a spanner. this indicates that c is trying to keep the rods in good condition and to ensure that they are working properly.",
+            "C. C skillfully manipulates the steel rods by carefully turning them. this action indicates that c is attempting to adjust the rods or to accurately align them with each other.",
+            "D. C skillfully manipulates the steel rods by carefully bending them with precision. this action indicates that c is attempting to shape the rods or to make them fit into a specific, designated space.",
+            "E. C skillfully manipulates the steel rods by precisely cutting them. this clearly indicates that c is attempting to shorten the rods or to remove a specific portion of them for a purpose."
+        ],
+        "answer": "B. C manipulates the steel rods by greasing them with a brush and then hitting them with a spanner. this indicates that c is trying to keep the rods in good condition and to ensure that they are working properly.",
+        "category": "tool_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/e27e9ec7-aaf3-4e5c-a387-1699fe66ea4f.mp4",
+        "question_id": "00442",
+        "question": "How does c's interaction with the lawn mower change throughout the video in relation to steering, operating, and adjusting the hand brake?",
+        "answer_number": "3",
+        "candidates": [
+            "A. C adjusts the steering of the lawn mower at the beginning of the video, and then adjusts the seat of the lawn mower several times throughout the video.",
+            "B. C adjusts the hand brake of the lawn mower at the beginning of the video, and then adjusts the steering of the lawn mower several times throughout the video.",
+            "C. C adjusts the seat of the lawn mower at the beginning of the video, and then adjusts the hand brake several times throughout the video.",
+            "D. C adjusts the steering of the lawn mower at the beginning of the video, and then adjusts the hand brake several times throughout the video.",
+            "E. C does not adjust the lawn mower at all throughout the video."
+        ],
+        "answer": "D. C adjusts the steering of the lawn mower at the beginning of the video, and then adjusts the hand brake several times throughout the video.",
+        "category": "tool_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/f1d2978d-4802-498a-aac7-e240e379d175.mp4",
+        "question_id": "00473",
+        "question": "What is the overall purpose of the actions performed by c and the man throughout the video?",
+        "answer_number": "4",
+        "candidates": [
+            "A. To create a delicious pizza from scratch.",
+            "B. To skillfully create delicious pastries for enjoyment.",
+            "C. Gather ingredients together in order to successfully make delicious cookies.",
+            "D. To make cakes.",
+            "E. To bake bread."
+        ],
+        "answer": "E. To bake bread.",
+        "category": "tool_analysis",
+        "need_reasoning": false
+    }
+]

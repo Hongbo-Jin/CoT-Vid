@@ -1,0 +1,62 @@
+[
+    {
+        "task_name": " VideoMMMU ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/VideoMMMU/videos/validation_Marketing_18.mp4",
+        "question_id": -1,
+        "question": "What is the correct order of steps to determine the significance of a salary difference between men and women based on the video's explanation?",
+        "answer_number": 3,
+        "candidates": [
+            "A. State null hypothesis, calculate p-value, draw sample, compare p-value to alpha.",
+            "B. Draw sample, compare p-value to alpha, calculate p-value, state null hypothesis.",
+            "C. Calculate p-value, state null hypothesis, compare p-value to alpha, draw sample.",
+            "D. State null hypothesis, draw sample, calculate p-value, compare p-value to alpha.",
+            "E. Draw sample, state null hypothesis, calculate p-value, compare p-value to alpha.",
+            "F. State null hypothesis, draw sample, compare p-value to alpha, calculate p-value.",
+            "G. Draw sample, calculate p-value, state null hypothesis, compare p-value to alpha.",
+            "H. Calculate p-value, compare p-value to alpha, state null hypothesis, draw sample.",
+            "I. Compare p-value to alpha, state null hypothesis, draw sample, calculate p-value.",
+            "J. State null hypothesis, calculate p-value, compare p-value to alpha, draw sample."
+        ],
+        "answer": "D. State null hypothesis, draw sample, calculate p-value, compare p-value to alpha.",
+        "category": "behavior_inference",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " VideoMMMU ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/VideoMMMU/videos/test_Energy_and_Power_276.mp4",
+        "question_id": -1,
+        "question": "At 9:30 in the video, the force exerted by the fluid on the slanted gate is calculated. What is the significance of calculating the force F_R?",
+        "answer_number": 8,
+        "candidates": [
+            "A. To find the weight of the gate.",
+            "B. To calculate the torque required to open the gate.",
+            "C. To determine the density of the fluid.",
+            "D. To calculate the angle of the gate with respect to the horizontal.",
+            "E. To find the hinge reaction at point O.",
+            "F. To verify the slant height of the gate.",
+            "G. To determine the pressure variation along the gate.",
+            "H. To calculate the horizontal component of the hydrostatic force.",
+            "I. To determine the total hydrostatic force acting on the gate.",
+            "J. None of the above"
+        ],
+        "answer": "I. To determine the total hydrostatic force acting on the gate.",
+        "category": "behavior_inference",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " VideoMMMU ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/VideoMMMU/videos/validation_Clinical_Medicine_25.mp4",
+        "question_id": -1,
+        "question": "What is the significance of a \"cold\" nodule on a thyroid scan?",
+        "answer_number": 0,
+        "candidates": [
+            "A. Raises suspicions of thyroid cancer",
+            "B. Indicates a toxic adenoma",
+            "C. It is usually benign",
+            "D. Requires no further investigation"
+        ],
+        "answer": "A. Raises suspicions of thyroid cancer",
+        "category": "behavior_inference",
+        "need_reasoning": true
+    }
+]

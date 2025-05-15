@@ -1,0 +1,306 @@
+[
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/VnvG08masio.mp4",
+        "question_id": 0,
+        "question": "Which of the following cooking methods causes the smoke seen in the video?",
+        "answer_number": 1,
+        "candidates": [
+            "A. Making soup.",
+            "B. BBQ.",
+            "C. Stir fry.",
+            "D. Fire hazard."
+        ],
+        "answer": "B. BBQ.",
+        "category": "process_description",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/4jmMWohs1XM.mp4",
+        "question_id": 0,
+        "question": "Which of the following methods of revealing the original color of the ancient art work is not mentioned in the video?",
+        "answer_number": 0,
+        "candidates": [
+            "A. By imagining the color that fits in well with the art work.",
+            "B. Ultraviolet light.",
+            "C. Pigment analysis.",
+            "D. Sampling some visible colors."
+        ],
+        "answer": "A. By imagining the color that fits in well with the art work.",
+        "category": "process_description",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/VQKpMmBDtZo.mp4",
+        "question_id": 0,
+        "question": "For the class of space debris measuring between 1 and 10 centimeters, which cleanup method is proposed in the video?",
+        "answer_number": 3,
+        "candidates": [
+            "A. Sending up specialized garbage collection satellites.",
+            "B. Capturing the debris with robotic arms.",
+            "C. Employing large nets to collect debris.",
+            "D. Using ground- and space-based lasers."
+        ],
+        "answer": "D. Using ground- and space-based lasers.",
+        "category": "process_description",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/qJGqZ_g__So.mp4",
+        "question_id": 0,
+        "question": "In this video, what is the technique or method used by the woman to perform her paper cutting?",
+        "answer_number": 0,
+        "candidates": [
+            "A. To use a scalpel to cut along the curves on the craft pad.",
+            "B. To fold the paper multiple times.",
+            "C. To use scissors to trim the paper.",
+            "D. None of the above."
+        ],
+        "answer": "A. To use a scalpel to cut along the curves on the craft pad.",
+        "category": "process_description",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/4ME5ZfDg2aw.mp4",
+        "question_id": 0,
+        "question": "What activities are recorded sequentially in the video?",
+        "answer_number": 0,
+        "candidates": [
+            "A. Explore ice sheet, take sled dog rides, visit residents.",
+            "B. Explore ice sheet, visit residents, take sled dog rides.",
+            "C. Take sled dog rides, visit residents, explore ice sheet.",
+            "D. Visit residents, explore ice sheet, take sled dog rides."
+        ],
+        "answer": "A. Explore ice sheet, take sled dog rides, visit residents.",
+        "category": "process_description",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/lNvBXLbInXE.mp4",
+        "question_id": 0,
+        "question": "What is the second yoga pranayama method demonstrated by the man in the video?",
+        "answer_number": 3,
+        "candidates": [
+            "A. Markatasana.",
+            "B. Bhastrika.",
+            "C. Anulom vilom.",
+            "D. Kapalbhati."
+        ],
+        "answer": "D. Kapalbhati.",
+        "category": "process_description",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/VP4GtrEsefk.mp4",
+        "question_id": 0,
+        "question": "How to replicate the penalty kick of the person wearing a teddy bear headgear in the video?",
+        "answer_number": 3,
+        "candidates": [
+            "A. Run forward and kick the ball to the edge of the goal, letting it bounce to the other edge and into the goal.",
+            "B. Run forward and kick the ball with the right foot, aiming for the bottom corner of the goal.",
+            "C. Run forward and kick the ball high into the air, allowing it to spin before landing in the goal.",
+            "D. Run to the football then stop and kick the ball into the goal with the left foot."
+        ],
+        "answer": "D. Run to the football then stop and kick the ball into the goal with the left foot.",
+        "category": "process_description",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/gfikT_O4v9A.mp4",
+        "question_id": 0,
+        "question": "What is the order in which the following is introduced in the video?\n\u2460 The concept of the personal fat threshold.\n\u2461 How to grow fat cells.\n\u2462 The relationship between insulin and diet.",
+        "answer_number": 0,
+        "candidates": [
+            "A. \u2460\u2461\u2462.",
+            "B. \u2460\u2462\u2461.",
+            "C. \u2462\u2460\u2461.",
+            "D. \u2461\u2460\u2462."
+        ],
+        "answer": "A. \u2460\u2461\u2462.",
+        "category": "process_description",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/mAwgdX5VxGc.mp4",
+        "question_id": 0,
+        "question": "What is the order in which the following is introduced in the video?\n\u2460 Insulin Resistance Explained.\n\u2461 Case studies.\n\u2462 How to Reverse Type 2 Diabetes.",
+        "answer_number": 3,
+        "candidates": [
+            "A. \u2460\u2461\u2462.",
+            "B. \u2460\u2462\u2461.",
+            "C. \u2462\u2460\u2461.",
+            "D. \u2460\u2462\u2461."
+        ],
+        "answer": "D. \u2460\u2462\u2461.",
+        "category": "process_description",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/Z4Ug2ONxgYw.mp4",
+        "question_id": 0,
+        "question": "What is the order in which the following is introduced in the video?\n\u2460 How to cure thyroid when you have auto-immune.\n\u2461 Stress influence on the production of TSH.\n\u2462 Standard Thyroid Treatment.",
+        "answer_number": 1,
+        "candidates": [
+            "A. \u2460\u2461\u2462.",
+            "B. \u2462\u2461\u2460.",
+            "C. \u2462\u2460\u2461.",
+            "D. \u2460\u2462\u2461."
+        ],
+        "answer": "B. \u2462\u2461\u2460.",
+        "category": "process_description",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/0ncLRRLvdfk.mp4",
+        "question_id": 0,
+        "question": "How does a thorough comprehension of the first method introduced in the video aid in navigating economic downturns?",
+        "answer_number": 2,
+        "candidates": [
+            "A. It allows individuals to predict the exact timing and severity of economic downturns, enabling them to liquidate assets before losses occur.",
+            "B. It fosters a \"doom and gloom\" mentality, encouraging individuals to hoard cash and avoid all investments during economic hardship.",
+            "C. It equips individuals with knowledge of macroeconomics and the cyclical nature of the economy, allowing them to adapt their financial strategies and identify potential opportunities amidst turmoil.",
+            "D. It guarantees financial success during economic downturns by providing a foolproof formula for picking winning investments."
+        ],
+        "answer": "C. It equips individuals with knowledge of macroeconomics and the cyclical nature of the economy, allowing them to adapt their financial strategies and identify potential opportunities amidst turmoil.",
+        "category": "process_description",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/mzoX7zEZ6h4.mp4",
+        "question_id": 0,
+        "question": "Which of the following is NOT one of the primary methods to reach the theme introduced in the video?",
+        "answer_number": 2,
+        "candidates": [
+            "A. The minting of physical coins and printing of paper money by government entities.",
+            "B. The issuance of loans and creation of digital debt records by private banks.",
+            "C. Direct investment by central banks into research and development of technological innovations.",
+            "D. Quantitative easing measures undertaken by central banks to inject liquidity into the economy."
+        ],
+        "answer": "C. Direct investment by central banks into research and development of technological innovations.",
+        "category": "process_description",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/Ei-TcECJVXU.mp4",
+        "question_id": 0,
+        "question": "What is the order in which the following is introduced in the video?\n\u2460 How to supply oxygen\n\u2461 The motion of ISS\n\u2462 Fireflies on ISS\n\u2463 The communication between ISS and The Earth",
+        "answer_number": 2,
+        "candidates": [
+            "A. \u2461\u2460\u2463\u2462.",
+            "B. \u2463\u2460\u2461\u2462.",
+            "C. \u2460\u2461\u2462\u2463.",
+            "D. \u2460\u2463\u2461\u2462."
+        ],
+        "answer": "C. \u2460\u2461\u2462\u2463.",
+        "category": "process_description",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/c08Zzc0xepI.mp4",
+        "question_id": 0,
+        "question": "How does the video describe the methods being used by physicists to support the theory of parallel universes?",
+        "answer_number": 0,
+        "candidates": [
+            "A. Through the utilization of particle accelerators to search for gravitons as proof of other universes.",
+            "B. By employing quantum entanglement to link particles across multiple universes.",
+            "C. Via observation of cosmic microwave background radiation anomalies.",
+            "D. By mapping the distribution of dark matter in our universe to infer the structure of other universes."
+        ],
+        "answer": "A. Through the utilization of particle accelerators to search for gravitons as proof of other universes.",
+        "category": "process_description",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/gKjpYd1Ogwg.mp4",
+        "question_id": 0,
+        "question": "In what sequence are the following contents introduced in this video?\n(a) Different types of yaku.\n(b) Different types of tiles.\n(c) The strategies to complete a winning hand quickly.\n(d) How to create a winning hand.",
+        "answer_number": 0,
+        "candidates": [
+            "A. (b)(d)(c)(a).",
+            "B. (b)(d)(a)(c).",
+            "C. (c)(a)(d)(b).",
+            "D. (d)(c)(a)(b)."
+        ],
+        "answer": "A. (b)(d)(c)(a).",
+        "category": "process_description",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/B0-7MeWA2aI.mp4",
+        "question_id": 0,
+        "question": "In which order are the following topics introduced in this video?\n(a) How to design clothing.\n(b) How to create a logo.\n(c) How to start an online store or website for free.\n(d) How to market and get sales.",
+        "answer_number": 0,
+        "candidates": [
+            "A. (a)(c)(b)(d).",
+            "B. (a)(b)(c)(d).",
+            "C. (a)(d)(b)(c).",
+            "D. (a)(b)(d)(c)."
+        ],
+        "answer": "A. (a)(c)(b)(d).",
+        "category": "process_description",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/XOfeqRgaF1A.mp4",
+        "question_id": 0,
+        "question": "In the later segment of the video, it was noted that \"Jon is currently investigating a training method for enduring effectiveness.\" What is the focus of Jon Freeman's research?",
+        "answer_number": 3,
+        "candidates": [
+            "A. To enable the brain to evaluate facial features in the same way.",
+            "B. To explore how stereotypes work.",
+            "C. Cannot be determined.",
+            "D. To enable the brain to evaluate facial features in a different way."
+        ],
+        "answer": "D. To enable the brain to evaluate facial features in a different way.",
+        "category": "process_description",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/r1PoSdFWvQg.mp4",
+        "question_id": 0,
+        "question": "In the latter part of the video, which method did the contestant with the shortest time used to send inflatable ducks into the lake?",
+        "answer_number": 0,
+        "candidates": [
+            "A. Dragging the duck by its tail.",
+            "B. Dragging the duck by its head.",
+            "C. Rolling the duck.",
+            "D. Pushing the duck."
+        ],
+        "answer": "A. Dragging the duck by its tail.",
+        "category": "process_description",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/Z2G9bTvffAw.mp4",
+        "question_id": 0,
+        "question": "What sequence of actions followed after they stepped on the stilts?\n(a)  They unfurled a banner from their mouths.\n(b) They tumbled down from the high platform.\n(c) They caught the balls thrown by the ground staff.",
+        "answer_number": 1,
+        "candidates": [
+            "A. (a)(b)(c).",
+            "B. (a)(c)(b).",
+            "C. (b)(c)(a).",
+            "D. (b)(a)(c)."
+        ],
+        "answer": "B. (a)(c)(b).",
+        "category": "process_description",
+        "need_reasoning": false
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/q01CUy_gwdU.mp4",
+        "question_id": "123",
+        "question": "What best summarizes the first half of the events when the woman and the man meet for the third time?",
+        "answer_number": 2,
+        "candidates": [
+            "A.  They walk for a while and then sit down at the patio of a coffee shop. She eats, drinks, and smokes while the man stares at her. She goes to a beach",
+            "B.  They walk for a while and then sit down at the patio of a coffee shop. She eats, drinks, and smokes while the man reads a book. He then leaves",
+            "C.  They walk for a while and then sit down at the patio of a coffee shop. She eats, drinks, and smokes while the man stares at her. She then sits near a rive",
+            "D.  They walk for a while and then sit down at the patio of a coffee shop. She eats, drinks, and smokes while the man stares at her. He then leaves"
+        ],
+        "answer": "C.  They walk for a while and then sit down at the patio of a coffee shop. She eats, drinks, and smokes while the man stares at her. She then sits near a rive",
+        "category": "theme_summary",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/Hf-n1yfd8II.mp4",
+        "question_id": "3935",
+        "question": "Summarize the changes of the score for the second game",
+        "answer_number": 1,
+        "candidates": [
+            "A.  Lee Chong Wei takes the lead at the beginning but later is overtaken by Lin Dan",
+            "B.  Lee Chong Wei is always in the lead and never be tied or surpassed",
+            "C.  The race situation is tense, Lee Chong Wei and Lin Dan are neck and neck",
+            "D.  Lin Dan is always in the lead and never be tied or surpassed"
+        ],
+        "answer": "B.  Lee Chong Wei is always in the lead and never be tied or surpassed",
+        "category": "theme_summary",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/JlrzSvCsIjE.mp4",
+        "question_id": "4003",
+        "question": "Summarize the scoring in the first game of the first set?",
+        "answer_number": 3,
+        "candidates": [
+            "A.  The Swiss team scores the first 3 points at first, but in the end the American team won the game with five consecutive points",
+            "B.  The American team scores the first 3 points at first, but in the end the  Swiss team won the game with five consecutive points",
+            "C.  The Swiss team scores the first point first, then the American team scores two points, but in the end the Swiss team won the game with three consecutive points",
+            "D.  The American team scores the first point first, then the Swiss team scores two points, but in the end the American team won the game with three consecutive points"
+        ],
+        "answer": "D.  The American team scores the first point first, then the Swiss team scores two points, but in the end the American team won the game with three consecutive points",
+        "category": "theme_summary",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/JlrzSvCsIjE.mp4",
+        "question_id": "4005",
+        "question": "Summarize the scoring in the second game of the first set?",
+        "answer_number": 3,
+        "candidates": [
+            "A.  The American team scores one point first, and the Swiss team then tie it, but then the American team score consecutively to win the game",
+            "B.  The Swiss team score consecutively to win the game with American get no point",
+            "C.  The American team score consecutively to win the game with Swiss get no point",
+            "D.  The Swiss team scores one point first, and the American team then tie it, but then the Swiss team score consecutively to win the game"
+        ],
+        "answer": "D.  The Swiss team scores one point first, and the American team then tie it, but then the Swiss team score consecutively to win the game",
+        "category": "theme_summary",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/JlrzSvCsIjE.mp4",
+        "question_id": "4010",
+        "question": "Summarize the scoring in the third game of the first set?",
+        "answer_number": 3,
+        "candidates": [
+            "A.  After losing a point, the U.S. team scored four points in a row to win the game",
+            "B.  After losing a point, the Swiss team scored four points in a row to win the game",
+            "C.  The Swiss team scored four points in a row to win the game",
+            "D.  The U.S. team scored four points in a row to win the game"
+        ],
+        "answer": "D.  The U.S. team scored four points in a row to win the game",
+        "category": "theme_summary",
+        "need_reasoning": true
+    }
+]

@@ -1,0 +1,2582 @@
+[
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_10857.mp4",
+        "question_id": "video_10857_2",
+        "question": "Are the letters that the person shuffled in the same order at the end of the video compared to the beginning of the video?",
+        "answer_number": 2,
+        "candidates": [
+            "A. I don't know",
+            "B. No",
+            "C. Yes"
+        ],
+        "answer": "C. Yes",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_4956.mp4",
+        "question_id": "video_4956_1",
+        "question": "Are the letters that the person shuffled in the same order at the end of the video compared to the beginning of the video?",
+        "answer_number": 1,
+        "candidates": [
+            "A. No",
+            "B. Yes",
+            "C. I don't know"
+        ],
+        "answer": "B. Yes",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_567.mp4",
+        "question_id": "video_567_2",
+        "question": "Are the letters that the person shuffled in the same order at the end of the video compared to the beginning of the video?",
+        "answer_number": 1,
+        "candidates": [
+            "A. I don't know",
+            "B. Yes",
+            "C. No"
+        ],
+        "answer": "B. Yes",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_7028.mp4",
+        "question_id": "video_7028_1",
+        "question": "Are the letters that the person shuffled in the same order at the end of the video compared to the beginning of the video?",
+        "answer_number": 2,
+        "candidates": [
+            "A. I don't know",
+            "B. No",
+            "C. Yes"
+        ],
+        "answer": "C. Yes",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_6694.mp4",
+        "question_id": "video_6694_2",
+        "question": "Are the letters that the person shuffled in the same order at the end of the video compared to the beginning of the video?",
+        "answer_number": 2,
+        "candidates": [
+            "A. No",
+            "B. I don't know",
+            "C. Yes"
+        ],
+        "answer": "C. Yes",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_11317.mp4",
+        "question_id": "video_11317_2",
+        "question": "Are the letters that the person shuffled in the same order at the end of the video compared to the beginning of the video?",
+        "answer_number": 0,
+        "candidates": [
+            "A. Yes",
+            "B. No",
+            "C. I don't know"
+        ],
+        "answer": "A. Yes",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_2821.mp4",
+        "question_id": "video_2821_1",
+        "question": "Are the letters that the person shuffled in the same order at the end of the video compared to the beginning of the video?",
+        "answer_number": 0,
+        "candidates": [
+            "A. Yes",
+            "B. I don't know",
+            "C. No"
+        ],
+        "answer": "A. Yes",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_3171.mp4",
+        "question_id": "video_3171_1",
+        "question": "Are the letters that the person shuffled in the same order at the end of the video compared to the beginning of the video?",
+        "answer_number": 1,
+        "candidates": [
+            "A. I don't know",
+            "B. Yes",
+            "C. No"
+        ],
+        "answer": "B. Yes",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_3010.mp4",
+        "question_id": "video_3010_2",
+        "question": "Are the letters that the person shuffled in the same order at the end of the video compared to the beginning of the video?",
+        "answer_number": 0,
+        "candidates": [
+            "A. Yes",
+            "B. No",
+            "C. I don't know"
+        ],
+        "answer": "A. Yes",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_4253.mp4",
+        "question_id": "video_4253_2",
+        "question": "Are the letters that the person shuffled in the same order at the end of the video compared to the beginning of the video?",
+        "answer_number": 0,
+        "candidates": [
+            "A. Yes",
+            "B. No",
+            "C. I don't know"
+        ],
+        "answer": "A. Yes",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_7228.mp4",
+        "question_id": "video_7228_1",
+        "question": "Are the letters that the person shuffled in the same order at the end of the video compared to the beginning of the video?",
+        "answer_number": 2,
+        "candidates": [
+            "A. No",
+            "B. I don't know",
+            "C. Yes"
+        ],
+        "answer": "C. Yes",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_5496.mp4",
+        "question_id": "video_5496_1",
+        "question": "Are the letters that the person shuffled in the same order at the end of the video compared to the beginning of the video?",
+        "answer_number": 0,
+        "candidates": [
+            "A. Yes",
+            "B. I don't know",
+            "C. No"
+        ],
+        "answer": "A. Yes",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_1290.mp4",
+        "question_id": "video_1290_1",
+        "question": "Are the letters that the person shuffled in the same order at the end of the video compared to the beginning of the video?",
+        "answer_number": 0,
+        "candidates": [
+            "A. Probably yes",
+            "B. I don't know",
+            "C. No"
+        ],
+        "answer": "A. Probably yes",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_4370.mp4",
+        "question_id": "video_4370_1",
+        "question": "Are the letters that the person shuffled in the same order at the end of the video compared to the beginning of the video?",
+        "answer_number": 0,
+        "candidates": [
+            "A. No",
+            "B. Yes",
+            "C. I don't know"
+        ],
+        "answer": "A. No",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_9985.mp4",
+        "question_id": "video_9985_1",
+        "question": "Are the letters that the person shuffled in the same order at the end of the video compared to the beginning of the video?",
+        "answer_number": 2,
+        "candidates": [
+            "A. I don't know",
+            "B. Yes",
+            "C. No"
+        ],
+        "answer": "C. No",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_1021.mp4",
+        "question_id": "video_1021_1",
+        "question": "Are the letters that the person shuffled in the same order at the end of the video compared to the beginning of the video?",
+        "answer_number": 2,
+        "candidates": [
+            "A. I don't know",
+            "B. No",
+            "C. Yes"
+        ],
+        "answer": "C. Yes",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_1857.mp4",
+        "question_id": "video_1857_1",
+        "question": "Are the letters that the person shuffled in the same order at the end of the video compared to the beginning of the video?",
+        "answer_number": 2,
+        "candidates": [
+            "A. I don't know",
+            "B. Yes",
+            "C. No"
+        ],
+        "answer": "C. No",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_7119.mp4",
+        "question_id": "video_7119_1",
+        "question": "Are the letters that the person shuffled in the same order at the end of the video compared to the beginning of the video?",
+        "answer_number": 0,
+        "candidates": [
+            "A. No",
+            "B. Yes",
+            "C. I don't know"
+        ],
+        "answer": "A. No",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_8693.mp4",
+        "question_id": "video_8693_2",
+        "question": "Are the letters that the person shuffled in the same order at the end of the video compared to the beginning of the video?",
+        "answer_number": 1,
+        "candidates": [
+            "A. I don't know",
+            "B. No",
+            "C. Yes"
+        ],
+        "answer": "B. No",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_10782.mp4",
+        "question_id": "video_10782_2",
+        "question": "Are the letters that the person shuffled in the same order at the end of the video compared to the beginning of the video?",
+        "answer_number": 0,
+        "candidates": [
+            "A. No",
+            "B. I don't know",
+            "C. Yes"
+        ],
+        "answer": "A. No",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_1580.mp4",
+        "question_id": "video_1580_1",
+        "question": "Are the letters that the person shuffled in the same order at the end of the video compared to the beginning of the video?",
+        "answer_number": 2,
+        "candidates": [
+            "A. I don't know",
+            "B. Yes",
+            "C. No"
+        ],
+        "answer": "C. No",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_10461.mp4",
+        "question_id": "video_10461_1",
+        "question": "Are the letters that the person shuffled in the same order at the end of the video compared to the beginning of the video?",
+        "answer_number": 1,
+        "candidates": [
+            "A. Yes",
+            "B. No",
+            "C. I don't know"
+        ],
+        "answer": "B. No",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_6421.mp4",
+        "question_id": "video_6421_1",
+        "question": "Are the letters that the person shuffled in the same order at the end of the video compared to the beginning of the video?",
+        "answer_number": 2,
+        "candidates": [
+            "A. I don't know",
+            "B. Yes",
+            "C. No"
+        ],
+        "answer": "C. No",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_8117.mp4",
+        "question_id": "video_8117_1",
+        "question": "Are the letters that the person shuffled in the same order at the end of the video compared to the beginning of the video?",
+        "answer_number": 2,
+        "candidates": [
+            "A. Yes",
+            "B. I don't know",
+            "C. No"
+        ],
+        "answer": "C. No",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_5724.mp4",
+        "question_id": "video_5724_1",
+        "question": "Are the letters that the person shuffled in the same order at the end of the video compared to the beginning of the video?",
+        "answer_number": 1,
+        "candidates": [
+            "A. I don't know",
+            "B. No",
+            "C. Yes"
+        ],
+        "answer": "B. No",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_1715.mp4",
+        "question_id": "video_1715_1",
+        "question": "Are the letters that the person shuffled in the same order at the end of the video compared to the beginning of the video?",
+        "answer_number": 1,
+        "candidates": [
+            "A. No",
+            "B. Yes",
+            "C. I don't know"
+        ],
+        "answer": "B. Yes",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_2565.mp4",
+        "question_id": "video_2565_1",
+        "question": "Are the letters that the person shuffled in the same order at the end of the video compared to the beginning of the video?",
+        "answer_number": 1,
+        "candidates": [
+            "A. No",
+            "B. Yes",
+            "C. I don't know"
+        ],
+        "answer": "B. Yes",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_6470.mp4",
+        "question_id": "video_6470_1",
+        "question": "Are the letters that the person shuffled in the same order at the end of the video compared to the beginning of the video?",
+        "answer_number": 2,
+        "candidates": [
+            "A. Yes",
+            "B. I don't know",
+            "C. No"
+        ],
+        "answer": "C. No",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_11119.mp4",
+        "question_id": "video_11119_1",
+        "question": "Are the letters that the person shuffled in the same order at the end of the video compared to the beginning of the video?",
+        "answer_number": 1,
+        "candidates": [
+            "A. I don't know",
+            "B. No",
+            "C. Yes"
+        ],
+        "answer": "B. No",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_9559.mp4",
+        "question_id": "video_9559_1",
+        "question": "Are the letters that the person shuffled in the same order at the end of the video compared to the beginning of the video?",
+        "answer_number": 1,
+        "candidates": [
+            "A. I don't know",
+            "B. No",
+            "C. Yes"
+        ],
+        "answer": "B. No",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_10351.mp4",
+        "question_id": "video_10351_2",
+        "question": "Are the letters that the person shuffled in the same order at the end of the video compared to the beginning of the video?",
+        "answer_number": 2,
+        "candidates": [
+            "A. I don't know",
+            "B. Yes",
+            "C. No"
+        ],
+        "answer": "C. No",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_183.mp4",
+        "question_id": "video_183_1",
+        "question": "Are the letters that the person shuffled in the same order at the end of the video compared to the beginning of the video?",
+        "answer_number": 0,
+        "candidates": [
+            "A. No",
+            "B. I don't know",
+            "C. Yes"
+        ],
+        "answer": "A. No",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_8754.mp4",
+        "question_id": "video_8754_1",
+        "question": "Are the letters that the person shuffled in the same order at the end of the video compared to the beginning of the video?",
+        "answer_number": 2,
+        "candidates": [
+            "A. Yes",
+            "B. I don't know",
+            "C. No"
+        ],
+        "answer": "C. No",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_3634.mp4",
+        "question_id": "video_3634_1",
+        "question": "Are the letters that the person shuffled in the same order at the end of the video compared to the beginning of the video?",
+        "answer_number": 2,
+        "candidates": [
+            "A. No",
+            "B. I don't know",
+            "C. Yes"
+        ],
+        "answer": "C. Yes",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_10197.mp4",
+        "question_id": "video_10197_2",
+        "question": "Are the letters that the person shuffled in the same order at the end of the video compared to the beginning of the video?",
+        "answer_number": 2,
+        "candidates": [
+            "A. I don't know",
+            "B. No",
+            "C. Yes"
+        ],
+        "answer": "C. Yes",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_4604.mp4",
+        "question_id": "video_4604_2",
+        "question": "Are the letters that the person shuffled in the same order at the end of the video compared to the beginning of the video?",
+        "answer_number": 0,
+        "candidates": [
+            "A. No",
+            "B. Yes",
+            "C. I don't know"
+        ],
+        "answer": "A. No",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_6731.mp4",
+        "question_id": "video_6731_2",
+        "question": "Are the letters that the person shuffled in the same order at the end of the video compared to the beginning of the video?",
+        "answer_number": 1,
+        "candidates": [
+            "A. I don't know",
+            "B. Yes",
+            "C. No"
+        ],
+        "answer": "B. Yes",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_6098.mp4",
+        "question_id": "video_6098_1",
+        "question": "Are the letters that the person shuffled in the same order at the end of the video compared to the beginning of the video?",
+        "answer_number": 2,
+        "candidates": [
+            "A. I don't know",
+            "B. Yes",
+            "C. No"
+        ],
+        "answer": "C. No",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_2936.mp4",
+        "question_id": "video_2936_2",
+        "question": "Are the letters that the person shuffled in the same order at the end of the video compared to the beginning of the video?",
+        "answer_number": 0,
+        "candidates": [
+            "A. Yes",
+            "B. I don't know",
+            "C. No"
+        ],
+        "answer": "A. Yes",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_4471.mp4",
+        "question_id": "video_4471_2",
+        "question": "Are the letters that the person shuffled in the same order at the end of the video compared to the beginning of the video?",
+        "answer_number": 0,
+        "candidates": [
+            "A. Yes",
+            "B. I don't know",
+            "C. No"
+        ],
+        "answer": "A. Yes",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_2516.mp4",
+        "question_id": "video_2516_1",
+        "question": "Are the letters that the person shuffled in the same order at the end of the video compared to the beginning of the video?",
+        "answer_number": 0,
+        "candidates": [
+            "A. Yes",
+            "B. I don't know",
+            "C. No"
+        ],
+        "answer": "A. Yes",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_1512.mp4",
+        "question_id": "video_1512_2",
+        "question": "Are the letters that the person shuffled in the same order at the end of the video compared to the beginning of the video?",
+        "answer_number": 2,
+        "candidates": [
+            "A. Yes",
+            "B. I don't know",
+            "C. No"
+        ],
+        "answer": "C. No",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_8834.mp4",
+        "question_id": "video_8834_1",
+        "question": "Are the letters that the person shuffled in the same order at the end of the video compared to the beginning of the video?",
+        "answer_number": 0,
+        "candidates": [
+            "A. Yes",
+            "B. I don't know",
+            "C. No"
+        ],
+        "answer": "A. Yes",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_5034.mp4",
+        "question_id": "video_5034_2",
+        "question": "Are the letters that the person shuffled in the same order at the end of the video compared to the beginning of the video?",
+        "answer_number": 1,
+        "candidates": [
+            "A. No",
+            "B. Yes",
+            "C. I don't know"
+        ],
+        "answer": "B. Yes",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_11183.mp4",
+        "question_id": "video_11183_1",
+        "question": "Are the letters that the person shuffled in the same order at the end of the video compared to the beginning of the video?",
+        "answer_number": 2,
+        "candidates": [
+            "A. I don't know",
+            "B. No",
+            "C. Yes"
+        ],
+        "answer": "C. Yes",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_10783.mp4",
+        "question_id": "video_10783_2",
+        "question": "Are the letters that the person shuffled in the same order at the end of the video compared to the beginning of the video?",
+        "answer_number": 2,
+        "candidates": [
+            "A. Yes",
+            "B. I don't know",
+            "C. No"
+        ],
+        "answer": "C. No",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_1517.mp4",
+        "question_id": "video_1517_1",
+        "question": "Are the letters that the person shuffled in the same order at the end of the video compared to the beginning of the video?",
+        "answer_number": 0,
+        "candidates": [
+            "A. Yes",
+            "B. I don't know",
+            "C. No"
+        ],
+        "answer": "A. Yes",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_1374.mp4",
+        "question_id": "video_1374_1",
+        "question": "Are the letters that the person shuffled in the same order at the end of the video compared to the beginning of the video?",
+        "answer_number": 1,
+        "candidates": [
+            "A. I don't know",
+            "B. Yes",
+            "C. No"
+        ],
+        "answer": "B. Yes",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_203.mp4",
+        "question_id": "video_203_1",
+        "question": "Are the letters that the person shuffled in the same order at the end of the video compared to the beginning of the video?",
+        "answer_number": 0,
+        "candidates": [
+            "A. No",
+            "B. I don't know",
+            "C. Yes"
+        ],
+        "answer": "A. No",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_2235.mp4",
+        "question_id": "video_2235_1",
+        "question": "Are the letters that the person shuffled in the same order at the end of the video compared to the beginning of the video?",
+        "answer_number": 0,
+        "candidates": [
+            "A. Yes",
+            "B. No",
+            "C. I don't know"
+        ],
+        "answer": "A. Yes",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_8772.mp4",
+        "question_id": "video_8772_1",
+        "question": "Are the letters that the person shuffled in the same order at the end of the video compared to the beginning of the video?",
+        "answer_number": 2,
+        "candidates": [
+            "A. Yes",
+            "B. I don't know",
+            "C. No"
+        ],
+        "answer": "C. No",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_3115.mp4",
+        "question_id": "video_3115_2",
+        "question": "Are the letters that the person shuffled in the same order at the end of the video compared to the beginning of the video?",
+        "answer_number": 2,
+        "candidates": [
+            "A. I don't know",
+            "B. Yes",
+            "C. No"
+        ],
+        "answer": "C. No",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_6232.mp4",
+        "question_id": "video_6232_1",
+        "question": "Are the letters that the person shuffled in the same order at the end of the video compared to the beginning of the video?",
+        "answer_number": 2,
+        "candidates": [
+            "A. Yes",
+            "B. I don't know",
+            "C. No"
+        ],
+        "answer": "C. No",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_6578.mp4",
+        "question_id": "video_6578_1",
+        "question": "Are the letters that the person shuffled in the same order at the end of the video compared to the beginning of the video?",
+        "answer_number": 2,
+        "candidates": [
+            "A. Yes",
+            "B. I don't know",
+            "C. No"
+        ],
+        "answer": "C. No",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_8.mp4",
+        "question_id": "video_8_2",
+        "question": "Are the letters that the person shuffled in the same order at the end of the video compared to the beginning of the video?",
+        "answer_number": 0,
+        "candidates": [
+            "A. Yes",
+            "B. I don't know",
+            "C. No"
+        ],
+        "answer": "A. Yes",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_7982.mp4",
+        "question_id": "video_7982_1",
+        "question": "Are the letters that the person shuffled in the same order at the end of the video compared to the beginning of the video?",
+        "answer_number": 1,
+        "candidates": [
+            "A. Yes",
+            "B. No",
+            "C. I don't know"
+        ],
+        "answer": "B. No",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_866.mp4",
+        "question_id": "video_866_1",
+        "question": "Are the letters that the person shuffled in the same order at the end of the video compared to the beginning of the video?",
+        "answer_number": 2,
+        "candidates": [
+            "A. I don't know",
+            "B. Yes",
+            "C. No"
+        ],
+        "answer": "C. No",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_3941.mp4",
+        "question_id": "video_3941_1",
+        "question": "Are the letters that the person shuffled in the same order at the end of the video compared to the beginning of the video?",
+        "answer_number": 0,
+        "candidates": [
+            "A. No",
+            "B. I don't know",
+            "C. Yes"
+        ],
+        "answer": "A. No",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_7892.mp4",
+        "question_id": "video_7892_1",
+        "question": "Are the letters that the person shuffled in the same order at the end of the video compared to the beginning of the video?",
+        "answer_number": 0,
+        "candidates": [
+            "A. No",
+            "B. I don't know",
+            "C. Yes"
+        ],
+        "answer": "A. No",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_5637.mp4",
+        "question_id": "video_5637_2",
+        "question": "Are the letters that the person shuffled in the same order at the end of the video compared to the beginning of the video?",
+        "answer_number": 1,
+        "candidates": [
+            "A. Yes",
+            "B. No",
+            "C. I don't know"
+        ],
+        "answer": "B. No",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_6139.mp4",
+        "question_id": "video_6139_1",
+        "question": "Are the letters that the person shuffled in the same order at the end of the video compared to the beginning of the video?",
+        "answer_number": 2,
+        "candidates": [
+            "A. Yes",
+            "B. I don't know",
+            "C. No"
+        ],
+        "answer": "C. No",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_1159.mp4",
+        "question_id": "video_1159_2",
+        "question": "Are the letters that the person shuffled in the same order at the end of the video compared to the beginning of the video?",
+        "answer_number": 2,
+        "candidates": [
+            "A. Yes",
+            "B. I don't know",
+            "C. No"
+        ],
+        "answer": "C. No",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_1800.mp4",
+        "question_id": "video_1800_1",
+        "question": "Are the letters that the person shuffled in the same order at the end of the video compared to the beginning of the video?",
+        "answer_number": 0,
+        "candidates": [
+            "A. No",
+            "B. I don't know",
+            "C. Yes"
+        ],
+        "answer": "A. No",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_2418.mp4",
+        "question_id": "video_2418_2",
+        "question": "Are the letters that the person shuffled in the same order at the end of the video compared to the beginning of the video?",
+        "answer_number": 2,
+        "candidates": [
+            "A. I don't know",
+            "B. No",
+            "C. Yes"
+        ],
+        "answer": "C. Yes",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_1168.mp4",
+        "question_id": "video_1168_1",
+        "question": "Are the letters that the person shuffled in the same order at the end of the video compared to the beginning of the video?",
+        "answer_number": 0,
+        "candidates": [
+            "A. No",
+            "B. Yes",
+            "C. I don't know"
+        ],
+        "answer": "A. No",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_5646.mp4",
+        "question_id": "video_5646_1",
+        "question": "Are the letters that the person shuffled in the same order at the end of the video compared to the beginning of the video?",
+        "answer_number": 2,
+        "candidates": [
+            "A. Yes",
+            "B. I don't know",
+            "C. No"
+        ],
+        "answer": "C. No",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_11140.mp4",
+        "question_id": "video_11140_1",
+        "question": "Are the letters that the person shuffled in the same order at the end of the video compared to the beginning of the video?",
+        "answer_number": 0,
+        "candidates": [
+            "A. No",
+            "B. I don't know",
+            "C. Yes"
+        ],
+        "answer": "A. No",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_477.mp4",
+        "question_id": "video_477_1",
+        "question": "Are the letters that the person shuffled in the same order at the end of the video compared to the beginning of the video?",
+        "answer_number": 2,
+        "candidates": [
+            "A. No",
+            "B. I don't know",
+            "C. Yes"
+        ],
+        "answer": "C. Yes",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_7741.mp4",
+        "question_id": "video_7741_1",
+        "question": "Are the letters that the person shuffled in the same order at the end of the video compared to the beginning of the video?",
+        "answer_number": 2,
+        "candidates": [
+            "A. No",
+            "B. I don't know",
+            "C. Yes"
+        ],
+        "answer": "C. Yes",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_390.mp4",
+        "question_id": "video_390_2",
+        "question": "Are the letters that the person shuffled in the same order at the end of the video compared to the beginning of the video?",
+        "answer_number": 0,
+        "candidates": [
+            "A. Yes",
+            "B. I don't know",
+            "C. No"
+        ],
+        "answer": "A. Yes",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_10765.mp4",
+        "question_id": "video_10765_2",
+        "question": "Are the letters that the person shuffled in the same order at the end of the video compared to the beginning of the video?",
+        "answer_number": 1,
+        "candidates": [
+            "A. I don't know",
+            "B. Yes",
+            "C. No"
+        ],
+        "answer": "B. Yes",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_7930.mp4",
+        "question_id": "video_7930_1",
+        "question": "Are the letters that the person shuffled in the same order at the end of the video compared to the beginning of the video?",
+        "answer_number": 2,
+        "candidates": [
+            "A. No",
+            "B. I don't know",
+            "C. Yes"
+        ],
+        "answer": "C. Yes",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_4020.mp4",
+        "question_id": "video_4020_1",
+        "question": "Are the letters that the person shuffled in the same order at the end of the video compared to the beginning of the video?",
+        "answer_number": 1,
+        "candidates": [
+            "A. I don't know",
+            "B. Yes",
+            "C. No"
+        ],
+        "answer": "B. Yes",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_7171.mp4",
+        "question_id": "video_7171_1",
+        "question": "Are the letters that the person shuffled in the same order at the end of the video compared to the beginning of the video?",
+        "answer_number": 0,
+        "candidates": [
+            "A. No",
+            "B. Yes",
+            "C. I don't know"
+        ],
+        "answer": "A. No",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_8766.mp4",
+        "question_id": "video_8766_2",
+        "question": "Are the letters that the person shuffled in the same order at the end of the video compared to the beginning of the video?",
+        "answer_number": 0,
+        "candidates": [
+            "A. No",
+            "B. Yes",
+            "C. I don't know"
+        ],
+        "answer": "A. No",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_5495.mp4",
+        "question_id": "video_5495_1",
+        "question": "Are the letters that the person shuffled in the same order at the end of the video compared to the beginning of the video?",
+        "answer_number": 0,
+        "candidates": [
+            "A. No",
+            "B. Yes",
+            "C. I don't know"
+        ],
+        "answer": "A. No",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_4335.mp4",
+        "question_id": "video_4335_1",
+        "question": "Are the letters that the person shuffled in the same order at the end of the video compared to the beginning of the video?",
+        "answer_number": 2,
+        "candidates": [
+            "A. I don't know",
+            "B. Yes",
+            "C. No"
+        ],
+        "answer": "C. No",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_10785.mp4",
+        "question_id": "video_10785_1",
+        "question": "Are the letters that the person shuffled in the same order at the end of the video compared to the beginning of the video?",
+        "answer_number": 0,
+        "candidates": [
+            "A. No",
+            "B. I don't know",
+            "C. Yes"
+        ],
+        "answer": "A. No",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_11478.mp4",
+        "question_id": "video_11478_2",
+        "question": "Are the letters that the person shuffled in the same order at the end of the video compared to the beginning of the video?",
+        "answer_number": 2,
+        "candidates": [
+            "A. No",
+            "B. I don't know",
+            "C. Yes"
+        ],
+        "answer": "C. Yes",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_11476.mp4",
+        "question_id": "video_11476_1",
+        "question": "Are the letters that the person shuffled in the same order at the end of the video compared to the beginning of the video?",
+        "answer_number": 2,
+        "candidates": [
+            "A. I don't know",
+            "B. Yes",
+            "C. No"
+        ],
+        "answer": "C. No",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_8396.mp4",
+        "question_id": "video_8396_1",
+        "question": "Are the letters that the person shuffled in the same order at the end of the video compared to the beginning of the video?",
+        "answer_number": 0,
+        "candidates": [
+            "A. No",
+            "B. Yes",
+            "C. I don't know"
+        ],
+        "answer": "A. No",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_7301.mp4",
+        "question_id": "video_7301_2",
+        "question": "Are the letters that the person shuffled in the same order at the end of the video compared to the beginning of the video?",
+        "answer_number": 1,
+        "candidates": [
+            "A. I don't know",
+            "B. No",
+            "C. Yes"
+        ],
+        "answer": "B. No",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_5983.mp4",
+        "question_id": "video_5983_1",
+        "question": "Are the letters that the person shuffled in the same order at the end of the video compared to the beginning of the video?",
+        "answer_number": 0,
+        "candidates": [
+            "A. No",
+            "B. Yes",
+            "C. I don't know"
+        ],
+        "answer": "A. No",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_9286.mp4",
+        "question_id": "video_9286_0",
+        "question": "If we assume that the amount of water in the two containers in which the person poured first is equal, how much water is in the container in which the person poured last compared to that amount?",
+        "answer_number": 2,
+        "candidates": [
+            "A. More water",
+            "B. Less water",
+            "C. Same amount of water"
+        ],
+        "answer": "C. Same amount of water",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_1750.mp4",
+        "question_id": "video_1750_2",
+        "question": "If we assume that the amount of water in the two containers in which the person poured first is equal, how much water is in the container in which the person poured last compared to that amount?",
+        "answer_number": 0,
+        "candidates": [
+            "A. Same amount of water",
+            "B. More water",
+            "C. Less water"
+        ],
+        "answer": "A. Same amount of water",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_8634.mp4",
+        "question_id": "video_8634_0",
+        "question": "If we assume that the amount of water in the two containers in which the person poured first is equal, how much water is in the container in which the person poured last compared to that amount?",
+        "answer_number": 0,
+        "candidates": [
+            "A. Same amount of water",
+            "B. Less water",
+            "C. More water"
+        ],
+        "answer": "A. Same amount of water",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_4633.mp4",
+        "question_id": "video_4633_0",
+        "question": "If we assume that the amount of water in the two containers in which the person poured first is equal, how much water is in the container in which the person poured last compared to that amount?",
+        "answer_number": 2,
+        "candidates": [
+            "A. More water",
+            "B. Less water",
+            "C. Same amount of water"
+        ],
+        "answer": "C. Same amount of water",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_1905.mp4",
+        "question_id": "video_1905_0",
+        "question": "If we assume that the amount of water in the two containers in which the person poured first is equal, how much water is in the container in which the person poured last compared to that amount?",
+        "answer_number": 2,
+        "candidates": [
+            "A. More water",
+            "B. Less water",
+            "C. Same amount of water"
+        ],
+        "answer": "C. Same amount of water",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_1658.mp4",
+        "question_id": "video_1658_0",
+        "question": "If we assume that the amount of water in the two containers in which the person poured first is equal, how much water is in the container in which the person poured last compared to that amount?",
+        "answer_number": 1,
+        "candidates": [
+            "A. Less water",
+            "B. Same amount of water",
+            "C. More water"
+        ],
+        "answer": "B. Same amount of water",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_825.mp4",
+        "question_id": "video_825_0",
+        "question": "If we assume that the amount of water in the two containers in which the person poured first is equal, how much water is in the container in which the person poured last compared to that amount?",
+        "answer_number": 1,
+        "candidates": [
+            "A. More water",
+            "B. Same amount of water",
+            "C. Less water"
+        ],
+        "answer": "B. Same amount of water",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_646.mp4",
+        "question_id": "video_646_0",
+        "question": "If we assume that the amount of water in the two containers in which the person poured first is equal, how much water is in the container in which the person poured last compared to that amount?",
+        "answer_number": 2,
+        "candidates": [
+            "A. Less water",
+            "B. More water",
+            "C. Same amount of water"
+        ],
+        "answer": "C. Same amount of water",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_5894.mp4",
+        "question_id": "video_5894_0",
+        "question": "If we assume that the amount of water in the two containers in which the person poured first is equal, how much water is in the container in which the person poured last compared to that amount?",
+        "answer_number": 2,
+        "candidates": [
+            "A. More water",
+            "B. Less water",
+            "C. Same amount of water"
+        ],
+        "answer": "C. Same amount of water",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_7238.mp4",
+        "question_id": "video_7238_0",
+        "question": "If we assume that the amount of water in the two containers in which the person poured first is equal, how much water is in the container in which the person poured last compared to that amount?",
+        "answer_number": 2,
+        "candidates": [
+            "A. Less water",
+            "B. More water",
+            "C. Same amount of water"
+        ],
+        "answer": "C. Same amount of water",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_1772.mp4",
+        "question_id": "video_1772_1",
+        "question": "If we assume that the amount of water in the two containers in which the person poured first is equal, how much water is in the container in which the person poured last compared to that amount?",
+        "answer_number": 0,
+        "candidates": [
+            "A. Same amount of water",
+            "B. Less water",
+            "C. More water"
+        ],
+        "answer": "A. Same amount of water",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_1744.mp4",
+        "question_id": "video_1744_0",
+        "question": "If we assume that the amount of water in the two containers in which the person poured first is equal, how much water is in the container in which the person poured last compared to that amount?",
+        "answer_number": 2,
+        "candidates": [
+            "A. Less water",
+            "B. More water",
+            "C. Same amount of water"
+        ],
+        "answer": "C. Same amount of water",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_10371.mp4",
+        "question_id": "video_10371_0",
+        "question": "If we assume that the amount of water in the two containers in which the person poured first is equal, how much water is in the container in which the person poured last compared to that amount?",
+        "answer_number": 1,
+        "candidates": [
+            "A. Less water",
+            "B. Same amount of water",
+            "C. More water"
+        ],
+        "answer": "B. Same amount of water",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_10943.mp4",
+        "question_id": "video_10943_0",
+        "question": "If we assume that the amount of water in the two containers in which the person poured first is equal, how much water is in the container in which the person poured last compared to that amount?",
+        "answer_number": 1,
+        "candidates": [
+            "A. Less water",
+            "B. Same amount of water",
+            "C. More water"
+        ],
+        "answer": "B. Same amount of water",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_2008.mp4",
+        "question_id": "video_2008_0",
+        "question": "If we assume that the amount of water in the two containers in which the person poured first is equal, how much water is in the container in which the person poured last compared to that amount?",
+        "answer_number": 2,
+        "candidates": [
+            "A. More water",
+            "B. Less water",
+            "C. Same amount of water"
+        ],
+        "answer": "C. Same amount of water",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_6553.mp4",
+        "question_id": "video_6553_0",
+        "question": "If we assume that the amount of water in the two containers in which the person poured first is equal, how much water is in the container in which the person poured last compared to that amount?",
+        "answer_number": 1,
+        "candidates": [
+            "A. Less water",
+            "B. Same amount of water",
+            "C. More water"
+        ],
+        "answer": "B. Same amount of water",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_11581.mp4",
+        "question_id": "video_11581_0",
+        "question": "If we assume that the amount of water in the two containers in which the person poured first is equal, how much water is in the container in which the person poured last compared to that amount?",
+        "answer_number": 0,
+        "candidates": [
+            "A. Same amount of water",
+            "B. More water",
+            "C. Less water"
+        ],
+        "answer": "A. Same amount of water",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_4269.mp4",
+        "question_id": "video_4269_1",
+        "question": "If we assume that the amount of water in the two containers in which the person poured first is equal, how much water is in the container in which the person poured last compared to that amount?",
+        "answer_number": 0,
+        "candidates": [
+            "A. Same amount of water",
+            "B. More water",
+            "C. Less water"
+        ],
+        "answer": "A. Same amount of water",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_7424.mp4",
+        "question_id": "video_7424_1",
+        "question": "If we assume that the amount of water in the two containers in which the person poured first is equal, how much water is in the container in which the person poured last compared to that amount?",
+        "answer_number": 2,
+        "candidates": [
+            "A. Same amount of water",
+            "B. More water",
+            "C. Less water"
+        ],
+        "answer": "C. Less water",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_2380.mp4",
+        "question_id": "video_2380_0",
+        "question": "If we assume that the amount of water in the two containers in which the person poured first is equal, how much water is in the container in which the person poured last compared to that amount?",
+        "answer_number": 0,
+        "candidates": [
+            "A. Less water",
+            "B. More water",
+            "C. Same amount of water"
+        ],
+        "answer": "A. Less water",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_3182.mp4",
+        "question_id": "video_3182_0",
+        "question": "If we assume that the amount of water in the two containers in which the person poured first is equal, how much water is in the container in which the person poured last compared to that amount?",
+        "answer_number": 1,
+        "candidates": [
+            "A. More water",
+            "B. Less water",
+            "C. Same amount of water"
+        ],
+        "answer": "B. Less water",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_6766.mp4",
+        "question_id": "video_6766_0",
+        "question": "If we assume that the amount of water in the two containers in which the person poured first is equal, how much water is in the container in which the person poured last compared to that amount?",
+        "answer_number": 0,
+        "candidates": [
+            "A. Less water",
+            "B. Same amount of water",
+            "C. More water"
+        ],
+        "answer": "A. Less water",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_9836.mp4",
+        "question_id": "video_9836_0",
+        "question": "If we assume that the amount of water in the two containers in which the person poured first is equal, how much water is in the container in which the person poured last compared to that amount?",
+        "answer_number": 0,
+        "candidates": [
+            "A. Less water",
+            "B. More water",
+            "C. Same amount of water"
+        ],
+        "answer": "A. Less water",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_1961.mp4",
+        "question_id": "video_1961_0",
+        "question": "If we assume that the amount of water in the two containers in which the person poured first is equal, how much water is in the container in which the person poured last compared to that amount?",
+        "answer_number": 2,
+        "candidates": [
+            "A. Same amount of water",
+            "B. More water",
+            "C. Less water"
+        ],
+        "answer": "C. Less water",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_6906.mp4",
+        "question_id": "video_6906_0",
+        "question": "If we assume that the amount of water in the two containers in which the person poured first is equal, how much water is in the container in which the person poured last compared to that amount?",
+        "answer_number": 0,
+        "candidates": [
+            "A. Less water",
+            "B. More water",
+            "C. Same amount of water"
+        ],
+        "answer": "A. Less water",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_9086.mp4",
+        "question_id": "video_9086_0",
+        "question": "If we assume that the amount of water in the two containers in which the person poured first is equal, how much water is in the container in which the person poured last compared to that amount?",
+        "answer_number": 1,
+        "candidates": [
+            "A. More water",
+            "B. Less water",
+            "C. Same amount of water"
+        ],
+        "answer": "B. Less water",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_1663.mp4",
+        "question_id": "video_1663_0",
+        "question": "If we assume that the amount of water in the two containers in which the person poured first is equal, how much water is in the container in which the person poured last compared to that amount?",
+        "answer_number": 0,
+        "candidates": [
+            "A. Less water",
+            "B. Same amount of water",
+            "C. More water"
+        ],
+        "answer": "A. Less water",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_6740.mp4",
+        "question_id": "video_6740_0",
+        "question": "If we assume that the amount of water in the two containers in which the person poured first is equal, how much water is in the container in which the person poured last compared to that amount?",
+        "answer_number": 0,
+        "candidates": [
+            "A. Less water",
+            "B. More water",
+            "C. Same amount of water"
+        ],
+        "answer": "A. Less water",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_2420.mp4",
+        "question_id": "video_2420_0",
+        "question": "If we assume that the amount of water in the two containers in which the person poured first is equal, how much water is in the container in which the person poured last compared to that amount?",
+        "answer_number": 0,
+        "candidates": [
+            "A. Less water",
+            "B. Same amount of water",
+            "C. More water"
+        ],
+        "answer": "A. Less water",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_5148.mp4",
+        "question_id": "video_5148_0",
+        "question": "If we assume that the amount of water in the two containers in which the person poured first is equal, how much water is in the container in which the person poured last compared to that amount?",
+        "answer_number": 0,
+        "candidates": [
+            "A. Less water",
+            "B. Same amount of water",
+            "C. More water"
+        ],
+        "answer": "A. Less water",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_7976.mp4",
+        "question_id": "video_7976_1",
+        "question": "If we assume that the amount of water in the two containers in which the person poured first is equal, how much water is in the container in which the person poured last compared to that amount?",
+        "answer_number": 0,
+        "candidates": [
+            "A. Less water",
+            "B. More water",
+            "C. Same amount of water"
+        ],
+        "answer": "A. Less water",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_4986.mp4",
+        "question_id": "video_4986_0",
+        "question": "If we assume that the amount of water in the two containers in which the person poured first is equal, how much water is in the container in which the person poured last compared to that amount?",
+        "answer_number": 0,
+        "candidates": [
+            "A. Less water",
+            "B. Same amount of water",
+            "C. More water"
+        ],
+        "answer": "A. Less water",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_6547.mp4",
+        "question_id": "video_6547_0",
+        "question": "If we assume that the amount of water in the two containers in which the person poured first is equal, how much water is in the container in which the person poured last compared to that amount?",
+        "answer_number": 1,
+        "candidates": [
+            "A. More water",
+            "B. Less water",
+            "C. Same amount of water"
+        ],
+        "answer": "B. Less water",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_7073.mp4",
+        "question_id": "video_7073_0",
+        "question": "If we assume that the amount of water in the two containers in which the person poured first is equal, how much water is in the container in which the person poured last compared to that amount?",
+        "answer_number": 1,
+        "candidates": [
+            "A. Same amount of water",
+            "B. Less water",
+            "C. More water"
+        ],
+        "answer": "B. Less water",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_5324.mp4",
+        "question_id": "video_5324_1",
+        "question": "If we assume that the amount of water in the two containers in which the person poured first is equal, how much water is in the container in which the person poured last compared to that amount?",
+        "answer_number": 1,
+        "candidates": [
+            "A. More water",
+            "B. Less water",
+            "C. Same amount of water"
+        ],
+        "answer": "B. Less water",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_2042.mp4",
+        "question_id": "video_2042_0",
+        "question": "If we assume that the amount of water in the two containers in which the person poured first is equal, how much water is in the container in which the person poured last compared to that amount?",
+        "answer_number": 1,
+        "candidates": [
+            "A. More water",
+            "B. Less water",
+            "C. Same amount of water"
+        ],
+        "answer": "B. Less water",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_11358.mp4",
+        "question_id": "video_11358_0",
+        "question": "If we assume that the amount of water in the two containers in which the person poured first is equal, how much water is in the container in which the person poured last compared to that amount?",
+        "answer_number": 1,
+        "candidates": [
+            "A. Same amount of water",
+            "B. Less water",
+            "C. More water"
+        ],
+        "answer": "B. Less water",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_953.mp4",
+        "question_id": "video_953_0",
+        "question": "If we assume that the amount of water in the two containers in which the person poured first is equal, how much water is in the container in which the person poured last compared to that amount?",
+        "answer_number": 1,
+        "candidates": [
+            "A. More water",
+            "B. Less water",
+            "C. Same amount of water"
+        ],
+        "answer": "B. Less water",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_6912.mp4",
+        "question_id": "video_6912_1",
+        "question": "Are the letters that the person shuffled in the same order at the end of the video compared to the beginning of the video?",
+        "answer_number": 2,
+        "candidates": [
+            "A. I don't know",
+            "B. No",
+            "C. Yes"
+        ],
+        "answer": "C. Yes",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_9409.mp4",
+        "question_id": "video_9409_1",
+        "question": "Are the letters that the person shuffled in the same order at the end of the video compared to the beginning of the video?",
+        "answer_number": 2,
+        "candidates": [
+            "A. I don't know",
+            "B. No",
+            "C. Yes"
+        ],
+        "answer": "C. Yes",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_8884.mp4",
+        "question_id": "video_8884_1",
+        "question": "Are the letters that the person shuffled in the same order at the end of the video compared to the beginning of the video?",
+        "answer_number": 0,
+        "candidates": [
+            "A. No",
+            "B. I don't know",
+            "C. Yes"
+        ],
+        "answer": "A. No",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_9770.mp4",
+        "question_id": "video_9770_1",
+        "question": "Are the letters that the person shuffled in the same order at the end of the video compared to the beginning of the video?",
+        "answer_number": 1,
+        "candidates": [
+            "A. I don't know",
+            "B. No",
+            "C. Yes"
+        ],
+        "answer": "B. No",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_5698.mp4",
+        "question_id": "video_5698_1",
+        "question": "Are the letters that the person shuffled in the same order at the end of the video compared to the beginning of the video?",
+        "answer_number": 1,
+        "candidates": [
+            "A. I don't know",
+            "B. Yes",
+            "C. No"
+        ],
+        "answer": "B. Yes",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_4622.mp4",
+        "question_id": "video_4622_2",
+        "question": "Are the letters that the person shuffled in the same order at the end of the video compared to the beginning of the video?",
+        "answer_number": 0,
+        "candidates": [
+            "A. Yes",
+            "B. No",
+            "C. I don't know"
+        ],
+        "answer": "A. Yes",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_9376.mp4",
+        "question_id": "video_9376_1",
+        "question": "Are the letters that the person shuffled in the same order at the end of the video compared to the beginning of the video?",
+        "answer_number": 1,
+        "candidates": [
+            "A. I don't know",
+            "B. No",
+            "C. Yes"
+        ],
+        "answer": "B. No",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_3743.mp4",
+        "question_id": "video_3743_2",
+        "question": "Are the letters that the person shuffled in the same order at the end of the video compared to the beginning of the video?",
+        "answer_number": 0,
+        "candidates": [
+            "A. No",
+            "B. Yes",
+            "C. I don't know"
+        ],
+        "answer": "A. No",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_9001.mp4",
+        "question_id": "video_9001_1",
+        "question": "Are the letters that the person shuffled in the same order at the end of the video compared to the beginning of the video?",
+        "answer_number": 1,
+        "candidates": [
+            "A. Yes",
+            "B. No",
+            "C. I don't know"
+        ],
+        "answer": "B. No",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_4197.mp4",
+        "question_id": "video_4197_1",
+        "question": "Are the letters that the person shuffled in the same order at the end of the video compared to the beginning of the video?",
+        "answer_number": 2,
+        "candidates": [
+            "A. Yes",
+            "B. I don't know",
+            "C. No"
+        ],
+        "answer": "C. No",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_7905.mp4",
+        "question_id": "video_7905_1",
+        "question": "Are the letters that the person shuffled in the same order at the end of the video compared to the beginning of the video?",
+        "answer_number": 2,
+        "candidates": [
+            "A. I don't know",
+            "B. Yes",
+            "C. No"
+        ],
+        "answer": "C. No",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_7661.mp4",
+        "question_id": "video_7661_1",
+        "question": "Are the letters that the person shuffled in the same order at the end of the video compared to the beginning of the video?",
+        "answer_number": 1,
+        "candidates": [
+            "A. Yes",
+            "B. No",
+            "C. I don't know"
+        ],
+        "answer": "B. No",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_1613.mp4",
+        "question_id": "video_1613_1",
+        "question": "Are the letters that the person shuffled in the same order at the end of the video compared to the beginning of the video?",
+        "answer_number": 2,
+        "candidates": [
+            "A. No",
+            "B. I don't know",
+            "C. Yes"
+        ],
+        "answer": "C. Yes",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_3157.mp4",
+        "question_id": "video_3157_1",
+        "question": "Are the letters that the person shuffled in the same order at the end of the video compared to the beginning of the video?",
+        "answer_number": 2,
+        "candidates": [
+            "A. I don't know",
+            "B. No",
+            "C. Yes"
+        ],
+        "answer": "C. Yes",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_3496.mp4",
+        "question_id": "video_3496_1",
+        "question": "Are the letters that the person shuffled in the same order at the end of the video compared to the beginning of the video?",
+        "answer_number": 2,
+        "candidates": [
+            "A. No",
+            "B. I don't know",
+            "C. Yes"
+        ],
+        "answer": "C. Yes",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_5082.mp4",
+        "question_id": "video_5082_1",
+        "question": "Are the letters that the person shuffled in the same order at the end of the video compared to the beginning of the video?",
+        "answer_number": 2,
+        "candidates": [
+            "A. I don't know",
+            "B. No",
+            "C. Yes"
+        ],
+        "answer": "C. Yes",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_9999.mp4",
+        "question_id": "video_9999_1",
+        "question": "Are the letters that the person shuffled in the same order at the end of the video compared to the beginning of the video?",
+        "answer_number": 0,
+        "candidates": [
+            "A. Yes",
+            "B. I don't know",
+            "C. No"
+        ],
+        "answer": "A. Yes",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_5166.mp4",
+        "question_id": "video_5166_1",
+        "question": "Are the letters that the person shuffled in the same order at the end of the video compared to the beginning of the video?",
+        "answer_number": 2,
+        "candidates": [
+            "A. I don't know",
+            "B. No",
+            "C. Yes"
+        ],
+        "answer": "C. Yes",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_122.mp4",
+        "question_id": "video_122_2",
+        "question": "Are the letters that the person shuffled in the same order at the end of the video compared to the beginning of the video?",
+        "answer_number": 0,
+        "candidates": [
+            "A. No",
+            "B. Yes",
+            "C. I don't know"
+        ],
+        "answer": "A. No",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_9769.mp4",
+        "question_id": "video_9769_2",
+        "question": "Are the letters that the person shuffled in the same order at the end of the video compared to the beginning of the video?",
+        "answer_number": 0,
+        "candidates": [
+            "A. No",
+            "B. Yes",
+            "C. I don't know"
+        ],
+        "answer": "A. No",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_8882.mp4",
+        "question_id": "video_8882_1",
+        "question": "Are the letters that the person shuffled in the same order at the end of the video compared to the beginning of the video?",
+        "answer_number": 2,
+        "candidates": [
+            "A. Yes",
+            "B. I don't know",
+            "C. No"
+        ],
+        "answer": "C. No",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_11079.mp4",
+        "question_id": "video_11079_2",
+        "question": "Are the letters that the person shuffled in the same order at the end of the video compared to the beginning of the video?",
+        "answer_number": 1,
+        "candidates": [
+            "A. I don't know",
+            "B. Yes",
+            "C. No"
+        ],
+        "answer": "B. Yes",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_1889.mp4",
+        "question_id": "video_1889_1",
+        "question": "Are the letters that the person shuffled in the same order at the end of the video compared to the beginning of the video?",
+        "answer_number": 2,
+        "candidates": [
+            "A. I don't know",
+            "B. No",
+            "C. Yes"
+        ],
+        "answer": "C. Yes",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_5179.mp4",
+        "question_id": "video_5179_1",
+        "question": "Are the letters that the person shuffled in the same order at the end of the video compared to the beginning of the video?",
+        "answer_number": 1,
+        "candidates": [
+            "A. I don't know",
+            "B. Yes",
+            "C. No"
+        ],
+        "answer": "B. Yes",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_7135.mp4",
+        "question_id": "video_7135_1",
+        "question": "Are the letters that the person shuffled in the same order at the end of the video compared to the beginning of the video?",
+        "answer_number": 2,
+        "candidates": [
+            "A. No",
+            "B. I don't know",
+            "C. Yes"
+        ],
+        "answer": "C. Yes",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_558.mp4",
+        "question_id": "video_558_2",
+        "question": "Are the letters that the person shuffled in the same order at the end of the video compared to the beginning of the video?",
+        "answer_number": 1,
+        "candidates": [
+            "A. No",
+            "B. Yes",
+            "C. I don't know"
+        ],
+        "answer": "B. Yes",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_4862.mp4",
+        "question_id": "video_4862_1",
+        "question": "Are the letters that the person shuffled in the same order at the end of the video compared to the beginning of the video?",
+        "answer_number": 1,
+        "candidates": [
+            "A. I don't know",
+            "B. Yes",
+            "C. No"
+        ],
+        "answer": "B. Yes",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_8749.mp4",
+        "question_id": "video_8749_1",
+        "question": "Are the letters that the person shuffled in the same order at the end of the video compared to the beginning of the video?",
+        "answer_number": 1,
+        "candidates": [
+            "A. Yes",
+            "B. No",
+            "C. I don't know"
+        ],
+        "answer": "B. No",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_7144.mp4",
+        "question_id": "video_7144_1",
+        "question": "Are the letters that the person shuffled in the same order at the end of the video compared to the beginning of the video?",
+        "answer_number": 0,
+        "candidates": [
+            "A. No",
+            "B. Yes",
+            "C. I don't know"
+        ],
+        "answer": "A. No",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_1469.mp4",
+        "question_id": "video_1469_1",
+        "question": "Are the letters that the person shuffled in the same order at the end of the video compared to the beginning of the video?",
+        "answer_number": 0,
+        "candidates": [
+            "A. No",
+            "B. I don't know",
+            "C. Yes"
+        ],
+        "answer": "A. No",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_2123.mp4",
+        "question_id": "video_2123_1",
+        "question": "Are the letters that the person shuffled in the same order at the end of the video compared to the beginning of the video?",
+        "answer_number": 2,
+        "candidates": [
+            "A. I don't know",
+            "B. Yes",
+            "C. No"
+        ],
+        "answer": "C. No",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_6309.mp4",
+        "question_id": "video_6309_0",
+        "question": "If we assume that the amount of water in the two containers in which the person poured first is equal, how much water is in the container in which the person poured last compared to that amount?",
+        "answer_number": 1,
+        "candidates": [
+            "A. Less water",
+            "B. Approximately the same amount of water",
+            "C. More water"
+        ],
+        "answer": "B. Approximately the same amount of water",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_2121.mp4",
+        "question_id": "video_2121_0",
+        "question": "If we assume that the amount of water in the two containers in which the person poured first is equal, how much water is in the container in which the person poured last compared to that amount?",
+        "answer_number": 1,
+        "candidates": [
+            "A. Less water",
+            "B. Same amount of water",
+            "C. More water"
+        ],
+        "answer": "B. Same amount of water",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_7270.mp4",
+        "question_id": "video_7270_0",
+        "question": "If we assume that the amount of water in the two containers in which the person poured first is equal, how much water is in the container in which the person poured last compared to that amount?",
+        "answer_number": 0,
+        "candidates": [
+            "A. Same amount of water",
+            "B. More water",
+            "C. Less water"
+        ],
+        "answer": "A. Same amount of water",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_2392.mp4",
+        "question_id": "video_2392_0",
+        "question": "If we assume that the amount of water in the two containers in which the person poured first is equal, how much water is in the container in which the person poured last compared to that amount?",
+        "answer_number": 0,
+        "candidates": [
+            "A. Same amount of water",
+            "B. Less water",
+            "C. More water"
+        ],
+        "answer": "A. Same amount of water",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_10303.mp4",
+        "question_id": "video_10303_1",
+        "question": "If we assume that the amount of water in the two containers in which the person poured first is equal, how much water is in the container in which the person poured last compared to that amount?",
+        "answer_number": 2,
+        "candidates": [
+            "A. Less water",
+            "B. More water",
+            "C. Same amount of water"
+        ],
+        "answer": "C. Same amount of water",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_40.mp4",
+        "question_id": "video_40_0",
+        "question": "If we assume that the amount of water in the two containers in which the person poured first is equal, how much water is in the container in which the person poured last compared to that amount?",
+        "answer_number": 2,
+        "candidates": [
+            "A. Less water",
+            "B. More water",
+            "C. Same amount of water"
+        ],
+        "answer": "C. Same amount of water",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_10396.mp4",
+        "question_id": "video_10396_0",
+        "question": "If we assume that the amount of water in the two containers in which the person poured first is equal, how much water is in the container in which the person poured last compared to that amount?",
+        "answer_number": 0,
+        "candidates": [
+            "A. Same amount of water",
+            "B. More water",
+            "C. Less water"
+        ],
+        "answer": "A. Same amount of water",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_6574.mp4",
+        "question_id": "video_6574_0",
+        "question": "If we assume that the amount of water in the two containers in which the person poured first is equal, how much water is in the container in which the person poured last compared to that amount?",
+        "answer_number": 1,
+        "candidates": [
+            "A. Less water",
+            "B. Same amount of water",
+            "C. More water"
+        ],
+        "answer": "B. Same amount of water",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_10073.mp4",
+        "question_id": "video_10073_0",
+        "question": "If we assume that the amount of water in the two containers in which the person poured first is equal, how much water is in the container in which the person poured last compared to that amount?",
+        "answer_number": 2,
+        "candidates": [
+            "A. Less water",
+            "B. More water",
+            "C. Same amount of water"
+        ],
+        "answer": "C. Same amount of water",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_6434.mp4",
+        "question_id": "video_6434_1",
+        "question": "If we assume that the amount of water in the two containers in which the person poured first is equal, how much water is in the container in which the person poured last compared to that amount?",
+        "answer_number": 1,
+        "candidates": [
+            "A. More water",
+            "B. Same amount of water",
+            "C. Less water"
+        ],
+        "answer": "B. Same amount of water",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_7657.mp4",
+        "question_id": "video_7657_0",
+        "question": "If we assume that the amount of water in the two containers in which the person poured first is equal, how much water is in the container in which the person poured last compared to that amount?",
+        "answer_number": 0,
+        "candidates": [
+            "A. Same amount of water",
+            "B. More water",
+            "C. Less water"
+        ],
+        "answer": "A. Same amount of water",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_1456.mp4",
+        "question_id": "video_1456_0",
+        "question": "If we assume that the amount of water in the two containers in which the person poured first is equal, how much water is in the container in which the person poured last compared to that amount?",
+        "answer_number": 0,
+        "candidates": [
+            "A. Less water",
+            "B. More water",
+            "C. Same amount of water"
+        ],
+        "answer": "A. Less water",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_8645.mp4",
+        "question_id": "video_8645_0",
+        "question": "If we assume that the amount of water in the two containers in which the person poured first is equal, how much water is in the container in which the person poured last compared to that amount?",
+        "answer_number": 1,
+        "candidates": [
+            "A. Same amount of water",
+            "B. Less water",
+            "C. More water"
+        ],
+        "answer": "B. Less water",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_340.mp4",
+        "question_id": "video_340_0",
+        "question": "If we assume that the amount of water in the two containers in which the person poured first is equal, how much water is in the container in which the person poured last compared to that amount?",
+        "answer_number": 1,
+        "candidates": [
+            "A. Less water",
+            "B. Same amount of water",
+            "C. More water"
+        ],
+        "answer": "B. Same amount of water",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_3349.mp4",
+        "question_id": "video_3349_0",
+        "question": "If we assume that the amount of water in the two containers in which the person poured first is equal, how much water is in the container in which the person poured last compared to that amount?",
+        "answer_number": 1,
+        "candidates": [
+            "A. More water",
+            "B. Same amount of water",
+            "C. Less water"
+        ],
+        "answer": "B. Same amount of water",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_633.mp4",
+        "question_id": "video_633_0",
+        "question": "If we assume that the amount of water in the two containers in which the person poured first is equal, how much water is in the container in which the person poured last compared to that amount?",
+        "answer_number": 0,
+        "candidates": [
+            "A. Same amount of water",
+            "B. More water",
+            "C. Less water"
+        ],
+        "answer": "A. Same amount of water",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_2417.mp4",
+        "question_id": "video_2417_0",
+        "question": "If we assume that the amount of water in the two containers in which the person poured first is equal, how much water is in the container in which the person poured last compared to that amount?",
+        "answer_number": 1,
+        "candidates": [
+            "A. More water",
+            "B. Same amount of water",
+            "C. Less water"
+        ],
+        "answer": "B. Same amount of water",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_3392.mp4",
+        "question_id": "video_3392_1",
+        "question": "Are the letters that the person shuffled in the same order at the end of the video compared to the beginning of the video?",
+        "answer_number": 0,
+        "candidates": [
+            "A. No",
+            "B. Yes",
+            "C. I don't know"
+        ],
+        "answer": "A. No",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_10472.mp4",
+        "question_id": "video_10472_1",
+        "question": "Are the letters that the person shuffled in the same order at the end of the video compared to the beginning of the video?",
+        "answer_number": 2,
+        "candidates": [
+            "A. I don't know",
+            "B. No",
+            "C. Yes"
+        ],
+        "answer": "C. Yes",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " PerceptionTestVal ",
+        "video_name": "/mnt/cloud_disk/public_data/PerceptionTest_val/videos/video_4405.mp4",
+        "question_id": "video_4405_1",
+        "question": "Are the letters that the person shuffled in the same order at the end of the video compared to the beginning of the video?",
+        "answer_number": 0,
+        "candidates": [
+            "A. Yes",
+            "B. I don't know",
+            "C. No"
+        ],
+        "answer": "A. Yes",
+        "category": "comparative_analysis",
+        "need_reasoning": false
+    }
+]

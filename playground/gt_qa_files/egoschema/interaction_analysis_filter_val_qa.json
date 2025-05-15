@@ -1,0 +1,87 @@
+[
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/23c1f3cd-c790-47c0-ae6a-7e4af28b8819.mp4",
+        "question_id": "00078",
+        "question": "Describe the primary interaction between c and the man in the video. focus on their overall aim and activity.",
+        "answer_number": "2",
+        "candidates": [
+            "A. C and the man are playing checkers.",
+            "B. C and the man are playing a game of tic-tac-toe.",
+            "C. C and the man are playing chess.",
+            "D. C and the man are playing a game of solitaire.",
+            "E. C and the man are not playing any game at all."
+        ],
+        "answer": "C. C and the man are playing chess.",
+        "category": "interaction_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/8670020b-15c9-4ea9-acb5-71613dac2e9d.mp4",
+        "question_id": "00260",
+        "question": "How would you describe the interaction between c and the woman and its significance in the context of the overall video?",
+        "answer_number": "4",
+        "candidates": [
+            "A. The verbal interaction that occurred between person c and the woman appeared quite hostile and tense.",
+            "B. The interaction between c and the woman was romantic.",
+            "C. The communication and interaction between individual c and the woman remained highly professional throughout.",
+            "D. Surprisingly, the interaction between c and the woman was practically nonexistent in that situation.",
+            "E. The interaction between c and the woman was brief and friendly."
+        ],
+        "answer": "E. The interaction between c and the woman was brief and friendly.",
+        "category": "interaction_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/a2142f6c-561c-4b6f-bac8-35e8a1022e93.mp4",
+        "question_id": "00316",
+        "question": "Describe how the man and c's interactions in the video reflect their approach to performing their tasks while taking into account the importance of collaboration and communication.",
+        "answer_number": "1",
+        "candidates": [
+            "A. In the video, the man and person c's dynamic interactions reflect their strategic approach to performing their tasks, while also carefully considering the vital importance of competition.",
+            "B. The man and c's interactions in the video reflect their approach to performing their tasks while taking into account the importance of collaboration and communication. the man is focused on the task at hand and does not seem to be interested in talking to c. c, on the other hand, is more interested in talking to the man and seems to be trying to build a rapport with him. this difference in approach is likely due to their different roles in the project. the man is responsible for the physical labor, while c is responsible for the communication and coordination of the project.",
+            "C. In the video, the man and c's interactions demonstrate their approach to performing their tasks efficiently while taking into account the significance of maintaining independence.",
+            "D. The man and c's interactions in the video reflect their approach to performing their tasks while taking into account the importance of teamwork.",
+            "E. In the video, the man and c's interactions effectively demonstrate their approach to performing their tasks diligently while taking into account the crucial importance of proactive leadership skills."
+        ],
+        "answer": "B. The man and c's interactions in the video reflect their approach to performing their tasks while taking into account the importance of collaboration and communication. the man is focused on the task at hand and does not seem to be interested in talking to c. c, on the other hand, is more interested in talking to the man and seems to be trying to build a rapport with him. this difference in approach is likely due to their different roles in the project. the man is responsible for the physical labor, while c is responsible for the communication and coordination of the project.",
+        "category": "interaction_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/bbe35aed-1c92-42de-8f50-7004cdae317e.mp4",
+        "question_id": "00373",
+        "question": "What seems to be the primary setting and interaction between c and the child throughout the video?",
+        "answer_number": "2",
+        "candidates": [
+            "A. Currently, c is leisurely walking around the entire house all by themselves.",
+            "B. Currently, c is joyfully playing with a young child in their spacious living room.",
+            "C. A child is holding onto c's waist as they move around the house.",
+            "D. Currently, c is actively cooking delicious meals in the kitchen space.",
+            "E. C is taking a shower in the bathroom."
+        ],
+        "answer": "C. A child is holding onto c's waist as they move around the house.",
+        "category": "interaction_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/f77fbf67-2b57-46ec-b850-d1ed65cf9d07.mp4",
+        "question_id": "00481",
+        "question": "Describe the role of communication between c and the child as it relates to the main action presented in the video.",
+        "answer_number": "0",
+        "candidates": [
+            "A. The child interacts with c by talking to her and occasionally touching the scarf. this helps to keep c focused on her knitting and to make the process more enjoyable for both of them.",
+            "B. The young child communicates with c by loudly yelling at her and, at times, hitting her. this approach fails to keep c concentrated on her knitting activity and makes the entire process highly stressful for both individuals.",
+            "C. The child interacts with c by ignoring her and occasionally running away. this does not help to keep c focused on her knitting and makes the process more lonely for both of them.",
+            "D. The child interacts with c by hugging her and occasionally kissing her. this helps to keep c focused on her knitting and to make the process more loving for both of them.",
+            "E. The child actively interacts with c by enthusiastically playing with her and occasionally making her laugh heartily. this interaction helps to keep c attentively focused on her knitting task and to make the entire process more enjoyable for both of them."
+        ],
+        "answer": "A. The child interacts with c by talking to her and occasionally touching the scarf. this helps to keep c focused on her knitting and to make the process more enjoyable for both of them.",
+        "category": "interaction_analysis",
+        "need_reasoning": false
+    }
+]

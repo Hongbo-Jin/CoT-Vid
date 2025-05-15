@@ -1,0 +1,46 @@
+[
+    {
+        "task_name": " VideoMMMU ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/VideoMMMU/videos/new_Literature_3.mp4",
+        "question_id": -1,
+        "question": "Select the correct combination of statements based on the video.\nStatements:\n1.  The plot about the wolf chasing little pigs is exposition as it provides the characters and basic setting of the story.\n2. The example at 9:45 is rising action as it introduces and develops the conflict faced by the characters.\n3. The example at 10:03 is the climax as it is the turning point of the story and shows the highest point of interest.\n4. Exposition resolves the main conflict in the story.",
+        "answer_number": 2,
+        "candidates": [
+            "A. Statement 1 is correct",
+            "B. Statement 1 and 2 are correct",
+            "C. Statement 3 is correct",
+            "D. Statement 1, 2, and 3 are correct",
+            "E. Statement 1 and 4 are correct",
+            "F. All statements are correct",
+            "G. Statement 2 and 3 are correct",
+            "H. Statement 4 is correct",
+            "I. Statement 1 and 3 are correct",
+            "J. None of the statements are correct"
+        ],
+        "answer": "C. Statement 3 is correct",
+        "category": "key_moment",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " VideoMMMU ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/VideoMMMU/videos/new_Literature_4.mp4",
+        "question_id": -1,
+        "question": "\nSelect the correct combination of statements based on the video.\nStatements:\n1.  The plot about the wolf chasing little pigs is the rising action as it builds tension and develops the central conflict leading to the climax.\n2. The example at 9:28 is rising action as it introduces and develops the conflict faced by the characters.\n3. The example at 10:14 is the climax as it is the turning point of the story and shows the highest point of interest.\n4. Rising Action helps build suspense and leads directly to the turning point, or climax, of the story.",
+        "answer_number": 8,
+        "candidates": [
+            "A. Statement 1 is correct",
+            "B. Statement 2 is correct",
+            "C. Statement 2 and 4 are correct",
+            "D. Statement 1 and 2 are correct",
+            "E. All statements are correct",
+            "F. Statement 3 is correct",
+            "G. Statement 2, 3, and 4 are correct",
+            "H. Statement 4 is correct",
+            "I. Statement 1 and 4 are correct",
+            "J. None of the statements are correct"
+        ],
+        "answer": "I. Statement 1 and 4 are correct",
+        "category": "key_moment",
+        "need_reasoning": false
+    }
+]

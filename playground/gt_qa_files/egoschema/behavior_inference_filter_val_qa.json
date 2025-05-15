@@ -1,0 +1,155 @@
+[
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/0db8a74b-042d-401c-9f0f-ea404514c769.mp4",
+        "question_id": "00036",
+        "question": "Describe the significance of the paint brush and oil in c's work on the art piece, and how c alternates between using them.",
+        "answer_number": "0",
+        "candidates": [
+            "A. The paint brush is used to apply paint to the artwork, while the oil is used to thin the paint.",
+            "B. The paint brush, a vital tool, is skillfully utilized to apply oil gracefully onto the artwork, whereas the paint is importantly employed to effectively thin the oil.",
+            "C. The paint brush is used to apply both paint and oil to the artwork.",
+            "D. The oil is typically used to apply paint effectively to the artwork, while the paint brush plays a crucial role in thinning the paint evenly.",
+            "E. The oil and paint brush, as artistic tools, are both utilized to effectively apply paint to enhance the artwork's appearance."
+        ],
+        "answer": "A. The paint brush is used to apply paint to the artwork, while the oil is used to thin the paint.",
+        "category": "behavior_inference",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/16eb6914-00e7-4692-a7d7-d6ba36f61a5d.mp4",
+        "question_id": "00049",
+        "question": "What is the primary action performed with the frying pan at the beginning and the main purpose of using a frying pan in the context of this video? please highlight the significance of this action in the overall cooking process.",
+        "answer_number": "3",
+        "candidates": [
+            "A. The primary action performed with the frying pan at the beginning is to open it. the main purpose of using a frying pan in the context of this video is to store the food. opening the frying pan allows the food to breathe and prevents it from becoming stale.",
+            "B. The primary action performed with the frying pan at the beginning is to close it. the main purpose of using a frying pan in the context of this video is to cook the food. closing the frying pan helps to keep the heat in and prevents the food from splattering.",
+            "C. The primary action performed with the frying pan at the beginning is to put it on the stove. the main purpose of using a frying pan in the context of this video is to cook the food. putting the frying pan on the stove allows the food to heat up evenly.",
+            "D. The primary action performed with the frying pan at the beginning is to wash it. the main purpose of using a frying pan in the context of this video is to cook the food. washing the frying pan ensures that the food will not be contaminated with bacteria.",
+            "E. The primary action performed with the frying pan at the beginning is to take it off the stove. the main purpose of using a frying pan in the context of this video is to cook the food. taking the frying pan off the stove allows the food to cool down before it is served."
+        ],
+        "answer": "D. The primary action performed with the frying pan at the beginning is to wash it. the main purpose of using a frying pan in the context of this video is to cook the food. washing the frying pan ensures that the food will not be contaminated with bacteria.",
+        "category": "behavior_inference",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/293f6799-01e3-485c-8e89-bfd0e0c7b545.mp4",
+        "question_id": "00086",
+        "question": "Considering the entire video, discuss the significance of the chocolate drinking and card-dice interactions in terms of building a central theme or narrative.",
+        "answer_number": "1",
+        "candidates": [
+            "A. The significance of the chocolate drinking and card-dice interactions in terms of building a central theme or narrative is that they show how the players are trying to compete against each other. the chocolate drinking shows that the players are determined to win, and the card-dice interactions show that they are using all of their skills to try to do so.",
+            "B. The significance of the chocolate drinking and card-dice interactions in terms of building a central theme or narrative is that they show how the players are trying to relax and have fun while they are playing the game. the chocolate drinking shows that the players are enjoying themselves, and the card-dice interactions show that they are taking the game seriously.",
+            "C. The significance of the chocolate drinking and card-dice interactions in terms of building a central theme or narrative is that they show how the players are trying to communicate with each other. the chocolate drinking shows that the players are open to sharing their thoughts and feelings, and the card-dice interactions show that they are willing to listen to each other's ideas.",
+            "D. The significance of the chocolate drinking and card-dice interactions in terms of building a central theme or narrative is that they show how the players are trying to connect with each other. the chocolate drinking shows that the players are interested in getting to know each other better, and the card-dice interactions show that they are willing to work together to achieve a common goal.",
+            "E. The significance of the chocolate drinking and card-dice interactions in terms of building a central theme or narrative is that they show how the players are trying to escape from reality. the chocolate drinking shows that the players are looking for a way to relax and forget about their problems, and the card-dice interactions show that they are trying to create a world of their own where they can be whoever they want to be."
+        ],
+        "answer": "B. The significance of the chocolate drinking and card-dice interactions in terms of building a central theme or narrative is that they show how the players are trying to relax and have fun while they are playing the game. the chocolate drinking shows that the players are enjoying themselves, and the card-dice interactions show that they are taking the game seriously.",
+        "category": "behavior_inference",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/2ef57a94-853e-4f98-a8e0-d0d5d95526ce.mp4",
+        "question_id": "00095",
+        "question": "What could be a possible reasoning behind c's repetitive action of picking up and throwing cloths, and how does this action evolve over the course of the video?",
+        "answer_number": "0",
+        "candidates": [
+            "A. C is trying to clean the house.",
+            "B. C is deliberately attempting to create a disorganized, chaotic mess.",
+            "C. Currently, c is making an effort to participate in regular exercise activities.",
+            "D. Currently, c is making an effort to find amusement and entertain herself independently.",
+            "E. C is trying to train her dog."
+        ],
+        "answer": "A. C is trying to clean the house.",
+        "category": "behavior_inference",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/3f61b913-9920-4fbd-ba0f-93f41c255279.mp4",
+        "question_id": "00126",
+        "question": "Identify and evaluate the most important activities that changed the course of events in the video and their potential implications.",
+        "answer_number": "3",
+        "candidates": [
+            "A. The most crucial activities that altered the course of events in the video are c's decision to brush the cat, c's boredom with brushing the cat, and c's eventual choice to stop brushing the cat. these particular events serve to emphasize c's short attention span and their lack of perseverance.",
+            "B. The most important activities that changed the course of events in the video are c's decision to play with the dog, c's exhaustion from playing with the dog, and c's eventual decision to take a break from playing with the dog. these events serve to highlight c's high energy levels and need for physical activity.",
+            "C. The most significant and impactful activities that drastically changed the course of events in the video are c's decision to drink from the cup, c's clumsiness, and the following spilling of the cup, and c's eventual responsible decision to clean up the mess. these events effectively serve to emphasize and showcase c's lack of coordination and attention to detail.",
+            "D. The most important activities that changed the course of events in the video are c's decision to play the card game, c's frustration with the game, and c's eventual abandonment of the game. these events serve to highlight c's playful and impulsive nature, as well as c's difficulty in focusing on tasks that require sustained attention.",
+            "E. The most significant activities that drastically altered the course of events in the video are c's intentional decision to walk around the house, c's eventual boredom with wandering around the house, and c's subsequent choice to find something else to engage in. these impactful events serve to emphasize c's underlying restlessness and persistent need for stimulation."
+        ],
+        "answer": "D. The most important activities that changed the course of events in the video are c's decision to play the card game, c's frustration with the game, and c's eventual abandonment of the game. these events serve to highlight c's playful and impulsive nature, as well as c's difficulty in focusing on tasks that require sustained attention.",
+        "category": "behavior_inference",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/509e6545-5fff-4f73-ae0f-524dfa8b3c2c.mp4",
+        "question_id": "00162",
+        "question": "Based on c's actions, what is the significance of the wooden crates and the blocks with respect to the fork lift's involvement in the video?",
+        "answer_number": "0",
+        "candidates": [
+            "A. The wooden crates and the blocks are used to transport the bricks. the bricks are placed on the wooden crates and then stacked on top of each other. the fork lift is used to move the wooden crates and the bricks.",
+            "B. The wooden crates and the blocks are used to build a structure. the blocks are stacked on top of each other to create a wall. the fork lift is used to move the wooden crates and the blocks into position.",
+            "C. The wooden crates and the blocks are used to create a barrier. the blocks are stacked in front of the wooden crates to create a wall. the fork lift is used to move the wooden crates and the blocks into position.",
+            "D. The wooden crates and the blocks are used to create a display. the blocks are stacked on top of each other to create a pyramid. the fork lift is used to move the wooden crates and the blocks into position.",
+            "E. The wooden crates and the blocks are used to create a sculpture. the blocks are stacked in a variety of shapes to create a work of art. the fork lift is used to move the wooden crates and the blocks into position."
+        ],
+        "answer": "A. The wooden crates and the blocks are used to transport the bricks. the bricks are placed on the wooden crates and then stacked on top of each other. the fork lift is used to move the wooden crates and the bricks.",
+        "category": "behavior_inference",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/776d7dcf-6a44-4db3-9d37-8a75635388c0.mp4",
+        "question_id": "00236",
+        "question": "What is the significance of c's actions involving the electronic scale and mixing the dough in the video?",
+        "answer_number": "0",
+        "candidates": [
+            "A. C is using the electronic scale to measure the amount of dough, and the mixer to mix the dough.",
+            "B. C is using the electronic scale to measure the amount of flour, and the mixer to mix the flour.",
+            "C. Carefully, c is utilizing the precise electronic scale to accurately measure the required amount of water, and employing the mixer to effectively mix the water.",
+            "D. Currently, c is diligently utilizing the electronic scale to precisely gauge the amount of yeast needed, and employing the mixer to blend the yeast effectively.",
+            "E. Carefully, c is utilizing the precise electronic scale to accurately measure the required amount of salt, and employing the mixer to effectively blend the salt."
+        ],
+        "answer": "A. C is using the electronic scale to measure the amount of dough, and the mixer to mix the dough.",
+        "category": "behavior_inference",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/941978b4-19f2-4ca8-8dce-0b8777022c3f.mp4",
+        "question_id": "00286",
+        "question": "Based on c's actions throughout the video, which parts of the video would you consider most critical for understanding the objective of c's work? describe the significance of these actions in the context of c's project.",
+        "answer_number": "1",
+        "candidates": [
+            "A. The most critical parts of the video for understanding the objective of c's work are when c lays the frame on the plank, when c adjusts the sharpening stone and hammer on the plank, and when c grabs a box of tools from a corner of the workshop.",
+            "B. The most critical parts of the video for understanding the objective of c's work are when c cuts the casing of the frame with the dovetail saw, when c breaks the casing off the frame with the hammer and sharpening stone, and when c measures the casing of the frame with the measuring tape.",
+            "C. The most critical parts of the video for comprehending the main objective of c's work include moments when c opens the toolbox, notably when c takes a dovetail saw from the toolbox, and finally when c closes the toolbox.",
+            "D. The most critical parts of the video for effectively understanding the objective of c's work are when c pushes the toolbox with his leg, when c skillfully adjusts the plank on the table, and when c precisely cuts the casing of the frame with the dovetail saw.",
+            "E. Among the most critical parts of the video for understanding the primary objective of c's work are instances when c turns the frame around the plank, when c expertly adjusts the plank on the table surface, and crucially when c carefully cuts the casing of the frame using the precise dovetail saw."
+        ],
+        "answer": "B. The most critical parts of the video for understanding the objective of c's work are when c cuts the casing of the frame with the dovetail saw, when c breaks the casing off the frame with the hammer and sharpening stone, and when c measures the casing of the frame with the measuring tape.",
+        "category": "behavior_inference",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/e60b3cbc-bb05-4afe-8ff1-3294411705a9.mp4",
+        "question_id": "00449",
+        "question": "Based on the video, what might be the underlying motivation for c's actions, and how do the individual events lead to achieving that goal in a condensed and well-structured manner?",
+        "answer_number": "4",
+        "candidates": [
+            "A. C was motivated to cook eggs because they were hungry.",
+            "B. C was motivated to make a cake because it was their birthday.",
+            "C. C was motivated to do the dishes because they were piled up in the sink.",
+            "D. C was motivated to prepare a meal because they were having guests over.",
+            "E. C was motivated to clean the oven because it was dirty."
+        ],
+        "answer": "E. C was motivated to clean the oven because it was dirty.",
+        "category": "behavior_inference",
+        "need_reasoning": true
+    }
+]

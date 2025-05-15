@@ -1,0 +1,56 @@
+[
+    {
+        "task_name": " VideoMMMU ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/VideoMMMU/videos/validation_Pharmacy_2.mp4",
+        "question_id": -1,
+        "question": "Which of the following correctly describes the function of muscarinic receptors?",
+        "answer_number": 2,
+        "candidates": [
+            "A. M1 receptors are primarily associated with the airway and reduce bronchial secretions.",
+            "B. M2 receptors are primarily involved in increasing heart rate (HR).",
+            "C. M3 receptors are responsible for gastrointestinal (GI) tract peristalsis and bladder contraction.",
+            "D. M5 receptors are mainly involved in salivary secretion and blood vessel regulation."
+        ],
+        "answer": "C. M3 receptors are responsible for gastrointestinal (GI) tract peristalsis and bladder contraction.",
+        "category": "tool_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " VideoMMMU ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/VideoMMMU/videos/validation_Basic_Medical_Science_10.mp4",
+        "question_id": -1,
+        "question": "The video discusses the importance of hydrogen bonds for the function of certain biological molecules. Which of the following is not mentioned by the speaker as a biological molecule influenced by hydrogen bonds?",
+        "answer_number": 3,
+        "candidates": [
+            "A. DNA",
+            "B. RNA",
+            "C. Proteins",
+            "D. Chitin",
+            "E. Carbohydrates",
+            "F. Water",
+            "G. Enzymes",
+            "H. Hormones",
+            "I. Antibodies",
+            "J. Amino acids"
+        ],
+        "answer": "D. Chitin",
+        "category": "tool_analysis",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " VideoMMMU ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/VideoMMMU/videos/validation_Psychology_7.mp4",
+        "question_id": -1,
+        "question": "What is the function of the structure introduced in the video at 0:32?",
+        "answer_number": 2,
+        "candidates": [
+            "A. collect and process the signal",
+            "B. prevent signals from degrading",
+            "C. receive signals from other neurons",
+            "D. release the signal"
+        ],
+        "answer": "C. receive signals from other neurons",
+        "category": "tool_analysis",
+        "need_reasoning": false
+    }
+]

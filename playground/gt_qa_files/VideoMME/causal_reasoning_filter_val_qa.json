@@ -1,0 +1,3666 @@
+[
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/sUDY-SMREtA.mp4",
+        "question_id": 0,
+        "question": "According to the video, which of the following is the main reason why people commemorate Qu Yuan?",
+        "answer_number": 2,
+        "candidates": [
+            "A. Because people love Zongzi.",
+            "B. Because he committed suicide by drowing himself in Miluo River.",
+            "C. Because he brought peace and prosperity to the state.",
+            "D. Because he was exile."
+        ],
+        "answer": "C. Because he brought peace and prosperity to the state.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/qvwfWyU9Gfc.mp4",
+        "question_id": 0,
+        "question": "Based on the video, which of the following describes the reason why the student ate the banana?",
+        "answer_number": 1,
+        "candidates": [
+            "A. Because the banana looks tasty.",
+            "B. Because he considered the process of eating a banana is art.",
+            "C. Because he didn't think the  banana worth $120,000.",
+            "D. Because he wanted to followed the man who ate a banana in a exhibition in 2019."
+        ],
+        "answer": "B. Because he considered the process of eating a banana is art.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/O0qVPW1fUn4.mp4",
+        "question_id": 0,
+        "question": "In this video, why some keys are blue while others are green?",
+        "answer_number": 0,
+        "candidates": [
+            "A. Because it indicates the hand to play them.",
+            "B. Because it can help to make the video more colorful.",
+            "C. Because the YouTuber love these two colors.",
+            "D. Because keys on the special piano are eithor blue or green."
+        ],
+        "answer": "A. Because it indicates the hand to play them.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/YPaLGP_xr-w.mp4",
+        "question_id": 0,
+        "question": "Based on the video, which of the following statements provides the most accurate explanation for why the Statue of Liberty is green in color?",
+        "answer_number": 0,
+        "candidates": [
+            "A. Because the copper is rusty.",
+            "B. Because she was painted green.",
+            "C. Because people didn't like her original color.",
+            "D. Because she is not the origin one any more."
+        ],
+        "answer": "A. Because the copper is rusty.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/YPaLGP_xr-w.mp4",
+        "question_id": 0,
+        "question": "How did the photographer who took pictures of the three tourists in the video take the photo?",
+        "answer_number": 3,
+        "candidates": [
+            "A. By standing at the foot of the statue.",
+            "B. By going up to the crown of the statue.",
+            "C. By asking the vistor to lie down.",
+            "D. By lying down himself."
+        ],
+        "answer": "D. By lying down himself.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/tS4a6I4-Yjo.mp4",
+        "question_id": 0,
+        "question": "Why does the woman need to drink water at the beginning of the video?",
+        "answer_number": 0,
+        "candidates": [
+            "A. Because she is preparing for a medical examination.",
+            "B. Because she went through an operation and needed to be hydrated.",
+            "C. Because she is sick and takes medication that requires a lot of water for adequate reflection.",
+            "D. Instead of water, she drinks a special medicine."
+        ],
+        "answer": "A. Because she is preparing for a medical examination.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/tS4a6I4-Yjo.mp4",
+        "question_id": 0,
+        "question": "Which of the following statements can be inferred from the video?",
+        "answer_number": 1,
+        "candidates": [
+            "A. The patient is undergoing an ECG.",
+            "B. The patient is undergoing a CT scan.",
+            "C. The healthcare worker is teaching a medical student.",
+            "D. The healthcare worker is conducting a medical experiment."
+        ],
+        "answer": "B. The patient is undergoing a CT scan.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/zKyWRRJQbkM.mp4",
+        "question_id": 0,
+        "question": "In the video, what visual aid is used to compare the nominal minimum wage with its value in 2019 dollars, demonstrating the impact of inflation?",
+        "answer_number": 2,
+        "candidates": [
+            "A. A map of the United States with states color-coded by their minimum wage laws.",
+            "B. A line graph showing the trend of the federal minimum wage over time.",
+            "C. A line graph with two lines.",
+            "D. A side-by-side comparison of a 2019 dollar bill and a 1938 dollar bill."
+        ],
+        "answer": "C. A line graph with two lines.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/9jjTGpWmc5U.mp4",
+        "question_id": 0,
+        "question": "Why does the roof object fly?",
+        "answer_number": 3,
+        "candidates": [
+            "A. There was an explosion.",
+            "B. Thrown into the air by a child.",
+            "C. Tied to a balloon.",
+            "D. Lunar approach."
+        ],
+        "answer": "D. Lunar approach.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/M7WOXFvwbSY.mp4",
+        "question_id": 0,
+        "question": "Which of the following statements can be inferred about the Triangulum Galaxy (M33) based on the information presented in the video about the other two galaxies?",
+        "answer_number": 2,
+        "candidates": [
+            "A. It interacts gravitationally with the Andromeda Galaxy (M31).",
+            "B. It may be a companion galaxy to the Andromeda Galaxy, influenced by its gravity.",
+            "C. It is a satellite galaxy of the Andromeda Galaxy.",
+            "D. It is involved in the collision between the Milky Way and Andromeda."
+        ],
+        "answer": "C. It is a satellite galaxy of the Andromeda Galaxy.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/IzQ2siryQrM.mp4",
+        "question_id": 0,
+        "question": "How does the animation demonstrate the impact of insufficient sleep on one's abilities?",
+        "answer_number": 2,
+        "candidates": [
+            "A. It features a time-lapse of a flower wilting and dying.",
+            "B. It portrays a listless woman who slowly hangs his head.",
+            "C. It draws a consuming battery turning from green to red.",
+            "D. It displays a graph showing declining stock prices."
+        ],
+        "answer": "C. It draws a consuming battery turning from green to red.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/JxkJ-FwFeVI.mp4",
+        "question_id": 0,
+        "question": "What type of aircraft model is being used as an example when explaining gas turbines in the video?",
+        "answer_number": 0,
+        "candidates": [
+            "A. AIRBUS A350.",
+            "B. BOEING 747.",
+            "C. BOEING 777.",
+            "D. AIRBUS A330."
+        ],
+        "answer": "A. AIRBUS A350.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/tiMaUSvlzIU.mp4",
+        "question_id": 0,
+        "question": "Why is the man in the video angry?",
+        "answer_number": 3,
+        "candidates": [
+            "A. Because the woman he's talking to on the phone called him \"moon\".",
+            "B. Because he doesn't like his traveling companions.",
+            "C. Because his grandmother called him \"moon\".",
+            "D. Because the woman he's talking to on the phone called him \"moonpie\"."
+        ],
+        "answer": "D. Because the woman he's talking to on the phone called him \"moonpie\".",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/G267g0DpCVg.mp4",
+        "question_id": 0,
+        "question": "Why did the man in the video laugh at the end?",
+        "answer_number": 0,
+        "candidates": [
+            "A. Because he learned an alternative use for chopsticks.",
+            "B. Because the food was delicious.",
+            "C. Because he really likes using chopsticks.",
+            "D. It is impossible to determine why the man laughed based on the information provided."
+        ],
+        "answer": "A. Because he learned an alternative use for chopsticks.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/qK4G2KpmqFU.mp4",
+        "question_id": 0,
+        "question": "According to the video, why is this plant called the most dangerous plant in the desert?",
+        "answer_number": 3,
+        "candidates": [
+            "A. Because it is very flammable.",
+            "B. Because there are often dangerous animals around it.",
+            "C. Because it is highly poisonous.",
+            "D. Because it is full of sharp spines with barbs."
+        ],
+        "answer": "D. Because it is full of sharp spines with barbs.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/tGdL-34L-GE.mp4",
+        "question_id": 0,
+        "question": "According to the video, why is it very difficult to capture footage of sand cats?",
+        "answer_number": 2,
+        "candidates": [
+            "A. Because sand cats are small.",
+            "B. Because sand cats are very fast.",
+            "C. Because the fur color of sand cats blends in with the environment, making them hard to spot.",
+            "D. Because there are too few sand cats."
+        ],
+        "answer": "C. Because the fur color of sand cats blends in with the environment, making them hard to spot.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/YlAefotZNAc.mp4",
+        "question_id": 0,
+        "question": "According to the video, what is the reason why the interviewed man frequently observes snow?",
+        "answer_number": 0,
+        "candidates": [
+            "A. Because he lives in the mountains at an altitude of about 3000 meters.",
+            "B. Because he lives in Florida.",
+            "C. Because he likes snow.",
+            "D. Not mentioned in the video."
+        ],
+        "answer": "A. Because he lives in the mountains at an altitude of about 3000 meters.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/tNQo2GTbP6s.mp4",
+        "question_id": 0,
+        "question": "According to the video, why is this fossil discovery special?",
+        "answer_number": 1,
+        "candidates": [
+            "A. Because the fossils found are very well preserved.",
+            "B. Because it is the largest sea dragon fossil ever found in Britain.",
+            "C. Because this is the first sea dragon fossil found.",
+            "D. Because the fossils were found in the reservoir."
+        ],
+        "answer": "B. Because it is the largest sea dragon fossil ever found in Britain.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/ykJ7pyr87Qc.mp4",
+        "question_id": 0,
+        "question": "How did the cowboy subdue the criminal according to the video?",
+        "answer_number": 1,
+        "candidates": [
+            "A. The cowboy convinced the criminal to give up the robbery.",
+            "B. The cowboy subdued the criminal when the criminal turned around.",
+            "C. The cowboy shot the criminal.",
+            "D. The cowboy punched the criminal."
+        ],
+        "answer": "B. The cowboy subdued the criminal when the criminal turned around.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/gvtvz-keDmE.mp4",
+        "question_id": 0,
+        "question": "Which of the following options explains why the man is screaming at the beginning of the video?",
+        "answer_number": 0,
+        "candidates": [
+            "A. Because the rabbit is about to win.",
+            "B. Because he loses.",
+            "C. Because he is going to dunk.",
+            "D. Because he is angry."
+        ],
+        "answer": "A. Because the rabbit is about to win.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/KZu5iE7yrPI.mp4",
+        "question_id": 0,
+        "question": "Why was the athlete in the video called for a traveling violation despite not being a foul?",
+        "answer_number": 1,
+        "candidates": [
+            "A. Because the referee made the wrong call.",
+            "B. Because this happened before the rules were changed.",
+            "C. Because the player trolled the referee.",
+            "D. The penalty was not a traveling violation."
+        ],
+        "answer": "B. Because this happened before the rules were changed.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/Tn70NxIMk2Q.mp4",
+        "question_id": 0,
+        "question": "Which of the following best describes why the man appeared upset in the middle of the video?",
+        "answer_number": 0,
+        "candidates": [
+            "A. Because he chose to pass the ball at the crucial moment.",
+            "B. Because he missed the game-winning shot.",
+            "C. Because he was hurt.",
+            "D. Because he was substituted by the coach."
+        ],
+        "answer": "A. Because he chose to pass the ball at the crucial moment.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/1tidNDIpKSY.mp4",
+        "question_id": 0,
+        "question": "What can be inferred from the video about the location of the FIFA World Cup 2026 Final?",
+        "answer_number": 1,
+        "candidates": [
+            "A. It will be held in Manchester.",
+            "B. It will be held in New York/New Jersey.",
+            "C. It will be held in Houston.",
+            "D. It will be held in Golden State."
+        ],
+        "answer": "B. It will be held in New York/New Jersey.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/uJFbOrNrL3w.mp4",
+        "question_id": 0,
+        "question": "Judging by the score and time, what can be inferred about Qatar's performance in this match so far?",
+        "answer_number": 1,
+        "candidates": [
+            "A. They are winning comfortably with plenty of time left.",
+            "B. They are losing and have little time to recover.",
+            "C. The game is tied and approaching the final moments.",
+            "D. They have a significant lead and are about to win."
+        ],
+        "answer": "B. They are losing and have little time to recover.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/tbKTfX5Az6w.mp4",
+        "question_id": 0,
+        "question": "How did the winner win this rally?",
+        "answer_number": 2,
+        "candidates": [
+            "A. The opposing player made a foul hit.",
+            "B. The opposing hit the ball out of the bounds.",
+            "C. He made an edge ball and the opposing player missed the ball.",
+            "D. None of the above is correct."
+        ],
+        "answer": "C. He made an edge ball and the opposing player missed the ball.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/wGfRSojH0PE.mp4",
+        "question_id": 0,
+        "question": "How did the white team win this game?",
+        "answer_number": 2,
+        "candidates": [
+            "A. The opposing green team got a red card.",
+            "B. The kicker of the white team made a touchdown and won 6 points.",
+            "C. The kicker of the white team made a drop kick and won 3 points.",
+            "D. The white team won an extra point."
+        ],
+        "answer": "C. The kicker of the white team made a drop kick and won 3 points.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/XK6ApJHa59I.mp4",
+        "question_id": 0,
+        "question": "What can be inferred about the tone of the play?",
+        "answer_number": 1,
+        "candidates": [
+            "A. It is a serious drama.",
+            "B. It is a provocative comedy.",
+            "C. It is a romantic story.",
+            "D. It is a science fiction adventure."
+        ],
+        "answer": "B. It is a provocative comedy.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/eICN548E2TU.mp4",
+        "question_id": 0,
+        "question": "Which of the following statements best describes the relationship between the two characters in this scene based on the available information?",
+        "answer_number": 2,
+        "candidates": [
+            "A. They are friends having a casual conversation.",
+            "B. They are strangers meeting for the first time.",
+            "C. They are family members in a tense discussion.",
+            "D. They are teacher and student in a lecture."
+        ],
+        "answer": "C. They are family members in a tense discussion.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/sxsjigV9S-Y.mp4",
+        "question_id": 0,
+        "question": "Why do the men on the stage look similar to each other?",
+        "answer_number": 1,
+        "candidates": [
+            "A. Because they made up to look similar.",
+            "B. Because they are twins.",
+            "C. Because a man is looking at a mirror.",
+            "D. None of the above is correct."
+        ],
+        "answer": "B. Because they are twins.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/LeBG88YT3rU.mp4",
+        "question_id": 0,
+        "question": "How did the woman respond to the performance in the video?",
+        "answer_number": 3,
+        "candidates": [
+            "A. She burst into laughters and could not stop.",
+            "B. She angrily threw the cards at the man.",
+            "C. She fainted from shock and had to be revived.",
+            "D. She was so surprised that she fell onto the sofa."
+        ],
+        "answer": "D. She was so surprised that she fell onto the sofa.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/mD_7mhnPS_Y.mp4",
+        "question_id": 0,
+        "question": "Why were the two people so happy in the video?",
+        "answer_number": 3,
+        "candidates": [
+            "A. Because they practiced for eight hours a day.",
+            "B. Because they came to the United States.",
+            "C. Because they met their idols.",
+            "D. Because they won the championship of America's Got Talent."
+        ],
+        "answer": "D. Because they won the championship of America's Got Talent.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/v0m3E_uSyFg.mp4",
+        "question_id": 0,
+        "question": "Why does the food in the video swell?",
+        "answer_number": 2,
+        "candidates": [
+            "A. Fermentation.",
+            "B. Steep.",
+            "C. Baking in the oven.",
+            "D. Aeration."
+        ],
+        "answer": "C. Baking in the oven.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/NAahAX62MZ0.mp4",
+        "question_id": 0,
+        "question": "Why does the surface of the pepper in the video turn yellow?",
+        "answer_number": 0,
+        "candidates": [
+            "A. Deep fry.",
+            "B. Go bad.",
+            "C. Color with paint.",
+            "D. It's ripe."
+        ],
+        "answer": "A. Deep fry.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/PYZSjin_Pe8.mp4",
+        "question_id": 0,
+        "question": "Based on the video, how did China score their goals in the match?",
+        "answer_number": 1,
+        "candidates": [
+            "A. Number nine scored a hat-trick.",
+            "B. Number seven scored a double.",
+            "C. Number three scored from a penalty.",
+            "D. Number fifteen scored with a header."
+        ],
+        "answer": "B. Number seven scored a double.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/PYZSjin_Pe8.mp4",
+        "question_id": 0,
+        "question": "How did the team wearing green perform in the game shown in the video compared to their game against the team in red that took place 10 years ago?",
+        "answer_number": 2,
+        "candidates": [
+            "A. China replicated the previous 6:1 victory with a similar scoreline.",
+            "B. The match ended in a high-scoring draw, showing defensive vulnerabilities compared to the past.",
+            "C. China struggled to match their past performance, ending the game in a 2-2 draw.",
+            "D. China demonstrated the same dominant 'crushing victory' as they did a decade ago."
+        ],
+        "answer": "C. China struggled to match their past performance, ending the game in a 2-2 draw.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/mBD-TPIHbUs.mp4",
+        "question_id": 0,
+        "question": "In the middle part of the video, why does the man with gray and white beard and black glasses wave and greet the restaurant staff repeatedly when he enters the restaurant?",
+        "answer_number": 3,
+        "candidates": [
+            "A. To show the audience a positive example.",
+            "B. He wants to show his enthusiasm.",
+            "C. He knows the restaurant's service staff.",
+            "D. To show the audience a negative example."
+        ],
+        "answer": "D. To show the audience a negative example.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/mBD-TPIHbUs.mp4",
+        "question_id": 0,
+        "question": "According to the later part of the video, why is it not recommended for the man with gray and white beard and black glasses to say 'ciao'?",
+        "answer_number": 1,
+        "candidates": [
+            "A. Because 'ciao' meaning 'hello' is not applicable in Italy.",
+            "B. Because 'ciao' meaning 'hello' is not formal enough.",
+            "C. Because 'ciao' meaning 'hello' might offend people.",
+            "D. Unable to determine\"."
+        ],
+        "answer": "B. Because 'ciao' meaning 'hello' is not formal enough.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/dphq5X-rMew.mp4",
+        "question_id": 0,
+        "question": "Why Cusco and Tenochtitlan can be easily found while Amazonian settlements can not?",
+        "answer_number": 0,
+        "candidates": [
+            "A. Because Amazonian settlements were built with wood and earth .",
+            "B. Because Amazonian settlements were too small.",
+            "C. Because Amazonian settlements were in the center of Amazon forest.",
+            "D. Because local people all died from diseases."
+        ],
+        "answer": "A. Because Amazonian settlements were built with wood and earth .",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/K64wRD8eaus.mp4",
+        "question_id": 0,
+        "question": "Why does this video mention Victor Garber?",
+        "answer_number": 2,
+        "candidates": [
+            "A. Because he doesn't believe that the Titanic will sink.",
+            "B. Because he is the architect of the Titanic.",
+            "C. Because he played Tomas Andrew in the movie.",
+            "D. Because he konws the tragic end of the Titanic."
+        ],
+        "answer": "C. Because he played Tomas Andrew in the movie.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/QTA8j5wSTx4.mp4",
+        "question_id": 0,
+        "question": "Why did the main character in the video put his hand in the coat?",
+        "answer_number": 1,
+        "candidates": [
+            "A. Because his hand was deformed.",
+            "B. For public image.",
+            "C. Because such action can released stomach pain.",
+            "D. For warmth."
+        ],
+        "answer": "B. For public image.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/s_TGkDcjBqI.mp4",
+        "question_id": 0,
+        "question": "How did the cowherd use the bull's magic?",
+        "answer_number": 1,
+        "candidates": [
+            "A. Asked the magpies to form a bridge.",
+            "B. Hurtled upwards and tried to wade through the stars.",
+            "C. Plucked a golden hairpin and tore through the sky.",
+            "D. Hastily placed each child in a basket."
+        ],
+        "answer": "B. Hurtled upwards and tried to wade through the stars.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/tjrvKA4w9-Y.mp4",
+        "question_id": 0,
+        "question": "What happened when Che Guevara failed to rally rebels in the Congo?",
+        "answer_number": 3,
+        "candidates": [
+            "A. He went to Soviet to rebel once again.",
+            "B. He was captured and executed by Congo's government.",
+            "C. His action led to the Cuban Missile Crisis.",
+            "D. He went to Bolivia to rebel once again."
+        ],
+        "answer": "D. He went to Bolivia to rebel once again.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/RBTiTcHm_ac.mp4",
+        "question_id": 0,
+        "question": "Why does Michael Bierut mention religious symbols?",
+        "answer_number": 2,
+        "candidates": [
+            "A. Because he thinks that logoss should take in religious elements.",
+            "B. Because he believes that religious symbols are logos too.",
+            "C. To illustrate that the logo's meaning is expressed by what people come to mind.",
+            "D. Because he believes in Christianity."
+        ],
+        "answer": "C. To illustrate that the logo's meaning is expressed by what people come to mind.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/IaTaaNinolU.mp4",
+        "question_id": 0,
+        "question": "Why didn't the English king kill Hamlet?",
+        "answer_number": 0,
+        "candidates": [
+            "A. Because Hamlet changed the content in the letter.",
+            "B. Because Claudius asked the English king to protect Hamlet during their journey.",
+            "C. Because the English king was unwilling to kill Hamlet.",
+            "D. Because Hamlet's friends chose to be killed instead of Hamlet."
+        ],
+        "answer": "A. Because Hamlet changed the content in the letter.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/z2APU5ob9Og.mp4",
+        "question_id": 0,
+        "question": "Why can the tenth artist create potteries with marbled designs?",
+        "answer_number": 1,
+        "candidates": [
+            "A. Because her works are made of marble.",
+            "B. Because she glazes her pottery with bubbles.",
+            "C. Because she paints marbel's texture to her works.",
+            "D. Because she learns the perfect tempreture to generate such design."
+        ],
+        "answer": "B. Because she glazes her pottery with bubbles.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/eWUAB194qhU.mp4",
+        "question_id": 0,
+        "question": "Why should exercise be included as a part of maintaining a healthy lymphatic system, according to the video?",
+        "answer_number": 3,
+        "candidates": [
+            "A. It increases body fat which is essential for lymphatic function.",
+            "B. It helps to reduce the oxygen levels in the blood.",
+            "C. It slows down the heart rate and reduces lymph flow.",
+            "D. It speeds up the rate at which lymph drains back into your blood."
+        ],
+        "answer": "D. It speeds up the rate at which lymph drains back into your blood.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/zIbNJCSCEjk.mp4",
+        "question_id": 0,
+        "question": "Why does the price of apples go up in the video?",
+        "answer_number": 0,
+        "candidates": [
+            "A. There is excess liquidity in the market.",
+            "B. Good sales.",
+            "C. For profiteering.",
+            "D. The apples don't sell."
+        ],
+        "answer": "A. There is excess liquidity in the market.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/9XCKnN6o19k.mp4",
+        "question_id": 0,
+        "question": "Inferring from the video, what is the characteristic of Shein Corp?",
+        "answer_number": 1,
+        "candidates": [
+            "A. Open.",
+            "B. Mystery.",
+            "C. Expensive.",
+            "D. Innovation."
+        ],
+        "answer": "B. Mystery.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/GPOv72Awo68.mp4",
+        "question_id": 0,
+        "question": "As depicted in the video, how did investors respond to the availability of mortgage-backed securities and CDOs in the early 2000s?",
+        "answer_number": 3,
+        "candidates": [
+            "A. They were hesitant due to the perceived risk associated with these new financial instruments.",
+            "B. They preferred investing in US Treasury bonds due to their stability and low risk.",
+            "C. They focused on individual mortgages, finding them more manageable and transparent.",
+            "D. They eagerly invested in them, believing they were low-risk and offered high returns."
+        ],
+        "answer": "D. They eagerly invested in them, believing they were low-risk and offered high returns.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/GFTKKyYSCKs.mp4",
+        "question_id": 0,
+        "question": "In line with the video evidence, what is the main reason why central banks avoid simply printing more money during an economic crisis?",
+        "answer_number": 0,
+        "candidates": [
+            "A. It can lead to severe inflation, devaluing the existing money supply and hurting the economy.",
+            "B. It is logistically difficult and time-consuming to print large amounts of money.",
+            "C. Governments prefer to use other economic policies like tax cuts and infrastructure projects.",
+            "D. Central banks lack the authority to print money, as that is a government responsibility."
+        ],
+        "answer": "A. It can lead to severe inflation, devaluing the existing money supply and hurting the economy.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/GQEYGAJIzAM.mp4",
+        "question_id": 0,
+        "question": "Why does the main character in the video dip a drop of coffee and drip it back?",
+        "answer_number": 2,
+        "candidates": [
+            "A. To showcase the flavor of this coffee.",
+            "B. To record it in slow motion.",
+            "C. To show how mountains form in craters on the moon's surface.",
+            "D. The author is bored while observing the moon."
+        ],
+        "answer": "C. To show how mountains form in craters on the moon's surface.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/MaAv2IVzqhM.mp4",
+        "question_id": 0,
+        "question": "What can be inferred about the location of LIGO Hanford in the video?",
+        "answer_number": 1,
+        "candidates": [
+            "A. It is located in a remote area, beside a small town.",
+            "B. it is located in an open area, beside a trail.",
+            "C. It is located in a plain area next to some cultivated land.",
+            "D. It cannot be inferred."
+        ],
+        "answer": "B. it is located in an open area, beside a trail.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/pmF41T52nJs.mp4",
+        "question_id": 0,
+        "question": "Why does the speaker mention water pipes?",
+        "answer_number": 0,
+        "candidates": [
+            "A. Because water in the water pipes will expand when freezing.",
+            "B. Because water pipes will split when it's too cold.",
+            "C. Because some water pipes are made of rock.",
+            "D. Because lots of them are grey and looks quite similar to each other."
+        ],
+        "answer": "A. Because water in the water pipes will expand when freezing.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/xa6SdvFA3w0.mp4",
+        "question_id": 0,
+        "question": "Why does the speaker mention students in a stressful class?",
+        "answer_number": 1,
+        "candidates": [
+            "A. Because she pities these students.",
+            "B. Because she wants to make this lesson not so serious.",
+            "C. Because students in a stressful class cause sea suface height anormalie.",
+            "D. Because their stress pushes the sea water."
+        ],
+        "answer": "B. Because she wants to make this lesson not so serious.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/wdcXmerZWDc.mp4",
+        "question_id": 0,
+        "question": "What does the speaker explain before introducing MS4?",
+        "answer_number": 2,
+        "candidates": [
+            "A. The government has token several measures to handle storm water.",
+            "B. Developers are increasingly tasked with managing runoff from their projects.",
+            "C. It will be a difficult task for water treatment plants to deal with the storm water alone.",
+            "D. It's impossible to handle the storm water."
+        ],
+        "answer": "C. It will be a difficult task for water treatment plants to deal with the storm water alone.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/ZQP-7BPvvq0.mp4",
+        "question_id": 0,
+        "question": "What does the speaker explain after seeing the ancient paintings at the beginning of the video?",
+        "answer_number": 0,
+        "candidates": [
+            "A. The abnormal part of the paintings.",
+            "B. His favorite animal.",
+            "C. Why Sahara was once green.",
+            "D. How the ancient artists paint on rocks."
+        ],
+        "answer": "A. The abnormal part of the paintings.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/7Ni4gcl4tpE.mp4",
+        "question_id": 0,
+        "question": "Why did the local people ask whether the youtuber brought his oxygen mask?",
+        "answer_number": 2,
+        "candidates": [
+            "A. Because the wind was intense.",
+            "B. Because there was very high in altitude.",
+            "C. Because he just made fun of the highest point in Kiribati.",
+            "D. Because his oxygen mask got lost."
+        ],
+        "answer": "C. Because he just made fun of the highest point in Kiribati.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/HwpzzAefx9M.mp4",
+        "question_id": 0,
+        "question": "According to the content of the video, why does the little boy squatting on the ground playing with a toy car run away and hide?",
+        "answer_number": 2,
+        "candidates": [
+            "A. Because he hears a loud thunderclap, mistaking it for an explosion, and becomes terrified.",
+            "B. Because he sees several gangsters walking towards him and his mother with big knives, he is very scared.",
+            "C. Because he sees soldiers pointing guns at him and his mother, and he is very frightened.",
+            "D. Because he accidentally broke the toy car and doesn't want his mother to find out, fearing disappointment rather than punishment."
+        ],
+        "answer": "C. Because he sees soldiers pointing guns at him and his mother, and he is very frightened.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/6DAFkaGUiT4.mp4",
+        "question_id": 0,
+        "question": "According to the video, why is IMAX not suitable for filming movies?",
+        "answer_number": 3,
+        "candidates": [
+            "A. The motors make too much noise and distracte the actors.",
+            "B. The cameras are so heavy, and require specific training to operate them.",
+            "C. IMAX movies are expensive to produce.",
+            "D. All of the above."
+        ],
+        "answer": "D. All of the above.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/yU5kPoc7sL4.mp4",
+        "question_id": 0,
+        "question": "Why doesn't it work to click on a cell phone while wearing gloves?",
+        "answer_number": 2,
+        "candidates": [
+            "A. The contact area between the gloves and the screen is large, making it impossible to press the screen down.",
+            "B. Gloves cannot absorb the infrared rays emitted by the screen.",
+            "C. Clothes don't conduct electricity and cannot complete a circuit between the capacitive screen.",
+            "D. The gloves cause multi-touch and the screen cannot tell where the finger is touching."
+        ],
+        "answer": "C. Clothes don't conduct electricity and cannot complete a circuit between the capacitive screen.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/V6ui161NyTg.mp4",
+        "question_id": 0,
+        "question": "What is the relationship between the two girls in the video?",
+        "answer_number": 3,
+        "candidates": [
+            "A. They are sisters who care about each other.",
+            "B. They are  strangers with the same experience.",
+            "C. They are best friends to each other.",
+            "D. They are different periods of the same person."
+        ],
+        "answer": "D. They are different periods of the same person.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/QI9VIulqTCA.mp4",
+        "question_id": 0,
+        "question": "Why is the small iceberg shrinking?",
+        "answer_number": 1,
+        "candidates": [
+            "A. It is exposed to the sun.",
+            "B. It crashes the ship for protecting the little killer whale.",
+            "C. It is captured by the ship.",
+            "D. It wants to sleep."
+        ],
+        "answer": "B. It crashes the ship for protecting the little killer whale.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/Jm0MLlE4x0U.mp4",
+        "question_id": 0,
+        "question": "Why does the mother bird bring a fish to the fox?",
+        "answer_number": 0,
+        "candidates": [
+            "A. To thank the fox for raising its own offspring.",
+            "B. Because the fox is extremely hungry.",
+            "C. To fulfill its baby's wish to help the fox.",
+            "D. Because the fox is a friend of its child."
+        ],
+        "answer": "A. To thank the fox for raising its own offspring.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/I5cFBi02O34.mp4",
+        "question_id": 0,
+        "question": "Why does the hero wait until the last moment to save the princess?",
+        "answer_number": 0,
+        "candidates": [
+            "A. She is not the princess he desires.",
+            "B. He is unable to overcome the monsters.",
+            "C. He mistakenly follows the wrong path.",
+            "D. He seeks to encounter more princesses."
+        ],
+        "answer": "A. She is not the princess he desires.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/I5cFBi02O34.mp4",
+        "question_id": 0,
+        "question": "Why does the hero take the last monster back?",
+        "answer_number": 1,
+        "candidates": [
+            "A. He falls in love with the monster princess.",
+            "B. The monster wears the same crown as the princess.",
+            "C. The king wants the monster.",
+            "D. He promises to reveal the location of a hidden treasure."
+        ],
+        "answer": "B. The monster wears the same crown as the princess.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/TIK01MpwWGg.mp4",
+        "question_id": 0,
+        "question": "Why does the woman in the blue and black shirt want to do makeup for the man in the yellow shirt in the video?",
+        "answer_number": 1,
+        "candidates": [
+            "A. Because the man likes wearing makeup.",
+            "B. Because the woman thinks that a whiter complexion from makeup will make the man's teeth look not so white.",
+            "C. Because they are both only 13 years old.",
+            "D. Because the man is a celebrity."
+        ],
+        "answer": "B. Because the woman thinks that a whiter complexion from makeup will make the man's teeth look not so white.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/TIK01MpwWGg.mp4",
+        "question_id": 0,
+        "question": "Why does the man always speak in a strange way during his date in the latter half of the video?",
+        "answer_number": 2,
+        "candidates": [
+            "A. Because he doesn't like his date and wants to make a bad impression.",
+            "B. Because he has a toothache.",
+            "C. Because he doesn't want to show his teeth.",
+            "D. Because his throat is uncomfortable."
+        ],
+        "answer": "C. Because he doesn't want to show his teeth.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/iC54QQSe4_I.mp4",
+        "question_id": 0,
+        "question": "Why did young Sheldon's mother not tell him about the contents of the letter?",
+        "answer_number": 1,
+        "candidates": [
+            "A. Because she thinks the California Institute of Technology is not good.",
+            "B. Because she does not want young Sheldon to go to California alone for school.",
+            "C. Because she had an argument with young Sheldon.",
+            "D. Because the letter was addressed to young Sheldon's parents."
+        ],
+        "answer": "B. Because she does not want young Sheldon to go to California alone for school.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/4aPxxE345OM.mp4",
+        "question_id": 0,
+        "question": "Based on the video, why does Manny want to be friends with Griffin?",
+        "answer_number": 0,
+        "candidates": [
+            "A. Because he has a crush on Griffin's sister.",
+            "B. Because Griffin is good at basketball.",
+            "C. Because Griffin admires Manny's dad.",
+            "D. Because he thinks Griffin is cool."
+        ],
+        "answer": "A. Because he has a crush on Griffin's sister.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/hjNX33W-99I.mp4",
+        "question_id": 0,
+        "question": "Why does the female protagonist pay a bum to accompany her for a day at the beginning of the video?",
+        "answer_number": 2,
+        "candidates": [
+            "A. For fun.",
+            "B. Because she fell in love with the bum.",
+            "C. she wants to teach her parents a lesson.",
+            "D. Because she recognizes the bum is actually a millionaire."
+        ],
+        "answer": "C. she wants to teach her parents a lesson.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/xr_nln2ZQw8.mp4",
+        "question_id": 0,
+        "question": "Which of the following is NOT a reason why there are many teenage mothers in Brazil every year?",
+        "answer_number": 1,
+        "candidates": [
+            "A. Abortion is not allowed.",
+            "B. The Brazilian tradition is to have children at a young age.",
+            "C. Lack of sex education.",
+            "D. Contraceptive use is not advocated."
+        ],
+        "answer": "B. The Brazilian tradition is to have children at a young age.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/HeEyJo838PA.mp4",
+        "question_id": 0,
+        "question": "Why does the mother brown bear in the video make her cubs run to higher ground?",
+        "answer_number": 2,
+        "candidates": [
+            "A. Because you can see further from the high ground.",
+            "B. Because she spotted two tiger that might kill the cubs.",
+            "C. Because she spotted two adult male brown bears that might kill the cubs.",
+            "D. Because it's easier to catch salmon from the high ground."
+        ],
+        "answer": "C. Because she spotted two adult male brown bears that might kill the cubs.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/20gUIdXGuAs.mp4",
+        "question_id": 0,
+        "question": "Based on the video, why was Google sued?",
+        "answer_number": 0,
+        "candidates": [
+            "A. Google was sued for unlawfully using copyrighted content to train AI models.",
+            "B. Google was not the subject of a lawsuit.",
+            "C. Google was sued for violating antitrust laws.",
+            "D. Google was sued due to the negative societal effects caused by its AI robots."
+        ],
+        "answer": "A. Google was sued for unlawfully using copyrighted content to train AI models.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/cPlpZdGLa5A.mp4",
+        "question_id": 0,
+        "question": "Why is there no winner in Game 3?",
+        "answer_number": 1,
+        "candidates": [
+            "A. Neither of them completed their assigned basketball moves.",
+            "B. They all complete their assigned basketball moves.",
+            "C. Game 3 isn't decisive.",
+            "D. Game 3 is poorly designed."
+        ],
+        "answer": "B. They all complete their assigned basketball moves.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/EavQ0LtEICY.mp4",
+        "question_id": 0,
+        "question": "Why do they replace the other side of the layup in the second game?",
+        "answer_number": 2,
+        "candidates": [
+            "A. Because of the long layups, their right hands are too tired.",
+            "B. They are left-handed will.",
+            "C. Layups from the right side are too easy.",
+            "D. This is the rule of the game, which requires a right side layup before finishing with a left side layup."
+        ],
+        "answer": "C. Layups from the right side are too easy.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/YPvxuoNLgPE.mp4",
+        "question_id": 0,
+        "question": "In the second game, why is the yellow player docked a point when he gets 12?",
+        "answer_number": 1,
+        "candidates": [
+            "A. Because he stepped into the three-point line.",
+            "B. Because he used a green basketball.",
+            "C. Because the referee made a mistake.",
+            "D. Because he's way ahead on points."
+        ],
+        "answer": "B. Because he used a green basketball.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/Mxkg3qLIPC8.mp4",
+        "question_id": 0,
+        "question": "How did the winning team in the video win the FIFA World Cup final?",
+        "answer_number": 2,
+        "candidates": [
+            "A. By outscoring their opponent in regular time.",
+            "B. Through a golden goal during extra time.",
+            "C. With a decisive triumph in a penalty shootout.",
+            "D. By default following a forfeit from France."
+        ],
+        "answer": "C. With a decisive triumph in a penalty shootout.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/bOUSkh5PInA.mp4",
+        "question_id": 0,
+        "question": "Why were the first two goals in this video invalid?",
+        "answer_number": 2,
+        "candidates": [
+            "A. Because the ball went out of play before the goal was scored.",
+            "B. Because there was a foul committed by the scoring team.",
+            "C. Because the player who scored was offside.",
+            "D. Because the goal was scored with the use of a handball."
+        ],
+        "answer": "C. Because the player who scored was offside.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/CwzjlmBLfrQ.mp4",
+        "question_id": 0,
+        "question": "Why does the man playing the keyboard leave his seat during the performance?",
+        "answer_number": 0,
+        "candidates": [
+            "A. Because he sneezes and tries to get a tissue to wipe his nose.",
+            "B. To adjust the sound settings on his instrument.",
+            "C. Because he forgets to play his part in the music.",
+            "D. To take a brief intermission break from the performance."
+        ],
+        "answer": "A. Because he sneezes and tries to get a tissue to wipe his nose.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/CwzjlmBLfrQ.mp4",
+        "question_id": 0,
+        "question": "In the middle of the video, why are there scenes of men running by the sea?",
+        "answer_number": 1,
+        "candidates": [
+            "A. The men are participating in a seaside marathon event.",
+            "B. The man playing the electronic keyboard is dreaming in his head.",
+            "C. The scenes are part of a documentary about coastal life.",
+            "D. It's a commercial for a new fitness program."
+        ],
+        "answer": "B. The man playing the electronic keyboard is dreaming in his head.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/-3t1rj8g6yg.mp4",
+        "question_id": 0,
+        "question": "What can be inferred about broadcast quality from the video description?",
+        "answer_number": 0,
+        "candidates": [
+            "A. It utilizes state-of-the-art filming tailored to each play.",
+            "B. It is broadcast in standard definition.",
+            "C. The filming techniques are outdated.",
+            "D. The plays are edited before being broadcast."
+        ],
+        "answer": "A. It utilizes state-of-the-art filming tailored to each play.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/PSyedQl9IiQ.mp4",
+        "question_id": 0,
+        "question": "What can be inferred about the story at the beginning of the video?",
+        "answer_number": 3,
+        "candidates": [
+            "A. Students are engaged in a group reading session.",
+            "B. Students are preparing for an exam.",
+            "C. Students are in the midst of a classroom lesson.",
+            "D. Students are facing off against a figure of authority."
+        ],
+        "answer": "D. Students are facing off against a figure of authority.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/WO86oRJt8lM.mp4",
+        "question_id": 0,
+        "question": "What can be inferred about the setting from the lighting and background?",
+        "answer_number": 2,
+        "candidates": [
+            "A. The scene depicts a nighttime setting.",
+            "B. It is set in a bright outdoor environment.",
+            "C. It's set indoors with stage lighting to simulate a natural environment.",
+            "D. It is taking place in an urban cityscape."
+        ],
+        "answer": "C. It's set indoors with stage lighting to simulate a natural environment.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/S_MAesZsnMk.mp4",
+        "question_id": 0,
+        "question": "According to the video, why did the judges on stage cry?",
+        "answer_number": 1,
+        "candidates": [
+            "A. Tongi's singing was too awful.",
+            "B. Moved by Tongi's singing.",
+            "C. One of the judges just lost their father.",
+            "D. Unable to determine."
+        ],
+        "answer": "B. Moved by Tongi's singing.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/tdAVvYsU8q8.mp4",
+        "question_id": 0,
+        "question": "Why does the Chinese restaurant last seen in the clip of the restaurant Burpin' Burger close its doors?",
+        "answer_number": 2,
+        "candidates": [
+            "A. The owner of the restaurant is going out.",
+            "B. This restaurant is closed because it's time.",
+            "C. A White-haired man empties this restaurant while eating at the buffet.",
+            "D. There's been a complaint about the restaurant."
+        ],
+        "answer": "C. A White-haired man empties this restaurant while eating at the buffet.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/ooqdg9Wr-mo.mp4",
+        "question_id": 0,
+        "question": "Inferring from the video, why does the man in the video choose the latter between caviar and roasted butter beans?",
+        "answer_number": 1,
+        "candidates": [
+            "A. He doesn't like caviar.",
+            "B. Caviar is too expensive.",
+            "C. He likes roasted butter beans.",
+            "D. He chooses it at random."
+        ],
+        "answer": "B. Caviar is too expensive.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/uhYiRmGURwE.mp4",
+        "question_id": 0,
+        "question": "Why are people in the video buying food at the dollar store?",
+        "answer_number": 1,
+        "candidates": [
+            "A. He doesn't have much money on him.",
+            "B. Compliance with the rules of the game.",
+            "C. He's trying to save money.",
+            "D. He likes dollar-store food."
+        ],
+        "answer": "B. Compliance with the rules of the game.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/nhpAc7lUgis.mp4",
+        "question_id": 0,
+        "question": "What is the relationship between the man and woman in the video?",
+        "answer_number": 3,
+        "candidates": [
+            "A. Friends.",
+            "B. Brother and sister.",
+            "C. Father and daughter.",
+            "D. Couples."
+        ],
+        "answer": "D. Couples.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/MIYDzEYfI6U.mp4",
+        "question_id": 0,
+        "question": "Why does the author of the video feel the need to \"appreciate your own nation\"?",
+        "answer_number": 1,
+        "candidates": [
+            "A. Because New Zealand has its own unique culture.",
+            "B. Because she has been exposed to diverse world cultures through her travels.",
+            "C. Because she is a volunteer in the promotion of New Zealand's national culture.",
+            "D. Because her travel experiences in other countries made her uncomfortable."
+        ],
+        "answer": "B. Because she has been exposed to diverse world cultures through her travels.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/tPQX0lMk6U0.mp4",
+        "question_id": 0,
+        "question": "What is the underlying reason why the main character in the video takes off his shoes when he gets into the car?",
+        "answer_number": 0,
+        "candidates": [
+            "A. She is too sleepy.",
+            "B. She doesn't like to wear shoes in the car.",
+            "C. She thinks she is in a hotel room.",
+            "D. Her mum makes her take off her shoes."
+        ],
+        "answer": "A. She is too sleepy.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/tPQX0lMk6U0.mp4",
+        "question_id": 0,
+        "question": "Why does the main character cry at the end of the video?",
+        "answer_number": 2,
+        "candidates": [
+            "A. Because she had nightmares.",
+            "B. Because her dad spills water on the quilt.",
+            "C. Because she wet the bed.",
+            "D. Because she is woken up by her brother."
+        ],
+        "answer": "C. Because she wet the bed.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/4ME5ZfDg2aw.mp4",
+        "question_id": 0,
+        "question": "Why does the author feel betrayed at the beginning of the video?",
+        "answer_number": 1,
+        "candidates": [
+            "A. Greenland is deserted.",
+            "B. Greenland is not green.",
+            "C. Greenland is very cold.",
+            "D. Greenland is very expensive."
+        ],
+        "answer": "B. Greenland is not green.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/M_lwC5zPkyo.mp4",
+        "question_id": 0,
+        "question": "Why are Shanghai temples so crowded, as inferred by the main character in the video?",
+        "answer_number": 0,
+        "candidates": [
+            "A. Coming up to Chinese New Year.",
+            "B. There will be free wine tasting.",
+            "C. It's peak tourist season.",
+            "D. Lantern festival was organized."
+        ],
+        "answer": "A. Coming up to Chinese New Year.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/LVRcD_-ht3g.mp4",
+        "question_id": 0,
+        "question": "Why does the black dog hold the goose?",
+        "answer_number": 0,
+        "candidates": [
+            "A. Protecting the cameraman from attacks of the goose.",
+            "B. Consume the goose as food.",
+            "C. Playing with the goose.",
+            "D. Letting the goose go elsewhere."
+        ],
+        "answer": "A. Protecting the cameraman from attacks of the goose.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/kDo4y8-bZko.mp4",
+        "question_id": 0,
+        "question": "What does the coach wearing a white top and black trousers and a hat at the beginning of the video mainly explain to the athlete wearing a black top and grey and white shorts?",
+        "answer_number": 0,
+        "candidates": [
+            "A. Maintaining relaxation as well as leg and arm movement essentials.",
+            "B. How to breathe while running.",
+            "C. Maintaining tightness and arm movement essentials.",
+            "D. How to warm up before a match."
+        ],
+        "answer": "A. Maintaining relaxation as well as leg and arm movement essentials.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/GrO5sxp3n0E.mp4",
+        "question_id": 0,
+        "question": "What is the woman's favorite drink, and why?",
+        "answer_number": 3,
+        "candidates": [
+            "A. Coffee, because it helps her wake up.",
+            "B. Tea, because it's calming.",
+            "C. Juice, because it's healthy.",
+            "D. Water, because it's readily available and tastes good."
+        ],
+        "answer": "D. Water, because it's readily available and tastes good.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/ElWG0_kjy_Y.mp4",
+        "question_id": 0,
+        "question": "As depicted in the video, which of the following knowledge and techniques doesn't contribute to Mona Lisa's mysterious smile?",
+        "answer_number": 1,
+        "candidates": [
+            "A. Psychology of visual perception.",
+            "B. The 'Spolvaro' Technique.",
+            "C. Facial anatomy.",
+            "D. Sfumato and Chiaroscuro techniques."
+        ],
+        "answer": "B. The 'Spolvaro' Technique.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/wCkQ138sg6M.mp4",
+        "question_id": 0,
+        "question": "According to what is shown in the video, what might be the relationship between the old man in a white shirt and the standing man in a black shirt?",
+        "answer_number": 3,
+        "candidates": [
+            "A. Father and son.",
+            "B. Grandfather and grandson.",
+            "C. Employer and employee.",
+            "D. Teacher and student."
+        ],
+        "answer": "D. Teacher and student.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/k1SE25mURhc.mp4",
+        "question_id": 0,
+        "question": "In line with the video evidence, why does the author mention Cambodia Angkor Wat?",
+        "answer_number": 0,
+        "candidates": [
+            "A. To illustrate his point that Ellora Caves might not have been built by its occupiers.",
+            "B. Because it is as remarkable as Ellora Caves.",
+            "C. Because Cambodia Angkor Wat and Ellora Cave are both built by monks.",
+            "D. Because it is very close to Ellora Caves."
+        ],
+        "answer": "A. To illustrate his point that Ellora Caves might not have been built by its occupiers.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/YdMCL9_UTE4.mp4",
+        "question_id": 0,
+        "question": "In what order are the following introduced in the video?\n\u2460 Resilience training program.\n\u2461 The relationship between genetics and stress.\n\u2462 The stress's influence on the brain.\n\u2463 What does resilient behavior look like.",
+        "answer_number": 1,
+        "candidates": [
+            "A. \u2460\u2461\u2462\u2463.",
+            "B. \u2463\u2461\u2462\u2460.",
+            "C. \u2463\u2462\u2461\u2460.",
+            "D. \u2460\u2463\u2462\u2461."
+        ],
+        "answer": "B. \u2463\u2461\u2462\u2460.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/pU_yyadYgG8.mp4",
+        "question_id": 0,
+        "question": "How did Yen's appreciation against the US Dollar after the Plaza Accord impact the Japanese economy in the video?",
+        "answer_number": 3,
+        "candidates": [
+            "A. It led to higher inflation due to increased demand for domestic products.",
+            "B. It stimulated investment by lowering borrowing costs for Japanese companies.",
+            "C. It boosted exports by making Japanese goods cheaper for foreign consumers.",
+            "D. It increased domestic consumption by making imported goods more affordable."
+        ],
+        "answer": "D. It increased domestic consumption by making imported goods more affordable.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/9bbWYVrQgZ8.mp4",
+        "question_id": 0,
+        "question": "According to the video, what is one reason why the relationship between inflation and wage inflation has weakened in recent decades?",
+        "answer_number": 3,
+        "candidates": [
+            "A. Increased automation has led to a decline in the demand for labor.",
+            "B. Government policies have encouraged companies to suppress wages.",
+            "C. Technological advances have increased worker productivity, reducing the need for wage increases.",
+            "D. The rise of globalization and outsourcing has reduced the bargaining power of workers."
+        ],
+        "answer": "D. The rise of globalization and outsourcing has reduced the bargaining power of workers.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/J5Npf2xJpag.mp4",
+        "question_id": 0,
+        "question": "Why do the companies featured in the video face challenges when entering the IPO underwriting business?",
+        "answer_number": 3,
+        "candidates": [
+            "A. The firm lacked the necessary capital to compete with established players.",
+            "B. The commercial paper market was saturated and offered limited growth opportunities.",
+            "C. Regulations at the time heavily restricted new entrants in the IPO market.",
+            "D. The firm's special background positioned it as an outsider in the elite-dominated industry."
+        ],
+        "answer": "D. The firm's special background positioned it as an outsider in the elite-dominated industry.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/J5Npf2xJpag.mp4",
+        "question_id": 0,
+        "question": "How did the collapse of Long Term Capital Management (LTCM) affect Goldman Sachs in the video?",
+        "answer_number": 2,
+        "candidates": [
+            "A. Led to the immediate downfall of Goldman Sachs due to its large exposure to LTCM.",
+            "B. Resulted in the government bailout of Goldman Sachs and other major Wall Street firms.",
+            "C. Forced Goldman Sachs to adapt its business model and seek a more stable base of capital.",
+            "D. Prompted Goldman Sachs to shift its focus from trading to traditional investment banking activities."
+        ],
+        "answer": "C. Forced Goldman Sachs to adapt its business model and seek a more stable base of capital.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/mvpbZGwZ6_4.mp4",
+        "question_id": 0,
+        "question": "Based on the video, what can be inferred about astronomers' reactions to the observations?",
+        "answer_number": 1,
+        "candidates": [
+            "A. They expected the findings and feel it confirms current models.",
+            "B. They are surprised and questioning existing cosmological theories.",
+            "C. They are reassured about the viability of the \u039bCDM model.",
+            "D. They believe the JWST is producing inaccurate results."
+        ],
+        "answer": "B. They are surprised and questioning existing cosmological theories.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/K0m4xAfTVwM.mp4",
+        "question_id": 0,
+        "question": "According to the video, why did the scientist mention the way a star explodes?",
+        "answer_number": 2,
+        "candidates": [
+            "A. Because there are lots of features between star explosion and lightning, for example, they both release light.",
+            "B. Because it is very similar to the principle of lightning generation in many ways.",
+            "C. Because he wants to illustrate the complexity of the lightning's generation.",
+            "D. Because the stars in the galaxy is similar to the shape of lightning."
+        ],
+        "answer": "C. Because he wants to illustrate the complexity of the lightning's generation.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/YtAL8y2lACs.mp4",
+        "question_id": 0,
+        "question": "Why was the team so cautious upon the helicopter's landing?",
+        "answer_number": 2,
+        "candidates": [
+            "A. Because the helicopter steps were too high.",
+            "B. Because one of the team members died of falling into a deep crevasse.",
+            "C. Because there might be a deep crevasse.",
+            "D. Because the wind was very strong."
+        ],
+        "answer": "C. Because there might be a deep crevasse.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/K946mptgzTU.mp4",
+        "question_id": 0,
+        "question": "According to the video, why does the caravan drop off hay along the way?",
+        "answer_number": 1,
+        "candidates": [
+            "A. Because it can prevent the caravan from getting lost.",
+            "B. Because they can find it when coming back.",
+            "C. Because the camels hate eating hay.",
+            "D. Because it is cheap."
+        ],
+        "answer": "B. Because they can find it when coming back.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/mzvHYBgD-tI.mp4",
+        "question_id": 0,
+        "question": "In the video, how did the defense lawyer prove that there was something wrong with the surveillance video in the movie plot?",
+        "answer_number": 1,
+        "candidates": [
+            "A. By presenting a frame-by-frame comparison showing the identical plastic bag at the same timestamp each night, along with timestamp inconsistencies with known weather patterns or ambient conditions, conclusively demonstrating a flaw or tampering with the surveillance footage.",
+            "B. By stating that a plastic bag appears in the same way at the same point in time every night in the surveillance video.",
+            "C. By stating that there's a man on the surveillance video every night.",
+            "D. By stating that surveillance video is checked every night."
+        ],
+        "answer": "B. By stating that a plastic bag appears in the same way at the same point in time every night in the surveillance video.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/AFFZjzuAHMg.mp4",
+        "question_id": 0,
+        "question": "Which case is the main story about in the plot of the movie explained by the host in the video?",
+        "answer_number": 3,
+        "candidates": [
+            "A. Jake Tyler Brigance.",
+            "B. Daniel Kaffee.",
+            "C. Andy Dufresne.",
+            "D. Carl Lee Haley."
+        ],
+        "answer": "D. Carl Lee Haley.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/HnS87Tw4amM.mp4",
+        "question_id": 0,
+        "question": "How and why does the water filled in the drum change color?",
+        "answer_number": 0,
+        "candidates": [
+            "A. It turns dirty because it soaks the rubbish in the washing machine.",
+            "B. It turns clean due to the water purification of the drum.",
+            "C. It turns clean because it soaks the rubbish in the washing machine.",
+            "D. It turns dirty due to the water purification of the drum."
+        ],
+        "answer": "A. It turns dirty because it soaks the rubbish in the washing machine.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/nVtb2vNUOdU.mp4",
+        "question_id": 0,
+        "question": "What is the correct order of the video to explain the following events?\n(a) History.\n(b) Alexnet.\n(c) CUDA.\n(d) Team Management.",
+        "answer_number": 3,
+        "candidates": [
+            "A. (b)(c)(a)(d).",
+            "B. (b)(c)(d)(a).",
+            "C. (d)(c)(b)(a).",
+            "D. (a)(c)(b)(d)."
+        ],
+        "answer": "D. (a)(c)(b)(d).",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/8IZvEF4Ui10.mp4",
+        "question_id": 0,
+        "question": "Why is the author playing a video game at the end of the video?",
+        "answer_number": 0,
+        "candidates": [
+            "A. To evaluate computer performance.",
+            "B. As part of a video game advertisement placement.",
+            "C. The author is engaging in live gaming.",
+            "D. To produce a new game review."
+        ],
+        "answer": "A. To evaluate computer performance.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/lMxFbRc3Luk.mp4",
+        "question_id": 0,
+        "question": "As depicted in the video, why is the teacher still in the museum after the security alarm?",
+        "answer_number": 0,
+        "candidates": [
+            "A. She wants to steal the crown.",
+            "B. She checks the security.",
+            "C. She comes to find her students.",
+            "D. She has a talk with the girl and the boy."
+        ],
+        "answer": "A. She wants to steal the crown.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/lMxFbRc3Luk.mp4",
+        "question_id": 0,
+        "question": "What is the relationship between Dante and his family according to what is shown in the video?",
+        "answer_number": 3,
+        "candidates": [
+            "A. They help each other.",
+            "B. His family understands him.",
+            "C. He hates his family.",
+            "D. His family doesn't support him."
+        ],
+        "answer": "D. His family doesn't support him.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/TF9I1GxNdJQ.mp4",
+        "question_id": 0,
+        "question": "What is the relationship between the black stickman and the red stickman in the video?",
+        "answer_number": 1,
+        "candidates": [
+            "A. Friends.",
+            "B. Initially friends, but then become enemies.",
+            "C. Enemies.",
+            "D. They don't know each other."
+        ],
+        "answer": "B. Initially friends, but then become enemies.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/dXUXfyiX2lA.mp4",
+        "question_id": 0,
+        "question": "Based on the video, why do the two people in the moving giant castle get out?",
+        "answer_number": 0,
+        "candidates": [
+            "A. To get more energy for the giant castle.",
+            "B. To argue with each other.",
+            "C. To fight with enemies.",
+            "D. To have a break."
+        ],
+        "answer": "A. To get more energy for the giant castle.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/Sp2nxlrQ89w.mp4",
+        "question_id": 0,
+        "question": "In line with the video evidence, why does the orange stickman want to destroy the Minecraft world?",
+        "answer_number": 2,
+        "candidates": [
+            "A. He wants to save his son.",
+            "B. He is too sad.",
+            "C. He loses his son.",
+            "D. He does like the world."
+        ],
+        "answer": "C. He loses his son.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/Sp2nxlrQ89w.mp4",
+        "question_id": 0,
+        "question": "In accordance with the video footage, why does the orange stick man stop destroying?",
+        "answer_number": 0,
+        "candidates": [
+            "A. He realizes he has hurt his son.",
+            "B. He has no energy.",
+            "C. He is too sad to do this.",
+            "D. He forgives people in the world."
+        ],
+        "answer": "A. He realizes he has hurt his son.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/Q8AZ16uBhr8.mp4",
+        "question_id": 0,
+        "question": "As depicted in the video, how is the relationship between the rabbit and human?",
+        "answer_number": 0,
+        "candidates": [
+            "A. Hostile.",
+            "B. Friend.",
+            "C. Cooperator.",
+            "D. No one is correct above."
+        ],
+        "answer": "A. Hostile.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/-dfvdKf-KR0.mp4",
+        "question_id": 0,
+        "question": "Why did Jessica Pearson send Harvey a text message saying \"I need you\" in the first six minutes of the video?",
+        "answer_number": 0,
+        "candidates": [
+            "A. Because Jessica is unable to handle the dispute with Gerard Tate.",
+            "B. Because Cooper signed the agreement.",
+            "C. Because Gerald has been maliciously trading.",
+            "D. Because Cooper will not continue to serve as Honorary Vice President."
+        ],
+        "answer": "A. Because Jessica is unable to handle the dispute with Gerard Tate.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/-dfvdKf-KR0.mp4",
+        "question_id": 0,
+        "question": "Between the 6th and 13th minutes of the video, why does Jessica Pearson specifically invite Mike Ross to have dinner together?",
+        "answer_number": 2,
+        "candidates": [
+            "A. Because Jessica Pearson wants to know what makes Mike Ross special.",
+            "B. Because Mike Ross has never attended Harvard or any other law school.",
+            "C. Because Jessica Pearson wants to understand Harvey through Mike Ross.",
+            "D. Because Jessica Pearson wants to fire Mike Ross."
+        ],
+        "answer": "C. Because Jessica Pearson wants to understand Harvey through Mike Ross.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/-dfvdKf-KR0.mp4",
+        "question_id": 0,
+        "question": "During the 39th to 43rd minute of the film, why does Mike Ross give Nathan a check?",
+        "answer_number": 1,
+        "candidates": [
+            "A. Because Mike Ross wants to collaborate with Nathan.",
+            "B. Because Mike Ross wants to return to Harvey's team.",
+            "C. Because Mike Ross hopes to get an opportunity to become a lawyer.",
+            "D. Because Mike Ross hopes to help many people with this check."
+        ],
+        "answer": "B. Because Mike Ross wants to return to Harvey's team.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/p84O3JAp_IM.mp4",
+        "question_id": 0,
+        "question": "In the latter part of the video, how did the man, who was wearing a bandage and holding an envelope, sustain his injury?",
+        "answer_number": 3,
+        "candidates": [
+            "A. One of his hands was hit by a firework while he was setting it off.",
+            "B. His arms got injured while he was attempting to put out the fire at a burning house.",
+            "C. His hands were injured from falling down to the ground while he was chasing Wayne's motorcycle.",
+            "D. One of his arms was dragged down by a dog lured with food by Wayne, while he was insulting Wayne's father."
+        ],
+        "answer": "D. One of his arms was dragged down by a dog lured with food by Wayne, while he was insulting Wayne's father.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/p84O3JAp_IM.mp4",
+        "question_id": 0,
+        "question": "Why does the man in the suit and tie caution Wayne against following in his family's footsteps early in the video?",
+        "answer_number": 1,
+        "candidates": [
+            "A. Because he dislikes kids who fight.",
+            "B. Because he wants Wayne to learn to deal with conflicts in an appropriate manner.",
+            "C. Because he doesn't want people who do wrong to escape punishment.",
+            "D. Because Wayne's father was not a good man."
+        ],
+        "answer": "B. Because he wants Wayne to learn to deal with conflicts in an appropriate manner.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/HP_J8x9lsUg.mp4",
+        "question_id": 0,
+        "question": "In the first half of the video, why did the big boy wearing a striped shirt refuse the request of the little boy wearing swimming goggles to watch TV together?",
+        "answer_number": 3,
+        "candidates": [
+            "A. Because the big boy wearing a striped shirt is going to watch the meteor shower, he doesn't have time to watch TV with the little boy.",
+            "B. Because the big boy wearing a striped shirt needs a little boy with swimming goggles to take care of his dog instead of watching TV.",
+            "C. Because the big boy wearing a striped shirt wants the little boy wearing swimming goggles to help him with his work instead of watching TV.",
+            "D. Because the big boy wearing a striped shirt wants to see his friends, he doesn't have time to watch TV with the little boy."
+        ],
+        "answer": "D. Because the big boy wearing a striped shirt wants to see his friends, he doesn't have time to watch TV with the little boy.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/HP_J8x9lsUg.mp4",
+        "question_id": 0,
+        "question": "Why does Kevin hug and apologize to the boy named Holden in the middle of the video?",
+        "answer_number": 1,
+        "candidates": [
+            "A. Because Kevin did not greet the boy named Holden in the green hoodie.",
+            "B. Because the boy named Holden in the green hoodie was once injured while saving Kevin.",
+            "C. Because Kevin got married.",
+            "D. Because Kevin once failed to save the boy named Holden in the green hoodie."
+        ],
+        "answer": "B. Because the boy named Holden in the green hoodie was once injured while saving Kevin.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/HP_J8x9lsUg.mp4",
+        "question_id": 0,
+        "question": "Why does Kevin show a nervous state when answering the phone in the second half of the video?",
+        "answer_number": 3,
+        "candidates": [
+            "A. Kevin is concerned about the consequences of not completing the task requested by the caller on time.",
+            "B. Because the presence of the caller poses a threat to the relationship between Kevin and Holden.",
+            "C. Because the caller will threaten Kevin, Kevin is afraid of this danger.",
+            "D. Because Kevin doesn't want to tell the people on the phone about Holden's situation, he feels uneasy about the consequences of the lie being exposed."
+        ],
+        "answer": "D. Because Kevin doesn't want to tell the people on the phone about Holden's situation, he feels uneasy about the consequences of the lie being exposed.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/HTv4z899xgA.mp4",
+        "question_id": 0,
+        "question": "Before Jane spills the nail polish, why does Grayson, who is wearing a black suit and a red tie, sit on the couch with a grim expression?",
+        "answer_number": 3,
+        "candidates": [
+            "A. Because Grayson discovered that a stranger had broken into the house.",
+            "B. Because Grayson was facing trouble at work.",
+            "C. Because Grayson couldn't accept the fact that his girlfriend Deb had gained weight.",
+            "D. Because Grayson's girlfriend Deb died in a car accident."
+        ],
+        "answer": "D. Because Grayson's girlfriend Deb died in a car accident.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/HTv4z899xgA.mp4",
+        "question_id": 0,
+        "question": "Throughout the video, why does the woman named Jane undergo a personality change?",
+        "answer_number": 0,
+        "candidates": [
+            "A. Because Jane's body contains the consciousness of the deceased Deb.",
+            "B. Because difficulties at work prompt Jane to change herself.",
+            "C. Because Jane wants to make herself more likable to clients.",
+            "D. Because Jane misses Deb and wants to pay tribute to Deb."
+        ],
+        "answer": "A. Because Jane's body contains the consciousness of the deceased Deb.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/X6UqTmRAApw.mp4",
+        "question_id": 0,
+        "question": "Why was Theresa Woo murdered?",
+        "answer_number": 3,
+        "candidates": [
+            "A. Because Theresa Woo had a boyfriend, a man named Walton became jealous and killed her.",
+            "B. Because Theresa Woo offended many people in her career, she was retaliated against.",
+            "C. Because Theresa Woo was the mistress of the husband of a woman named Raine, Raine hated Theresa Woo and killed her.",
+            "D. Because Theresa Woo was preparing to expose the criminal behavior of a woman named Raine, Raine hated Theresa Woo and killed her."
+        ],
+        "answer": "D. Because Theresa Woo was preparing to expose the criminal behavior of a woman named Raine, Raine hated Theresa Woo and killed her.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/xGcfBRkJSWQ.mp4",
+        "question_id": 0,
+        "question": "Why does Joker kill his accomplices?",
+        "answer_number": 3,
+        "candidates": [
+            "A. Other robbers betray him.",
+            "B. He hurries to escape.",
+            "C. A robber shows his face.",
+            "D. He doesn't want to share the money."
+        ],
+        "answer": "D. He doesn't want to share the money.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/xGcfBRkJSWQ.mp4",
+        "question_id": 0,
+        "question": "Why does Joker give bomb controler to both people of boats respectively?",
+        "answer_number": 0,
+        "candidates": [
+            "A. He wants to defeat bat-man.",
+            "B. He wants to kill bat-man.",
+            "C. He dislike the people on the boats.",
+            "D. People on the boat are all convicts."
+        ],
+        "answer": "A. He wants to defeat bat-man.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/IPqb_oDlGBU.mp4",
+        "question_id": 0,
+        "question": "Why does Poirot lead person to death in David Suchet's version?",
+        "answer_number": 3,
+        "candidates": [
+            "A. Because he doesn't like argue with people about reason of crime.",
+            "B. Because he is stupid.",
+            "C. Because he doesn't have empathy.",
+            "D. Because he think things are just two side."
+        ],
+        "answer": "D. Because he think things are just two side.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/GDzuMTvHnJE.mp4",
+        "question_id": 0,
+        "question": "In the latter part of the video, why does Tony say, \"We had a great day today\"?",
+        "answer_number": 2,
+        "candidates": [
+            "A. Tony has learned how to drive.",
+            "B. Diana's family has finally reunited.",
+            "C. Diana found a job, Tony's business potential opening.",
+            "D. They received \u00a3 26000 in benefits and improved their living standards."
+        ],
+        "answer": "C. Diana found a job, Tony's business potential opening.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/g_1oiJqE3OI.mp4",
+        "question_id": 0,
+        "question": "Why does the video introduce a family who raises two children, showcasing conflicting points within the family? And what problem does it elaborate on?",
+        "answer_number": 0,
+        "candidates": [
+            "A. The family is worried about high fuel costs, which allocates demands for new fuel, and more intelligent utilization of transportation resources.",
+            "B. The family is struggling with conflicting work schedules and lack of quality time together, which allocates for more flexible working schedule.",
+            "C. The family is divided over their preferred vacation destination, which emphasizes the need for better travel planning and budgeting.",
+            "D. The family is experiencing disagreements about household chores, which emphasizes the importance of effective communication and division of responsibilities."
+        ],
+        "answer": "A. The family is worried about high fuel costs, which allocates demands for new fuel, and more intelligent utilization of transportation resources.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/B9He5DVePvk.mp4",
+        "question_id": 0,
+        "question": "What religion can we infer from the video that the Amish practice?",
+        "answer_number": 0,
+        "candidates": [
+            "A. Christianity.",
+            "B. Islam.",
+            "C. Buddhism.",
+            "D. It's not mentioned in the video."
+        ],
+        "answer": "A. Christianity.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/B9He5DVePvk.mp4",
+        "question_id": 0,
+        "question": "What can't be inferred from the interview with an Amish woman is shown in the latter part of the video?",
+        "answer_number": 2,
+        "candidates": [
+            "A. Not every Amish person is very devout.",
+            "B. She has used contraceptive methods.",
+            "C. Amish usually don't use electricity.",
+            "D. She has six children."
+        ],
+        "answer": "C. Amish usually don't use electricity.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/068rdc75mHM.mp4",
+        "question_id": 0,
+        "question": "According to the video, how did the debate between Einstein and Bohr about quantum mechanics turn out?",
+        "answer_number": 0,
+        "candidates": [
+            "A. The experiment by the team at the high-altitude observatory further confirmed that Bohr was right.",
+            "B. Bell's experiment completely confirmed that Bohr was correct.",
+            "C. Bell's experiment completely confirmed that Einstein was correct.",
+            "D. Pan Jianwei's team confirmed that Bohr was correct."
+        ],
+        "answer": "A. The experiment by the team at the high-altitude observatory further confirmed that Bohr was right.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/eAIKvD_gLJo.mp4",
+        "question_id": 0,
+        "question": "Based on the early part of the video, what can we infer as the reason for the sudden surge in popularity of crystals and gemstones?",
+        "answer_number": 2,
+        "candidates": [
+            "A. A whole new variety of crystals and gemstones has emerged.",
+            "B. Enhanced accessibility and affordability of gemstones.",
+            "C. Social media promotion.",
+            "D. Growing interest in holistic wellness and alternative spirituality."
+        ],
+        "answer": "C. Social media promotion.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/eAIKvD_gLJo.mp4",
+        "question_id": 0,
+        "question": "Based on the content of the video, why did the local government send an entourage to follow the reporter?",
+        "answer_number": 1,
+        "candidates": [
+            "A. To guide them.",
+            "B. To influence what they hear from the miners.",
+            "C. To help them with licensing issues.",
+            "D. To ensure their safety."
+        ],
+        "answer": "B. To influence what they hear from the miners.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/AkHbB9GuCkE.mp4",
+        "question_id": 0,
+        "question": "Why did Jamie Dimon turn down numerous job offers from famous Wall Street investment banks to work for Sandy Weill?",
+        "answer_number": 3,
+        "candidates": [
+            "A. Because Sandy Weill was prestigious.",
+            "B. Because Sandy Weill was a family friend.",
+            "C. Because Jamie Dimon believed Sandy Weill had stronger abilities.",
+            "D. Because Sandy Weill could offer him the opportunity to deeply understand how companies operate."
+        ],
+        "answer": "D. Because Sandy Weill could offer him the opportunity to deeply understand how companies operate.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/S_5vlPXLCRc.mp4",
+        "question_id": 0,
+        "question": "Why does Weiwei go to the tower of enemy at the time of 15:00?",
+        "answer_number": 2,
+        "candidates": [
+            "A. He does not want to play this game.",
+            "B. He chases the enemy to the tower.",
+            "C. He does not want the enemy to get more gold.",
+            "D. He pretends to surrender."
+        ],
+        "answer": "C. He does not want the enemy to get more gold.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/xvQOEdwAgj0.mp4",
+        "question_id": 0,
+        "question": "How did the final battle unfold?",
+        "answer_number": 1,
+        "candidates": [
+            "A. Team JDG surrenders.",
+            "B. Team JDG defeats at the high ground.",
+            "C. Team TES pushes down all the towers of JDG.",
+            "D. Team TES intrudes the lane of JDG."
+        ],
+        "answer": "B. Team JDG defeats at the high ground.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/EFQtbZQ74Eg.mp4",
+        "question_id": 0,
+        "question": "Why did Rookie flash over the wall at the beginning of the game?",
+        "answer_number": 0,
+        "candidates": [
+            "A. He is surrounded by enemies.",
+            "B. He is in a hurry to go.",
+            "C. The cost of flash is low.",
+            "D. He wants to attack the enemy."
+        ],
+        "answer": "A. He is surrounded by enemies.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/rj45Omrq6Pk.mp4",
+        "question_id": 0,
+        "question": "Why do the hosts talk about lemon?",
+        "answer_number": 1,
+        "candidates": [
+            "A. They want to eat lemon for a break.",
+            "B. A person wants a host to eat lemon.",
+            "C. The audience wants to eat lemon.",
+            "D. A host eats lemon every night for training."
+        ],
+        "answer": "B. A person wants a host to eat lemon.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/S8w44Tl5atk.mp4",
+        "question_id": 0,
+        "question": "Why does the player take the five cards at the beginning of this video?",
+        "answer_number": 3,
+        "candidates": [
+            "A. These cards are powerful.",
+            "B. These cards are useless.",
+            "C. These cards are all pirates.",
+            "D. These cards cooperate with each other."
+        ],
+        "answer": "D. These cards cooperate with each other.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/QdHBJ-NiaHM.mp4",
+        "question_id": 0,
+        "question": "Why does the player send a message of well met?",
+        "answer_number": 1,
+        "candidates": [
+            "A. He is very courteous.",
+            "B. Opponent drags a powerful card of him onto the chessboard.",
+            "C. He doesn't want this outcome.",
+            "D. He sends the wrong message."
+        ],
+        "answer": "B. Opponent drags a powerful card of him onto the chessboard.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/4od5mdtEp-E.mp4",
+        "question_id": 0,
+        "question": "Why is Jesse absent from the first game?",
+        "answer_number": 2,
+        "candidates": [
+            "A. The game does not go to garbage time.",
+            "B. He's not a player on the team.",
+            "C. He is not up to the coach's standards.",
+            "D. He's afraid to play."
+        ],
+        "answer": "C. He is not up to the coach's standards.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/4od5mdtEp-E.mp4",
+        "question_id": 0,
+        "question": "Why doesn't Jesse make it past the Ignite team to the tryouts?",
+        "answer_number": 1,
+        "candidates": [
+            "A. He doesn't shoot as well as John Jenkins.",
+            "B. He doesn't have the physical talent or basketball skills to be a pro.",
+            "C. He doesn't have the right attitude.",
+            "D. He ranks dead last in upper body strength on the Cavaliers."
+        ],
+        "answer": "B. He doesn't have the physical talent or basketball skills to be a pro.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/mDxrdWZOTpM.mp4",
+        "question_id": 0,
+        "question": "What led to the decline of the Soviet men's basketball team's dominance after 1990?",
+        "answer_number": 2,
+        "candidates": [
+            "A. The Rise of the Yugoslavian Men's Basketball Team.",
+            "B. The United States defeated the Soviet Union in 1988.",
+            "C. Sabonis could not represent the Soviet Union.",
+            "D. Coach K coaches the U.S. men's basketball team."
+        ],
+        "answer": "C. Sabonis could not represent the Soviet Union.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/mDxrdWZOTpM.mp4",
+        "question_id": 0,
+        "question": "Why did Pau Gasol say he was willing to break his leg?",
+        "answer_number": 2,
+        "candidates": [
+            "A. He is physically and mentally exhausted as the Spanish talisman.",
+            "B. Because in doing so, opponents will slack off because he's unavailable.",
+            "C. Because the whole Spanish team will go all out for it and win the title.",
+            "D. Because his teammates can then take the field in name only."
+        ],
+        "answer": "C. Because the whole Spanish team will go all out for it and win the title.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/EeTmrsVW8qE.mp4",
+        "question_id": 0,
+        "question": "Why is Rakija introduced at the beginning of the video?",
+        "answer_number": 1,
+        "candidates": [
+            "A. Rakaji's boss is the sponsor of the documentary.",
+            "B. To map Serbian basketball culture.",
+            "C. Rakaji is the national drink of Serbia.",
+            "D. Serbs like to drink alcohol while playing basketball."
+        ],
+        "answer": "B. To map Serbian basketball culture.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/EeTmrsVW8qE.mp4",
+        "question_id": 0,
+        "question": "Why does the video narrator think Kresimir Cosic's traits sound familiar?",
+        "answer_number": 0,
+        "candidates": [
+            "A. Jokic also has center size and guard skills.",
+            "B. He is as legendary as Radiovoj Korac.",
+            "C. Because his skill moves are closer to modern basketball.",
+            "D. Because he led the establishment of the golden generation of Yugoslavian basketball."
+        ],
+        "answer": "A. Jokic also has center size and guard skills.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/-yWE13LbFd4.mp4",
+        "question_id": 0,
+        "question": "How did the match in the video progress in terms of scoring, leading up to its conclusion?",
+        "answer_number": 2,
+        "candidates": [
+            "A. The match was dominated by the blue team throughout, ending in a straightforward win without going to extra time.",
+            "B. The red team took an early lead, but the blue team caught up and maintained a steady lead, winning the match without needing extra time.",
+            "C. The match was closely contested, with the score tied at halftime and again during the second half, ultimately going to extra time where the red team won by penalties.",
+            "D. The game saw an unexpected comeback by the blue team in the extra time, securing a win through a last-minute goal."
+        ],
+        "answer": "C. The match was closely contested, with the score tied at halftime and again during the second half, ultimately going to extra time where the red team won by penalties.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/bFuVjFacj_E.mp4",
+        "question_id": 0,
+        "question": "Why was the man with glass selected as the president of the club according to the video?",
+        "answer_number": 2,
+        "candidates": [
+            "A. His promise to build a new stadium for the club.",
+            "B. His commitment to maintaining the club's traditional playing style.",
+            "C. His promise to bring famous football stars and financial assurances to the club.",
+            "D. His proven track record in successfully managing other sports organizations and his vision for international expansion of the club's brand."
+        ],
+        "answer": "C. His promise to bring famous football stars and financial assurances to the club.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/bFuVjFacj_E.mp4",
+        "question_id": 0,
+        "question": "Why did Florentino Perez fail to create a well-rounded team capable of competing?",
+        "answer_number": 3,
+        "candidates": [
+            "A. An overemphasis on a defensive strategy, neglecting the offensive capabilities.",
+            "B. A strict adherence to playing homegrown talent at the expense of experienced players.",
+            "C. The decision to prioritize youth development over signing experienced stars.",
+            "D. The team's imbalance is due to the lack of a true defensive-minded midfielder."
+        ],
+        "answer": "D. The team's imbalance is due to the lack of a true defensive-minded midfielder.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/0k2ey_okQ4E.mp4",
+        "question_id": 0,
+        "question": "Why is the main character's 25m straight-line sprint ability considered inferior to that of a professional sprinter in the video?",
+        "answer_number": 3,
+        "candidates": [
+            "A. Because his training primarily revolves around developing skills for basketball that emphasizes vertical leap and technique over linear speed, resulting in less dedicated practice for pure sprinting performance.",
+            "B. Due to his natural inclination towards endurance over explosive power, which is beneficial for long-duration sports but not sprinting.",
+            "C. His genetic makeup predisposes him to slower twitch muscle fibers, inherently limiting his top speed potential.",
+            "D. Because his training prioritizes football skills rather than pure speed, leading to a disparity in specialized speed training routines."
+        ],
+        "answer": "D. Because his training prioritizes football skills rather than pure speed, leading to a disparity in specialized speed training routines.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/HGv87QeBYnc.mp4",
+        "question_id": 0,
+        "question": "What is the impact of player number 10 on the red team according to the video?",
+        "answer_number": 0,
+        "candidates": [
+            "A. Crucial, scoring many important goals for the club.",
+            "B. Limited, only excelling in specific areas but lacking overall impact.",
+            "C. Defensive, contributing more to preventing goals than scoring them.",
+            "D. Cannot be inferred."
+        ],
+        "answer": "A. Crucial, scoring many important goals for the club.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/aKLobzbLxuY.mp4",
+        "question_id": 0,
+        "question": "Why did the winner win the game in the video?",
+        "answer_number": 2,
+        "candidates": [
+            "A. More goals were scored in extra time.",
+            "B. Defended all of the opponent's penalty kicks.",
+            "C. Won the penalty shootout with the last penalty kick.",
+            "D. Scored a decisive goal in the 90th minute of the match."
+        ],
+        "answer": "C. Won the penalty shootout with the last penalty kick.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/gTPHH880Cyc.mp4",
+        "question_id": 0,
+        "question": "At the start of the race, why do the athletes line up as depicted in the video?",
+        "answer_number": 3,
+        "candidates": [
+            "A. The athletes line up in one row to create a visual spectacle for the audience, enhancing the overall experience of the race.",
+            "B. The athletes are positioned in three rows based on their height, with taller athletes in the back row and shorter athletes in the front row.",
+            "C. The athletes line up in three rows to allow for easier identification and tracking by the race officials and cameras.",
+            "D. The athletes line up in two rows to provide a clear path for the athletes to move along the track during the race."
+        ],
+        "answer": "D. The athletes line up in two rows to provide a clear path for the athletes to move along the track during the race.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/gTPHH880Cyc.mp4",
+        "question_id": 0,
+        "question": "In the video, why does a person suddenly appear in front of the leading team of runners when it is already 7,600 meters?",
+        "answer_number": 1,
+        "candidates": [
+            "A. Because this person is from another competition.",
+            "B. Because this guy is already a full lap behind the leading team.",
+            "C. Because this guy is two laps behind the leader.",
+            "D. Because this person has given up the game."
+        ],
+        "answer": "B. Because this guy is already a full lap behind the leading team.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/wNpA02SNgUg.mp4",
+        "question_id": 0,
+        "question": "What is the reason why the referee raised the red flag during the game in the video?",
+        "answer_number": 1,
+        "candidates": [
+            "A. The athlete commits a foul by not landing in the designated area at the time of landing.",
+            "B. The athlete commits a foul by stepping over the starting line with his or her foot at the start.",
+            "C. The athlete commits a foul by using an unauthorized equipment during the game.",
+            "D. The athlete commits a foul by waving to the crowd instead of focusing on the race."
+        ],
+        "answer": "B. The athlete commits a foul by stepping over the starting line with his or her foot at the start.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/LqaSTy0swNE.mp4",
+        "question_id": 0,
+        "question": "Why did the players of the Polish team feel down after the first set of games in the video?",
+        "answer_number": 0,
+        "candidates": [
+            "A. They failed in the last handover.",
+            "B. They finished the game but didn't break the record.",
+            "C. They were disqualified due to a rule violation.",
+            "D. They were injured during the games and couldn't continue."
+        ],
+        "answer": "A. They failed in the last handover.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/LqaSTy0swNE.mp4",
+        "question_id": 0,
+        "question": "Why did the French team have no results in the second group of games in the video?",
+        "answer_number": 3,
+        "candidates": [
+            "A. Because they were disqualified for starting the race before the official signal.",
+            "B. Because they were unable to participate in the second group of games due to a scheduling conflict.",
+            "C. Because they used performance-enhancing substances in the second group of games.",
+            "D. Because they dropped the baton during their final handover."
+        ],
+        "answer": "D. Because they dropped the baton during their final handover.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/g8UiXbc19og.mp4",
+        "question_id": 0,
+        "question": "Why did the Canadian athlete suddenly collapse during the game?",
+        "answer_number": 0,
+        "candidates": [
+            "A. His thigh suddenly hurt possibly due to a muscle strain.",
+            "B. He suffered a sudden cramp in his hand, causing him to lose balance.",
+            "C. He experienced a sudden heart attack.",
+            "D. His ankle got injured and caused a sudden loss of balance."
+        ],
+        "answer": "A. His thigh suddenly hurt possibly due to a muscle strain.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/qeefjE74SXI.mp4",
+        "question_id": 0,
+        "question": "Why did the American Nelson athlete in the video fail in his second trial jump of 5m95?",
+        "answer_number": 2,
+        "candidates": [
+            "A. His hand hit the bar and it fell.",
+            "B. He failed to clear the bar during takeoff.",
+            "C. His chest hit the bar, causing it to fall.",
+            "D. His legs hit the bar, causing it to fall."
+        ],
+        "answer": "C. His chest hit the bar, causing it to fall.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/qeefjE74SXI.mp4",
+        "question_id": 0,
+        "question": "Why is the Swiss athlete in the yellow top so happy near the end of the video?",
+        "answer_number": 0,
+        "candidates": [
+            "A. He won the gold medal and broke the world record.",
+            "B. He won a special award for sportsmanship.",
+            "C. He won the silver medal and made great progress.",
+            "D. He won the bronze medal and received unexpected recognition."
+        ],
+        "answer": "A. He won the gold medal and broke the world record.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/Bgh-2z6P0ao.mp4",
+        "question_id": 0,
+        "question": "What is the relationship between Fan Z.D. and Wang C.Q. that can be inferred from this video?",
+        "answer_number": 1,
+        "candidates": [
+            "A. They are teammates in this match.",
+            "B. They are rivals on the playing field.",
+            "C. They are very good friends in life.",
+            "D. None of the above."
+        ],
+        "answer": "B. They are rivals on the playing field.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/GV5CuB4zPTY.mp4",
+        "question_id": 0,
+        "question": "What can be inferred from this video?",
+        "answer_number": 0,
+        "candidates": [
+            "A. PAGULAYAN gives up this match.",
+            "B. PAGULAYAN wins this match.",
+            "C. The red ball should be shot at last.",
+            "D. They have played 7 complete games in total."
+        ],
+        "answer": "A. PAGULAYAN gives up this match.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/rVPDIRSyS34.mp4",
+        "question_id": 0,
+        "question": "Why is there a penalty shootout in this game in the video?",
+        "answer_number": 0,
+        "candidates": [
+            "A. After the third period, The two teams are tied with 11 points.",
+            "B. After the third period, one of the teams has won the game, but they reach a consensus to play for fun.",
+            "C. The rules require a penalty shootout whether two teams are tied or not at the end of the third period.",
+            "D. None of the above."
+        ],
+        "answer": "A. After the third period, The two teams are tied with 11 points.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/kDXerubF4I4.mp4",
+        "question_id": 0,
+        "question": "What can be inferred about the performance from the video?",
+        "answer_number": 1,
+        "candidates": [
+            "A. It is a beautifully designed operatic work that is regarded as a cultural treasure.",
+            "B. It is an abstract dance piece with high appreciation value.",
+            "C. It is an art exhibition performance in which the artist communicates a vision with exquisite costumes and staging.",
+            "D. It is a stage performance that transcends modernity and is difficult for most people to appreciate."
+        ],
+        "answer": "B. It is an abstract dance piece with high appreciation value.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/-xZglYQSJ3Q.mp4",
+        "question_id": 0,
+        "question": "What can be inferred about the series \"Working In The Theatre\" from the video?",
+        "answer_number": 1,
+        "candidates": [
+            "A. It documents the entire process of a day's work for theatre company employees, providing guidance to the industry.",
+            "B. It provides an exclusive view of the behind-the-scenes process of theatre, including costume design.",
+            "C. It is a variety show that invites celebrities to experience theatre work.",
+            "D. It provides aspiring actors with a whole process of education, including acting enhancement and character understanding."
+        ],
+        "answer": "B. It provides an exclusive view of the behind-the-scenes process of theatre, including costume design.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/-xZglYQSJ3Q.mp4",
+        "question_id": 0,
+        "question": "What is the professional relationship between William Ivey Long and Willa Kim as described in the video?",
+        "answer_number": 3,
+        "candidates": [
+            "A. Classmates from design school.",
+            "B. Distant relatives.",
+            "C. Business partners.",
+            "D. Teacher and student."
+        ],
+        "answer": "D. Teacher and student.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/FvZFBZB10LA.mp4",
+        "question_id": 0,
+        "question": "What inference can be made from the video about life after death?",
+        "answer_number": 1,
+        "candidates": [
+            "A. All earthly attributes and relations will have significance in the afterlife.",
+            "B. Good Deeds are the only attribute that accompanies Everyman to the afterlife.",
+            "C. Knowledge and earthly pleasures are what truly matter at the end of life.",
+            "D. Everyman's journey is futile and without redemption."
+        ],
+        "answer": "B. Good Deeds are the only attribute that accompanies Everyman to the afterlife.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/jIx5Zi84Z3Q.mp4",
+        "question_id": 0,
+        "question": "What can be inferred about the man dressed in a formal suit and dark hat's attitude towards the woman in the white skirt and his employees?",
+        "answer_number": 3,
+        "candidates": [
+            "A. He is generous and lax with both his family and employees.",
+            "B. He encourages the woman's autonomy and treats his workers equitably.",
+            "C. He is unaware of domestic matters and avoids involvement in employee disputes.",
+            "D. He is authoritarian and patronizing in his personal and professional relations."
+        ],
+        "answer": "D. He is authoritarian and patronizing in his personal and professional relations.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/P69idA8JO98.mp4",
+        "question_id": 0,
+        "question": "What inference can be made about the actress on her interactions in the video?",
+        "answer_number": 0,
+        "candidates": [
+            "A. She won the friendship of the miners and the creatures of the forest.",
+            "B. She was a skilled princess who fights for justice.",
+            "C. She has magic that helps her control nature.",
+            "D. She was a musician known throughout the country."
+        ],
+        "answer": "A. She won the friendship of the miners and the creatures of the forest.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/FkrIcmXvv18.mp4",
+        "question_id": 0,
+        "question": "Based on the actions of the friar in the video, what can be inferred about his beliefs?",
+        "answer_number": 3,
+        "candidates": [
+            "A. He believes in the Goddess because no one but the Goddess could know and admire his good deeds.",
+            "B. He believes in and strictly abides by the social order.",
+            "C. He hopes that love would reconcile feuding families.",
+            "D. It cannot be inferred from the video."
+        ],
+        "answer": "D. It cannot be inferred from the video.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/6dmTmP4Dsw8.mp4",
+        "question_id": 0,
+        "question": "What can be inferred about how the video's protagonist initially treated her powers and her kingdom?",
+        "answer_number": 0,
+        "candidates": [
+            "A. She sees her superpowers as a threat and isolates herself, unintentionally causing harm to her kingdom.",
+            "B. She sees her superpowers as an asset and wishes to convince the past to use them to create value for her kingdom and benefit her people.",
+            "C. Her superpowers inspire ambition; she desires to use her superpowers to earn a place for herself in her kingdom and begins to formulate meticulous plans.",
+            "D. She is indifferent to her kingdom and abandons it without a second thought."
+        ],
+        "answer": "A. She sees her superpowers as a threat and isolates herself, unintentionally causing harm to her kingdom.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/i7ivyMFsw-w.mp4",
+        "question_id": 0,
+        "question": "What can be inferred about the overall quality of the play's production?",
+        "answer_number": 1,
+        "candidates": [
+            "A. The play is likely to be an amateur production, but the overall production is well done.",
+            "B. The play promises to be a high-quality production due to rigorous casting and a deep understanding of the material.",
+            "C. With inexperienced but well-mannered actors, the play may break through expectations and achieve great results.",
+            "D. Due to the complexity of the script and the very high demand for props, the production of the play will encounter difficulties."
+        ],
+        "answer": "B. The play promises to be a high-quality production due to rigorous casting and a deep understanding of the material.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/RgJVug6iNs8.mp4",
+        "question_id": 0,
+        "question": "What can be inferred about the storyline of the video?",
+        "answer_number": 0,
+        "candidates": [
+            "A. The story is about the rewards of hard work and ingenuity in building a better life.",
+            "B. The story focuses on the wolf using his resourcefulness to make a living by invading the pigs to get food.",
+            "C. The story follows the pigs and the wolf from hostility to becoming friends in the end.",
+            "D. Can't be inferred from the video."
+        ],
+        "answer": "A. The story is about the rewards of hard work and ingenuity in building a better life.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/9tBsMSDoDqk.mp4",
+        "question_id": 0,
+        "question": "What is the most possible reason why a bearded dragon can speak in the second magic performance?",
+        "answer_number": 2,
+        "candidates": [
+            "A. By using miniature microphone vocalization.",
+            "B. By using a hidden voice modulator device.",
+            "C. By human ventriloquism.",
+            "D. By employing a highly trained animal mimicry specialist."
+        ],
+        "answer": "C. By human ventriloquism.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/k2FIFQIYBvA.mp4",
+        "question_id": 0,
+        "question": "What is the relationship between the magician and the audience with striped shirts and brown hair?",
+        "answer_number": 0,
+        "candidates": [
+            "A. The audience is a volunteer for the magician's performance.",
+            "B. The audience is the magician's trust.",
+            "C. The audience is the magician's specially invited guest, a very good friend of his and a magic lover.",
+            "D. The audience is another highly skilled magician, which enhances the magic's incredulity."
+        ],
+        "answer": "A. The audience is a volunteer for the magician's performance.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/D0ZMmQjKn2Q.mp4",
+        "question_id": 0,
+        "question": "Why does the magician fail in the first episode?",
+        "answer_number": 1,
+        "candidates": [
+            "A. Because the magician forgot the magic words.",
+            "B. Because the magic box is taken by mistake.",
+            "C. Because the magician's assistant sabotaged the performance.",
+            "D. Because the magician was cursed by a rival magician."
+        ],
+        "answer": "B. Because the magic box is taken by mistake.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/TYmHe20p_zU.mp4",
+        "question_id": 0,
+        "question": "Why do the five members of the Feb 5 team want to help William Holmes change?",
+        "answer_number": 3,
+        "candidates": [
+            "A. They hope that William Holmes can become better and reunite with his girlfriend.",
+            "B. They want to help William Holmes and become friends with him.",
+            "C. They are enthusiastic about teaching their skills to others to gain a sense of achievement.",
+            "D. They hope William Holmes achieves a work-life balance."
+        ],
+        "answer": "D. They hope William Holmes achieves a work-life balance.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/eQGSbBANfVg.mp4",
+        "question_id": 0,
+        "question": "In the middle part of the video, why does the girl named Danielle Walker, with golden hair and blue clothes, use a huge bat to hit the ball?",
+        "answer_number": 1,
+        "candidates": [
+            "A. To increase the probability of hitting the ball.",
+            "B. To carry out the \"cricket appeal\" task.",
+            "C. That's how real cricket is played.",
+            "D. To make the process of hitting the ball more interesting."
+        ],
+        "answer": "B. To carry out the \"cricket appeal\" task.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/AeEYQ62t8hA.mp4",
+        "question_id": 0,
+        "question": "At the end of the video, why does James Corden sing a song with tears in his eyes?",
+        "answer_number": 0,
+        "candidates": [
+            "A. He was reluctant to leave this job.",
+            "B. He expressed his satisfaction with the hard work of his colleagues.",
+            "C. He felt touched by the work he had done over the years.",
+            "D. He wept with joy at the achievements of the performance."
+        ],
+        "answer": "A. He was reluctant to leave this job.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/C8Rk__S06_M.mp4",
+        "question_id": 0,
+        "question": "In the latter part of the video, during the \"Who'd you rather\" segment, what is the relationship between the man wearing a black jacket and Rihanna?",
+        "answer_number": 1,
+        "candidates": [
+            "A. Sibling relationship.",
+            "B. Strangers.",
+            "C. Romantic relationship.",
+            "D. Idol and fan relationship."
+        ],
+        "answer": "B. Strangers.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/dLjOLXmu68M.mp4",
+        "question_id": 0,
+        "question": "When the three hosts discuss the ranking of musical competition shows, why do they think \"X Factor\" ranks the highest?",
+        "answer_number": 2,
+        "candidates": [
+            "A. Because the cast of X Factor is larger.",
+            "B. Because the X factor is original, the program quality is higher.",
+            "C. Because the judges of X Factor will fight for opportunities for the contestants.",
+            "D. Because X Factor was the first music competition program, it opened the curtain on the music competition."
+        ],
+        "answer": "C. Because the judges of X Factor will fight for opportunities for the contestants.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/dLjOLXmu68M.mp4",
+        "question_id": 0,
+        "question": "In the latter part of the video, what is the relationship between the shows \"Flavor of Love\" and \"To Be Her Best Friend\" as discussed by the three hosts?",
+        "answer_number": 1,
+        "candidates": [
+            "A. Both shows are fantastic performances.",
+            "B. Both shows lay the groundwork for the fun of flavor, and participants will be made fun of.",
+            "C. Both shows are a response to \"The Bachelor.\".",
+            "D. Cannot be determined."
+        ],
+        "answer": "B. Both shows lay the groundwork for the fun of flavor, and participants will be made fun of.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/leG0U5wzGlA.mp4",
+        "question_id": 0,
+        "question": "In the early part of the video, when Sal, the man wearing a black suit and a yellow tie, gives a speech, what is the relationship between Crystal and Gary he mentioned?",
+        "answer_number": 0,
+        "candidates": [
+            "A. Spouses.",
+            "B. Business partners.",
+            "C. Friends.",
+            "D. Unclear."
+        ],
+        "answer": "A. Spouses.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/leG0U5wzGlA.mp4",
+        "question_id": 0,
+        "question": "In the middle part of the video, why does Joe, the man wearing a blue shirt and yellow pants, pounce on the customer's table?",
+        "answer_number": 0,
+        "candidates": [
+            "A. Because it was a task given by his friends to find all the broken tables.",
+            "B. Because it was a task given by his friends for Joe to jump on all the tables.",
+            "C. Because Joe is the restaurant manager and needs to check if the tables are sturdy.",
+            "D. Because Joe wants to destroy these tables."
+        ],
+        "answer": "A. Because it was a task given by his friends to find all the broken tables.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/leG0U5wzGlA.mp4",
+        "question_id": 0,
+        "question": "In the latter part of the video, why is Brian Quinn, a man wearing a baseball cap, booed by the audience at the band's live performance?",
+        "answer_number": 3,
+        "candidates": [
+            "A. Because the audience was angry about being pranked by Brian Quinn.",
+            "B. Because Brian Quinn lost the funds raised by the audience for the band.",
+            "C. Because Brian Quinn intentionally interrupted the band's performance.",
+            "D. Because Brian Quinn charged the audience at a free performance."
+        ],
+        "answer": "D. Because Brian Quinn charged the audience at a free performance.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/o6gD9_akew0.mp4",
+        "question_id": 0,
+        "question": "Which of the following is NOT a reason why 100 women think Steve Harvey is a good kisser?",
+        "answer_number": 0,
+        "candidates": [
+            "A. He is handsome.",
+            "B. He is kind.",
+            "C. His lips.",
+            "D. He has charisma."
+        ],
+        "answer": "A. He is handsome.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/N62mrplIygc.mp4",
+        "question_id": 0,
+        "question": "What is the relationship between Jono and Portia, who comforting the sad Jono?",
+        "answer_number": 2,
+        "candidates": [
+            "A. Portia is Jono's teacher.",
+            "B. Jono and Portia have a mother-son relationship.",
+            "C. Jono is boarding at Portia's house.",
+            "D. Cannot be determined."
+        ],
+        "answer": "C. Jono is boarding at Portia's house.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/iWT0kl1k32M.mp4",
+        "question_id": 0,
+        "question": "Why do the Wisconsin cheese cubes receive an A rating?",
+        "answer_number": 2,
+        "candidates": [
+            "A. By majority vote.",
+            "B. When deciding which of the S-rated foods is the best, drop it to an A rating.",
+            "C. After tasting the smoked salmon spread, one person lowered the score of the grilled cheese cubes.",
+            "D. They think smoked salmon spread is better."
+        ],
+        "answer": "C. After tasting the smoked salmon spread, one person lowered the score of the grilled cheese cubes.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/lw3_W5X1t54.mp4",
+        "question_id": 0,
+        "question": "What is the relationship between the video's main character and the lady sitting next to him at the table?",
+        "answer_number": 3,
+        "candidates": [
+            "A. Owner of the restaurant Kalamansi.",
+            "B. His wife.",
+            "C. Delia.",
+            "D. His companion."
+        ],
+        "answer": "D. His companion.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/aqFfjJrLkBA.mp4",
+        "question_id": 0,
+        "question": "Why does Sadie have a countdown?",
+        "answer_number": 1,
+        "candidates": [
+            "A. The food preparer is prepared to restrict her diet.",
+            "B. The food preparer thinks she is better at choosing her food than other children.",
+            "C. Sadie loves to challenge herself.",
+            "D. Because Sadie is the oldest child."
+        ],
+        "answer": "B. The food preparer thinks she is better at choosing her food than other children.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/wTlERUE8LVw.mp4",
+        "question_id": 0,
+        "question": "As can be inferred from the video, why does the video dedicates a significant amount of time to the roast suckling pig?",
+        "answer_number": 1,
+        "candidates": [
+            "A. Because the author of the video really liked it.",
+            "B. Because it's the most popular spotlight cuisine in the Philippines.",
+            "C. Because there's a lot of roasted suckling pig in the Philippines.",
+            "D. Because it's very expensive."
+        ],
+        "answer": "B. Because it's the most popular spotlight cuisine in the Philippines.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/4VniCsSusJs.mp4",
+        "question_id": 0,
+        "question": "Why do they throw food in a big bowl?",
+        "answer_number": 2,
+        "candidates": [
+            "A. Prepare to throw them away.",
+            "B. Serve food they hate.",
+            "C. Prepare to mix and taste.",
+            "D. Ready for others to try."
+        ],
+        "answer": "C. Prepare to mix and taste.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/azJ5pk5reX0.mp4",
+        "question_id": 0,
+        "question": "What is the relationship between the person documenting his fitness at the beginning of the video and the main curator of this video?",
+        "answer_number": 1,
+        "candidates": [
+            "A. They're teammates.",
+            "B. They're competitors.",
+            "C. They do not know each other.",
+            "D. Can't extrapolate from the video."
+        ],
+        "answer": "B. They're competitors.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/WB4giHwiulE.mp4",
+        "question_id": 0,
+        "question": "How did World War I affect the businesses of the people profiled in the video?",
+        "answer_number": 0,
+        "candidates": [
+            "A. It had little impact as her clientele remained wealthy.",
+            "B. It forced her to close all her shops due to lack of resources.",
+            "C. It caused her to shift focus to military uniforms.",
+            "D. It led to bankruptcy and closure of the fashion house."
+        ],
+        "answer": "A. It had little impact as her clientele remained wealthy.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/Lo-ewzf-Q1k.mp4",
+        "question_id": 0,
+        "question": "Why does the heroine in the video like to wear makeup?",
+        "answer_number": 1,
+        "candidates": [
+            "A. Because the heroine's skin is slightly yellow.",
+            "B. Because the heroine's eyelids are dark.",
+            "C. Because the heroine has freckles on her face.",
+            "D. Because the heroine enjoys the artistic aspect of makeup application."
+        ],
+        "answer": "B. Because the heroine's eyelids are dark.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/Lo-ewzf-Q1k.mp4",
+        "question_id": 0,
+        "question": "In the video, when introducing her bedroom, why did the author say that she wanted to take a large photo and hang it on the wall?",
+        "answer_number": 2,
+        "candidates": [
+            "A. Place it above the clothes rack to increase the atmosphere.",
+            "B. There are two small photos of the bedroom but the big one is missing.",
+            "C. Hung on the wall to cover appliances.",
+            "D. None of the above."
+        ],
+        "answer": "C. Hung on the wall to cover appliances.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/pKaPg9ZJ88Q.mp4",
+        "question_id": 0,
+        "question": "Why is there no record of the heroine's daily life from 5:00 to 7:20 in the video?",
+        "answer_number": 3,
+        "candidates": [
+            "A. Due to a miscommunication between the photographer and the heroine, the filming schedule was accidentally overlooked during that time period.",
+            "B. Due to the heroine's gym schedule from 5:00 to 7:30 and the presence of a male photographer, it becomes inconvenient to proceed with the shooting.",
+            "C. Due to a sudden power outage in the area, filming was interrupted and could not resume until after 7:20.",
+            "D. Due to the heroine's commitment to teaching two classes from 5:00 to 7:30, it becomes unfeasible to carry out the filming during that time period."
+        ],
+        "answer": "D. Due to the heroine's commitment to teaching two classes from 5:00 to 7:30, it becomes unfeasible to carry out the filming during that time period.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/5i5Be73ESUc.mp4",
+        "question_id": 0,
+        "question": "Why did the heroine in the video go shopping at Trader joe's?",
+        "answer_number": 3,
+        "candidates": [
+            "A. Because she saw a viral TikTok video recommending their frozen pizza.",
+            "B. Because she heard they have a special promotion on toilet paper.",
+            "C. Because she believes their shopping bags are more stylish and trendy compared to other supermarkets.",
+            "D. because she believes the food in Trader Joe's is of higher quality."
+        ],
+        "answer": "D. because she believes the food in Trader Joe's is of higher quality.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/u4TU2A7eVj8.mp4",
+        "question_id": 0,
+        "question": "In the video, does the heroine show the panoramic view outside the window of her rented place? If not, why?",
+        "answer_number": 0,
+        "candidates": [
+            "A. No, she felt that showing the content outside the window would reveal her location information.",
+            "B. No, she intentionally avoided showing the panoramic view outside the window to create suspense for a future video.",
+            "C. No, the window was facing a construction site, and the noise and visual disturbance made it undesirable to showcase.",
+            "D. Yes, she briefly showed the panoramic view outside the window but edited it out of the final video."
+        ],
+        "answer": "A. No, she felt that showing the content outside the window would reveal her location information.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/_T2Avd3tFHc.mp4",
+        "question_id": 0,
+        "question": "Why do travelers think Moldova isn't the worst city to visit?",
+        "answer_number": 2,
+        "candidates": [
+            "A. Because they celebrated a birthday with their best friend here.",
+            "B. Because they explored a lot of interesting places together.",
+            "C. Because they experience a meaningful few days with an old grandpa they never know.",
+            "D. Because they help the local people and do something worthwhile."
+        ],
+        "answer": "C. Because they experience a meaningful few days with an old grandpa they never know.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/uzyYKAPcfmE.mp4",
+        "question_id": 0,
+        "question": "What is the relationship between the two travelers in the video?",
+        "answer_number": 0,
+        "candidates": [
+            "A. They are couples.",
+            "B. They are colleagues.",
+            "C. They are traveling friends.",
+            "D. It is impossible to extrapolate."
+        ],
+        "answer": "A. They are couples.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/rSnQR7vGqMY.mp4",
+        "question_id": 0,
+        "question": "Why is the man named Niko yelling at the mountain?",
+        "answer_number": 0,
+        "candidates": [
+            "A. Playing with his echo.",
+            "B. Calling out to his teammates.",
+            "C. To complete the planner's task.",
+            "D. Scaring away the kangaroos."
+        ],
+        "answer": "A. Playing with his echo.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/ZLRyTFIZOIs.mp4",
+        "question_id": 0,
+        "question": "What is the relationship between the team in the SUV in the video and the owner of the van company?",
+        "answer_number": 3,
+        "candidates": [
+            "A. They are friends.",
+            "B. They are business partners.",
+            "C. They are buyers and sellers.",
+            "D. Cannot be inferred from the video."
+        ],
+        "answer": "D. Cannot be inferred from the video.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/ZkhAbUGoD18.mp4",
+        "question_id": 0,
+        "question": "Why are there many toys in the room?",
+        "answer_number": 3,
+        "candidates": [
+            "A. For entertaining guests.",
+            "B. The host wants to move.",
+            "C. For baby to play.",
+            "D. For playing with cats."
+        ],
+        "answer": "D. For playing with cats.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/t23Zi0DBSiI.mp4",
+        "question_id": 0,
+        "question": "Why do dogs lie in a row by a window as depicted in the video?",
+        "answer_number": 2,
+        "candidates": [
+            "A. Begging for food.",
+            "B. Preparing to sleep.",
+            "C. Taking a photo with a person.",
+            "D. Ready for water."
+        ],
+        "answer": "C. Taking a photo with a person.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/h1cv8Fsn4eU.mp4",
+        "question_id": 0,
+        "question": "According to what is shown in the video, why does the cameraman drive a car?",
+        "answer_number": 2,
+        "candidates": [
+            "A. Taking the cat to play.",
+            "B. Purchasing food for the cat.",
+            "C. Transporting the cat to the hospital.",
+            "D. Searching for the lost cat."
+        ],
+        "answer": "C. Transporting the cat to the hospital.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/h1cv8Fsn4eU.mp4",
+        "question_id": 0,
+        "question": "Why do people shed tears when the big sea turtle goes to sea in the video?",
+        "answer_number": 1,
+        "candidates": [
+            "A. They feel sad.",
+            "B. They are friends.",
+            "C. They don't want the turtle to go back to sea.",
+            "D. They dislike the turtle."
+        ],
+        "answer": "B. They are friends.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/4IenX7OHumk.mp4",
+        "question_id": 0,
+        "question": "Why does a leopard climb on trees as depicted in the video?",
+        "answer_number": 0,
+        "candidates": [
+            "A. To prey on birds for food.",
+            "B. To keep an eye on the grass below.",
+            "C. To search for competitors.",
+            "D. To evade natural enemies."
+        ],
+        "answer": "A. To prey on birds for food.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/whksDmTR9YE.mp4",
+        "question_id": 0,
+        "question": "Why do hermit crabs fight with each other?",
+        "answer_number": 2,
+        "candidates": [
+            "A. To avoid the attack of conch.",
+            "B. They fight for food.",
+            "C. They need new houses.",
+            "D. To protect themselves."
+        ],
+        "answer": "C. They need new houses.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/5WIdIs3A9Ok.mp4",
+        "question_id": 0,
+        "question": "Why is there no male jaguar near the cub?",
+        "answer_number": 0,
+        "candidates": [
+            "A. Male and female jaguars part after mating.",
+            "B. Male jugar is dead.",
+            "C. Female jugar brings its cub out to find food.",
+            "D. Male jugar goes out to find food."
+        ],
+        "answer": "A. Male and female jaguars part after mating.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/5WIdIs3A9Ok.mp4",
+        "question_id": 0,
+        "question": "Why do capybaras dive into water in the video?",
+        "answer_number": 3,
+        "candidates": [
+            "A. They need to move to other places to live.",
+            "B. They are scared.",
+            "C. They have a habit of swim.",
+            "D. They hear signals from peers."
+        ],
+        "answer": "D. They hear signals from peers.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/zAXbdzvCeV8.mp4",
+        "question_id": 0,
+        "question": "Why are the three dogs fighting with another dog in the video?",
+        "answer_number": 0,
+        "candidates": [
+            "A. They are not a group.",
+            "B. They are too hungry.",
+            "C. They don't like it.",
+            "D. They are playing."
+        ],
+        "answer": "A. They are not a group.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/qVZOKel-gpE.mp4",
+        "question_id": 0,
+        "question": "In the video on the third day of training why is the man in the green top so far behind the contestant in the white top?",
+        "answer_number": 3,
+        "candidates": [
+            "A. The guy in the green top is slacking off on the ride and riding slowly.",
+            "B. The hero in the green top was riding in a very windy and difficult ride.",
+            "C. The hero with the green top fell and got hurt.",
+            "D. The green-topped hero's bike broke down and the repairs took time."
+        ],
+        "answer": "D. The green-topped hero's bike broke down and the repairs took time.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/qVZOKel-gpE.mp4",
+        "question_id": 0,
+        "question": "Why did the hero in the red top stop to give a close-up of a palm tree on the fourth day of the training ride?",
+        "answer_number": 1,
+        "candidates": [
+            "A. Emphasis on the topographical features of the riding environment.",
+            "B. Use palm trees to reflect how windy the scene was.",
+            "C. Emphasis on beautiful views of the ride's surroundings.",
+            "D. None of the above."
+        ],
+        "answer": "B. Use palm trees to reflect how windy the scene was.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/0kRsiSdDFYg.mp4",
+        "question_id": 0,
+        "question": "In the video after all the matches are over why is everyone cheering and celebrating around the guy wearing a shirt with the word Qatar on it?",
+        "answer_number": 3,
+        "candidates": [
+            "A. Because he received a special recognition for fair play and sportsmanship.",
+            "B. Because he scored the most goals throughout the tournament.",
+            "C. Because he broke a record for the fastest goal in the competition.",
+            "D. Because he won the championship in the competition."
+        ],
+        "answer": "D. Because he won the championship in the competition.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/EhLOdDfaC7Y.mp4",
+        "question_id": 0,
+        "question": "Why did the video focus on the content behind the player wearing a black short-sleeved shirt and black trousers?",
+        "answer_number": 2,
+        "candidates": [
+            "A. Because his personal historical achievements are printed on the back of the clothes.",
+            "B. Because the player wearing a black top and black pants has the best skills.",
+            "C. Because the player wears clothes with the logo of the winner of the previous competition printed on the back.",
+            "D. Because there are very exquisite patterns printed on the back of the clothes."
+        ],
+        "answer": "C. Because the player wears clothes with the logo of the winner of the previous competition printed on the back.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/EP2rD6lr2Xk.mp4",
+        "question_id": 0,
+        "question": "Why does the male protagonist, wearing a white shirt and black shorts in the video, take painkillers during the race?",
+        "answer_number": 2,
+        "candidates": [
+            "A. He suffered a stress fracture in his foot during the competition.",
+            "B. Because his knee was suddenly injured during the competition.",
+            "C. Because he injured his foot during previous training, running during the competition would be very painful.",
+            "D. Because he suffered a stress fracture in his foot during previous training."
+        ],
+        "answer": "C. Because he injured his foot during previous training, running during the competition would be very painful.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/EP2rD6lr2Xk.mp4",
+        "question_id": 0,
+        "question": "Why were the two male leads in the video, as well as the people around them, so excited when they reached the finish line?",
+        "answer_number": 0,
+        "candidates": [
+            "A. Because they had only been involved in this sport for eight months, after months of perseverance, they overcame difficulties and successfully reached the finish line. They felt proud, and the people around them were also deeply moved.",
+            "B. Because they have been involved in this sport for a long time, during the competition, they overcame difficulties and successfully reached the finish line. They felt proud, and the people around them were also deeply moved.",
+            "C. Because they have been involved in this sport for a long time, and they were the first to reach the finish line in the competition, they felt proud, and the people around them were also deeply moved.",
+            "D. None of the above."
+        ],
+        "answer": "A. Because they had only been involved in this sport for eight months, after months of perseverance, they overcame difficulties and successfully reached the finish line. They felt proud, and the people around them were also deeply moved.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/tslKtm6Le1s.mp4",
+        "question_id": 0,
+        "question": "What is the relationship between the two characters in the video?",
+        "answer_number": 3,
+        "candidates": [
+            "A. Strangers who met by chance.",
+            "B. Friends.",
+            "C. Family.",
+            "D. Lovers."
+        ],
+        "answer": "D. Lovers.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/f-1xE_5uXDg.mp4",
+        "question_id": 0,
+        "question": "Based on the video, why did Miranda mention many things related to Sicily?",
+        "answer_number": 1,
+        "candidates": [
+            "A. Because Sicily is Miranda's father's hometown.",
+            "B. Because Sicily is Miranda's birthplace.",
+            "C. Because Sicily is Miranda's mother's hometown.",
+            "D. Because Miranda likes the sea of Sicily."
+        ],
+        "answer": "B. Because Sicily is Miranda's birthplace.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/5KlS-p5eYH8.mp4",
+        "question_id": 0,
+        "question": "In line with the video evidence, why does the heroine in the video only do butt training once a week?",
+        "answer_number": 1,
+        "candidates": [
+            "A. Because the heroine's buttocks are already strong enough.",
+            "B. Because the heroine thinks it takes time for the buttock muscles to recover.",
+            "C. Because the heroine doesn't have time to do butt training.",
+            "D. Because the heroine wants to achieve the best result in the marathon."
+        ],
+        "answer": "B. Because the heroine thinks it takes time for the buttock muscles to recover.",
+        "category": "causal_reasoning",
+        "need_reasoning": true
+    }
+]

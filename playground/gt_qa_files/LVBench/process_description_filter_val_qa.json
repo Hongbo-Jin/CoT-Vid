@@ -1,0 +1,146 @@
+[
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/KktLi3UifPY.mp4",
+        "question_id": "1194",
+        "question": "What payment method appears in the video at last?",
+        "answer_number": 1,
+        "candidates": [
+            "A.  Alipay",
+            "B.  RPay",
+            "C.  Apple Pay",
+            "D.  WeChat Pay"
+        ],
+        "answer": "B.  RPay",
+        "category": "process_description",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/wNCPgIVz15c.mp4",
+        "question_id": "1323",
+        "question": "In this video, what is the primary method of eating?",
+        "answer_number": 3,
+        "candidates": [
+            "A.  Forks",
+            "B.  Spoons",
+            "C.  Chopsticks",
+            "D.  Hands"
+        ],
+        "answer": "D.  Hands",
+        "category": "process_description",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/Hf-n1yfd8II.mp4",
+        "question_id": "3934",
+        "question": "How to describe the feeling of Lee Chong Wei at 48:16?",
+        "answer_number": 0,
+        "candidates": [
+            "A.  He feels frustrated because he does not catch the shuttlecock from the opponent",
+            "B.  He feels excited because he gets one point",
+            "C.  He feels frustrated because he beats the buttlecock out of bounds",
+            "D.  He feels frustrated because he does not beat the shuttlecock cross the net"
+        ],
+        "answer": "A.  He feels frustrated because he does not catch the shuttlecock from the opponent",
+        "category": "process_description",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/Hf-n1yfd8II.mp4",
+        "question_id": "3936",
+        "question": "How to evaluate Lin Dan's performance for the second game?",
+        "answer_number": 2,
+        "candidates": [
+            "A.  In the beginning, his status is bad. The bad status lasts for the 10 minutes. At the rest time of the second game, his performance is very good",
+            "B.  Lin Dan sometimes leads and sometimes lags behind",
+            "C.  The status is not so good. Lee Chong Wei is always far ahead",
+            "D.  The status is very good. Lin Dan is always far ahead"
+        ],
+        "answer": "C.  The status is not so good. Lee Chong Wei is always far ahead",
+        "category": "process_description",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/cXDT44zT8JY.mp4",
+        "question_id": "4050",
+        "question": "At 32:20 in the video, what method is the man in white starting to use to strike the opponent?",
+        "answer_number": 3,
+        "candidates": [
+            "A.  He starts using head to strike the opponent's head",
+            "B.  He starts using his right hand to strike the opponent's head",
+            "C.  He starts using legs to strike the opponent's head",
+            "D.  He starts using both hands to strike the opponent's head"
+        ],
+        "answer": "D.  He starts using both hands to strike the opponent's head",
+        "category": "process_description",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/Aiem1w_TvaA.mp4",
+        "question_id": "4145",
+        "question": "What is the scoring method for the first goal of the white team number 7?",
+        "answer_number": 1,
+        "candidates": [
+            "A.  Alley-oop",
+            "B.  Penalty shot",
+            "C.  Lay up",
+            "D.  Three-pointer"
+        ],
+        "answer": "B.  Penalty shot",
+        "category": "process_description",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/Aiem1w_TvaA.mp4",
+        "question_id": "4158",
+        "question": "How to sum up the second game?",
+        "answer_number": 1,
+        "candidates": [
+            "A.  In the second quarter, Curry comes up and hits another three-pointer. The US team continues to maintain aggressive defense. Deron's three-pointer is violated. He makes all three free throws. The US team opens the score to 34-22. Double digits. Newley hits a three-pointer, and Deron quickly responds with a three-pointer. Australia gives it a try. Seeing that Chandler is not on the court, the US team is empty inside. They continuously attack the inside and succeed, but the US team maintains a high shooting rate from the outside. Anthony hits two three-pointers, 47-36, and the US team continues to win. Overwhelm your opponents numerically. Deron scores consecutive points, and the US team fully demonstrates the depth of its bench, leading 56-42 at halftime. Deron scores a team-high 13 points, and Mills contributes 12 points for Australia",
+            "B.  In the second quarter, Durant comes up and hits another three-pointer. The US team continues to maintain aggressive defense. Deron's three-pointer is violated. He makes all three free throws. The US team opens the score to 34-22. Double digits. Newley hits a three-pointer, and Deron quickly responds with a three-pointer. Australia gives it a try. Seeing that Chandler is not on the court, the US team is empty inside. They continuously attack the inside and succeed, but the US team maintains a high shooting rate from the outside. Anthony hits two three-pointers, 47-36, and the US team continues to win. Overwhelm your opponents numerically. Deron scores consecutive points, and the US team fully demonstrates the depth of its bench, leading 56-42 at halftime. Deron scores a team-high 13 points, and Mills contributes 12 points for Australia",
+            "C.  In the second quarter, James comes up and hits another three-pointer. The US team continues to maintain aggressive defense. Durant's three-pointer is violated. He makes all three free throws. The US team opens the score to 34-22. Double digits. Newley hits a three-pointer, and Deron quickly responds with a three-pointer. Australia gives it a try. Seeing that Chandler is not on the court, the US team is empty inside. They continuously attack the inside and succeed, but the US team maintains a high shooting rate from the outside. Anthony hits two three-pointers, 47-36, and the US team continues to win. Overwhelm your opponents numerically. Deron scores consecutive points, and the US team fully demonstrates the depth of its bench, leading 56-42 at halftime. Deron scores a team-high 13 points, and Mills contributes 12 points for Australia",
+            "D.  In the second quarter, Curry comes up and hits another three-pointer. The US team continues to maintain aggressive defense. Deron's three-pointer is violated. He makes all three free throws. The US team opens the score to 34-22. Double digits. Newley hits a three-pointer, and Deron quickly responds with a three-pointer. Australia gives it a try. Seeing that Chandler is not on the court, the US team is empty inside. They continuously attack the inside and succeed, but the US team maintains a high shooting rate from the outside. Anthony hits two three-pointers, 47-36, and the US team continues to win. Overwhelm your opponents numerically. Deron scores consecutive points, and the US team fully demonstrates the depth of its bench, leading 56-42 at halftime. Deron scores a team-high 13 points, and Mills contributes 12 points for Australia"
+        ],
+        "answer": "B.  In the second quarter, Durant comes up and hits another three-pointer. The US team continues to maintain aggressive defense. Deron's three-pointer is violated. He makes all three free throws. The US team opens the score to 34-22. Double digits. Newley hits a three-pointer, and Deron quickly responds with a three-pointer. Australia gives it a try. Seeing that Chandler is not on the court, the US team is empty inside. They continuously attack the inside and succeed, but the US team maintains a high shooting rate from the outside. Anthony hits two three-pointers, 47-36, and the US team continues to win. Overwhelm your opponents numerically. Deron scores consecutive points, and the US team fully demonstrates the depth of its bench, leading 56-42 at halftime. Deron scores a team-high 13 points, and Mills contributes 12 points for Australia",
+        "category": "process_description",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/Z86xysw5Ncc.mp4",
+        "question_id": "4200",
+        "question": "How to describe the video play speed from 04:42-05:09?",
+        "answer_number": 2,
+        "candidates": [
+            "A.  One and a half speed",
+            "B.  Normal speed",
+            "C.  Slow speed",
+            "D.  One and a quarter speed"
+        ],
+        "answer": "C.  Slow speed",
+        "category": "process_description",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/JTa_Ue2MSwc.mp4",
+        "question_id": "5129",
+        "question": "Which animal's picture does Sierra show to the audience?",
+        "answer_number": 0,
+        "candidates": [
+            "A.  The dog's pictures",
+            "B.  The cat's picture",
+            "C.  The pig's pictures",
+            "D.  The sheep's picture"
+        ],
+        "answer": "A.  The dog's pictures",
+        "category": "process_description",
+        "need_reasoning": false
+    }
+]

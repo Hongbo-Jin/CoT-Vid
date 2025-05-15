@@ -1,0 +1,682 @@
+[
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/00faf954-74f7-4aa3-8b29-4a5dff4f9518.mp4",
+        "question_id": "00003",
+        "question": "What is the primary sequence of actions performed by c throughout the video, and how do these actions relate to the overall task being performed?",
+        "answer_number": "4",
+        "candidates": [
+            "A. C cleans brick mold with his hand.",
+            "B. C scoops clay into the brick mold, removes clay from the brick mold, scoops mortar from a pile of mortar on the floor, slams mortar into the brick mold, scoops excess mortar from the brick mold, throws excess mortar on the pile of mortar in his front, adds clay from the floor on the brick mold, and drops brick from brick mold beside already made bricks on the floor. then, c cleans brick mold with his hand.",
+            "C. C scoops clay into the brick mold, removes clay from the brick mold, scoops mortar from a pile of mortar on the floor, slams mortar into the brick mold, scoops excess mortar from the brick mold, throws excess mortar on the pile of mortar in his front, adds clay from the floor on the brick mold, drops brick from brick mold beside already made bricks on the floor. then, c takes a break.",
+            "D. C scoops clay into the brick mold, removes clay from the brick mold, scoops mortar from a pile of mortar on the floor, slams mortar into the brick mold, scoops excess mortar from the brick mold, throws excess mortar on the pile of mortar in his front, adds clay from the floor on the brick mold, drops brick from brick mold beside already made bricks on the floor. then, c goes to sleep.",
+            "E. C scoops clay into the brick mold, removes clay from the brick mold, scoops mortar from a pile of mortar on the floor, slams mortar into the brick mold, scoops excess mortar from the brick mold, throws excess mortar on the pile of mortar in his front, adds clay from the floor on the brick mold, and drops brick from brick mold beside already made bricks on the floor."
+        ],
+        "answer": "E. C scoops clay into the brick mold, removes clay from the brick mold, scoops mortar from a pile of mortar on the floor, slams mortar into the brick mold, scoops excess mortar from the brick mold, throws excess mortar on the pile of mortar in his front, adds clay from the floor on the brick mold, and drops brick from brick mold beside already made bricks on the floor.",
+        "category": "process_description",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/049249dc-bdad-48c4-bdc0-511814c5781c.mp4",
+        "question_id": "00010",
+        "question": "What were the key steps c took in cleaning the dog mat from start to finish, and what tools were used in the process?",
+        "answer_number": "4",
+        "candidates": [
+            "A. C picks up a dog mat, puts it in the sink, washes it with soap and water, and then dries it off.",
+            "B. C picks up a dog mat, puts it in the sink, washes it with soap and water, and then puts it in the dryer.",
+            "C. C picks up a dog mat, puts it in the sink, washes it with soap and water, and then puts it in the washing machine.",
+            "D. C picks up a dog mat, puts it in the sink, washes it with soap and water, and then puts it in the dishwasher.",
+            "E. C picks up a dog mat, puts it in the sink, washes it with soap and water, and then rinses it off."
+        ],
+        "answer": "E. C picks up a dog mat, puts it in the sink, washes it with soap and water, and then rinses it off.",
+        "category": "process_description",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/06899b20-702f-450f-8422-2ae6dc9a6da8.mp4",
+        "question_id": "00017",
+        "question": "In the process of creating the final dough piece, can you identify three main stages that c goes through, and explain how her methods and techniques change during each stage?",
+        "answer_number": "3",
+        "candidates": [
+            "A. C goes through three main stages in creating the final dough piece: combining the ingredients, kneading the dough, and baking the dough.",
+            "B. C goes through three main stages in creating the final dough piece: combining the ingredients, kneading the dough, and letting the dough rise.",
+            "C. C goes through three main stages in creating the final dough piece: combining the ingredients, kneading the dough, and adding the toppings.",
+            "D. C goes through three main stages in creating the final dough piece: combining the ingredients, kneading the dough, and shaping the dough.",
+            "E. C goes through three main stages in creating the final dough piece: combining the ingredients, kneading the dough, and freezing the dough."
+        ],
+        "answer": "D. C goes through three main stages in creating the final dough piece: combining the ingredients, kneading the dough, and shaping the dough.",
+        "category": "process_description",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/13da1294-2b42-4ef6-8dd6-ff651ef4571f.mp4",
+        "question_id": "00045",
+        "question": "Summarize the core process and sequence of actions taken by c to paint the ceramic artwork.",
+        "answer_number": "0",
+        "candidates": [
+            "A. C picks up a ceramic art from the metal stool, rotates the table, looks at the ceramic art, dips the paint brush in the paint container, paints the ceramic art with a paint brush, rotates the ceramic art, dips the paint brush in the paint container, paints the ceramic art with a paint brush, and repeats these steps until the ceramic art is painted.",
+            "B. Carefully, c picks up a ceramic art piece from the metal stool, skillfully rotates the table, closely looks at the ceramic art, dips the paint brush in the paint container, meticulously paints the ceramic art with a paint brush, and then gently puts the ceramic art back on the metal stool.",
+            "C. C picks up a ceramic art from the metal stool, rotates the table, looks at the ceramic art, dips the paint brush in the paint container, paints the ceramic art with a paint brush, and then throws the ceramic art on the ground.",
+            "D. C carefully picks up a delicate ceramic art piece from the metal stool, smoothly rotates the table, closely examines the ceramic art, expertly dips the paint brush in the paint container, skillfully paints the ceramic art with a paint brush, and then humorously eats the ceramic art.",
+            "E. C carefully picks up a ceramic art piece from the metal stool, skillfully rotates the table, closely examines the ceramic art, dips the paint brush in the paint container with precision, attentively paints the ceramic art using a paint brush, and then happily sings a song."
+        ],
+        "answer": "A. C picks up a ceramic art from the metal stool, rotates the table, looks at the ceramic art, dips the paint brush in the paint container, paints the ceramic art with a paint brush, rotates the ceramic art, dips the paint brush in the paint container, paints the ceramic art with a paint brush, and repeats these steps until the ceramic art is painted.",
+        "category": "process_description",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/1dace116-5838-4b5b-9876-54bbfb6b1e06.mp4",
+        "question_id": "00059",
+        "question": "Describe the main purpose of c's actions in the video and the steps taken to achieve it.",
+        "answer_number": "2",
+        "candidates": [
+            "A. Currently, c is attempting to construct a small, compact mini printer device.",
+            "B. C is trying to disassemble a mini printer.",
+            "C. C is trying to fix a mini printer.",
+            "D. Currently, c is diligently attempting to clean a small-sized mini printer.",
+            "E. C is attempting to embellish a small, compact mini printer with decorations."
+        ],
+        "answer": "C. C is trying to fix a mini printer.",
+        "category": "process_description",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/20e97dbe-dfd5-489c-9244-bad5064ccbb1.mp4",
+        "question_id": "00068",
+        "question": "Describe the key sequence of events taking place in this video that shows c's process of creating art. focus on summarizing the workflow rather than listing individual actions.",
+        "answer_number": "2",
+        "candidates": [
+            "A. C commences by carefully examining the art board. they then skillfully lift the paintbrush and gently paint on the art board's surface. persistently, they continue to do this, wiping the brush on the cloth frequently, until they are ultimately satisfied and finished.",
+            "B. C starts by looking at the cloth. they then lift the paintbrush and wipe it on the cloth. they then lift the paintbrush and paint on the art board. they continue to do this, wiping the brush on the cloth frequently, until they are finished.",
+            "C. C starts by looking at the laptop. they then lift the paintbrush and wipe it on a cloth. they then lift the paintbrush and paint on the art board. they continue to do this, wiping the brush on the cloth frequently, until they are finished.",
+            "D. Initially, c starts by attentively observing the sky. next, they then gently lift the paintbrush and carefully paint on the sky's surface. diligently, they continue performing this task, frequently wiping the brush on the cloth, until they finally complete the artwork.",
+            "E. Initially, c starts by carefully observing the flowers. afterward, they then gently lift the paintbrush and skillfully paint on the flowers. persistently, they continue to do this essential task, wiping the brush on the cloth frequently, until they finally are finished."
+        ],
+        "answer": "C. C starts by looking at the laptop. they then lift the paintbrush and wipe it on a cloth. they then lift the paintbrush and paint on the art board. they continue to do this, wiping the brush on the cloth frequently, until they are finished.",
+        "category": "process_description",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/21195533-2e83-48ce-ab48-a754c4fd61fc.mp4",
+        "question_id": "00069",
+        "question": "What is the primary objective of c's actions throughout the video, and how can you concisely describe the two main methods he employs?",
+        "answer_number": "4",
+        "candidates": [
+            "A. Currently, individual c is engaged in cutting down several trees.",
+            "B. C is clearing brush.",
+            "C. Currently, c is meticulously trimming the overgrown hedges outside.",
+            "D. In the garden, c is diligently removing dead branches from trees.",
+            "E. C is pruning the fence."
+        ],
+        "answer": "E. C is pruning the fence.",
+        "category": "process_description",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/217fe8d0-dfc8-407b-86be-269378c5259a.mp4",
+        "question_id": "00070",
+        "question": "What is the primary objective of c's actions throughout the video, and how do his methods evolve over time to achieve it?",
+        "answer_number": "4",
+        "candidates": [
+            "A. Currently, c is diligently attempting to skillfully repair a damaged basket.",
+            "B. C is attempting to creatively embellish and adorn a woven basket.",
+            "C. C is trying to break a basket.",
+            "D. Cunningly, c is attempting to quietly steal a woven basket.",
+            "E. C is trying to make a basket."
+        ],
+        "answer": "E. C is trying to make a basket.",
+        "category": "process_description",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/2297b62e-33bc-4910-8d80-e304526b537d.mp4",
+        "question_id": "00073",
+        "question": "Summarize the steps taken by c to complete the tasks in this video. don't list every action narrated, but rather focus on major components and how they're executed.",
+        "answer_number": "4",
+        "candidates": [
+            "A. C folds the dress, places it on the ironing board, and then hangs it up.",
+            "B. C folds the dress, places it on the ironing board, and then packs it.",
+            "C. C folds the dress, places it on the ironing board, and then washes it.",
+            "D. C folds the dress, places it on the ironing board, and then irons it and hangs it up.",
+            "E. C folds the dress, places it on the ironing board, irons it, and then folds it again."
+        ],
+        "answer": "E. C folds the dress, places it on the ironing board, irons it, and then folds it again.",
+        "category": "process_description",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/2b8d1e50-3ba7-492a-8a0b-104eb659c27b.mp4",
+        "question_id": "00089",
+        "question": "By analyzing c's activities in this video, determine their overall focus or intention, and describe the progression of tasks leading to its fulfillment.",
+        "answer_number": "0",
+        "candidates": [
+            "A. C's overall focus or intention in this video is to set up their work station and start working on their computer.",
+            "B. The central objective in this video, c's overall focus or intention, is to engage in conversation with the person.",
+            "C. C's overall focus or intention in this video is to eat the wrapper.",
+            "D. C's overall focus or primary intention in this specific video content is to effectively play the guitar.",
+            "E. The primary objective and intention in this particular c's video is to demonstrate how to effectively clean the cloth."
+        ],
+        "answer": "A. C's overall focus or intention in this video is to set up their work station and start working on their computer.",
+        "category": "process_description",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/3a94a8d4-9b0f-49d9-9479-80ccf3a9ac3a.mp4",
+        "question_id": "00121",
+        "question": "From the sequence of actions, identify a turning point or moment where c's focus shifts to a different task. explain why you believe this is the most significant part of the video.",
+        "answer_number": "0",
+        "candidates": [
+            "A. The turning point is when c unfastens the hub axle.",
+            "B. The crucial turning point occurs when character c picks up the screwdriver from the table.",
+            "C. The pivotal turning point occurs when character c decides to put on the gloves.",
+            "D. The turning point is when c removes the tire.",
+            "E. The critical turning point occurs when character c successfully patches the hole, fixing it."
+        ],
+        "answer": "A. The turning point is when c unfastens the hub axle.",
+        "category": "process_description",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/4070a4e2-14d5-4618-9889-dd18a416e2b5.mp4",
+        "question_id": "00128",
+        "question": "How would you characterize the general progression of c's actions throughout the video, and what might have motivated these actions?",
+        "answer_number": "3",
+        "candidates": [
+            "A. Currently, c is happily playing an entertaining game of hopscotch outdoors.",
+            "B. Currently, c is creating quite a significant mess around.",
+            "C. C is trying to communicate something.",
+            "D. C is creating a piece of art by using powder paint to draw on the floor.",
+            "E. Currently, c is diligently practicing and improving their handwriting skills."
+        ],
+        "answer": "D. C is creating a piece of art by using powder paint to draw on the floor.",
+        "category": "process_description",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/40c8c634-c4a1-4a00-a480-0aa652e7246e.mp4",
+        "question_id": "00129",
+        "question": "In the context of the entire video, which key actions by c and the woman demonstrate the progression of their tasks?",
+        "answer_number": "1",
+        "candidates": [
+            "A. The key actions that clearly demonstrate the progression of c's task include picking up a sachet of corn flakes, opening the kitchen cabinet, carefully placing the sachet of corn flakes into the cabinet, and finally closing the kitchen cabinet. the key actions that similarly demonstrate the progression of the woman's task involve picking up a can of soup, opening the kitchen cabinet, placing the can of soup securely in the cabinet, and closing the kitchen cabinet.",
+            "B. The key actions that demonstrate the progression of c's task are picking up a can of chicken noodle soup, opening the kitchen cabinet, placing the can of chicken noodle soup in the cabinet, and closing the kitchen cabinet. the key actions that demonstrate the progression of the woman's task are picking up a can of soup, opening the kitchen cabinet, placing the can of soup in the cabinet, and closing the kitchen cabinet.",
+            "C. The key actions that clearly demonstrate the progression of c's task are picking up a can of soup, skillfully opening the kitchen cabinet, carefully placing the can of soup inside the cabinet, and finally closing the kitchen cabinet. the vital actions that effectively demonstrate the progression of the woman's task are picking up a bowl, effortlessly opening the kitchen cabinet, placing the bowl inside the cabinet, and securely closing the kitchen cabinet.",
+            "D. The key actions that demonstrate the progression of c's task are picking up a pot, opening the kitchen cabinet, placing the pot in the cabinet, and closing the kitchen cabinet. the key actions that demonstrate the progression of the woman's task are picking up a phone, opening the kitchen cabinet, placing the phone in the cabinet, and closing the kitchen cabinet.",
+            "E. The essential key actions showcasing the progression of c's task involve picking up flowers, skillfully opening the kitchen cabinet, carefully placing the flowers inside the cabinet, and then closing the kitchen cabinet securely. similarly, the crucial actions that demonstrate the progression of the woman's task include picking up a phone, adeptly opening the kitchen cabinet, securely placing the phone in that cabinet, and finally closing the kitchen cabinet."
+        ],
+        "answer": "B. The key actions that demonstrate the progression of c's task are picking up a can of chicken noodle soup, opening the kitchen cabinet, placing the can of chicken noodle soup in the cabinet, and closing the kitchen cabinet. the key actions that demonstrate the progression of the woman's task are picking up a can of soup, opening the kitchen cabinet, placing the can of soup in the cabinet, and closing the kitchen cabinet.",
+        "category": "process_description",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/4c6290c6-bc98-4c95-b63b-03886849fb57.mp4",
+        "question_id": "00152",
+        "question": "How would you describe the relationship between the actions c performs with the washing machine and the steps taken to complete the main task? consider the actions and their order in your analysis.",
+        "answer_number": "1",
+        "candidates": [
+            "A. The relationship between the actions c performs with the washing machine and the steps taken to complete the main task is that c utilizes the washing machine for drying the clothes. however, this is incorrect because c actually does not dry the clothes using the washing machine itself.",
+            "B. The relationship between the actions c performs with the washing machine and the steps taken to complete the main task is that c uses the washing machine to clean the clothes. c opens the washing machine, removes the dirty clothes, puts the clothes in the washing machine, and closes the washing machine. c then turns on the washing machine and waits for the cycle to finish. when the cycle is finished, c opens the washing machine and removes the clean clothes. c then hangs the clothes to dry.",
+            "C. The relationship between the actions c performs with the washing machine and the necessary steps taken to complete the main task is that c erroneously uses the washing machine to fold the clothes. this is incorrect because c does not actually fold the clothes inside the washing machine.",
+            "D. The relationship between the actions c performs with the washing machine and the steps taken to complete the main task is that c uses the washing machine to iron the clothes. this is incorrect because c does not iron the clothes in the washing machine.",
+            "E. The relationship between the actions c performs involving the washing machine and the steps taken to successfully complete the main task is that c improperly uses the washing machine to store the clothes. however, this is incorrect because c should not store the clothes in the washing machine."
+        ],
+        "answer": "B. The relationship between the actions c performs with the washing machine and the steps taken to complete the main task is that c uses the washing machine to clean the clothes. c opens the washing machine, removes the dirty clothes, puts the clothes in the washing machine, and closes the washing machine. c then turns on the washing machine and waits for the cycle to finish. when the cycle is finished, c opens the washing machine and removes the clean clothes. c then hangs the clothes to dry.",
+        "category": "process_description",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/4e1e182e-0592-4397-8654-a628d783990b.mp4",
+        "question_id": "00158",
+        "question": "Identify and discuss the key steps taken by c to securely install the dust cap on the axle.",
+        "answer_number": "3",
+        "candidates": [
+            "A. C uses a screwdriver to pry the dust cap into place.",
+            "B. C uses a wrench to tighten the dust cap into place.",
+            "C. C uses a pliers to grip the dust cap and turn it into place.",
+            "D. C uses a hammer to tap the dust cap into place.",
+            "E. C uses a socket wrench to tighten the dust cap into place."
+        ],
+        "answer": "D. C uses a hammer to tap the dust cap into place.",
+        "category": "process_description",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/4feae43e-cef6-46a0-a256-28b6e210b6a2.mp4",
+        "question_id": "00160",
+        "question": "After observing the video, which sequence of actions signify a shift in focus between c and the man, and what is the primary reason for this shift?",
+        "answer_number": "3",
+        "candidates": [
+            "A. The sequence of actions that signify a shift in focus between c and the man is when the man starts to run towards the hoop more often.",
+            "B. The sequence of actions that signify a shift in focus between c and the man is when c starts to pass the ball to the man more often.",
+            "C. The sequence of actions that signify a shift in focus between c and the man is when the man starts to pass the ball to c more often.",
+            "D. The sequence of actions that signify a shift in focus between c and the man is when c starts to shoot the ball more often.",
+            "E. The sequence of actions that signify a shift in focus between c and the man is when c starts to dunk the ball more often."
+        ],
+        "answer": "D. The sequence of actions that signify a shift in focus between c and the man is when c starts to shoot the ball more often.",
+        "category": "process_description",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/505834f9-c164-4ca7-9f4c-a37bd55e359d.mp4",
+        "question_id": "00161",
+        "question": "Considering all the actions taken with the measuring bottle, summarize and describe the process that c goes through to obtain, mix, and ultimately use the liquid contents for another task.",
+        "answer_number": "1",
+        "candidates": [
+            "A. C first opens the measuring bottle and pours some liquid from a gallon into it. then, c shakes the measuring bottle to mix the liquid. finally, c uses the micropipette to take some of the liquid out of the measuring bottle and drinks it.",
+            "B. C first opens the measuring bottle and pours some liquid from a gallon into it. then, c shakes the measuring bottle to mix the liquid. finally, c uses the micropipette to take some of the liquid out of the measuring bottle and injects it into the chair.",
+            "C. Initially, c first opens the measuring bottle carefully and pours some liquid from a gallon container into it. next, c gently shakes the measuring bottle to evenly mix the liquid inside. lastly, c skillfully uses the micropipette to extract some of the liquid from the measuring bottle and deliberately pours it onto the floor.",
+            "D. Initially, c first opens the measuring bottle and carefully pours some liquid from a gallon into it. subsequently, c shakes the measuring bottle thoroughly to mix the liquid well. finally, c utilizes the micropipette to extract some of the liquid out of the measuring bottle and transfers it into a designated container.",
+            "E. C first opens the measuring bottle and pours some liquid from a gallon into it. then, c shakes the measuring bottle to mix the liquid. finally, c uses the micropipette to take some of the liquid out of the measuring bottle and sprays it on the chair."
+        ],
+        "answer": "B. C first opens the measuring bottle and pours some liquid from a gallon into it. then, c shakes the measuring bottle to mix the liquid. finally, c uses the micropipette to take some of the liquid out of the measuring bottle and injects it into the chair.",
+        "category": "process_description",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/5f8fa774-ebfd-4721-b060-b33e166f1f93.mp4",
+        "question_id": "00188",
+        "question": "Considering all the actions in the video, how did c modify their method in checking and sharpening the knife to optimize the process?",
+        "answer_number": "4",
+        "candidates": [
+            "A. C modified their method in checking and sharpening the knife by using a whetstone instead of an electric knife sharpener. this helped to give the knife a sharper edge. they also sharpened the knife at a higher angle, which helped to make the edge more durable.",
+            "B. C modified their method in checking and sharpening the knife by using a honing steel instead of an electric knife sharpener. this helped to straighten the knife's edge. they also sharpened the knife at a lower angle, which helped to make the edge more forgiving.",
+            "C. C modified their method in checking and sharpening the knife by using a ceramic knife sharpener instead of an electric knife sharpener. this helped to give the knife a sharper edge that was also more durable. they also sharpened the knife at a higher angle, which helped to make the edge more resistant to chipping.",
+            "D. C modified their method in checking and sharpening the knife by using a manual knife sharpener instead of an electric knife sharpener. this helped to give the knife a sharper edge that was also more durable. they also sharpened the knife at a lower angle, which helped to make the edge more resistant to chipping.",
+            "E. C modified their method in checking and sharpening the knife by using a towel to wrap around the knife. this helped to protect their hands from the sharp blade. they also adjusted the electric knife sharpener to a lower setting, which helped to prevent the knife from becoming too sharp."
+        ],
+        "answer": "E. C modified their method in checking and sharpening the knife by using a towel to wrap around the knife. this helped to protect their hands from the sharp blade. they also adjusted the electric knife sharpener to a lower setting, which helped to prevent the knife from becoming too sharp.",
+        "category": "process_description",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/640ad606-0376-48cb-bc6a-14bc34ec4eaa.mp4",
+        "question_id": "00196",
+        "question": "Describe the process c follows throughout the video to prepare the jackfruit seeds. how do her steps change over time, and what do you think is her primary goal?",
+        "answer_number": "1",
+        "candidates": [
+            "A. C eats the jackfruit seeds.",
+            "B. C peels the jackfruit seeds, cuts them in half, and removes the flesh.",
+            "C. Casually, c throws the discarded jackfruit seeds away without hesitation.",
+            "D. Concerning gardening, plants the jackfruit seeds diligently.",
+            "E. Casually, c hands over the abundant jackfruit seeds to an appreciative individual nearby."
+        ],
+        "answer": "B. C peels the jackfruit seeds, cuts them in half, and removes the flesh.",
+        "category": "process_description",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/69786e7e-9a77-4192-a8b7-01c56de1fa82.mp4",
+        "question_id": "00209",
+        "question": "What is the primary method used by c to handle both the lemons and the pruning shears, and why might this method be advantageous in achieving her goals?",
+        "answer_number": "1",
+        "candidates": [
+            "A. C skillfully uses her dominant right hand to securely hold the lemons, and her left hand to firmly grip the pruning shears.",
+            "B. C uses her right hand to hold the pruning shears and her left hand to hold the lemons.",
+            "C. Carefully, c skillfully employs both hands to firmly hold the pruning shears, ready for usage.",
+            "D. Carefully, c utilizes both hands to firmly hold the lemons in place.",
+            "E. C does not use her hands at all."
+        ],
+        "answer": "B. C uses her right hand to hold the pruning shears and her left hand to hold the lemons.",
+        "category": "process_description",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/742dd0fc-018f-4e1f-b2fb-e04d38c97894.mp4",
+        "question_id": "00230",
+        "question": "Identify and discuss the three most critical turning points or moments within the video that significantly impacted the progression of the events.",
+        "answer_number": "4",
+        "candidates": [
+            "A. The three most critical turning points or moments within the video are when the man picks up a card from the table, when c picks up a card from the table, and when c plays a card.",
+            "B. The three most critical turning points or moments within the video are when the man plays a card, when c plays a card, and when the man wins the game.",
+            "C. The three most critical turning points or moments within the video are when the man loses the game, when c wins the game, and when the man and c shake hands.",
+            "D. The three most critical turning points or moments within the video are when the man and c start playing the game, when the man and c stop playing the game, and when the man and c leave the table.",
+            "E. The three most critical turning points or moments within the video are when the man drops a card on the table, when c talks to the man, and when the man drums on the table with his hand."
+        ],
+        "answer": "E. The three most critical turning points or moments within the video are when the man drops a card on the table, when c talks to the man, and when the man drums on the table with his hand.",
+        "category": "process_description",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/7431615c-e482-4669-8d5e-1d916af17d4d.mp4",
+        "question_id": "00231",
+        "question": "Describe the overarching process c is conducting in the laboratory, focusing on the purpose of their actions rather than the specific steps taken.",
+        "answer_number": "3",
+        "candidates": [
+            "A. Currently, c is thoroughly cleaning and tidying the laboratory space.",
+            "B. C is preparing for a presentation.",
+            "C. Currently, person c is thoroughly inventorying supplies in stock.",
+            "D. C is conducting an experiment to test the growth of seedlings.",
+            "E. Currently, c is meticulously taking inventory of all the laboratory's essential equipment and tools."
+        ],
+        "answer": "D. C is conducting an experiment to test the growth of seedlings.",
+        "category": "process_description",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/a317149f-1286-4160-9070-e575c42b8cc2.mp4",
+        "question_id": "00317",
+        "question": "Summarize the most important actions that c performed, including the context, and explain their impact on the progression of the video.",
+        "answer_number": "1",
+        "candidates": [
+            "A. The most important actions that c performed were picking up the glasses, handing them to the man, and shaking his hand. picking up the glasses was important because it showed that she was helpful. handing them to the man was important because it showed that she was friendly. shaking his hand was important because it showed that she was polite.",
+            "B. The most important actions that c performed were washing her hands, interacting with the man, and wiping her hands on a tissue paper. washing her hands was important because it showed that she was concerned about cleanliness. interacting with the man was important because it showed that she was friendly and outgoing. wiping her hands on a tissue paper was important because it showed that she was concerned about cleanliness.",
+            "C. The most important actions that c performed were staring at her hand, touching her shoes, and looking around. staring at her hand was important because it showed that she was nervous. touching her shoes was important because it showed that she was anxious. looking around was important because it showed that she was lost.",
+            "D. The most important actions that c performed were turning on the water tap, cleaning her hands, and pressing the soap dispenser. turning on the water tap was important because it showed that she was ready to wash her hands. cleaning her hands was important because it showed that she was concerned about cleanliness. pressing the soap dispenser was important because it showed that she was using soap to wash her hands.",
+            "E. The most important actions that c performed were walking backwards, wiping her hands on her clothes, and walking. walking backwards was important because it showed that she was backing away from something. wiping her hands on her clothes was important because it showed that she was trying to clean them. walking was important because it showed that she was moving forward."
+        ],
+        "answer": "B. The most important actions that c performed were washing her hands, interacting with the man, and wiping her hands on a tissue paper. washing her hands was important because it showed that she was concerned about cleanliness. interacting with the man was important because it showed that she was friendly and outgoing. wiping her hands on a tissue paper was important because it showed that she was concerned about cleanliness.",
+        "category": "process_description",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/a56b297f-35c0-471a-b346-a53c291e0dae.mp4",
+        "question_id": "00325",
+        "question": "Considering the long-term sequence of actions performed by \"c\" in the video, what can you infer as the main objective of these actions?",
+        "answer_number": "2",
+        "candidates": [
+            "A. To inspect and verify the oil level accurately in the car's engine.",
+            "B. To clean the car's windows.",
+            "C. To change the radiator fluid in the car.",
+            "D. It's essential to wash the car's exterior meticulously for cleanliness.",
+            "E. To completely fill up the car's gas tank with fuel."
+        ],
+        "answer": "C. To change the radiator fluid in the car.",
+        "category": "process_description",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/a92f9b78-f316-409b-9302-71d626f96813.mp4",
+        "question_id": "00333",
+        "question": "Rather than listing individual actions, explain what the primary goal of the character in the video is, and describe the process they undertake to achieve this goal. consider how the character compresses multiple actions to make their workflow efficient.",
+        "answer_number": "1",
+        "candidates": [
+            "A. The foremost, primary goal of the individual featured in the video presentation is to skillfully cook a meal.",
+            "B. The primary goal of the person in the video is to wash the dishes. they do this by first gathering all of the dishes, then washing them one by one. they use a variety of tools and techniques to wash the dishes, including a sink, a faucet, a scouring pad, dish soap, and a measuring cup. they also rinse the dishes after washing them.",
+            "C. The primary objective of the individual featured in the video is to thoroughly clean the entire kitchen area.",
+            "D. The primary goal of the individual featured in the video is to efficiently prepare a delicious meal.",
+            "E. The primary goal of the person in the video is to make tea."
+        ],
+        "answer": "B. The primary goal of the person in the video is to wash the dishes. they do this by first gathering all of the dishes, then washing them one by one. they use a variety of tools and techniques to wash the dishes, including a sink, a faucet, a scouring pad, dish soap, and a measuring cup. they also rinse the dishes after washing them.",
+        "category": "process_description",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/ba760ab8-ae2d-4aee-9334-b91dd194ad8b.mp4",
+        "question_id": "00371",
+        "question": "Analyzing the overall progression of events in the video, describe the pattern c exhibited when interacting with the different paints and painting the stone. how did c transition between the different paints?",
+        "answer_number": "3",
+        "candidates": [
+            "A. Creatively, c utilized a single paint hue to produce a solid color design on the stone surface. effortlessly, c transitioned between various colors by skillfully mixing the paint with some water.",
+            "B. C used a single paint to create a gradient design on the stone. c transitioned between different colors by using a wet brush to blend the paint.",
+            "C. Creatively, c utilized a diverse variety of distinct paints to effortlessly create a captivating marbled design on the stone. seamlessly, c transitioned between the different paint colors by skillfully using a dry brush to effectively apply the paint.",
+            "D. C used a variety of different paints to create a multi-colored design on the stone. c transitioned between the different paints by closing the lid on one paint and opening another.",
+            "E. In the artwork, c utilized a diverse assortment of paints to generate a splattered design on the stone confidently. skillfully, c transitioned between the various paint colors by flicking the paintbrush with precision."
+        ],
+        "answer": "D. C used a variety of different paints to create a multi-colored design on the stone. c transitioned between the different paints by closing the lid on one paint and opening another.",
+        "category": "process_description",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/bcf9aba0-a4b6-4210-8823-025f43f2631f.mp4",
+        "question_id": "00375",
+        "question": "How does the sequence of actions involving the use of glue and magnet(s) on the magnetic animals capture the essence of the video in a single statement?",
+        "answer_number": "1",
+        "candidates": [
+            "A. C uses glue to attach the magnetic animals to the table.",
+            "B. C uses glue to attach magnets to the magnetic animals.",
+            "C. C uses glue to attach the magnetic animals to the wall.",
+            "D. C uses glue to attach the magnetic animals to each other.",
+            "E. C uses glue to attach the magnetic animals to a piece of paper."
+        ],
+        "answer": "B. C uses glue to attach magnets to the magnetic animals.",
+        "category": "process_description",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/bd01de0d-994a-4c4e-9009-9577111af977.mp4",
+        "question_id": "00376",
+        "question": "What is the primary method c uses for preparing the leaves, and why might they need to complete this process multiple times?",
+        "answer_number": "1",
+        "candidates": [
+            "A. C uses a knife to cut the leaves, and then wipes them with a paper towel.",
+            "B. C uses scissors to cut the leaves, and then wipes them with a cloth.",
+            "C. C uses a blender to cut the leaves, and then wipes them with a sponge.",
+            "D. C uses a food processor to cut the leaves, and then wipes them with a hand towel.",
+            "E. C uses a pair of chopsticks to cut the leaves, and then wipes them with a napkin."
+        ],
+        "answer": "B. C uses scissors to cut the leaves, and then wipes them with a cloth.",
+        "category": "process_description",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/c5004075-e154-4bb8-baea-e41915190319.mp4",
+        "question_id": "00389",
+        "question": "Describe the central theme of the video and the sequence in which c goes through the activity. focus on the primary objective of the video and the main tools/processes used by c, rather than listing the detailed actions step-by-step.",
+        "answer_number": "4",
+        "candidates": [
+            "A. Currently, c is in the process of making a delicious cake.",
+            "B. Currently, c is diligently making a delicious pie in the kitchen.",
+            "C. C is making a sandwich.",
+            "D. Currently, c is in the process of making a delicious salad.",
+            "E. C is making a pizza."
+        ],
+        "answer": "E. C is making a pizza.",
+        "category": "process_description",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/c5b9ddd5-2ebb-41a5-a66e-45e9f7739a71.mp4",
+        "question_id": "00391",
+        "question": "What was the primary goal behind all the actions performed by c in the video, and how did the methods of achieving this goal evolve throughout the video?",
+        "answer_number": "4",
+        "candidates": [
+            "A. Carefully, c was attempting to cut the paper with precision.",
+            "B. Cautiously, c was attempting to carefully polish and clean a sharp knife.",
+            "C. C was trying to clean a knife.",
+            "D. C was attempting to break a knife, making an effort to snap it.",
+            "E. C was trying to sharpen a knife."
+        ],
+        "answer": "E. C was trying to sharpen a knife.",
+        "category": "process_description",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/cc3abb84-1317-4718-b414-75f899c20ee3.mp4",
+        "question_id": "00399",
+        "question": "Can you summarize the main progression and relationship between the two individuals as they work on the metal and handrail?",
+        "answer_number": "2",
+        "candidates": [
+            "A. The man and c are collaboratively working together to construct a handrail. while the man skillfully cuts the designated piece of metal, c steadily holds the metal rod in place.",
+            "B. The man, in collaboration with c, are diligently working together to repair a car. the man skillfully welds the piece of metal, while c securely holds the wrench.",
+            "C. The man and c are working together to weld a piece of metal. the man welds the piece of metal, and c holds the cord of the angle grinder.",
+            "D. The man and c are working together to build a house. the man cuts the piece of wood, and c holds the hammer.",
+            "E. The man, alongside c, are collaboratively working together to construct a boat. the man skillfully welds the piece of metal, while c diligently holds the necessary screwdriver."
+        ],
+        "answer": "C. The man and c are working together to weld a piece of metal. the man welds the piece of metal, and c holds the cord of the angle grinder.",
+        "category": "process_description",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/cd5fc9e9-7a80-4bd6-a175-f07ad35ee7f6.mp4",
+        "question_id": "00404",
+        "question": "In terms of efficiency, which sequences of actions did c perform in the video that demonstrate an effective cleaning method?: students' ability to compress information from the video rather than just listing the actions that happened in the video.",
+        "answer_number": "3",
+        "candidates": [
+            "A. C cleaned the toilet, sink, floor, and instant shower in a counterclockwise order. she started by cleaning the instant shower, then the sink, then the floor, and finally the toilet.",
+            "B. C cleaned the toilet, sink, floor, and instant shower in a random order. she did not clean the objects in any particular order.",
+            "C. C cleaned the toilet, sink, floor, and instant shower in a specific order based on their location in the bathroom. she started by cleaning the object that was closest to the door, then the object that was next closest to the door, and so on.",
+            "D. C cleaned the toilet, sink, floor, and instant shower in a clockwise order. she started by cleaning the toilet, then the sink, then the floor, and finally the instant shower.",
+            "E. C cleaned the toilet, sink, floor, and instant shower in a specific order based on their level of difficulty to clean. she started by cleaning the object that was easiest to clean, then the object that was next easiest to clean, and so on."
+        ],
+        "answer": "D. C cleaned the toilet, sink, floor, and instant shower in a clockwise order. she started by cleaning the toilet, then the sink, then the floor, and finally the instant shower.",
+        "category": "process_description",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/d30c1b6c-bbcb-490b-b104-c30b8cb985d3.mp4",
+        "question_id": "00415",
+        "question": "Identify a possible turning point in the character's sequence of actions that suggests a shift in their focus or goals within the video. explain your choice and how it is significant to understanding the video.",
+        "answer_number": "4",
+        "candidates": [
+            "A. In the story, the main character carefully picks up a small white eraser nearby.",
+            "B. Swiftly, the character skillfully erases the visible markings on the smooth paper surface.",
+            "C. The character writes on the paper.",
+            "D. The character attentively glances towards and examines the paper in hand.",
+            "E. The character stands up and opens a drawer."
+        ],
+        "answer": "E. The character stands up and opens a drawer.",
+        "category": "process_description",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/d56e2a13-81ff-4431-9446-7b257b5646b6.mp4",
+        "question_id": "00420",
+        "question": "In your own words, describe the most significant action or sequence of actions that contributed to the accomplishment of c's objective. explain why you believe this part of the video is crucial.",
+        "answer_number": "2",
+        "candidates": [
+            "A. The most significant action or sequence of actions that contributed to the accomplishment of c's objective is the picking up of the clothes.",
+            "B. The most significant action or sequence of actions that contributed to the accomplishment of c's objective is the placing of the clothes in the wardrobe.",
+            "C. The most significant action or sequence of actions that contributed to the accomplishment of c's objective is the folding of the clothes.",
+            "D. The most significant action or sequence of actions that contributed to the accomplishment of c's objective is the cleaning of the bed.",
+            "E. The most significant action or sequence of actions that contributed to the accomplishment of c's objective is the sorting of the clothes."
+        ],
+        "answer": "C. The most significant action or sequence of actions that contributed to the accomplishment of c's objective is the folding of the clothes.",
+        "category": "process_description",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/dfcbcf89-e268-4106-85ba-7875d19bd5e4.mp4",
+        "question_id": "00434",
+        "question": "Describe the process the character, c, goes through in the video from preparing a dish to cleaning up after tasting it, and compare it to a similar experience you've had in a kitchen. what are the primary differences in the approach and ingredients?",
+        "answer_number": "2",
+        "candidates": [
+            "A. C opens a jar of ground pepper, picks up a bottle of soy sauce, and pours some soy sauce into the pot. she then puts the jar of ground pepper and the bottle of soy sauce away in a kitchen cabinet. c then mixes the contents of the pot with a spoon. finally, she eats the contents of the pot.",
+            "B. C carefully opens a jar of ground pepper, swiftly picks up a bottle of soy sauce, and pours some soy sauce into the pot. she then diligently puts the jar of ground pepper and the bottle of soy sauce away in a nearby kitchen cabinet. c then thoroughly mixes the contents of the pot with a sturdy spoon. finally, she confidently places the pot in the preheated oven.",
+            "C. C opens a jar of ground pepper, picks up a bottle of soy sauce, and pours some soy sauce into the pot. she then puts the jar of ground pepper and the bottle of soy sauce away in a kitchen cabinet. c then mixes the contents of the pot with a spoon. finally, she tastes the contents of the pot and spits it out.",
+            "D. C carefully opens a jar of finely ground pepper, picks up a nearby bottle of soy sauce, and gently pours some soy sauce into the pot. she then puts the jar of ground pepper and the bottle of soy sauce away neatly in a kitchen cabinet. c then thoroughly mixes the contents of the pot with a spoon. finally, she graciously serves the contents of the pot to an awaiting guest.",
+            "E. C carefully opens a jar of ground pepper, picks up a nearby bottle of soy sauce, and slowly pours some soy sauce into the pot. she then puts the jar of ground pepper and the bottle of soy sauce neatly away in a kitchen cabinet. c diligently mixes the contents of the pot with a spoon. eventually, she takes a captivating picture of the pot's contents."
+        ],
+        "answer": "C. C opens a jar of ground pepper, picks up a bottle of soy sauce, and pours some soy sauce into the pot. she then puts the jar of ground pepper and the bottle of soy sauce away in a kitchen cabinet. c then mixes the contents of the pot with a spoon. finally, she tastes the contents of the pot and spits it out.",
+        "category": "process_description",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/e1f6335e-323e-4c7b-864a-568b9f2581cf.mp4",
+        "question_id": "00441",
+        "question": "Analyze the methodology used by c to attend to the different items in the sink, such as pouring out the water, rinsing and washing. how does this vary based on the types of items being cleaned?",
+        "answer_number": "0",
+        "candidates": [
+            "A. C first rinses the items with water, then washes them with a sponge, and finally rinses them again with water.",
+            "B. C first washes the items with a sponge, then rinses them with water, and finally rinses them again with water.",
+            "C. C first rinses the items with water, then washes them with a sponge, and finally dries them with a towel.",
+            "D. C first washes the items with a sponge, then rinses them with water, and finally dries them with a hair dryer.",
+            "E. C first rinses the items with water, then washes them with a sponge, and finally puts them in the dishwasher."
+        ],
+        "answer": "A. C first rinses the items with water, then washes them with a sponge, and finally rinses them again with water.",
+        "category": "process_description",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/e48b8359-d35e-45f1-aa3b-eb1417e10dc8.mp4",
+        "question_id": "00445",
+        "question": "In the video, what was the primary method c used to efficiently plant seedlings?",
+        "answer_number": "4",
+        "candidates": [
+            "A. Carefully, c planted the seedlings by gently picking them up with her left hand, passing them securely to her right hand, and then meticulously planting them in the rich soil with her left hand.",
+            "B. C planted the seedlings by picking them up with her right hand, planting them in the soil with her right hand, and then passing them to her left hand.",
+            "C. Carefully, c planted the seedlings by gently picking them up with her left hand, skillfully planting them in the rich soil with her left hand, and then smoothly passing them to her right hand.",
+            "D. Carefully, c planted the seedlings by picking them up with her right hand, gently passing them to her left hand, and then skillfully dropping them onto the ground surface.",
+            "E. C planted the seedlings by picking them up with her right hand, passing them to her left hand, and then planting them in the soil with her right hand."
+        ],
+        "answer": "E. C planted the seedlings by picking them up with her right hand, passing them to her left hand, and then planting them in the soil with her right hand.",
+        "category": "process_description",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/eccbb1cd-a12c-4872-a656-d27882c5e462.mp4",
+        "question_id": "00460",
+        "question": "Looking at the entire process in the video, could you analyze and describe the overall cooking method c employed, while highlighting the most important parts?",
+        "answer_number": "0",
+        "candidates": [
+            "A. C used the stir-fry method to cook the noodles.",
+            "B. In the kitchen, c efficiently utilized the boiling method to perfectly cook the noodles for dinner.",
+            "C. In the kitchen, c utilized the steaming method precisely to perfectly cook the noodles.",
+            "D. C used the baking method to cook the noodles.",
+            "E. Curiously, c employed the unique grilling method to skillfully cook the delicious noodles."
+        ],
+        "answer": "A. C used the stir-fry method to cook the noodles.",
+        "category": "process_description",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/efe17e2d-668b-49b7-a474-4d7aae9a4131.mp4",
+        "question_id": "00470",
+        "question": "What was the primary goal of the activities performed by c throughout the video, and how did they evolve from start to finish?",
+        "answer_number": "3",
+        "candidates": [
+            "A. C's primary goal was essentially to clean and tidy the entire house thoroughly.",
+            "B. The primary goal of c was to head out and go shopping.",
+            "C. C's primary goal for the evening was to simply just watch tv unwinding.",
+            "D. C's primary goal was to cook a meal.",
+            "E. C's primary goal was to take a nap."
+        ],
+        "answer": "D. C's primary goal was to cook a meal.",
+        "category": "process_description",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " EgoSchema ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/egoschema/f9c82335-f724-483f-b7b2-8747243e8dee.mp4",
+        "question_id": "00487",
+        "question": "Based on the ingredients used and the various steps taken, what could be the overarching goal or process at work in this video?",
+        "answer_number": "0",
+        "candidates": [
+            "A. C is cooking a dish with ginger, green pepper, and oil.",
+            "B. C is making a salad.",
+            "C. Currently, c is actively chopping various vegetables diligently.",
+            "D. Currently, individual c is diligently preparing a delicious stir-fry dish.",
+            "E. Currently, c is in the process of making a delicious soup."
+        ],
+        "answer": "A. C is cooking a dish with ginger, green pepper, and oil.",
+        "category": "process_description",
+        "need_reasoning": false
+    }
+]

@@ -1,0 +1,4370 @@
+[
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/fFjv93ACGo8.mp4",
+        "question_id": 0,
+        "question": "How many red socks are above the fireplace at the end of this video?",
+        "answer_number": 3,
+        "candidates": [
+            "A. 1.",
+            "B. 4.",
+            "C. 2.",
+            "D. 3."
+        ],
+        "answer": "D. 3.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/N1cdUjctpG8.mp4",
+        "question_id": 0,
+        "question": "How many porcelain jars were discovered in the niches located in the primary chamber of the tomb?",
+        "answer_number": 1,
+        "candidates": [
+            "A. 4.",
+            "B. 9.",
+            "C. 5.",
+            "D. 13."
+        ],
+        "answer": "B. 9.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/HIjX8OPuf-w.mp4",
+        "question_id": 0,
+        "question": "How many national flags appear in the video?",
+        "answer_number": 1,
+        "candidates": [
+            "A. 3.",
+            "B. 4.",
+            "C. 2.",
+            "D. 5."
+        ],
+        "answer": "B. 4.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/24i4ncHuf6A.mp4",
+        "question_id": 0,
+        "question": "According to the video, how many individuals were in the car when Archduke Franz Ferdinand was assassinated?",
+        "answer_number": 0,
+        "candidates": [
+            "A. Three.",
+            "B. Two.",
+            "C. One.",
+            "D. Four."
+        ],
+        "answer": "A. Three.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/_tvmjsKXTu8.mp4",
+        "question_id": 0,
+        "question": "How many different guitar-shaped instruments are there in the video?",
+        "answer_number": 1,
+        "candidates": [
+            "A. 2.",
+            "B. 7.",
+            "C. 3.",
+            "D. 11."
+        ],
+        "answer": "B. 7.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/tX8a00l_Dfs.mp4",
+        "question_id": 0,
+        "question": "How many kinds of chords are played in the video?",
+        "answer_number": 1,
+        "candidates": [
+            "A. Eight.",
+            "B. Seven.",
+            "C. Fourteen.",
+            "D. Six."
+        ],
+        "answer": "B. Seven.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/TVkck1ACKDQ.mp4",
+        "question_id": 0,
+        "question": "How many different people appear in the video?",
+        "answer_number": 2,
+        "candidates": [
+            "A. 3.",
+            "B. 4.",
+            "C. 1.",
+            "D. 2."
+        ],
+        "answer": "C. 1.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/X30VlGh3HwQ.mp4",
+        "question_id": 0,
+        "question": "How many laptops are produced in the company factory in the video animation?",
+        "answer_number": 0,
+        "candidates": [
+            "A. 9.",
+            "B. 6.",
+            "C. 8.",
+            "D. 7."
+        ],
+        "answer": "A. 9.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/MXKDvuEkSF0.mp4",
+        "question_id": 0,
+        "question": "How many new advertising situations are introduced in the video?",
+        "answer_number": 0,
+        "candidates": [
+            "A. 3.",
+            "B. 1.",
+            "C. 2.",
+            "D. 4."
+        ],
+        "answer": "A. 3.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/yl5ZXQmrtP0.mp4",
+        "question_id": 0,
+        "question": "How many times is the sun visible in the video?",
+        "answer_number": 1,
+        "candidates": [
+            "A. 2.",
+            "B. 4.",
+            "C. 3.",
+            "D. 1."
+        ],
+        "answer": "B. 4.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/kRlhlCWplqk.mp4",
+        "question_id": 0,
+        "question": "How many bodies are created after the collision?",
+        "answer_number": 1,
+        "candidates": [
+            "A. 2.",
+            "B. 3.",
+            "C. 1.",
+            "D. 4."
+        ],
+        "answer": "B. 3.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/9jjTGpWmc5U.mp4",
+        "question_id": 0,
+        "question": "How many people are watching TV in the video?",
+        "answer_number": 2,
+        "candidates": [
+            "A. 1.",
+            "B. 3.",
+            "C. 2.",
+            "D. 4."
+        ],
+        "answer": "C. 2.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/fo0Hmch2YS0.mp4",
+        "question_id": 0,
+        "question": "How many people can be seen in the video?",
+        "answer_number": 0,
+        "candidates": [
+            "A. 2.",
+            "B. 3.",
+            "C. 4.",
+            "D. 1."
+        ],
+        "answer": "A. 2.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/gD0MvkDGAMg.mp4",
+        "question_id": 0,
+        "question": "How many times does the instructor in the video appear in different scenarios?",
+        "answer_number": 1,
+        "candidates": [
+            "A. 3.",
+            "B. 4.",
+            "C. 5.",
+            "D. 2."
+        ],
+        "answer": "B. 4.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/Qyg_91gNHCc.mp4",
+        "question_id": 0,
+        "question": "How many bridges can be spotted in the video?",
+        "answer_number": 1,
+        "candidates": [
+            "A. Three.",
+            "B. Four.",
+            "C. Five.",
+            "D. One."
+        ],
+        "answer": "B. Four.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/nYLMNQ77FjM.mp4",
+        "question_id": 0,
+        "question": "How many climbers are there in the video?",
+        "answer_number": 0,
+        "candidates": [
+            "A. Five.",
+            "B. Four.",
+            "C. One.",
+            "D. Ten."
+        ],
+        "answer": "A. Five.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/K0mjUgHKfJo.mp4",
+        "question_id": 0,
+        "question": "How many circles can be observed in the first few seconds of the video?",
+        "answer_number": 1,
+        "candidates": [
+            "A. Four.",
+            "B. Five.",
+            "C. Nine.",
+            "D. Six."
+        ],
+        "answer": "B. Five.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/LCtOpCi5r2s.mp4",
+        "question_id": 0,
+        "question": "How many red flags appear in the video?",
+        "answer_number": 1,
+        "candidates": [
+            "A. 7.",
+            "B. 6.",
+            "C. 8.",
+            "D. 5."
+        ],
+        "answer": "B. 6.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/eTLMWnsStuk.mp4",
+        "question_id": 0,
+        "question": "How many individuals are visible in the introductory shot of the video?",
+        "answer_number": 0,
+        "candidates": [
+            "A. 5.",
+            "B. 6.",
+            "C. 7.",
+            "D. 4."
+        ],
+        "answer": "A. 5.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/fo-mVfOsC-E.mp4",
+        "question_id": 0,
+        "question": "How many people can be seen holding cameras in the video?",
+        "answer_number": 0,
+        "candidates": [
+            "A. 2.",
+            "B. 3.",
+            "C. 4.",
+            "D. 1."
+        ],
+        "answer": "A. 2.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/yXNShWnon4g.mp4",
+        "question_id": 0,
+        "question": "How many adult men, aged 18 years or older, can be seen in the video?",
+        "answer_number": 1,
+        "candidates": [
+            "A. 2.",
+            "B. 1.",
+            "C. 3.",
+            "D. 4."
+        ],
+        "answer": "B. 1.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/-O6mJ0VBTc4.mp4",
+        "question_id": 0,
+        "question": "How many areas are divided into the video?",
+        "answer_number": 1,
+        "candidates": [
+            "A. 5.",
+            "B. 4.",
+            "C. 3.",
+            "D. 2."
+        ],
+        "answer": "B. 4.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/IzQ2siryQrM.mp4",
+        "question_id": 0,
+        "question": "How many hours of sleep does this video recommend adults aim to achieve each day, as depicted in the animation?",
+        "answer_number": 1,
+        "candidates": [
+            "A. 5-7.",
+            "B. 7-9.",
+            "C. 9-11.",
+            "D. 11-13."
+        ],
+        "answer": "B. 7-9.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/HvjgQqNOq9A.mp4",
+        "question_id": 0,
+        "question": "How many steps does the man walk in this video?",
+        "answer_number": 2,
+        "candidates": [
+            "A. 2.",
+            "B. 3.",
+            "C. 4.",
+            "D. 5."
+        ],
+        "answer": "C. 4.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/540LkURTR7g.mp4",
+        "question_id": 0,
+        "question": "How many cups appear in this video?",
+        "answer_number": 3,
+        "candidates": [
+            "A. 2.",
+            "B. 3.",
+            "C. 4.",
+            "D. 5."
+        ],
+        "answer": "D. 5.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/lKoG2_zdoSA.mp4",
+        "question_id": 0,
+        "question": "How many changes in the development of mobile phones are introduced in the video?",
+        "answer_number": 1,
+        "candidates": [
+            "A. 4.",
+            "B. 6.",
+            "C. 3.",
+            "D. 5."
+        ],
+        "answer": "B. 6.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/aqTIB_q40bo.mp4",
+        "question_id": 0,
+        "question": "At the end of the video, how many books can be seen resting on the living room table?",
+        "answer_number": 1,
+        "candidates": [
+            "A. 2.",
+            "B. 4.",
+            "C. 1.",
+            "D. 3."
+        ],
+        "answer": "B. 4.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/hUrjmA0fhsc.mp4",
+        "question_id": 0,
+        "question": "How many methods for disengaging Super Cruise are mentioned in the video?",
+        "answer_number": 1,
+        "candidates": [
+            "A. 2.",
+            "B. 3.",
+            "C. 1.",
+            "D. 4."
+        ],
+        "answer": "B. 3.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/tF4DML7FIWk.mp4",
+        "question_id": 0,
+        "question": "How many humanoid robots can be identified in the video?",
+        "answer_number": 2,
+        "candidates": [
+            "A. 1.",
+            "B. 3.",
+            "C. 2.",
+            "D. 4."
+        ],
+        "answer": "C. 2.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/jRS9fVh7MUw.mp4",
+        "question_id": 0,
+        "question": "How many glass discs are there inside the disassembled lens in the video, at minimum?",
+        "answer_number": 1,
+        "candidates": [
+            "A. 4.",
+            "B. 5.",
+            "C. 3.",
+            "D. 2."
+        ],
+        "answer": "B. 5.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/_aVHf_jmWk8.mp4",
+        "question_id": 0,
+        "question": "How many times does the butterfly occur in this video?",
+        "answer_number": 1,
+        "candidates": [
+            "A. 3.",
+            "B. 4.",
+            "C. 5.",
+            "D. 6."
+        ],
+        "answer": "B. 4.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/Ij-FYOrklFE.mp4",
+        "question_id": 0,
+        "question": "How many Spider-Men are visible in the video?",
+        "answer_number": 1,
+        "candidates": [
+            "A. 2.",
+            "B. 3.",
+            "C. 4.",
+            "D. 5."
+        ],
+        "answer": "B. 3.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/tiMaUSvlzIU.mp4",
+        "question_id": 0,
+        "question": "How many times does the person in the video transfer the phone to another person?",
+        "answer_number": 1,
+        "candidates": [
+            "A. 1.",
+            "B. 3.",
+            "C. 5.",
+            "D. 7."
+        ],
+        "answer": "B. 3.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/0IdYJGBmguM.mp4",
+        "question_id": 0,
+        "question": "How many people are wearing ties in the video?",
+        "answer_number": 0,
+        "candidates": [
+            "A. 2.",
+            "B. 3.",
+            "C. 0.",
+            "D. 1."
+        ],
+        "answer": "A. 2.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/rQhLWHtHyiM.mp4",
+        "question_id": 0,
+        "question": "How many individuals are present in the room?",
+        "answer_number": 3,
+        "candidates": [
+            "A. 8.",
+            "B. 9.",
+            "C. 7.",
+            "D. 6."
+        ],
+        "answer": "D. 6.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/HmnKbBmYii8.mp4",
+        "question_id": 0,
+        "question": "How many polar bears are visible/seen in the video?",
+        "answer_number": 1,
+        "candidates": [
+            "A. 4.",
+            "B. 3.",
+            "C. 1.",
+            "D. 2."
+        ],
+        "answer": "B. 3.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/MPfuSfiZ96A.mp4",
+        "question_id": 0,
+        "question": "How many birds can be observed perched on the street lamp in the first half of the video?",
+        "answer_number": 1,
+        "candidates": [
+            "A. 6.",
+            "B. 5.",
+            "C. 7.",
+            "D. 8."
+        ],
+        "answer": "B. 5.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/HqAfzcJurMM.mp4",
+        "question_id": 0,
+        "question": "Which material was used to create the perfect sphere in the video?",
+        "answer_number": 0,
+        "candidates": [
+            "A. Dirt.",
+            "B. Wood.",
+            "C. Metal.",
+            "D. Glass."
+        ],
+        "answer": "A. Dirt.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/HqAfzcJurMM.mp4",
+        "question_id": 0,
+        "question": "In the second half of the video, the man held up several spheres with both hands. How many spheres did he hold up in total during this time?",
+        "answer_number": 1,
+        "candidates": [
+            "A. 7.",
+            "B. 9.",
+            "C. 6.",
+            "D. 8."
+        ],
+        "answer": "B. 9.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/W86cTIoMv2U.mp4",
+        "question_id": 0,
+        "question": "How many streams did the cat cross in the video?",
+        "answer_number": 0,
+        "candidates": [
+            "A. 2.",
+            "B. 1.",
+            "C. 3.",
+            "D. 4."
+        ],
+        "answer": "A. 2.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/Z7PlUGbsXlQ.mp4",
+        "question_id": 0,
+        "question": "How many giant petrels are seen in the video?",
+        "answer_number": 3,
+        "candidates": [
+            "A. 2.",
+            "B. 4.",
+            "C. 3.",
+            "D. 1."
+        ],
+        "answer": "D. 1.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/tGdL-34L-GE.mp4",
+        "question_id": 0,
+        "question": "How many sand cats that can be observed in the video?",
+        "answer_number": 2,
+        "candidates": [
+            "A. 1.",
+            "B. 2.",
+            "C. 3.",
+            "D. 4."
+        ],
+        "answer": "C. 3.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/lmlw4NNZBbw.mp4",
+        "question_id": 0,
+        "question": "According to the video, how many days in the year 2023 were there no recorded incidents of air pollution in Bangkok?",
+        "answer_number": 2,
+        "candidates": [
+            "A. 34.",
+            "B. 32.",
+            "C. 31.",
+            "D. 33."
+        ],
+        "answer": "C. 31.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/lmlw4NNZBbw.mp4",
+        "question_id": 0,
+        "question": "How many times does the interviewed girl appear in the video?",
+        "answer_number": 2,
+        "candidates": [
+            "A. 4.",
+            "B. 1.",
+            "C. 2.",
+            "D. 3."
+        ],
+        "answer": "C. 2.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/nKtWkDNGNOw.mp4",
+        "question_id": 0,
+        "question": "According to the video, how many residents have been evacuated from the town?",
+        "answer_number": 2,
+        "candidates": [
+            "A. More than 10000.",
+            "B. More than 2000.",
+            "C. More than 3000.",
+            "D. More than 15000."
+        ],
+        "answer": "C. More than 3000.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/uF3zNOthLAg.mp4",
+        "question_id": 0,
+        "question": "How many legends are featured in the video?",
+        "answer_number": 0,
+        "candidates": [
+            "A. 3.",
+            "B. 4.",
+            "C. 5.",
+            "D. 6."
+        ],
+        "answer": "A. 3.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/fJ-hp5Jlbv0.mp4",
+        "question_id": 0,
+        "question": "How many people are in the video?",
+        "answer_number": 1,
+        "candidates": [
+            "A. 1.",
+            "B. 2.",
+            "C. 3.",
+            "D. 4."
+        ],
+        "answer": "B. 2.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/LlajSKnbcGk.mp4",
+        "question_id": 0,
+        "question": "According to the video, how many persons are shot to death by the player before he is dead?",
+        "answer_number": 0,
+        "candidates": [
+            "A. 7.",
+            "B. 6.",
+            "C. 8.",
+            "D. 5."
+        ],
+        "answer": "A. 7.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/dIPNQRVqJmY.mp4",
+        "question_id": 0,
+        "question": "How many shots does the player take in the video?",
+        "answer_number": 2,
+        "candidates": [
+            "A. 4.",
+            "B. 3.",
+            "C. 5.",
+            "D. 6."
+        ],
+        "answer": "C. 5.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/of62s85uMMs.mp4",
+        "question_id": 0,
+        "question": "How many craches occurs in this video?",
+        "answer_number": 1,
+        "candidates": [
+            "A. 1.",
+            "B. 2.",
+            "C. 3.",
+            "D. 4."
+        ],
+        "answer": "B. 2.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/of62s85uMMs.mp4",
+        "question_id": 0,
+        "question": "How many cars are overtaken in this video?",
+        "answer_number": 3,
+        "candidates": [
+            "A. 1.",
+            "B. 2.",
+            "C. 4.",
+            "D. 3."
+        ],
+        "answer": "D. 3.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/7R1eNHvfspk.mp4",
+        "question_id": 0,
+        "question": "How many challengers does the protagonist in the video take on?",
+        "answer_number": 0,
+        "candidates": [
+            "A. 7.",
+            "B. 6.",
+            "C. 8.",
+            "D. 5."
+        ],
+        "answer": "A. 7.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/JP67IM1LX-M.mp4",
+        "question_id": 0,
+        "question": "How many players are in the beach volleyball game shown in the video?",
+        "answer_number": 0,
+        "candidates": [
+            "A. 4.",
+            "B. 5.",
+            "C. 6.",
+            "D. 3."
+        ],
+        "answer": "A. 4.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/PYqmI0Hiaho.mp4",
+        "question_id": 0,
+        "question": "How many times did the No. 7 in red score in the video?",
+        "answer_number": 1,
+        "candidates": [
+            "A. 3.",
+            "B. 2.",
+            "C. 4.",
+            "D. 5."
+        ],
+        "answer": "B. 2.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/ya2IXAREZho.mp4",
+        "question_id": 0,
+        "question": "How many Mbappe's spectacular goals does the video show?",
+        "answer_number": 0,
+        "candidates": [
+            "A. 4.",
+            "B. 5.",
+            "C. 3.",
+            "D. 6."
+        ],
+        "answer": "A. 4.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/9dQXiqS56Y4.mp4",
+        "question_id": 0,
+        "question": "How many goals can be seen in the video?",
+        "answer_number": 0,
+        "candidates": [
+            "A. 0.",
+            "B. 1.",
+            "C. 2.",
+            "D. 3."
+        ],
+        "answer": "A. 0.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/-qTAeVGl_e8.mp4",
+        "question_id": 0,
+        "question": "How many athletes are doing high jumps in the video?",
+        "answer_number": 1,
+        "candidates": [
+            "A. 3.",
+            "B. 2.",
+            "C. 4.",
+            "D. 5."
+        ],
+        "answer": "B. 2.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/zNxi2s36tS0.mp4",
+        "question_id": 0,
+        "question": "How many athletes are competing on the track in the video?",
+        "answer_number": 0,
+        "candidates": [
+            "A. 8.",
+            "B. 9.",
+            "C. 7.",
+            "D. 13."
+        ],
+        "answer": "A. 8.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/YNV0pLQ3r5U.mp4",
+        "question_id": 0,
+        "question": "How many groups of athletes' competitions are recorded in the video?",
+        "answer_number": 2,
+        "candidates": [
+            "A. 2.",
+            "B. 1.",
+            "C. 3.",
+            "D. 6."
+        ],
+        "answer": "C. 3.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/2yGaTOzaGIA.mp4",
+        "question_id": 0,
+        "question": "How many athletes are competing in the video?",
+        "answer_number": 2,
+        "candidates": [
+            "A. 7.",
+            "B. 5.",
+            "C. 6.",
+            "D. 8."
+        ],
+        "answer": "C. 6.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/ejFVFtJdP3s.mp4",
+        "question_id": 0,
+        "question": "How many times do the athletes in the event shown in the video need to touch the pool wall?",
+        "answer_number": 3,
+        "candidates": [
+            "A. 0.",
+            "B. 1.",
+            "C. 3.",
+            "D. 2."
+        ],
+        "answer": "D. 2.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/DK6bKtXUE1c.mp4",
+        "question_id": 0,
+        "question": "How many athletes' long jumps are recorded in the video?",
+        "answer_number": 2,
+        "candidates": [
+            "A. 5.",
+            "B. 4.",
+            "C. 3.",
+            "D. 2."
+        ],
+        "answer": "C. 3.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/DK6bKtXUE1c.mp4",
+        "question_id": 0,
+        "question": "How many athletes in the video achieved a high jump distance of over 9 meters?",
+        "answer_number": 0,
+        "candidates": [
+            "A. 0.",
+            "B. 1.",
+            "C. 2.",
+            "D. 3."
+        ],
+        "answer": "A. 0.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/CHlJdMVLV2s.mp4",
+        "question_id": 0,
+        "question": "How many times did the two athletes dive together at the same time in the video?",
+        "answer_number": 0,
+        "candidates": [
+            "A. 3.",
+            "B. 4.",
+            "C. 6.",
+            "D. 8."
+        ],
+        "answer": "A. 3.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/E895PNqSgEI.mp4",
+        "question_id": 0,
+        "question": "How many athletes can be seen crossing the finish line in the video?",
+        "answer_number": 1,
+        "candidates": [
+            "A. 7.",
+            "B. 6.",
+            "C. 8.",
+            "D. 5."
+        ],
+        "answer": "B. 6.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/TblFD8H4j94.mp4",
+        "question_id": 0,
+        "question": "How many rallies did the two athletes play?",
+        "answer_number": 1,
+        "candidates": [
+            "A. 3.",
+            "B. 4.",
+            "C. 5.",
+            "D. 6."
+        ],
+        "answer": "B. 4.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/6DO8yOVYXr0.mp4",
+        "question_id": 0,
+        "question": "How many players are wearing black shirts in this video?",
+        "answer_number": 3,
+        "candidates": [
+            "A. 1.",
+            "B. 3.",
+            "C. 4.",
+            "D. 2."
+        ],
+        "answer": "D. 2.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/54YD3Gv-3MI.mp4",
+        "question_id": 0,
+        "question": "How many players are participating in the game?",
+        "answer_number": 3,
+        "candidates": [
+            "A. 6.",
+            "B. 4.",
+            "C. 3.",
+            "D. 5."
+        ],
+        "answer": "D. 5.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/8np5YKYx3sU.mp4",
+        "question_id": 0,
+        "question": "How many men and women are presenting on the stage?",
+        "answer_number": 0,
+        "candidates": [
+            "A. Six men and three women.",
+            "B. Five men and two women.",
+            "C. Four men and three women.",
+            "D. Four men and four women."
+        ],
+        "answer": "A. Six men and three women.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/NjxJY7P-Qpo.mp4",
+        "question_id": 0,
+        "question": "How many individuals are shown singing in the video?",
+        "answer_number": 1,
+        "candidates": [
+            "A. Two men.",
+            "B. Two women.",
+            "C. Three women.",
+            "D. One woman."
+        ],
+        "answer": "B. Two women.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/QhL6ICNQ_So.mp4",
+        "question_id": 0,
+        "question": "How many individuals are currently present on the stage?",
+        "answer_number": 1,
+        "candidates": [
+            "A. Six.",
+            "B. Seven.",
+            "C. Eight.",
+            "D. Five."
+        ],
+        "answer": "B. Seven.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/vQTQJ1Mlzqo.mp4",
+        "question_id": 0,
+        "question": "How many tricks are performed in this video?",
+        "answer_number": 1,
+        "candidates": [
+            "A. 4.",
+            "B. 5.",
+            "C. 6.",
+            "D. 7."
+        ],
+        "answer": "B. 5.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/gTBRQaBRiSs.mp4",
+        "question_id": 0,
+        "question": "As can be seen in the video, how many judges are watching the show?",
+        "answer_number": 0,
+        "candidates": [
+            "A. 4.",
+            "B. 5.",
+            "C. 6.",
+            "D. 7."
+        ],
+        "answer": "A. 4.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/k74LDvXSnHM.mp4",
+        "question_id": 0,
+        "question": "According to the video, how many individuals are in the bathroom?",
+        "answer_number": 0,
+        "candidates": [
+            "A. 2.",
+            "B. 5.",
+            "C. 4.",
+            "D. 3."
+        ],
+        "answer": "A. 2.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/mD_7mhnPS_Y.mp4",
+        "question_id": 0,
+        "question": "In the opening scene of the video, how many stars are present on the trophy situated on the left hand side of the screen?",
+        "answer_number": 3,
+        "candidates": [
+            "A. 6.",
+            "B. 8.",
+            "C. 9.",
+            "D. 7."
+        ],
+        "answer": "D. 7.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/4H8hcvNeWtg.mp4",
+        "question_id": 0,
+        "question": "How many people are wearing ties in the video?",
+        "answer_number": 0,
+        "candidates": [
+            "A. 4.",
+            "B. 5.",
+            "C. 3.",
+            "D. 2."
+        ],
+        "answer": "A. 4.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/RqA3LAo75kw.mp4",
+        "question_id": 0,
+        "question": "How many people were shown in the video drawing on the stage?",
+        "answer_number": 3,
+        "candidates": [
+            "A. 6.",
+            "B. 3.",
+            "C. 4.",
+            "D. 5."
+        ],
+        "answer": "D. 5.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/RqA3LAo75kw.mp4",
+        "question_id": 0,
+        "question": "How many individuals depicted in the video are wearing glasses?",
+        "answer_number": 2,
+        "candidates": [
+            "A. 0.",
+            "B. 2.",
+            "C. 3.",
+            "D. 1."
+        ],
+        "answer": "C. 3.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/n7q1yYzx2g8.mp4",
+        "question_id": 0,
+        "question": "How many times do the two people in the video give different answers to the question?",
+        "answer_number": 1,
+        "candidates": [
+            "A. 4.",
+            "B. 3.",
+            "C. 6.",
+            "D. 5."
+        ],
+        "answer": "B. 3.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/XS6ysDFTbLU.mp4",
+        "question_id": 0,
+        "question": "How many people were challenged by the person in the video?",
+        "answer_number": 1,
+        "candidates": [
+            "A. 1.",
+            "B. 3.",
+            "C. 2.",
+            "D. 4."
+        ],
+        "answer": "B. 3.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/VmNBt1tzC6k.mp4",
+        "question_id": 0,
+        "question": "How many individuals are in the team, with each person dressed in yellow?",
+        "answer_number": 0,
+        "candidates": [
+            "A. 4.",
+            "B. 3.",
+            "C. 5.",
+            "D. 6."
+        ],
+        "answer": "A. 4.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/5Knkqo-lYF0.mp4",
+        "question_id": 0,
+        "question": "How many rolls does the girl do in her performance?",
+        "answer_number": 0,
+        "candidates": [
+            "A. More than 5 but less than or equal to 10.",
+            "B. Less than or equal to 5.",
+            "C. More than 10 but less than or equal to 15.",
+            "D. More than 15."
+        ],
+        "answer": "A. More than 5 but less than or equal to 10.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/jmE9y0vv2aM.mp4",
+        "question_id": 0,
+        "question": "How many different tricks does the man show inside the house?",
+        "answer_number": 2,
+        "candidates": [
+            "A. 1.",
+            "B. 2.",
+            "C. 3.",
+            "D. 4."
+        ],
+        "answer": "C. 3.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/FlcVBKTSjRs.mp4",
+        "question_id": 0,
+        "question": "How many spoons are used to make the holder in the video?",
+        "answer_number": 0,
+        "candidates": [
+            "A. 16.",
+            "B. 10.",
+            "C. 6.",
+            "D. 12."
+        ],
+        "answer": "A. 16.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/OCTekmo_szs.mp4",
+        "question_id": 0,
+        "question": "How many different kinds of snow globes are made in this video?",
+        "answer_number": 3,
+        "candidates": [
+            "A. 4.",
+            "B. 5.",
+            "C. 2.",
+            "D. 3."
+        ],
+        "answer": "D. 3.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/BiJtPU9uP0c.mp4",
+        "question_id": 0,
+        "question": "How many different kinds of animal faces are made in this video?",
+        "answer_number": 1,
+        "candidates": [
+            "A. 4.",
+            "B. 3.",
+            "C. 5.",
+            "D. 2."
+        ],
+        "answer": "B. 3.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/OQAf_rTw7n8.mp4",
+        "question_id": 0,
+        "question": "How many candle holders are made in this video?",
+        "answer_number": 3,
+        "candidates": [
+            "A. 4.",
+            "B. 5.",
+            "C. 6.",
+            "D. 3."
+        ],
+        "answer": "D. 3.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/ufZMrlZRn8o.mp4",
+        "question_id": 0,
+        "question": "As depicted in the video, how many times is the paper folded before cutting by scissors?",
+        "answer_number": 3,
+        "candidates": [
+            "A. 4.",
+            "B. 5.",
+            "C. 6.",
+            "D. 7."
+        ],
+        "answer": "D. 7.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/KfTtpoIovuk.mp4",
+        "question_id": 0,
+        "question": "How many customers can be seen in the video?",
+        "answer_number": 2,
+        "candidates": [
+            "A. 4.",
+            "B. 1.",
+            "C. 2.",
+            "D. 3."
+        ],
+        "answer": "C. 2.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/NAahAX62MZ0.mp4",
+        "question_id": 0,
+        "question": "How many peppers can be seen on the plate in the video's final shot?",
+        "answer_number": 3,
+        "candidates": [
+            "A. 9.",
+            "B. 6.",
+            "C. 8.",
+            "D. 7."
+        ],
+        "answer": "D. 7.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/jb-To6qJcxU.mp4",
+        "question_id": 0,
+        "question": "How many earrings does the woman in the video have on her left ear?",
+        "answer_number": 2,
+        "candidates": [
+            "A. 3.",
+            "B. 5.",
+            "C. 7.",
+            "D. 1."
+        ],
+        "answer": "C. 7.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/pwVJizpCuDQ.mp4",
+        "question_id": 0,
+        "question": "How many outfits did the female protagonist change in total in the video?",
+        "answer_number": 2,
+        "candidates": [
+            "A. 1.",
+            "B. 3.",
+            "C. 5.",
+            "D. 7."
+        ],
+        "answer": "C. 5.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/ZO12ZY38FEw.mp4",
+        "question_id": 0,
+        "question": "How many outfits did the male protagonist change in total in the video?",
+        "answer_number": 2,
+        "candidates": [
+            "A. 1.",
+            "B. 3.",
+            "C. 5.",
+            "D. 7."
+        ],
+        "answer": "C. 5.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/frX8GujpmkI.mp4",
+        "question_id": 0,
+        "question": "At the end of the video, how many people are there on the staircase along a coastal hillside?",
+        "answer_number": 3,
+        "candidates": [
+            "A. 3.",
+            "B. 2.",
+            "C. 4.",
+            "D. 5."
+        ],
+        "answer": "D. 5.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/6NVr0cNiHPM.mp4",
+        "question_id": 0,
+        "question": "How many items are stored in the box displayed at the beginning of the video?",
+        "answer_number": 2,
+        "candidates": [
+            "A. 7.",
+            "B. 8.",
+            "C. 10.",
+            "D. 9."
+        ],
+        "answer": "C. 10.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/RP1AL2DU6vQ.mp4",
+        "question_id": 0,
+        "question": "How many people in total can be seen in the video sitting at the table eating breakfast?",
+        "answer_number": 1,
+        "candidates": [
+            "A. 2.",
+            "B. 3.",
+            "C. 1.",
+            "D. 4."
+        ],
+        "answer": "B. 3.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/CQUphYL0vY8.mp4",
+        "question_id": 0,
+        "question": "How many meals did the woman in the video have with other people?",
+        "answer_number": 2,
+        "candidates": [
+            "A. 2.",
+            "B. 4.",
+            "C. 3.",
+            "D. 5."
+        ],
+        "answer": "C. 3.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/s-lM2uwiwyQ.mp4",
+        "question_id": 0,
+        "question": "How many people are shown having lunch with the woman in the video?",
+        "answer_number": 1,
+        "candidates": [
+            "A. 2.",
+            "B. 1.",
+            "C. 3.",
+            "D. 0."
+        ],
+        "answer": "B. 1.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/PaC3CEkCD6k.mp4",
+        "question_id": 0,
+        "question": "How many people join in a toast at the end of the video?",
+        "answer_number": 1,
+        "candidates": [
+            "A. 2.",
+            "B. 3.",
+            "C. 4.",
+            "D. 5."
+        ],
+        "answer": "B. 3.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/Atf_Af1q_5w.mp4",
+        "question_id": 0,
+        "question": "How many people have their backs to the camera in the sunset scene?",
+        "answer_number": 3,
+        "candidates": [
+            "A. 0.",
+            "B. 1.",
+            "C. 3.",
+            "D. 2."
+        ],
+        "answer": "D. 2.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/Atf_Af1q_5w.mp4",
+        "question_id": 0,
+        "question": "How many main tourists are shown in the video?",
+        "answer_number": 1,
+        "candidates": [
+            "A. 3.",
+            "B. 2.",
+            "C. 4.",
+            "D. 5."
+        ],
+        "answer": "B. 2.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/YsPwg3dUwjQ.mp4",
+        "question_id": 0,
+        "question": "How many people appear in this video?",
+        "answer_number": 0,
+        "candidates": [
+            "A. 1.",
+            "B. 2.",
+            "C. 3.",
+            "D. 4."
+        ],
+        "answer": "A. 1.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/vszWsYOdnPg.mp4",
+        "question_id": 0,
+        "question": "How many animals appear in this video?",
+        "answer_number": 1,
+        "candidates": [
+            "A. 4.",
+            "B. 5.",
+            "C. 6.",
+            "D. 7."
+        ],
+        "answer": "B. 5.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/H8fbAFOMTp4.mp4",
+        "question_id": 0,
+        "question": "In the video, how many airboxes can be observed?",
+        "answer_number": 1,
+        "candidates": [
+            "A. 1.",
+            "B. 2.",
+            "C. 3.",
+            "D. 4."
+        ],
+        "answer": "B. 2.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/fQVhppRP4Wo.mp4",
+        "question_id": 0,
+        "question": "How many foxes appear in this video?",
+        "answer_number": 1,
+        "candidates": [
+            "A. 1.",
+            "B. 2.",
+            "C. 3.",
+            "D. 4."
+        ],
+        "answer": "B. 2.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/S1nUMsPC1-0.mp4",
+        "question_id": 0,
+        "question": "How many people are in the family that is playing with a dog at the end of the video?",
+        "answer_number": 1,
+        "candidates": [
+            "A. 3.",
+            "B. 4.",
+            "C. 5.",
+            "D. 6."
+        ],
+        "answer": "B. 4.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/VgtNv__qR0k.mp4",
+        "question_id": 0,
+        "question": "How many people were exercising in the video?",
+        "answer_number": 2,
+        "candidates": [
+            "A. 6.",
+            "B. 8.",
+            "C. 7.",
+            "D. 5."
+        ],
+        "answer": "C. 7.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/MiPw-RZMHCQ.mp4",
+        "question_id": 0,
+        "question": "How many games are played in the video?",
+        "answer_number": 1,
+        "candidates": [
+            "A. 4.",
+            "B. 5.",
+            "C. 6.",
+            "D. 3."
+        ],
+        "answer": "B. 5.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/MiPw-RZMHCQ.mp4",
+        "question_id": 0,
+        "question": "How many times did the man in the video with no shirt on his upper body race?",
+        "answer_number": 2,
+        "candidates": [
+            "A. 3.",
+            "B. 1.",
+            "C. 2.",
+            "D. 0."
+        ],
+        "answer": "C. 2.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/UbIVqUDZOs0.mp4",
+        "question_id": 0,
+        "question": "How many times does the sport of skipping appear in the video?",
+        "answer_number": 1,
+        "candidates": [
+            "A. 3.",
+            "B. 2.",
+            "C. 4.",
+            "D. 1."
+        ],
+        "answer": "B. 2.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/6EIrArTyLVU.mp4",
+        "question_id": 0,
+        "question": "How many sit-ups did the man in the video, wearing a pink top and black pants, perform?",
+        "answer_number": 2,
+        "candidates": [
+            "A. 0.",
+            "B. 1.",
+            "C. 2.",
+            "D. 3."
+        ],
+        "answer": "C. 2.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/p_-ocKiob4w.mp4",
+        "question_id": 0,
+        "question": "How many different types of sports equipment were demonstrated in detail by the people in the video?",
+        "answer_number": 1,
+        "candidates": [
+            "A. 3.",
+            "B. 4.",
+            "C. 5.",
+            "D. 2."
+        ],
+        "answer": "B. 4.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/5kmnEgBSCfg.mp4",
+        "question_id": 0,
+        "question": "How many sets of jumps did the two men do in total at the beginning of the video?",
+        "answer_number": 3,
+        "candidates": [
+            "A. 3.",
+            "B. 6.",
+            "C. 4.",
+            "D. 5."
+        ],
+        "answer": "D. 5.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/SFmocFLXg0Y.mp4",
+        "question_id": 0,
+        "question": "How many squats did the lady in the video do?",
+        "answer_number": 1,
+        "candidates": [
+            "A. 3.",
+            "B. 4.",
+            "C. 2.",
+            "D. 5."
+        ],
+        "answer": "B. 4.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/IRDp5HcZyVA.mp4",
+        "question_id": 0,
+        "question": "How many people are on each team in the video?",
+        "answer_number": 3,
+        "candidates": [
+            "A. 6.",
+            "B. 4.",
+            "C. 5.",
+            "D. 3."
+        ],
+        "answer": "D. 3.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/dphq5X-rMew.mp4",
+        "question_id": 0,
+        "question": "According to the video, how many man-made ditches are found recently?",
+        "answer_number": 2,
+        "candidates": [
+            "A. 4.",
+            "B. 2.",
+            "C. 3.",
+            "D. 1."
+        ],
+        "answer": "C. 3.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/K64wRD8eaus.mp4",
+        "question_id": 0,
+        "question": "How many ships are shown in the map while the sinking ship sending out message?",
+        "answer_number": 2,
+        "candidates": [
+            "A. 3 .",
+            "B. 8.",
+            "C. 11.",
+            "D. 9."
+        ],
+        "answer": "C. 11.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/s_TGkDcjBqI.mp4",
+        "question_id": 0,
+        "question": "How many princesses flew away when the cowherd approached?",
+        "answer_number": 3,
+        "candidates": [
+            "A. Eight.",
+            "B. Seven.",
+            "C. One.",
+            "D. Six."
+        ],
+        "answer": "D. Six.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/wgPymD-NBQU.mp4",
+        "question_id": 0,
+        "question": "How many people attended in the assasination of Caesar according to the video?",
+        "answer_number": 2,
+        "candidates": [
+            "A. 3.",
+            "B. Around 20 to 30.",
+            "C. About 60.",
+            "D. 1."
+        ],
+        "answer": "C. About 60.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/A9fQPzZ1-hg.mp4",
+        "question_id": 0,
+        "question": "How many defending layers were there in the barrier in the east of the Berlin wall accoridng to the video?",
+        "answer_number": 1,
+        "candidates": [
+            "A. 4.",
+            "B. 3.",
+            "C. 2.",
+            "D. 5."
+        ],
+        "answer": "B. 3.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/A9fQPzZ1-hg.mp4",
+        "question_id": 0,
+        "question": "How many people from East Germany had fled to West Germany by 1961?",
+        "answer_number": 2,
+        "candidates": [
+            "A. About 5 million.",
+            "B. About 4 million.",
+            "C. About 3.5 million.",
+            "D. About 2 million."
+        ],
+        "answer": "C. About 3.5 million.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/1pHkv4KUiFY.mp4",
+        "question_id": 0,
+        "question": "How many listeners gave busking donations to the girl before she started playing?",
+        "answer_number": 1,
+        "candidates": [
+            "A. One.",
+            "B. Two.",
+            "C. None.",
+            "D. Three."
+        ],
+        "answer": "B. Two.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/Bkheu99K5lY.mp4",
+        "question_id": 0,
+        "question": "Which of the following materials used to recreate Monate's Water Lilies is not neccessary?",
+        "answer_number": 3,
+        "candidates": [
+            "A. Paintbrushes (flat and round).",
+            "B. Acrylic paints in green, blue, white, yellow, and purple.",
+            "C. Tissue paper.",
+            "D. Drawing board."
+        ],
+        "answer": "D. Drawing board.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/CxBbw8eT624.mp4",
+        "question_id": 0,
+        "question": "How many individual electrodes are distributed across the circular hole in Neuralink's device?",
+        "answer_number": 2,
+        "candidates": [
+            "A. 512 electrodes.",
+            "B. 256 electrodes.",
+            "C. 1024 electrodes.",
+            "D. 2048 electrodes."
+        ],
+        "answer": "C. 1024 electrodes.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/ckn9zybpYZ8.mp4",
+        "question_id": 0,
+        "question": "How many cases of Parkinson's disease are mentioned in the video?",
+        "answer_number": 2,
+        "candidates": [
+            "A. Over 4 million cases globally.",
+            "B. Over 2 million cases globally.",
+            "C. Over 6 million cases globally.",
+            "D. Over 8 million cases globally."
+        ],
+        "answer": "C. Over 6 million cases globally.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/3uV8XZcIBbk.mp4",
+        "question_id": 0,
+        "question": "According to the video, how many heart transplants are performed annually, and how many are requested in the U.S. and worldwide?",
+        "answer_number": 1,
+        "candidates": [
+            "A. 10,000 transplants were performed, 500,000 were requested in the U.S., and 5,000,000 were requested worldwide.",
+            "B. 6,000 transplants were performed, 600,000 were requested in the U.S., and 1,000,000 were requested worldwide.",
+            "C. 20,000 transplants were performed, 200,000 were requested in the U.S., and 2,000,000 were requested worldwide.",
+            "D. 3,000 transplants were performed, 300,000 were requested in the U.S., and 3,000,000 were requested worldwide."
+        ],
+        "answer": "B. 6,000 transplants were performed, 600,000 were requested in the U.S., and 1,000,000 were requested worldwide.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/GPOv72Awo68.mp4",
+        "question_id": 0,
+        "question": "How many times does Jacob Clifford appear alone in the video?",
+        "answer_number": 3,
+        "candidates": [
+            "A. 4.",
+            "B. 10.",
+            "C. 8.",
+            "D. 6."
+        ],
+        "answer": "D. 6.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/p7HKvqRI_Bo.mp4",
+        "question_id": 0,
+        "question": "As shown in the video, how many companies compete with the coffee company?",
+        "answer_number": 1,
+        "candidates": [
+            "A. 3.",
+            "B. 4.",
+            "C. 2.",
+            "D. 5."
+        ],
+        "answer": "B. 4.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/tBVUTFPate0.mp4",
+        "question_id": 0,
+        "question": "How many astronaut sleeping capsules are shown in the video?",
+        "answer_number": 1,
+        "candidates": [
+            "A. 3.",
+            "B. 4.",
+            "C. 2.",
+            "D. 1."
+        ],
+        "answer": "B. 4.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/sf4qRY3h_eo.mp4",
+        "question_id": 0,
+        "question": "How many times are rocket part separations shown in the video?",
+        "answer_number": 0,
+        "candidates": [
+            "A. 3.",
+            "B. 2.",
+            "C. 4.",
+            "D. 1."
+        ],
+        "answer": "A. 3.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/HLxvq_M4218.mp4",
+        "question_id": 0,
+        "question": "At least how many total solar eclipses occurred between 1921 and 1970 according to the video?",
+        "answer_number": 3,
+        "candidates": [
+            "A. 7 total solar eclipses.",
+            "B. 6 total solar eclipses.",
+            "C. 5 total solar eclipses.",
+            "D. 4 total solar eclipses."
+        ],
+        "answer": "D. 4 total solar eclipses.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/rWp5ZpJAIAE.mp4",
+        "question_id": 0,
+        "question": "How many protraits at most are shown at one point of the video?",
+        "answer_number": 2,
+        "candidates": [
+            "A. Two.",
+            "B. One.",
+            "C. Three.",
+            "D. Four."
+        ],
+        "answer": "C. Three.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/_qepWb_NVj4.mp4",
+        "question_id": 0,
+        "question": "How many different points of views about the amount of continents are mentioned in the video?",
+        "answer_number": 0,
+        "candidates": [
+            "A. Five.",
+            "B. Seven.",
+            "C. Four.",
+            "D. Six."
+        ],
+        "answer": "A. Five.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/IGyx5UEwgtA.mp4",
+        "question_id": 0,
+        "question": "How many judges hear the federal appeals shown in the video?",
+        "answer_number": 0,
+        "candidates": [
+            "A. 3.",
+            "B. 1.",
+            "C. 2.",
+            "D. 4."
+        ],
+        "answer": "A. 3.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/zOgYnntFl-k.mp4",
+        "question_id": 0,
+        "question": "How many members of the jury are shown in the first half of the video?",
+        "answer_number": 0,
+        "candidates": [
+            "A. 6.",
+            "B. 7.",
+            "C. 5.",
+            "D. 8."
+        ],
+        "answer": "A. 6.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/zOgYnntFl-k.mp4",
+        "question_id": 0,
+        "question": "In the real trial transcript in the second half of the video, how many people raised their right hands during the jury discussion?",
+        "answer_number": 3,
+        "candidates": [
+            "A. 8.",
+            "B. 6.",
+            "C. 9.",
+            "D. 7."
+        ],
+        "answer": "D. 7.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/orVnyudsNuw.mp4",
+        "question_id": 0,
+        "question": "When introducing the eighth point, how many people finally appeared on the screen?",
+        "answer_number": 3,
+        "candidates": [
+            "A. 2.",
+            "B. 4.",
+            "C. 5.",
+            "D. 8."
+        ],
+        "answer": "D. 8.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/y3am4T5LuKU.mp4",
+        "question_id": 0,
+        "question": "How many photos of the cartoon version of criminals appear in the video?",
+        "answer_number": 3,
+        "candidates": [
+            "A. 1.",
+            "B. 4.",
+            "C. 2.",
+            "D. 3."
+        ],
+        "answer": "D. 3.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/GWNzRtKzIRA.mp4",
+        "question_id": 0,
+        "question": "How many clips of Mad Men where the typewriter made appearances are shown in the video?",
+        "answer_number": 3,
+        "candidates": [
+            "A. 3.",
+            "B. 5.",
+            "C. 6.",
+            "D. 4."
+        ],
+        "answer": "D. 4.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/t61Wl2HVwFo.mp4",
+        "question_id": 0,
+        "question": "How many groups of people were interviewed in the promotional video at the beginning of the video?",
+        "answer_number": 2,
+        "candidates": [
+            "A. 11.",
+            "B. 8.",
+            "C. 9.",
+            "D. 10."
+        ],
+        "answer": "C. 9.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/0rCbfsuKdYw.mp4",
+        "question_id": 0,
+        "question": "According to the video, guess how many times more powerful is the PS5 than the PS2?",
+        "answer_number": 0,
+        "candidates": [
+            "A. 2800.",
+            "B. 3800.",
+            "C. 380.",
+            "D. 80."
+        ],
+        "answer": "A. 2800.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/dcYgBU4t98E.mp4",
+        "question_id": 0,
+        "question": "How many penguins play torches when they have a bonfire party?",
+        "answer_number": 2,
+        "candidates": [
+            "A. 4.",
+            "B. 2.",
+            "C. 3.",
+            "D. 5."
+        ],
+        "answer": "C. 3.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/ZN6kyy2SXnk.mp4",
+        "question_id": 0,
+        "question": "How many crystals with cat in boots does Death break?",
+        "answer_number": 0,
+        "candidates": [
+            "A. 8.",
+            "B. 6.",
+            "C. 7.",
+            "D. 9."
+        ],
+        "answer": "A. 8.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/44G3dPME330.mp4",
+        "question_id": 0,
+        "question": "If a cue appears in the bottom left corner when a splice occurs, then how many video clips were used to compose this video?",
+        "answer_number": 0,
+        "candidates": [
+            "A. 7.",
+            "B. 10.",
+            "C. 3.",
+            "D. 1."
+        ],
+        "answer": "A. 7.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/weOrNMHcDTI.mp4",
+        "question_id": 0,
+        "question": "How many bullets does Rango use to kill the hawl in the video?",
+        "answer_number": 2,
+        "candidates": [
+            "A. 3.",
+            "B. 2.",
+            "C. 1.",
+            "D. 4."
+        ],
+        "answer": "C. 1.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/uC9qU3X1JgM.mp4",
+        "question_id": 0,
+        "question": "How many persons does superman fight versus?",
+        "answer_number": 2,
+        "candidates": [
+            "A. 6.",
+            "B. 4.",
+            "C. 5.",
+            "D. 7."
+        ],
+        "answer": "C. 5.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/HeEyJo838PA.mp4",
+        "question_id": 0,
+        "question": "In the video, how many cubs is the mother bear with when the filmer encounters her downstream of the river?",
+        "answer_number": 3,
+        "candidates": [
+            "A. 4.",
+            "B. 1.",
+            "C. 3.",
+            "D. 2."
+        ],
+        "answer": "D. 2.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/B7-6lRo2m4Y.mp4",
+        "question_id": 0,
+        "question": "The video mentions that when penguins huddle together, the temperature in the middle can reach up to how many degrees Celsius?",
+        "answer_number": 0,
+        "candidates": [
+            "A. 37.",
+            "B. 27.",
+            "C. -27.",
+            "D. 0."
+        ],
+        "answer": "A. 37.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/9Y-YJEtxHeo.mp4",
+        "question_id": 0,
+        "question": "How many Japanese people would feel ashamed for taking paid leave according to the video?",
+        "answer_number": 2,
+        "candidates": [
+            "A. 4%.",
+            "B. 36%.",
+            "C. 63%.",
+            "D. 42%."
+        ],
+        "answer": "C. 63%.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/9SEMSQDO-pg.mp4",
+        "question_id": 0,
+        "question": "How many years has it been since the disappearance of flight MH370 according to the video?",
+        "answer_number": 3,
+        "candidates": [
+            "A. 100.",
+            "B. 15.",
+            "C. 5.",
+            "D. 10."
+        ],
+        "answer": "D. 10.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/HK13nVxBYxI.mp4",
+        "question_id": 0,
+        "question": "How many people were interviewed in the video?",
+        "answer_number": 1,
+        "candidates": [
+            "A. 4.",
+            "B. 2.",
+            "C. 1.",
+            "D. 3."
+        ],
+        "answer": "B. 2.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/uw30kZ_z0Q8.mp4",
+        "question_id": 0,
+        "question": "How many different humanoid characters appear in the game shown in this video?",
+        "answer_number": 1,
+        "candidates": [
+            "A. 7.",
+            "B. 6.",
+            "C. 5.",
+            "D. 4."
+        ],
+        "answer": "B. 6.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/RN1ZC7Tb2Pg.mp4",
+        "question_id": 0,
+        "question": "How many legends does Rengar slay?",
+        "answer_number": 0,
+        "candidates": [
+            "A. 1.",
+            "B. 2.",
+            "C. 3.",
+            "D. 4."
+        ],
+        "answer": "A. 1.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/OApAF--FqLA.mp4",
+        "question_id": 0,
+        "question": "How many times is Vi slain in this video?",
+        "answer_number": 0,
+        "candidates": [
+            "A. 1.",
+            "B. 2.",
+            "C. 3.",
+            "D. 4."
+        ],
+        "answer": "A. 1.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/OApAF--FqLA.mp4",
+        "question_id": 0,
+        "question": "How many skins does Vi have in this video?",
+        "answer_number": 2,
+        "candidates": [
+            "A. 7.",
+            "B. 5.",
+            "C. 6.",
+            "D. 8."
+        ],
+        "answer": "C. 6.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/erjwCQ-UZyw.mp4",
+        "question_id": 0,
+        "question": "How many cars does player use?",
+        "answer_number": 3,
+        "candidates": [
+            "A. 1.",
+            "B. 3.",
+            "C. 4.",
+            "D. 2."
+        ],
+        "answer": "D. 2.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/H54zMD-9Q-8.mp4",
+        "question_id": 0,
+        "question": "How many taillights does the player's car have?",
+        "answer_number": 0,
+        "candidates": [
+            "A. 4.",
+            "B. 2.",
+            "C. 6.",
+            "D. 5."
+        ],
+        "answer": "A. 4.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/UIvP4xyw9H8.mp4",
+        "question_id": 0,
+        "question": "How many grenades does the player throw?",
+        "answer_number": 3,
+        "candidates": [
+            "A. 8.",
+            "B. 5.",
+            "C. 6.",
+            "D. 7."
+        ],
+        "answer": "D. 7.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/UIvP4xyw9H8.mp4",
+        "question_id": 0,
+        "question": "How many times does the play die?",
+        "answer_number": 1,
+        "candidates": [
+            "A. 5.",
+            "B. 6.",
+            "C. 7.",
+            "D. 8."
+        ],
+        "answer": "B. 6.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/kGR4r4Av1ig.mp4",
+        "question_id": 0,
+        "question": "How many sports does the player play?",
+        "answer_number": 1,
+        "candidates": [
+            "A. 2.",
+            "B. 3.",
+            "C. 4.",
+            "D. 5."
+        ],
+        "answer": "B. 3.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/kGR4r4Av1ig.mp4",
+        "question_id": 0,
+        "question": "How many times does the player crash?",
+        "answer_number": 2,
+        "candidates": [
+            "A. 4.",
+            "B. 3.",
+            "C. 2.",
+            "D. 1."
+        ],
+        "answer": "C. 2.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/IN8t1d3pRMY.mp4",
+        "question_id": 0,
+        "question": "How many players hold a weapon in their left hand?",
+        "answer_number": 0,
+        "candidates": [
+            "A. 6.",
+            "B. 5.",
+            "C. 7.",
+            "D. 8."
+        ],
+        "answer": "A. 6.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/IN8t1d3pRMY.mp4",
+        "question_id": 0,
+        "question": "How many players jump from a building and die?",
+        "answer_number": 0,
+        "candidates": [
+            "A. 1.",
+            "B. 2.",
+            "C. 3.",
+            "D. 4."
+        ],
+        "answer": "A. 1.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/QnGwAUTM1fY.mp4",
+        "question_id": 0,
+        "question": "How many players completed dunks in the video?",
+        "answer_number": 2,
+        "candidates": [
+            "A. 0.",
+            "B. 1.",
+            "C. 2.",
+            "D. 3."
+        ],
+        "answer": "C. 2.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/kjwjDjQupLc.mp4",
+        "question_id": 0,
+        "question": "How many times has LOUISVILLE been ahead in the video?",
+        "answer_number": 2,
+        "candidates": [
+            "A. 2.",
+            "B. 0.",
+            "C. 1.",
+            "D. 3."
+        ],
+        "answer": "C. 1.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/cPlpZdGLa5A.mp4",
+        "question_id": 0,
+        "question": "How many attempts do it take for Phonzy to hit a 3-pointer in the first game?",
+        "answer_number": 3,
+        "candidates": [
+            "A. 2.",
+            "B. 4.",
+            "C. 3.",
+            "D. 5."
+        ],
+        "answer": "D. 5.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/cPlpZdGLa5A.mp4",
+        "question_id": 0,
+        "question": "How many free throws does Jamal hit in game 2?",
+        "answer_number": 3,
+        "candidates": [
+            "A. 7.",
+            "B. 8.",
+            "C. 10.",
+            "D. 9."
+        ],
+        "answer": "D. 9.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/0Y9-MQ44MdU.mp4",
+        "question_id": 0,
+        "question": "How many points does a three-pointer count in the video?",
+        "answer_number": 3,
+        "candidates": [
+            "A. 4.",
+            "B. 3.",
+            "C. 1.",
+            "D. 2."
+        ],
+        "answer": "D. 2.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/ACvLYz9nHvg.mp4",
+        "question_id": 0,
+        "question": "How many consecutive hits did player #39 in the video have in his first start?",
+        "answer_number": 2,
+        "candidates": [
+            "A. 2.",
+            "B. 3.",
+            "C. 4.",
+            "D. 5."
+        ],
+        "answer": "C. 4.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/uKIk-QbbcO8.mp4",
+        "question_id": 0,
+        "question": "In the first game, when the challenger scores for the first time, how many points has Bugs & Daffy scored?",
+        "answer_number": 2,
+        "candidates": [
+            "A. 4.",
+            "B. 2.",
+            "C. 7.",
+            "D. 0."
+        ],
+        "answer": "C. 7.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/uKIk-QbbcO8.mp4",
+        "question_id": 0,
+        "question": "How many games are played in the video?",
+        "answer_number": 1,
+        "candidates": [
+            "A. 1.",
+            "B. 2.",
+            "C. 3.",
+            "D. 4."
+        ],
+        "answer": "B. 2.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/7E6i3E-fsj4.mp4",
+        "question_id": 0,
+        "question": "How many fouls are blown on players in black jerseys in the first game?",
+        "answer_number": 0,
+        "candidates": [
+            "A. 3.",
+            "B. 2.",
+            "C. 4.",
+            "D. 1."
+        ],
+        "answer": "A. 3.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/hwloS0JY6Ms.mp4",
+        "question_id": 0,
+        "question": "How many goals do the player Number 7 of Tottenham Hotspur score?",
+        "answer_number": 2,
+        "candidates": [
+            "A. 3.",
+            "B. 1.",
+            "C. 2.",
+            "D. 4."
+        ],
+        "answer": "C. 2.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/UIX6f0xMQ2U.mp4",
+        "question_id": 0,
+        "question": "How many times does the video show a long jump with a distance of 8 metres 53?",
+        "answer_number": 2,
+        "candidates": [
+            "A. 2.",
+            "B. 4.",
+            "C. 3.",
+            "D. 6."
+        ],
+        "answer": "C. 3.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/e-XGSYnhUjg.mp4",
+        "question_id": 0,
+        "question": "How many strokes did the athlete in the video use during the race?",
+        "answer_number": 3,
+        "candidates": [
+            "A. 5.",
+            "B. 3.",
+            "C. 2.",
+            "D. 4."
+        ],
+        "answer": "D. 4.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/vgWlRdNOGx4.mp4",
+        "question_id": 0,
+        "question": "How many points does Ma Long win on serve in Game 1?",
+        "answer_number": 1,
+        "candidates": [
+            "A. 12.",
+            "B. 4.",
+            "C. 14.",
+            "D. 9."
+        ],
+        "answer": "B. 4.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/G-mmtUxSt5k.mp4",
+        "question_id": 0,
+        "question": "How many men's single matches are included in this video?",
+        "answer_number": 3,
+        "candidates": [
+            "A. 10.",
+            "B. 9.",
+            "C. 8.",
+            "D. 7."
+        ],
+        "answer": "D. 7.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/Hw5qjcnhrW4.mp4",
+        "question_id": 0,
+        "question": "How many points does the winner get enough to win the match?",
+        "answer_number": 2,
+        "candidates": [
+            "A. 5.",
+            "B. 7.",
+            "C. 6.",
+            "D. 11."
+        ],
+        "answer": "C. 6.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/awHc8IySU-I.mp4",
+        "question_id": 0,
+        "question": "How many athletes successfully finished the game in 2010?",
+        "answer_number": 1,
+        "candidates": [
+            "A. 1.",
+            "B. 2.",
+            "C. 3.",
+            "D. 4."
+        ],
+        "answer": "B. 2.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/PSyedQl9IiQ.mp4",
+        "question_id": 0,
+        "question": "How many seats are on stage in the video?",
+        "answer_number": 0,
+        "candidates": [
+            "A. Nine.",
+            "B. Three.",
+            "C. Six.",
+            "D. Five."
+        ],
+        "answer": "A. Nine.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/BEIVOKz4zXw.mp4",
+        "question_id": 0,
+        "question": "How many buckets are on the stage?",
+        "answer_number": 0,
+        "candidates": [
+            "A. 3.",
+            "B. 2.",
+            "C. 4.",
+            "D. 5."
+        ],
+        "answer": "A. 3.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/_w4XRiUVfY4.mp4",
+        "question_id": 0,
+        "question": "How many people appear in the video?",
+        "answer_number": 2,
+        "candidates": [
+            "A. 13.",
+            "B. 14.",
+            "C. 15.",
+            "D. 12."
+        ],
+        "answer": "C. 15.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/umfD-K4OTKk.mp4",
+        "question_id": 0,
+        "question": "How many magics does the magician play?",
+        "answer_number": 0,
+        "candidates": [
+            "A. 7.",
+            "B. 6.",
+            "C. 8.",
+            "D. 9."
+        ],
+        "answer": "A. 7.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/ad_higXixRA.mp4",
+        "question_id": 0,
+        "question": "How many items did the guest accurately guess the prices of, with a margin of error within $1?",
+        "answer_number": 1,
+        "candidates": [
+            "A. 2.",
+            "B. 3.",
+            "C. 4.",
+            "D. 5."
+        ],
+        "answer": "B. 3.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/UTzl0lLoAJE.mp4",
+        "question_id": 0,
+        "question": "How many people are there in the \"tallest family\" as shown in the video?",
+        "answer_number": 1,
+        "candidates": [
+            "A. 2.",
+            "B. 5.",
+            "C. 3.",
+            "D. 4."
+        ],
+        "answer": "B. 5.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/MQEcUPeAdFs.mp4",
+        "question_id": 0,
+        "question": "In the Bench Press segment, how many times did the team in white shirts complete the bench press?",
+        "answer_number": 0,
+        "candidates": [
+            "A. 75.",
+            "B. 52.",
+            "C. 57.",
+            "D. 42."
+        ],
+        "answer": "A. 75.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/KD1yxRyFAZQ.mp4",
+        "question_id": 0,
+        "question": "How many yeses does the little girl get?",
+        "answer_number": 3,
+        "candidates": [
+            "A. 1.",
+            "B. 2.",
+            "C. 3.",
+            "D. 4."
+        ],
+        "answer": "D. 4.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/hYTYb5sGznw.mp4",
+        "question_id": 0,
+        "question": "How many yeses do the performers get?",
+        "answer_number": 2,
+        "candidates": [
+            "A. 3.",
+            "B. 2.",
+            "C. 4.",
+            "D. 1."
+        ],
+        "answer": "C. 4.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/dy8AvyRlXpQ.mp4",
+        "question_id": 0,
+        "question": "How many female performers are doing this show?",
+        "answer_number": 0,
+        "candidates": [
+            "A. 2.",
+            "B. 3.",
+            "C. 4.",
+            "D. 5."
+        ],
+        "answer": "A. 2.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/I0xrbzYT4Sc.mp4",
+        "question_id": 0,
+        "question": "How many moments are in the opening of this video?",
+        "answer_number": 1,
+        "candidates": [
+            "A. 3.",
+            "B. 4.",
+            "C. 2.",
+            "D. 1."
+        ],
+        "answer": "B. 4.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/HZJXPm0nhgY.mp4",
+        "question_id": 0,
+        "question": "According to this video, in which order are the following tools used?\n(a) Cotton swabs.\n(b) Brush.\n(c) Iron scrubber.\n(d) Card.",
+        "answer_number": 1,
+        "candidates": [
+            "A. (a)(b)(d)(c).",
+            "B. (b)(c)(a)(d).",
+            "C. (b)(d)(a)(c).",
+            "D. (d)(c)(a)(b)."
+        ],
+        "answer": "B. (b)(c)(a)(d).",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/HZJXPm0nhgY.mp4",
+        "question_id": 0,
+        "question": "At the beginning of this video, how many different colors of acrylic are being squeezed onto the board?",
+        "answer_number": 2,
+        "candidates": [
+            "A. 5.",
+            "B. 4.",
+            "C. 6.",
+            "D. 3."
+        ],
+        "answer": "C. 6.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/3EQzRz-V7uE.mp4",
+        "question_id": 0,
+        "question": "At the beginning of this video, how many rounds of yellow thread are wrapped around the fingers?",
+        "answer_number": 3,
+        "candidates": [
+            "A. 210.",
+            "B. 20.",
+            "C. 10.",
+            "D. 120."
+        ],
+        "answer": "D. 120.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/-gnfUTPmnNU.mp4",
+        "question_id": 0,
+        "question": "How many candles are shown in this video?",
+        "answer_number": 3,
+        "candidates": [
+            "A. 5.",
+            "B. 4.",
+            "C. 3.",
+            "D. 6."
+        ],
+        "answer": "D. 6.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/jWa2yrLGxCM.mp4",
+        "question_id": 0,
+        "question": "How many kinds of earrings are made in this video?",
+        "answer_number": 2,
+        "candidates": [
+            "A. 2.",
+            "B. 3.",
+            "C. 4.",
+            "D. 5."
+        ],
+        "answer": "C. 4.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/k7iaAhz2md0.mp4",
+        "question_id": 0,
+        "question": "Which of the following materials is not used in this video?",
+        "answer_number": 3,
+        "candidates": [
+            "A. Old CD's.",
+            "B. Glue or liquid silicone.",
+            "C. Satin Ribbon.",
+            "D. Wool threads."
+        ],
+        "answer": "D. Wool threads.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/k7iaAhz2md0.mp4",
+        "question_id": 0,
+        "question": "How many stars can be extracted from one CD?",
+        "answer_number": 1,
+        "candidates": [
+            "A. 2.",
+            "B. 3.",
+            "C. 4.",
+            "D. 5."
+        ],
+        "answer": "B. 3.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/5xi1iD4fkhc.mp4",
+        "question_id": 0,
+        "question": "How many cats in the video like mackerel the best?",
+        "answer_number": 0,
+        "candidates": [
+            "A. 3.",
+            "B. 1.",
+            "C. 2.",
+            "D. 4."
+        ],
+        "answer": "A. 3.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/Pf1hNFndi60.mp4",
+        "question_id": 0,
+        "question": "How many people in the video eat insects?",
+        "answer_number": 0,
+        "candidates": [
+            "A. 2.",
+            "B. 1.",
+            "C. 3.",
+            "D. 0."
+        ],
+        "answer": "A. 2.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/FcP0mzWFCQU.mp4",
+        "question_id": 0,
+        "question": "How many new McDonald's have opened in France from 2018-2023 in the video?",
+        "answer_number": 2,
+        "candidates": [
+            "A. 95.",
+            "B. 221.",
+            "C. 83.",
+            "D. 92."
+        ],
+        "answer": "C. 83.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/_CqKv0Y1FB0.mp4",
+        "question_id": 0,
+        "question": "When the motorcycle in the video leaves, how many people come out of the door?",
+        "answer_number": 0,
+        "candidates": [
+            "A. 5.",
+            "B. 7.",
+            "C. 9.",
+            "D. 3."
+        ],
+        "answer": "A. 5.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/x8zGsWuu-e0.mp4",
+        "question_id": 0,
+        "question": "How many days a week does the actress in the video wear sunglasses?",
+        "answer_number": 0,
+        "candidates": [
+            "A. 6.",
+            "B. 7.",
+            "C. 5.",
+            "D. 4."
+        ],
+        "answer": "A. 6.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/A30IuIjQYYg.mp4",
+        "question_id": 0,
+        "question": "How many times does underwater photography appear in the video?",
+        "answer_number": 1,
+        "candidates": [
+            "A. 1.",
+            "B. 2.",
+            "C. 3.",
+            "D. 4."
+        ],
+        "answer": "B. 2.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/MIYDzEYfI6U.mp4",
+        "question_id": 0,
+        "question": "How many lessons does the author of the video illustrate that she has learned?",
+        "answer_number": 3,
+        "candidates": [
+            "A. 9.",
+            "B. 10.",
+            "C. 12.",
+            "D. 11."
+        ],
+        "answer": "D. 11.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/QHFy-nWNJYk.mp4",
+        "question_id": 0,
+        "question": "How many attractions are shown in the video?",
+        "answer_number": 1,
+        "candidates": [
+            "A. 9.",
+            "B. 10.",
+            "C. 11.",
+            "D. 8."
+        ],
+        "answer": "B. 10.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/IjSISLZCKPs.mp4",
+        "question_id": 0,
+        "question": "How many dogs are there when a black-white dog emerges from a black and white pillow?",
+        "answer_number": 3,
+        "candidates": [
+            "A. 4.",
+            "B. 1.",
+            "C. 3.",
+            "D. 2."
+        ],
+        "answer": "D. 2.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/1NcGHbFWBFA.mp4",
+        "question_id": 0,
+        "question": "How many hats does the hamster change in this video?",
+        "answer_number": 1,
+        "candidates": [
+            "A. 4.",
+            "B. 6.",
+            "C. 5.",
+            "D. 7."
+        ],
+        "answer": "B. 6.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/BVJGvKaFG7U.mp4",
+        "question_id": 0,
+        "question": "How many babies does the lion mother have in the video?",
+        "answer_number": 1,
+        "candidates": [
+            "A. 3.",
+            "B. 4.",
+            "C. 5.",
+            "D. 6."
+        ],
+        "answer": "B. 4.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/l73rmrLTHQc.mp4",
+        "question_id": 0,
+        "question": "How many pandas are on the swing?",
+        "answer_number": 1,
+        "candidates": [
+            "A. 1.",
+            "B. 2.",
+            "C. 3.",
+            "D. 4."
+        ],
+        "answer": "B. 2.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/kDo4y8-bZko.mp4",
+        "question_id": 0,
+        "question": "How many running sessions did the athlete who recorded the shoe change in the video perform in the video?",
+        "answer_number": 1,
+        "candidates": [
+            "A. 3.",
+            "B. 2.",
+            "C. 4.",
+            "D. 1."
+        ],
+        "answer": "B. 2.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/8-aI8Fp2bPU.mp4",
+        "question_id": 0,
+        "question": "How many sets of shadowboxing training were performed in the video?",
+        "answer_number": 0,
+        "candidates": [
+            "A. 3.",
+            "B. 2.",
+            "C. 1.",
+            "D. 4."
+        ],
+        "answer": "A. 3.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/JwxALozuKfY.mp4",
+        "question_id": 0,
+        "question": "In the video, how many times does the male protagonist do hanging leg raises per set in the first phase of training?",
+        "answer_number": 2,
+        "candidates": [
+            "A. 4.",
+            "B. 6.",
+            "C. 3.",
+            "D. 7."
+        ],
+        "answer": "C. 3.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/U8WCRz0Yh4Q.mp4",
+        "question_id": 0,
+        "question": "How many of the tricks presented in the video involve drilling the ball through a defender's crotch?",
+        "answer_number": 0,
+        "candidates": [
+            "A. 3.",
+            "B. 4.",
+            "C. 6.",
+            "D. 2."
+        ],
+        "answer": "A. 3.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/xre_3dxdhkQ.mp4",
+        "question_id": 0,
+        "question": "How many ladies participated in the women's bench press competition in the video?",
+        "answer_number": 1,
+        "candidates": [
+            "A. 7.",
+            "B. 6.",
+            "C. 8.",
+            "D. 9."
+        ],
+        "answer": "B. 6.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/FMdEkj5HEqg.mp4",
+        "question_id": 0,
+        "question": "How many times is the little boy on the right side of the planet when he visited the planet in his rocket?",
+        "answer_number": 1,
+        "candidates": [
+            "A. 3.",
+            "B. 4.",
+            "C. 5.",
+            "D. 2."
+        ],
+        "answer": "B. 4.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/GrO5sxp3n0E.mp4",
+        "question_id": 0,
+        "question": "How many items did the woman take out of her bag?",
+        "answer_number": 0,
+        "candidates": [
+            "A. 14.",
+            "B. 17.",
+            "C. 11.",
+            "D. 20."
+        ],
+        "answer": "A. 14.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/cVIfe0Gxa64.mp4",
+        "question_id": 0,
+        "question": "In the video, how many finishing cars were on the same team as the winning driver?",
+        "answer_number": 2,
+        "candidates": [
+            "A. 4.",
+            "B. 6.",
+            "C. 3.",
+            "D. 5."
+        ],
+        "answer": "C. 3.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/cVIfe0Gxa64.mp4",
+        "question_id": 0,
+        "question": "How many cars finished the race in the video?",
+        "answer_number": 1,
+        "candidates": [
+            "A. 23.",
+            "B. 21.",
+            "C. 25.",
+            "D. 29."
+        ],
+        "answer": "B. 21.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/uC8TK7GH85o.mp4",
+        "question_id": 0,
+        "question": "Throughout the video, how many scholars in total show up in the video and comment on Napoleon?",
+        "answer_number": 1,
+        "candidates": [
+            "A. Two.",
+            "B. Three.",
+            "C. One.",
+            "D. Four."
+        ],
+        "answer": "B. Three.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/B6tQyCH5hQM.mp4",
+        "question_id": 0,
+        "question": "How many colors of glaze are used in the video?",
+        "answer_number": 2,
+        "candidates": [
+            "A. Five.",
+            "B. Four.",
+            "C. Three.",
+            "D. Two."
+        ],
+        "answer": "C. Three.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/pU_yyadYgG8.mp4",
+        "question_id": 0,
+        "question": "How many times did Joeri appear when explaining the situation in the 1990s as described in the video?",
+        "answer_number": 0,
+        "candidates": [
+            "A. 8.",
+            "B. 9.",
+            "C. 6.",
+            "D. 7."
+        ],
+        "answer": "A. 8.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/YtAL8y2lACs.mp4",
+        "question_id": 0,
+        "question": "How many people does the Ross Ice Shelf team consist of?",
+        "answer_number": 2,
+        "candidates": [
+            "A. 2.",
+            "B. 23.",
+            "C. 12.",
+            "D. 8."
+        ],
+        "answer": "C. 12.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/HvKpnaXYUPU.mp4",
+        "question_id": 0,
+        "question": "How many cases are cited in the video to illustrate the craters caused by excessive methane in permafrost?",
+        "answer_number": 2,
+        "candidates": [
+            "A. One.",
+            "B. Three.",
+            "C. Two.",
+            "D. Four."
+        ],
+        "answer": "C. Two.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/MYxL_JLseC8.mp4",
+        "question_id": 0,
+        "question": "What configuration type is the demonstration of Decton after the professor introduces the topic of materials?",
+        "answer_number": 1,
+        "candidates": [
+            "A. U shape style.",
+            "B. L shape style.",
+            "C. Island style.",
+            "D. Galley style."
+        ],
+        "answer": "B. L shape style.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/z7SoAIq20lA.mp4",
+        "question_id": 0,
+        "question": "How many different pictures are edited in this video?",
+        "answer_number": 0,
+        "candidates": [
+            "A. 4.",
+            "B. 3.",
+            "C. 2.",
+            "D. 1."
+        ],
+        "answer": "A. 4.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/eKVTFXQPAhs.mp4",
+        "question_id": 0,
+        "question": "Assuming different models such as the S6 and S6 Edge are considered one generation, how many generations of Samsung Galaxy S series phones are shown in the video?",
+        "answer_number": 1,
+        "candidates": [
+            "A. 10.",
+            "B. 15.",
+            "C. 20.",
+            "D. 24."
+        ],
+        "answer": "B. 15.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/yGiM3kD12cU.mp4",
+        "question_id": 0,
+        "question": "According to the video, how many cars have broken 300 mph top speed?",
+        "answer_number": 3,
+        "candidates": [
+            "A. 0.",
+            "B. 2.",
+            "C. 3.",
+            "D. 1."
+        ],
+        "answer": "D. 1.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/b0HfmY64eSE.mp4",
+        "question_id": 0,
+        "question": "How many audio-like products are shown in the video?",
+        "answer_number": 0,
+        "candidates": [
+            "A. 3.",
+            "B. 4.",
+            "C. 2.",
+            "D. 5."
+        ],
+        "answer": "A. 3.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/KIg4rprmO9Y.mp4",
+        "question_id": 0,
+        "question": "How many times do news segments appear in this video?",
+        "answer_number": 2,
+        "candidates": [
+            "A. 2.",
+            "B. 4.",
+            "C. 6.",
+            "D. 8."
+        ],
+        "answer": "C. 6.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/y4-CnqfK3pk.mp4",
+        "question_id": 0,
+        "question": "According to the video, the price at which Jonas and Max sell drugs is approximately how many times the price in the origin country, Colombia?",
+        "answer_number": 1,
+        "candidates": [
+            "A. 2.",
+            "B. 33.",
+            "C. 10.",
+            "D. 333."
+        ],
+        "answer": "B. 33.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/y4-CnqfK3pk.mp4",
+        "question_id": 0,
+        "question": "How many people interviewed in the video are unwilling to show their faces?",
+        "answer_number": 2,
+        "candidates": [
+            "A. 8.",
+            "B. 1.",
+            "C. 5.",
+            "D. 2."
+        ],
+        "answer": "C. 5.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/UyaKyS2wTQk.mp4",
+        "question_id": 0,
+        "question": "How many patients were harmed by medical accidents in the video?",
+        "answer_number": 2,
+        "candidates": [
+            "A. 6.",
+            "B. 7.",
+            "C. 5.",
+            "D. 4."
+        ],
+        "answer": "C. 5.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/yk4eWjYVNYg.mp4",
+        "question_id": 0,
+        "question": "Based on the video, how many low-income individuals affected by housing issues were interviewed in total?",
+        "answer_number": 3,
+        "candidates": [
+            "A. 5.",
+            "B. 4.",
+            "C. 7.",
+            "D. 6."
+        ],
+        "answer": "D. 6.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/U9-Qy3H_UBY.mp4",
+        "question_id": 0,
+        "question": "How many 3-pointers does the college freshman protagonist in the video hit in a practice game?",
+        "answer_number": 2,
+        "candidates": [
+            "A. 3.",
+            "B. 4.",
+            "C. 2.",
+            "D. 1."
+        ],
+        "answer": "C. 2.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/-QuCz7kxBr8.mp4",
+        "question_id": 0,
+        "question": "How many valid goals does Jesse score in the final one-two session?",
+        "answer_number": 0,
+        "candidates": [
+            "A. 1.",
+            "B. 2.",
+            "C. 0.",
+            "D. 3."
+        ],
+        "answer": "A. 1.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/kg6L6LL523Q.mp4",
+        "question_id": 0,
+        "question": "After buying a cup of coffee, how many challenges does the man complete?",
+        "answer_number": 2,
+        "candidates": [
+            "A. 5.",
+            "B. 7.",
+            "C. 6.",
+            "D. 4."
+        ],
+        "answer": "C. 6.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/4qYqPmIO0v0.mp4",
+        "question_id": 0,
+        "question": "How many athletic goals did LIT score from the last technical statistic on shooting percentage before halftime to the end of the half?",
+        "answer_number": 0,
+        "candidates": [
+            "A. 4.",
+            "B. 2.",
+            "C. 1.",
+            "D. 6."
+        ],
+        "answer": "A. 4.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/4qYqPmIO0v0.mp4",
+        "question_id": 0,
+        "question": "How many timeouts does the HUN actively consume throughout the game?",
+        "answer_number": 3,
+        "candidates": [
+            "A. 2.",
+            "B. 5.",
+            "C. 7.",
+            "D. 3."
+        ],
+        "answer": "D. 3.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/-yWE13LbFd4.mp4",
+        "question_id": 0,
+        "question": "How many goals did the number 9 of the blue team score in the match?",
+        "answer_number": 1,
+        "candidates": [
+            "A. 1.",
+            "B. 2.",
+            "C. 3.",
+            "D. 4."
+        ],
+        "answer": "B. 2.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/-yWE13LbFd4.mp4",
+        "question_id": 0,
+        "question": "How many timeout substitutions were there during the game in the video?",
+        "answer_number": 1,
+        "candidates": [
+            "A. 1.",
+            "B. 2.",
+            "C. 3.",
+            "D. 4."
+        ],
+        "answer": "B. 2.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/i1p5PAgNvR0.mp4",
+        "question_id": 0,
+        "question": "How many of Liverpool's number 11, Salah's goals are featured in the video?",
+        "answer_number": 2,
+        "candidates": [
+            "A. 10.",
+            "B. 25.",
+            "C. 200.",
+            "D. 50."
+        ],
+        "answer": "C. 200.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/UZhe_SVdXRc.mp4",
+        "question_id": 0,
+        "question": "How many athletes in the video were eliminated while jumping a height of 2 metres 27?",
+        "answer_number": 1,
+        "candidates": [
+            "A. 1.",
+            "B. 2.",
+            "C. 3.",
+            "D. 4."
+        ],
+        "answer": "B. 2.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/sDWOsWawxPc.mp4",
+        "question_id": 0,
+        "question": "How many times did champions break world records in the matches shown in the video?",
+        "answer_number": 3,
+        "candidates": [
+            "A. 6.",
+            "B. 5.",
+            "C. 4.",
+            "D. 3."
+        ],
+        "answer": "D. 3.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/8UxGzDeRIJk.mp4",
+        "question_id": 0,
+        "question": "After how many minutes is it no longer possible to see two athletes side by side?",
+        "answer_number": 2,
+        "candidates": [
+            "A. 9.",
+            "B. 18.",
+            "C. 27.",
+            "D. 36."
+        ],
+        "answer": "C. 27.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/8UxGzDeRIJk.mp4",
+        "question_id": 0,
+        "question": "How many meters did they approximately complete in 25 minutes?",
+        "answer_number": 1,
+        "candidates": [
+            "A. 5000m.",
+            "B. 6000m.",
+            "C. 7000m.",
+            "D. 8000m."
+        ],
+        "answer": "B. 6000m.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/HKbJtgUrHGk.mp4",
+        "question_id": 0,
+        "question": "How many balls does the woman in pink pitch?",
+        "answer_number": 3,
+        "candidates": [
+            "A. 5.",
+            "B. 4.",
+            "C. 3.",
+            "D. She is just sitting and does not pitch a ball."
+        ],
+        "answer": "D. She is just sitting and does not pitch a ball.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/Xjf5N9S3jAA.mp4",
+        "question_id": 0,
+        "question": "According to what is shown in the video, how many match points and set points does the winner have before the last rally to win this match?",
+        "answer_number": 1,
+        "candidates": [
+            "A. 2 match points and 1 set points.",
+            "B. 2 match points and 2 set points.",
+            "C. 1 match points and 1 set points.",
+            "D. 1 match points and 2 set points."
+        ],
+        "answer": "B. 2 match points and 2 set points.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/7tLtu3QT2OI.mp4",
+        "question_id": 0,
+        "question": "How many scores does Fiji get at the very end of the first half?",
+        "answer_number": 3,
+        "candidates": [
+            "A. 1.",
+            "B. 3.",
+            "C. 5.",
+            "D. 7."
+        ],
+        "answer": "D. 7.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/rVPDIRSyS34.mp4",
+        "question_id": 0,
+        "question": "How many periods do they play for and how many photos are taken?",
+        "answer_number": 3,
+        "candidates": [
+            "A. 2 periods and 3 photos.",
+            "B. 3 periods and 3 photos.",
+            "C. 2 periods and 2 photos.",
+            "D. 3 periods and 2 photos."
+        ],
+        "answer": "D. 3 periods and 2 photos.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/0iED5BojTMI.mp4",
+        "question_id": 0,
+        "question": "How many games are hosted in this video?",
+        "answer_number": 3,
+        "candidates": [
+            "A. 6.",
+            "B. 7.",
+            "C. 8.",
+            "D. 9."
+        ],
+        "answer": "D. 9.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/0bwyCF0HteE.mp4",
+        "question_id": 0,
+        "question": "How many magic shows are included in this video?",
+        "answer_number": 0,
+        "candidates": [
+            "A. 10.",
+            "B. 9.",
+            "C. 8.",
+            "D. 7."
+        ],
+        "answer": "A. 10.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/hIJtZN8w03A.mp4",
+        "question_id": 0,
+        "question": "How many tricks are revealed in this video?",
+        "answer_number": 2,
+        "candidates": [
+            "A. 7.",
+            "B. 9.",
+            "C. 11.",
+            "D. 13."
+        ],
+        "answer": "C. 11.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/H6Y2KRfpRVY.mp4",
+        "question_id": 0,
+        "question": "How many magics are performed in this video?",
+        "answer_number": 0,
+        "candidates": [
+            "A. 5.",
+            "B. 4.",
+            "C. 3.",
+            "D. 2."
+        ],
+        "answer": "A. 5.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/AeEYQ62t8hA.mp4",
+        "question_id": 0,
+        "question": "How many guests were invited to participate in the interview in this segment of the video?",
+        "answer_number": 2,
+        "candidates": [
+            "A. 4.",
+            "B. 3.",
+            "C. 2.",
+            "D. 5."
+        ],
+        "answer": "C. 2.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/C8Rk__S06_M.mp4",
+        "question_id": 0,
+        "question": "In the early part of the video, during the One-Eyed Monster quiz task, how many questions did the team with the boy with dark skin answer correctly?",
+        "answer_number": 2,
+        "candidates": [
+            "A. 1.",
+            "B. 3.",
+            "C. 0.",
+            "D. 2."
+        ],
+        "answer": "C. 0.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/B6fvT2LKEDI.mp4",
+        "question_id": 0,
+        "question": "In how many instances does archery make an appearance during these performances?",
+        "answer_number": 1,
+        "candidates": [
+            "A. 2.",
+            "B. 3.",
+            "C. 4.",
+            "D. 5."
+        ],
+        "answer": "B. 3.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/yh-EHgkFci4.mp4",
+        "question_id": 0,
+        "question": "How many of the shows in the video are solo acts?",
+        "answer_number": 1,
+        "candidates": [
+            "A. 2.",
+            "B. 1.",
+            "C. 4.",
+            "D. 3."
+        ],
+        "answer": "B. 1.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/SeDGkRfpTqQ.mp4",
+        "question_id": 0,
+        "question": "How many dance group auditions are included in this video?",
+        "answer_number": 3,
+        "candidates": [
+            "A. 6.",
+            "B. 8.",
+            "C. 10.",
+            "D. 12."
+        ],
+        "answer": "D. 12.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/p0qf48lXD4M.mp4",
+        "question_id": 0,
+        "question": "How many DIYs have been made in this video?",
+        "answer_number": 2,
+        "candidates": [
+            "A. 6.",
+            "B. 8.",
+            "C. 10.",
+            "D. 12."
+        ],
+        "answer": "C. 10.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/k3zNTrWrbOU.mp4",
+        "question_id": 0,
+        "question": "If the woman in this video wears and changes one piece of clothes every day, then at least how many days is the video shot for?",
+        "answer_number": 3,
+        "candidates": [
+            "A. 11.",
+            "B. 9.",
+            "C. 7.",
+            "D. 5."
+        ],
+        "answer": "D. 5.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/h5Jx12SYKzk.mp4",
+        "question_id": 0,
+        "question": "How many kinds of planters are made in this video?",
+        "answer_number": 2,
+        "candidates": [
+            "A. Less than 10.",
+            "B. More than or equal to 10 but less than 15.",
+            "C. More than or equal to 15 but less than 20.",
+            "D. More than or equal to 20."
+        ],
+        "answer": "C. More than or equal to 15 but less than 20.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/azJ5pk5reX0.mp4",
+        "question_id": 0,
+        "question": "How many calories has the person in the video, who consumed a $100 golden burger, already eaten when he meets his teammate?",
+        "answer_number": 2,
+        "candidates": [
+            "A. 4660.",
+            "B. 5050.",
+            "C. 6070.",
+            "D. 8420."
+        ],
+        "answer": "C. 6070.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/y9Fne3oUwX4.mp4",
+        "question_id": 0,
+        "question": "As one team enjoys pizza, how many tasks has the other team completed?",
+        "answer_number": 0,
+        "candidates": [
+            "A. 11.",
+            "B. 15.",
+            "C. 12.",
+            "D. 26."
+        ],
+        "answer": "A. 11.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/CKYw_RG7i7w.mp4",
+        "question_id": 0,
+        "question": "According to the video, how many grandsons does the founder of Gucci have?",
+        "answer_number": 1,
+        "candidates": [
+            "A. 3.",
+            "B. 4.",
+            "C. 5.",
+            "D. 6."
+        ],
+        "answer": "B. 4.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/fLO5Ww0V2qU.mp4",
+        "question_id": 0,
+        "question": "How many stores has she visited in this video?",
+        "answer_number": 1,
+        "candidates": [
+            "A. 3.",
+            "B. 4.",
+            "C. 5.",
+            "D. 6."
+        ],
+        "answer": "B. 4.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/gHXaUDx7P0Y.mp4",
+        "question_id": 0,
+        "question": "How many major setbacks in Nike's development were mentioned in the video?",
+        "answer_number": 2,
+        "candidates": [
+            "A. 0.",
+            "B. 2.",
+            "C. 4.",
+            "D. 6."
+        ],
+        "answer": "C. 4.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/_T2Avd3tFHc.mp4",
+        "question_id": 0,
+        "question": "How many times does the traveler in the video reunite with the old grandpa?",
+        "answer_number": 1,
+        "candidates": [
+            "A. 4.",
+            "B. 3.",
+            "C. 2.",
+            "D. 5."
+        ],
+        "answer": "B. 3.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/YEok4Ykw204.mp4",
+        "question_id": 0,
+        "question": "According to the video, how many buildings were built in less than 110 years?",
+        "answer_number": 2,
+        "candidates": [
+            "A. 1.",
+            "B. 2.",
+            "C. 3.",
+            "D. 4."
+        ],
+        "answer": "C. 3.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/eZ5lFBPpRkM.mp4",
+        "question_id": 0,
+        "question": "When the people in the video saw the turtles for the first time, how many days into their journey was it?",
+        "answer_number": 1,
+        "candidates": [
+            "A. Day 2.",
+            "B. Day 3.",
+            "C. Day 1.",
+            "D. Day 4."
+        ],
+        "answer": "B. Day 3.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/0kRsiSdDFYg.mp4",
+        "question_id": 0,
+        "question": "How many goals did the player interviewed by the male host at the beginning of the video wearing a top with the word QARAR score in his first match?",
+        "answer_number": 2,
+        "candidates": [
+            "A. 3.",
+            "B. 2.",
+            "C. 1.",
+            "D. 4."
+        ],
+        "answer": "C. 1.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/8UQFaVCV8S8.mp4",
+        "question_id": 0,
+        "question": "After #41 completed his free throws, how many points was the team the author was rooting for ahead or behind the other team?",
+        "answer_number": 1,
+        "candidates": [
+            "A. 6 points ahead of the other team.",
+            "B. Trailing the other team by 12 points.",
+            "C. 12 points ahead of the other team.",
+            "D. Trailing the other team by 13 points."
+        ],
+        "answer": "B. Trailing the other team by 12 points.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/K9MQATj3894.mp4",
+        "question_id": 0,
+        "question": "How many embroidery techniques does the author teach in the video?",
+        "answer_number": 3,
+        "candidates": [
+            "A. 8.",
+            "B. 10.",
+            "C. 12.",
+            "D. 9."
+        ],
+        "answer": "D. 9.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/f-1xE_5uXDg.mp4",
+        "question_id": 0,
+        "question": "How many questions did the man in the pink shirt ask Miranda in the video?",
+        "answer_number": 0,
+        "candidates": [
+            "A. 8.",
+            "B. 9.",
+            "C. 7.",
+            "D. 6."
+        ],
+        "answer": "A. 8.",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    }
+]

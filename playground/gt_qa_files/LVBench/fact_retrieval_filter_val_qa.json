@@ -1,0 +1,2722 @@
+[
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/Cm73ma6Ibcs.mp4",
+        "question_id": "63",
+        "question": "How many sticks does the protagonist put in the incense burner?",
+        "answer_number": 3,
+        "candidates": [
+            "A.  3",
+            "B.  2",
+            "C.  5",
+            "D.  1"
+        ],
+        "answer": "D.  1",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/Cm73ma6Ibcs.mp4",
+        "question_id": "67",
+        "question": "How many people are carrying the sedan chair for the woman?",
+        "answer_number": 2,
+        "candidates": [
+            "A.  4",
+            "B.  8",
+            "C.  6",
+            "D.  2"
+        ],
+        "answer": "C.  6",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/Cm73ma6Ibcs.mp4",
+        "question_id": "71",
+        "question": "How many times does the protagonist knock on the green door?",
+        "answer_number": 3,
+        "candidates": [
+            "A.  1",
+            "B.  5",
+            "C.  2",
+            "D.  4"
+        ],
+        "answer": "D.  4",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/28CIeC8cZks.mp4",
+        "question_id": "221",
+        "question": "How many people are leaving by boat in the video?",
+        "answer_number": 3,
+        "candidates": [
+            "A.  2",
+            "B.  4",
+            "C.  0",
+            "D.  1"
+        ],
+        "answer": "D.  1",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/28CIeC8cZks.mp4",
+        "question_id": "223",
+        "question": "The girl rescue a total of how many spirits?",
+        "answer_number": 2,
+        "candidates": [
+            "A.  5",
+            "B.  2",
+            "C.  4",
+            "D.  3"
+        ],
+        "answer": "C.  4",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/TJR1oYDDTwg.mp4",
+        "question_id": "251",
+        "question": "How many birds are there flying at the beginning of the video?",
+        "answer_number": 2,
+        "candidates": [
+            "A.  6",
+            "B.  4",
+            "C.  5",
+            "D.  8"
+        ],
+        "answer": "C.  5",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/TJR1oYDDTwg.mp4",
+        "question_id": "252",
+        "question": "How many doors have colored lights at 00:29?",
+        "answer_number": 2,
+        "candidates": [
+            "A.  2",
+            "B.  1",
+            "C.  3",
+            "D.  0"
+        ],
+        "answer": "C.  3",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/HfEVEGf1A8Q.mp4",
+        "question_id": "417",
+        "question": "How many monsters does the ghost hunter capture first?",
+        "answer_number": 3,
+        "candidates": [
+            "A.  3",
+            "B.  6",
+            "C.  5",
+            "D.  4"
+        ],
+        "answer": "D.  4",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/2sriHX3PbXw.mp4",
+        "question_id": "503",
+        "question": "How many round glasses are there in the round frame above the house?",
+        "answer_number": 0,
+        "candidates": [
+            "A.  7",
+            "B.  5",
+            "C.  6",
+            "D.  8"
+        ],
+        "answer": "A.  7",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/2sriHX3PbXw.mp4",
+        "question_id": "509",
+        "question": "How many mice run across the roof above the street?",
+        "answer_number": 1,
+        "candidates": [
+            "A.  5",
+            "B.  2",
+            "C.  3",
+            "D.  1"
+        ],
+        "answer": "B.  2",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/2sriHX3PbXw.mp4",
+        "question_id": "510",
+        "question": "There is a group of people wearing the same outfit, lining up in a line across the street. How many people are there",
+        "answer_number": 1,
+        "candidates": [
+            "A.  8",
+            "B.  6",
+            "C.  5",
+            "D.  4"
+        ],
+        "answer": "B.  6",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/2sriHX3PbXw.mp4",
+        "question_id": "514",
+        "question": "How many people are there in the government?",
+        "answer_number": 0,
+        "candidates": [
+            "A.  7",
+            "B.  8",
+            "C.  6",
+            "D.  5"
+        ],
+        "answer": "A.  7",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/2sriHX3PbXw.mp4",
+        "question_id": "527",
+        "question": "One of the events for the celebration is a number of people riding on top of each other and performing acrobatics. How many people are there?",
+        "answer_number": 1,
+        "candidates": [
+            "A.  5",
+            "B.  3",
+            "C.  2",
+            "D.  4"
+        ],
+        "answer": "B.  3",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/_zrgbA3FMVE.mp4",
+        "question_id": "674",
+        "question": "How many knives are hanging on the wall of the kitchen where the chef is?",
+        "answer_number": 0,
+        "candidates": [
+            "A.  8",
+            "B.  6",
+            "C.  11",
+            "D.  9"
+        ],
+        "answer": "A.  8",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/5dZ_lvDgevk.mp4",
+        "question_id": "914",
+        "question": "How many people are interviewed in the M.I.T. AI Lab for using AI to learn about cancer detection with mammogram data?",
+        "answer_number": 1,
+        "candidates": [
+            "A.  0",
+            "B.  2",
+            "C.  1",
+            "D.  3"
+        ],
+        "answer": "B.  2",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/5dZ_lvDgevk.mp4",
+        "question_id": "918",
+        "question": "Based on the visual elements, can you identify the theme of this video?",
+        "answer_number": 0,
+        "candidates": [
+            "A.  AI technology",
+            "B.  Future cities",
+            "C.  Industrial innovation",
+            "D.  Automation and robotics"
+        ],
+        "answer": "A.  AI technology",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/aJI8XTa_DII.mp4",
+        "question_id": "1227",
+        "question": "How many flags of the Russian Federation are there on the stage when Putin delivers the first speech?",
+        "answer_number": 0,
+        "candidates": [
+            "A.  5",
+            "B.  1",
+            "C.  9",
+            "D.  4"
+        ],
+        "answer": "A.  5",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/aJI8XTa_DII.mp4",
+        "question_id": "1234",
+        "question": "When Putin spoke for the first time in the video, how many microphones were on the stage?",
+        "answer_number": 2,
+        "candidates": [
+            "A.  4",
+            "B.  3",
+            "C.  2",
+            "D.  1"
+        ],
+        "answer": "C.  2",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/aJI8XTa_DII.mp4",
+        "question_id": "1235",
+        "question": "During Putin's first speech on stage in the video, how many women appeared when the camera panned offstage?",
+        "answer_number": 2,
+        "candidates": [
+            "A.  2",
+            "B.  4",
+            "C.  1",
+            "D.  0"
+        ],
+        "answer": "C.  1",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/aJI8XTa_DII.mp4",
+        "question_id": "1240",
+        "question": "How many microphones are on stage during Donald Trump's speech?",
+        "answer_number": 3,
+        "candidates": [
+            "A.  3",
+            "B.  2",
+            "C.  0",
+            "D.  1"
+        ],
+        "answer": "D.  1",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/aJI8XTa_DII.mp4",
+        "question_id": "1246",
+        "question": "How many trucks are there in the garage with soldiers in white direct the way in the next scene after the Russian plane takes off?",
+        "answer_number": 3,
+        "candidates": [
+            "A.  12",
+            "B.  9",
+            "C.  8",
+            "D.  10"
+        ],
+        "answer": "D.  10",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/t-RtDI2RWQs.mp4",
+        "question_id": "1670",
+        "question": "How many times does Christopher Nolan came onstage?",
+        "answer_number": 1,
+        "candidates": [
+            "A.  0",
+            "B.  2",
+            "C.  3",
+            "D.  1"
+        ],
+        "answer": "B.  2",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/8QdE--Y-x7U.mp4",
+        "question_id": "1947",
+        "question": "How many hosts have changed?",
+        "answer_number": 2,
+        "candidates": [
+            "A.  5",
+            "B.  3",
+            "C.  6",
+            "D.  1"
+        ],
+        "answer": "C.  6",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/8QdE--Y-x7U.mp4",
+        "question_id": "1958",
+        "question": "How many female winners are there in this Nobel Prize?",
+        "answer_number": 3,
+        "candidates": [
+            "A.  Only one woman won the prize this year",
+            "B.  Half of the winners this year are women",
+            "C.  Two women won the prize this year",
+            "D.  No women have won prizes this year"
+        ],
+        "answer": "D.  No women have won prizes this year",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/8QdE--Y-x7U.mp4",
+        "question_id": "1963",
+        "question": "How many people won this year?",
+        "answer_number": 2,
+        "candidates": [
+            "A.  12",
+            "B.  14",
+            "C.  11",
+            "D.  13"
+        ],
+        "answer": "C.  11",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/8QdE--Y-x7U.mp4",
+        "question_id": "1964",
+        "question": "How many hosts didn't wear any badges on their chests?",
+        "answer_number": 0,
+        "candidates": [
+            "A.  4",
+            "B.  3",
+            "C.  1",
+            "D.  8"
+        ],
+        "answer": "A.  4",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/idZkam9zqAs.mp4",
+        "question_id": "2284",
+        "question": "How many flamingo props appear on the stage?",
+        "answer_number": 1,
+        "candidates": [
+            "A.  4",
+            "B.  2",
+            "C.  3",
+            "D.  1"
+        ],
+        "answer": "B.  2",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/idZkam9zqAs.mp4",
+        "question_id": "2291",
+        "question": "How many people use the trampolines on stage during the performance?",
+        "answer_number": 1,
+        "candidates": [
+            "A.  5",
+            "B.  4",
+            "C.  2",
+            "D.  3"
+        ],
+        "answer": "B.  4",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/idZkam9zqAs.mp4",
+        "question_id": "2293",
+        "question": "When the three accompanying singers in black appear on the stage for the first time, how many keyboard players are behind them?",
+        "answer_number": 3,
+        "candidates": [
+            "A.  1",
+            "B.  3",
+            "C.  0",
+            "D.  2"
+        ],
+        "answer": "D.  2",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/o-gLbgpzCc8.mp4",
+        "question_id": "2411",
+        "question": "When the Buddha statue appears, how many people are next to it?",
+        "answer_number": 1,
+        "candidates": [
+            "A.  2",
+            "B.  3",
+            "C.  1",
+            "D.  4"
+        ],
+        "answer": "B.  3",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/o-gLbgpzCc8.mp4",
+        "question_id": "2413",
+        "question": "When the actors take their final call, how many people in white and purple clothes are the first to appear on the stage?",
+        "answer_number": 2,
+        "candidates": [
+            "A.  14",
+            "B.  12",
+            "C.  11",
+            "D.  13"
+        ],
+        "answer": "C.  11",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/QWXlvx1GoTY.mp4",
+        "question_id": "2468",
+        "question": "How many women are there to speak on the stage?",
+        "answer_number": 3,
+        "candidates": [
+            "A.  3",
+            "B.  0",
+            "C.  1",
+            "D.  2"
+        ],
+        "answer": "D.  2",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/QWXlvx1GoTY.mp4",
+        "question_id": "2476",
+        "question": "How many chairs are there in the picture at 01:42?",
+        "answer_number": 0,
+        "candidates": [
+            "A.  3",
+            "B.  0",
+            "C.  1",
+            "D.  2"
+        ],
+        "answer": "A.  3",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/QWXlvx1GoTY.mp4",
+        "question_id": "2477",
+        "question": "How many times does Jeetu Patel speak on stage?",
+        "answer_number": 0,
+        "candidates": [
+            "A.  2",
+            "B.  1",
+            "C.  3",
+            "D.  4"
+        ],
+        "answer": "A.  2",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/USfvmoalqsw.mp4",
+        "question_id": "2731",
+        "question": "How many percentage of the land is covered in forest mentioned in the video?",
+        "answer_number": 1,
+        "candidates": [
+            "A.  60",
+            "B.  70",
+            "C.  40",
+            "D.  50"
+        ],
+        "answer": "B.  70",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/RbpKkvlHYTw.mp4",
+        "question_id": "2790",
+        "question": "How many pictures of food are on the menu at 17:49?",
+        "answer_number": 2,
+        "candidates": [
+            "A.  6",
+            "B.  5",
+            "C.  11",
+            "D.  10"
+        ],
+        "answer": "C.  11",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/RbpKkvlHYTw.mp4",
+        "question_id": "2795",
+        "question": "How many meals does the vlogger eat in Seoul?",
+        "answer_number": 0,
+        "candidates": [
+            "A.  8",
+            "B.  6",
+            "C.  7",
+            "D.  5"
+        ],
+        "answer": "A.  8",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/RbpKkvlHYTw.mp4",
+        "question_id": "2809",
+        "question": "How many time has the vlogger been to Seoul in this video?",
+        "answer_number": 1,
+        "candidates": [
+            "A.  0",
+            "B.  2",
+            "C.  3",
+            "D.  1"
+        ],
+        "answer": "B.  2",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/JPPMz8fEml0.mp4",
+        "question_id": "2972",
+        "question": "How many vloggers find a place to live before sunset?",
+        "answer_number": 0,
+        "candidates": [
+            "A.  0",
+            "B.  1",
+            "C.  2",
+            "D.  3"
+        ],
+        "answer": "A.  0",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/JPPMz8fEml0.mp4",
+        "question_id": "2987",
+        "question": "How many vloggers find a place to live at night?",
+        "answer_number": 3,
+        "candidates": [
+            "A.  1",
+            "B.  0",
+            "C.  2",
+            "D.  3"
+        ],
+        "answer": "D.  3",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/uusf1qG_uZ4.mp4",
+        "question_id": "3187",
+        "question": "How many times do these kids take the school bus together?",
+        "answer_number": 0,
+        "candidates": [
+            "A.  3",
+            "B.  2",
+            "C.  4",
+            "D.  1"
+        ],
+        "answer": "A.  3",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/uusf1qG_uZ4.mp4",
+        "question_id": "3188",
+        "question": "How many female substitute daycare teachers have appeared in total?",
+        "answer_number": 2,
+        "candidates": [
+            "A.  3",
+            "B.  4",
+            "C.  2",
+            "D.  1"
+        ],
+        "answer": "C.  2",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/O14bbpvy2x0.mp4",
+        "question_id": "3336",
+        "question": "How many burgers does the vlogger make during the video?",
+        "answer_number": 1,
+        "candidates": [
+            "A.  24",
+            "B.  19",
+            "C.  25",
+            "D.  12"
+        ],
+        "answer": "B.  19",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/O14bbpvy2x0.mp4",
+        "question_id": "3347",
+        "question": "How many pieces of patties does the vlogger cook at the very begining?",
+        "answer_number": 1,
+        "candidates": [
+            "A.  3",
+            "B.  2",
+            "C.  1",
+            "D.  4"
+        ],
+        "answer": "B.  2",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/O14bbpvy2x0.mp4",
+        "question_id": "3350",
+        "question": "How many patties are there in the first hamburger made by the vlogger?",
+        "answer_number": 1,
+        "candidates": [
+            "A.  0",
+            "B.  2",
+            "C.  1",
+            "D.  3"
+        ],
+        "answer": "B.  2",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/O14bbpvy2x0.mp4",
+        "question_id": "3361",
+        "question": "How many melting domes are there in total?",
+        "answer_number": 3,
+        "candidates": [
+            "A.  2",
+            "B.  3",
+            "C.  5",
+            "D.  4"
+        ],
+        "answer": "D.  4",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/O14bbpvy2x0.mp4",
+        "question_id": "3369",
+        "question": "How many slices of cheese does the vlogger put on each patty from 19:25-19:45?",
+        "answer_number": 2,
+        "candidates": [
+            "A.  3 in total. 2 on the left, 1 one the right",
+            "B.  4 in total. 2 on the left, 2 one the right",
+            "C.  2 in total. 1 on the left, 1 one the right",
+            "D.  3 in total. 1 on the left, 2 one the right"
+        ],
+        "answer": "C.  2 in total. 1 on the left, 1 one the right",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/3_upA09AntU.mp4",
+        "question_id": "3378",
+        "question": "How many plates does the chef place on the table from 04:40-04:46?",
+        "answer_number": 0,
+        "candidates": [
+            "A.  3",
+            "B.  1",
+            "C.  2",
+            "D.  4"
+        ],
+        "answer": "A.  3",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/3_upA09AntU.mp4",
+        "question_id": "3382",
+        "question": "How many spoonfuls of sauce are placed on the two plates from 09:13-09:30?",
+        "answer_number": 3,
+        "candidates": [
+            "A.  3",
+            "B.  1",
+            "C.  2",
+            "D.  4"
+        ],
+        "answer": "D.  4",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/3_upA09AntU.mp4",
+        "question_id": "3385",
+        "question": "How many times does the chef put condiments on broccoli?",
+        "answer_number": 2,
+        "candidates": [
+            "A.  6",
+            "B.  5",
+            "C.  8",
+            "D.  7"
+        ],
+        "answer": "C.  8",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/3_upA09AntU.mp4",
+        "question_id": "3392",
+        "question": "How many steak on the left side of the table at 21:00?",
+        "answer_number": 0,
+        "candidates": [
+            "A.  3",
+            "B.  1",
+            "C.  2",
+            "D.  4"
+        ],
+        "answer": "A.  3",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/3_upA09AntU.mp4",
+        "question_id": "3393",
+        "question": "How many times does the chef wash his hands during the entire process?",
+        "answer_number": 2,
+        "candidates": [
+            "A.  3",
+            "B.  2",
+            "C.  1",
+            "D.  4"
+        ],
+        "answer": "C.  1",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/gbDR39yIs3Y.mp4",
+        "question_id": "3446",
+        "question": "How many tops does the vlogger wear to go out?",
+        "answer_number": 1,
+        "candidates": [
+            "A.  2, a camisole and a down coat",
+            "B.  3, a camisole, a hoodie, and a down coat",
+            "C.  4, a camisole, a shirt, a hoodie, and a down coat",
+            "D.  1, a camisole"
+        ],
+        "answer": "B.  3, a camisole, a hoodie, and a down coat",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/rSE2YPcv89U.mp4",
+        "question_id": "3649",
+        "question": "How many substitutions does Liverpool make?",
+        "answer_number": 1,
+        "candidates": [
+            "A.  Liverpool makes ten substitutions during the match",
+            "B.  Liverpool makes two substitutions during the match",
+            "C.  Liverpool makes four substitutions during the match",
+            "D.  Liverpool makes three substitutions during the match"
+        ],
+        "answer": "B.  Liverpool makes two substitutions during the match",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/Xjf5N9S3jAA.mp4",
+        "question_id": "3955",
+        "question": "How many titles did Tsitsipas got?",
+        "answer_number": 3,
+        "candidates": [
+            "A.  98",
+            "B.  12",
+            "C.  3",
+            "D.  10"
+        ],
+        "answer": "D.  10",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/VTCDQYYKA9o.mp4",
+        "question_id": "4092",
+        "question": "How many points does Fan Zhendong score in the fourth game?",
+        "answer_number": 2,
+        "candidates": [
+            "A.  7",
+            "B.  2",
+            "C.  9",
+            "D.  4"
+        ],
+        "answer": "C.  9",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/CgvJqGxzRfE.mp4",
+        "question_id": "4455",
+        "question": "How many coaches are turning for the second player?",
+        "answer_number": 0,
+        "candidates": [
+            "A.  One referee turns around for him",
+            "B.  Two referees turn around for him",
+            "C.  No referee turns around for him",
+            "D.  Three referees turn around for him"
+        ],
+        "answer": "A.  One referee turns around for him",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/EwskdNETNx8.mp4",
+        "question_id": "4482",
+        "question": "How many contestants can be seen playing the piano in the video?",
+        "answer_number": 3,
+        "candidates": [
+            "A.  1",
+            "B.  4",
+            "C.  3",
+            "D.  2"
+        ],
+        "answer": "D.  2",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/EwskdNETNx8.mp4",
+        "question_id": "4495",
+        "question": "How many rings are the 12th contestant wearing on their hands?",
+        "answer_number": 0,
+        "candidates": [
+            "A.  2",
+            "B.  0",
+            "C.  3",
+            "D.  1"
+        ],
+        "answer": "A.  2",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/EwskdNETNx8.mp4",
+        "question_id": "4498",
+        "question": "How many coaches turn their chairs during the performance from 24:49-26:00?",
+        "answer_number": 2,
+        "candidates": [
+            "A.  4",
+            "B.  2",
+            "C.  3",
+            "D.  1"
+        ],
+        "answer": "C.  3",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/vZV2WCKMsKs.mp4",
+        "question_id": "4686",
+        "question": "How many dogs does Diana Vedyashinka perform with?",
+        "answer_number": 1,
+        "candidates": [
+            "A.  Three",
+            "B.  Five",
+            "C.  Six",
+            "D.  Four"
+        ],
+        "answer": "B.  Five",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/vZV2WCKMsKs.mp4",
+        "question_id": "4693",
+        "question": "How many legs does Bogart have?",
+        "answer_number": 1,
+        "candidates": [
+            "A.  Four",
+            "B.  Three",
+            "C.  One",
+            "D.  Two"
+        ],
+        "answer": "B.  Three",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/vZV2WCKMsKs.mp4",
+        "question_id": "4694",
+        "question": "How many \"Yes\"does Bogart get?",
+        "answer_number": 0,
+        "candidates": [
+            "A.  Four",
+            "B.  One",
+            "C.  Three",
+            "D.  Two"
+        ],
+        "answer": "A.  Four",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/vZV2WCKMsKs.mp4",
+        "question_id": "4698",
+        "question": "How many piles are the cards in front of the judges divided into by the woman in red?",
+        "answer_number": 2,
+        "candidates": [
+            "A.  6",
+            "B.  2",
+            "C.  4",
+            "D.  3"
+        ],
+        "answer": "C.  4",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/vZV2WCKMsKs.mp4",
+        "question_id": "4703",
+        "question": "How many judges are there?",
+        "answer_number": 1,
+        "candidates": [
+            "A.  Five",
+            "B.  Four",
+            "C.  Six",
+            "D.  Three"
+        ],
+        "answer": "B.  Four",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/vZV2WCKMsKs.mp4",
+        "question_id": "4705",
+        "question": "How many \"woofs\" does Chico have?",
+        "answer_number": 1,
+        "candidates": [
+            "A.  Two",
+            "B.  Four",
+            "C.  Three",
+            "D.  One"
+        ],
+        "answer": "B.  Four",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/vZV2WCKMsKs.mp4",
+        "question_id": "4706",
+        "question": "How many dogs go on the stage in the first hour of this video?",
+        "answer_number": 3,
+        "candidates": [
+            "A.  24",
+            "B.  30",
+            "C.  25",
+            "D.  29"
+        ],
+        "answer": "D.  29",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/sk00epALZps.mp4",
+        "question_id": "4769",
+        "question": "How many times did Kobe Bryant appear and in what years was he invited to this show in the video?",
+        "answer_number": 0,
+        "candidates": [
+            "A.  6 times, respectively in 2008, 2009, 2010, 2013, 2018, and 2019",
+            "B.  5 times, respectively in 2008, 2009, 2010, 2013, and 2019",
+            "C.  6 times, respectively in 2008, 2009, 2010, 2012, 2018, and 2019",
+            "D.  5 times, respectively in 2008, 2009, 2010, 2012, and 2019"
+        ],
+        "answer": "A.  6 times, respectively in 2008, 2009, 2010, 2013, 2018, and 2019",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/NzCO0G8AGLU.mp4",
+        "question_id": "4846",
+        "question": "How many years older is Paul than Beth?",
+        "answer_number": 3,
+        "candidates": [
+            "A.  30",
+            "B.  36",
+            "C.  3",
+            "D.  6"
+        ],
+        "answer": "D.  6",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/Vk_Af0htZGU.mp4",
+        "question_id": "5038",
+        "question": "How many pairs of guests participated in the program in total?",
+        "answer_number": 3,
+        "candidates": [
+            "A.  42",
+            "B.  4",
+            "C.  6",
+            "D.  5"
+        ],
+        "answer": "D.  5",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/moALQl818ZY.mp4",
+        "question_id": "5268",
+        "question": "How many news events were told during this time 24:04-27:10?",
+        "answer_number": 1,
+        "candidates": [
+            "A.  7",
+            "B.  5",
+            "C.  6",
+            "D.  4"
+        ],
+        "answer": "B.  5",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/moALQl818ZY.mp4",
+        "question_id": "5272",
+        "question": "How many people appear in the screen when NCAA WOMAN'S BASKETBALL VP is interviewed?",
+        "answer_number": 0,
+        "candidates": [
+            "A.  3",
+            "B.  2",
+            "C.  4",
+            "D.  1"
+        ],
+        "answer": "A.  3",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/qAIRFyR6NyQ.mp4",
+        "question_id": "9",
+        "question": "When the protagonist first enters the building with a hidden door disguised as a bookshelf, how many people are in the room?",
+        "answer_number": 2,
+        "candidates": [
+            "A.  4",
+            "B.  3",
+            "C.  5",
+            "D.  2"
+        ],
+        "answer": "C.  5",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/qAIRFyR6NyQ.mp4",
+        "question_id": "19",
+        "question": "How many birthdays does the protagonist celebrate in the video?",
+        "answer_number": 3,
+        "candidates": [
+            "A.  1",
+            "B.  0",
+            "C.  4",
+            "D.  3"
+        ],
+        "answer": "D.  3",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/qYMnM5blZIE.mp4",
+        "question_id": "303",
+        "question": "How many mantises appear attack the two ladybugs at the shore?",
+        "answer_number": 2,
+        "candidates": [
+            "A.  5",
+            "B.  1",
+            "C.  4",
+            "D.  3"
+        ],
+        "answer": "C.  4",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/qYMnM5blZIE.mp4",
+        "question_id": "304",
+        "question": "How many insects are on the board when they arrive at the caterpillar kingdom?",
+        "answer_number": 3,
+        "candidates": [
+            "A.  0",
+            "B.  5",
+            "C.  3",
+            "D.  4"
+        ],
+        "answer": "D.  4",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/SRq0weUKskM.mp4",
+        "question_id": "498",
+        "question": "How many fairies are trapped on the spider web?",
+        "answer_number": 3,
+        "candidates": [
+            "A.  0",
+            "B.  2",
+            "C.  1",
+            "D.  3"
+        ],
+        "answer": "D.  3",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/S8vPx-u9p_A.mp4",
+        "question_id": "599",
+        "question": "How many swallows live in the birdhouse?",
+        "answer_number": 1,
+        "candidates": [
+            "A.  1",
+            "B.  2",
+            "C.  0",
+            "D.  3"
+        ],
+        "answer": "B.  2",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/RjDrZkBwzho.mp4",
+        "question_id": "757",
+        "question": "How many pink and blue shrews are talking to the big mouse?",
+        "answer_number": 3,
+        "candidates": [
+            "A.  6",
+            "B.  3",
+            "C.  4",
+            "D.  5"
+        ],
+        "answer": "D.  5",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/RjDrZkBwzho.mp4",
+        "question_id": "764",
+        "question": "How many policemen are riding cars from 10:05-10:07?",
+        "answer_number": 0,
+        "candidates": [
+            "A.  6",
+            "B.  4",
+            "C.  5",
+            "D.  7"
+        ],
+        "answer": "A.  6",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/RjDrZkBwzho.mp4",
+        "question_id": "766",
+        "question": "How many shots does Sheriff Black Cat fire after he finds the black mice?",
+        "answer_number": 1,
+        "candidates": [
+            "A.  6",
+            "B.  5",
+            "C.  8",
+            "D.  2"
+        ],
+        "answer": "B.  5",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/RjDrZkBwzho.mp4",
+        "question_id": "784",
+        "question": "How many guns does the dove have in her hand to attack the criminals?",
+        "answer_number": 2,
+        "candidates": [
+            "A.  0",
+            "B.  1",
+            "C.  2",
+            "D.  3"
+        ],
+        "answer": "C.  2",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/XNtNNplAwiI.mp4",
+        "question_id": "811",
+        "question": "How many calabashs are there on the calabash vine?",
+        "answer_number": 3,
+        "candidates": [
+            "A.  8",
+            "B.  6",
+            "C.  5",
+            "D.  7"
+        ],
+        "answer": "D.  7",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/wNCPgIVz15c.mp4",
+        "question_id": "1322",
+        "question": "How many women does the American man have dinner face-to-face with in the video?",
+        "answer_number": 1,
+        "candidates": [
+            "A.  8",
+            "B.  7",
+            "C.  4",
+            "D.  6"
+        ],
+        "answer": "B.  7",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/wNCPgIVz15c.mp4",
+        "question_id": "1326",
+        "question": "In the video, how many people are having breakfast with the American man? (Excluding himself)",
+        "answer_number": 2,
+        "candidates": [
+            "A.  2",
+            "B.  6",
+            "C.  8",
+            "D.  4"
+        ],
+        "answer": "C.  8",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/wNCPgIVz15c.mp4",
+        "question_id": "1333",
+        "question": "How many different outfits has the American man worn in total in the video?",
+        "answer_number": 2,
+        "candidates": [
+            "A.  10",
+            "B.  1",
+            "C.  5",
+            "D.  2"
+        ],
+        "answer": "C.  5",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/ihfjEFGdZdc.mp4",
+        "question_id": "1605",
+        "question": "How many people are interviewed in this video?",
+        "answer_number": 1,
+        "candidates": [
+            "A.  13",
+            "B.  10",
+            "C.  7",
+            "D.  16"
+        ],
+        "answer": "B.  10",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/vaL_vSdZKZo.mp4",
+        "question_id": "1619",
+        "question": "How many people are there in the descending elevator?",
+        "answer_number": 0,
+        "candidates": [
+            "A.  3",
+            "B.  2",
+            "C.  1",
+            "D.  4"
+        ],
+        "answer": "A.  3",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/vaL_vSdZKZo.mp4",
+        "question_id": "1622",
+        "question": "How many people dragged the blue and white wooden boat ashore at the same time?",
+        "answer_number": 2,
+        "candidates": [
+            "A.  10",
+            "B.  12",
+            "C.  11",
+            "D.  13"
+        ],
+        "answer": "C.  11",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/vaL_vSdZKZo.mp4",
+        "question_id": "1625",
+        "question": "Before Svetlana McGlaser spoke, how many floors did the building in the video have?",
+        "answer_number": 1,
+        "candidates": [
+            "A.  There are eight floors",
+            "B.  There are five floors",
+            "C.  There are six floors",
+            "D.  There are four floors"
+        ],
+        "answer": "B.  There are five floors",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/vaL_vSdZKZo.mp4",
+        "question_id": "1628",
+        "question": "Before GEIR-OVE spoke, how many of the runners had bottled water?",
+        "answer_number": 3,
+        "candidates": [
+            "A.  3",
+            "B.  4",
+            "C.  6",
+            "D.  1"
+        ],
+        "answer": "D.  1",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/vaL_vSdZKZo.mp4",
+        "question_id": "1636",
+        "question": "How many times did Sergey Sarancha's interview segments appear?",
+        "answer_number": 3,
+        "candidates": [
+            "A.  0",
+            "B.  3",
+            "C.  1",
+            "D.  2"
+        ],
+        "answer": "D.  2",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/7HjNIPIgUg4.mp4",
+        "question_id": "1821",
+        "question": "How many microphones does the male host have in his opening speech?",
+        "answer_number": 1,
+        "candidates": [
+            "A.  All three are tabletop microphones",
+            "B.  Three, one headset and two desktop microphones",
+            "C.  Two, a microphone and a tabletop microphone",
+            "D.  Three, one headset and two tabletop microphones"
+        ],
+        "answer": "B.  Three, one headset and two desktop microphones",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/7HjNIPIgUg4.mp4",
+        "question_id": "1829",
+        "question": "How many winners did not come to the scene to receive their awards?",
+        "answer_number": 0,
+        "candidates": [
+            "A.  2",
+            "B.  1",
+            "C.  3",
+            "D.  4"
+        ],
+        "answer": "A.  2",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/7HjNIPIgUg4.mp4",
+        "question_id": "1830",
+        "question": "How many times has Ronaldo been on stage?",
+        "answer_number": 2,
+        "candidates": [
+            "A.  5",
+            "B.  3",
+            "C.  4",
+            "D.  2"
+        ],
+        "answer": "C.  4",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/7HjNIPIgUg4.mp4",
+        "question_id": "1845",
+        "question": "How many awards did Manchester City win in this awards?",
+        "answer_number": 0,
+        "candidates": [
+            "A.  6",
+            "B.  5",
+            "C.  7",
+            "D.  4"
+        ],
+        "answer": "A.  6",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/8NHmfpkxTSw.mp4",
+        "question_id": "1855",
+        "question": "How many tiers of seats are there behind the rostrum?",
+        "answer_number": 2,
+        "candidates": [
+            "A.  4",
+            "B.  3",
+            "C.  5",
+            "D.  6"
+        ],
+        "answer": "C.  5",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/8NHmfpkxTSw.mp4",
+        "question_id": "1856",
+        "question": "How many women are there in the first row on the right hand side of the host?",
+        "answer_number": 2,
+        "candidates": [
+            "A.  4",
+            "B.  1",
+            "C.  2",
+            "D.  3"
+        ],
+        "answer": "C.  2",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/8NHmfpkxTSw.mp4",
+        "question_id": "1861",
+        "question": "How many people have won the Nobel Prize in Chemistry?",
+        "answer_number": 3,
+        "candidates": [
+            "A.  4",
+            "B.  1",
+            "C.  2",
+            "D.  3"
+        ],
+        "answer": "D.  3",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/YlQugR7KSKg.mp4",
+        "question_id": "1897",
+        "question": "How many Nobel Prizes in physiology or medicine have been awarded?",
+        "answer_number": 2,
+        "candidates": [
+            "A.  1",
+            "B.  3",
+            "C.  2",
+            "D.  4"
+        ],
+        "answer": "C.  2",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/YlQugR7KSKg.mp4",
+        "question_id": "1900",
+        "question": "How many women are there on the right side of the stage, from the perspective of the camera view?",
+        "answer_number": 3,
+        "candidates": [
+            "A.  5",
+            "B.  4",
+            "C.  6",
+            "D.  7"
+        ],
+        "answer": "D.  7",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/YlQugR7KSKg.mp4",
+        "question_id": "1907",
+        "question": "How many hosts have changed?",
+        "answer_number": 1,
+        "candidates": [
+            "A.  7",
+            "B.  5",
+            "C.  6",
+            "D.  4"
+        ],
+        "answer": "B.  5",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/lDlA7cfNk8A.mp4",
+        "question_id": "1917",
+        "question": "How many hostesses are there?",
+        "answer_number": 2,
+        "candidates": [
+            "A.  5",
+            "B.  1",
+            "C.  3",
+            "D.  2"
+        ],
+        "answer": "C.  3",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/lDlA7cfNk8A.mp4",
+        "question_id": "1921",
+        "question": "How many winners are there this year?",
+        "answer_number": 3,
+        "candidates": [
+            "A.  13",
+            "B.  12",
+            "C.  14",
+            "D.  11"
+        ],
+        "answer": "D.  11",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/lDlA7cfNk8A.mp4",
+        "question_id": "1923",
+        "question": "How many categories of awards are awarded by three winners?",
+        "answer_number": 3,
+        "candidates": [
+            "A.  3",
+            "B.  4",
+            "C.  1",
+            "D.  2"
+        ],
+        "answer": "D.  2",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/lDlA7cfNk8A.mp4",
+        "question_id": "1934",
+        "question": "How many microphones are there on the podium?",
+        "answer_number": 2,
+        "candidates": [
+            "A.  1",
+            "B.  4",
+            "C.  2",
+            "D.  3"
+        ],
+        "answer": "C.  2",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/FaV0tIaWWEg.mp4",
+        "question_id": "2098",
+        "question": "How many videos are played during Satya Nadella's speech?",
+        "answer_number": 0,
+        "candidates": [
+            "A.  4",
+            "B.  5",
+            "C.  2",
+            "D.  3"
+        ],
+        "answer": "A.  4",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/FaV0tIaWWEg.mp4",
+        "question_id": "2121",
+        "question": "In the video, how many people are standing on the stage speaking?",
+        "answer_number": 1,
+        "candidates": [
+            "A.  Four",
+            "B.  Two",
+            "C.  Three",
+            "D.  One"
+        ],
+        "answer": "B.  Two",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/rk24OUu_kJQ.mp4",
+        "question_id": "2156",
+        "question": "How many dancers are there when Britney Spears first stands on the ground?",
+        "answer_number": 1,
+        "candidates": [
+            "A.  6",
+            "B.  2",
+            "C.  4",
+            "D.  3"
+        ],
+        "answer": "B.  2",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/rk24OUu_kJQ.mp4",
+        "question_id": "2157",
+        "question": "How many backup dancers struggle out of the silver cloth that is placed on the ground?",
+        "answer_number": 1,
+        "candidates": [
+            "A.  8",
+            "B.  4",
+            "C.  6",
+            "D.  2"
+        ],
+        "answer": "B.  4",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/rk24OUu_kJQ.mp4",
+        "question_id": "2171",
+        "question": "How many coats does the female singer change between when she gets off the music box and when she enters it again?",
+        "answer_number": 0,
+        "candidates": [
+            "A.  2",
+            "B.  1",
+            "C.  0",
+            "D.  3"
+        ],
+        "answer": "A.  2",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/rk24OUu_kJQ.mp4",
+        "question_id": "2174",
+        "question": "How many candles are there on the candlestick on top of the Yamaha piano?",
+        "answer_number": 3,
+        "candidates": [
+            "A.  6",
+            "B.  1",
+            "C.  3",
+            "D.  5"
+        ],
+        "answer": "D.  5",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/rk24OUu_kJQ.mp4",
+        "question_id": "2179",
+        "question": "Before the main singer comes on stage wearing a white dress with embellishments on it, there is a music band performing on the stage. How many musicians are playing the electric piano?",
+        "answer_number": 3,
+        "candidates": [
+            "A.  3",
+            "B.  1",
+            "C.  0",
+            "D.  2"
+        ],
+        "answer": "D.  2",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/rk24OUu_kJQ.mp4",
+        "question_id": "2181",
+        "question": "How many bracelets does the main singer wear during the song where she pushes a dancer wearing a red hat, interacts with him, and then interacts with another dancer wearing a black hat?",
+        "answer_number": 1,
+        "candidates": [
+            "A.  She wears two bracelets on her left hand and one on her right hand",
+            "B.  She wears three bracelets on her right hand",
+            "C.  She wears two bracelets on her right hand and one on her left hand",
+            "D.  She wears three bracelets on her left hand"
+        ],
+        "answer": "B.  She wears three bracelets on her right hand",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/16Z-XQh9jhk.mp4",
+        "question_id": "2253",
+        "question": "How many dancers came on stage between 31:27-0:31:31?",
+        "answer_number": 2,
+        "candidates": [
+            "A.  9",
+            "B.  8",
+            "C.  7",
+            "D.  6"
+        ],
+        "answer": "C.  7",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/16Z-XQh9jhk.mp4",
+        "question_id": "2256",
+        "question": "How many white lights were on at 45:08?",
+        "answer_number": 0,
+        "candidates": [
+            "A.  24",
+            "B.  20",
+            "C.  6",
+            "D.  5"
+        ],
+        "answer": "A.  24",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/16Z-XQh9jhk.mp4",
+        "question_id": "2264",
+        "question": "How many machines were blowing at the beginning of the concert?",
+        "answer_number": 1,
+        "candidates": [
+            "A.  9",
+            "B.  11",
+            "C.  10",
+            "D.  12"
+        ],
+        "answer": "B.  11",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/16Z-XQh9jhk.mp4",
+        "question_id": "2266",
+        "question": "How many colors are there in the background of rainbow decoration on the stage?",
+        "answer_number": 1,
+        "candidates": [
+            "A.  Five colors",
+            "B.  Six colors",
+            "C.  Seven colors",
+            "D.  Four colors"
+        ],
+        "answer": "B.  Six colors",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/16Z-XQh9jhk.mp4",
+        "question_id": "2268",
+        "question": "How many microphones are there on the circular platform in the center of the stage?",
+        "answer_number": 1,
+        "candidates": [
+            "A.  6",
+            "B.  2",
+            "C.  4",
+            "D.  3"
+        ],
+        "answer": "B.  2",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/16Z-XQh9jhk.mp4",
+        "question_id": "2269",
+        "question": "How many TV hoods appeared after 05:45?",
+        "answer_number": 1,
+        "candidates": [
+            "A.  7",
+            "B.  3",
+            "C.  4",
+            "D.  1"
+        ],
+        "answer": "B.  3",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/QB7FoIpx8os.mp4",
+        "question_id": "2479",
+        "question": "How many people are there at the beginning of the video?",
+        "answer_number": 1,
+        "candidates": [
+            "A.  5",
+            "B.  2",
+            "C.  4",
+            "D.  3"
+        ],
+        "answer": "B.  2",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/QB7FoIpx8os.mp4",
+        "question_id": "2490",
+        "question": "How many Asian speakers appear in the video?",
+        "answer_number": 2,
+        "candidates": [
+            "A.  4",
+            "B.  3",
+            "C.  5",
+            "D.  1"
+        ],
+        "answer": "C.  5",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/KbahC-QCKU8.mp4",
+        "question_id": "2596",
+        "question": "How many places does the vlogger family go to catch king crabs?",
+        "answer_number": 1,
+        "candidates": [
+            "A.  3",
+            "B.  5",
+            "C.  6",
+            "D.  4"
+        ],
+        "answer": "B.  5",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/KbahC-QCKU8.mp4",
+        "question_id": "2606",
+        "question": "How many times do the vlogger family members go hunting in total?",
+        "answer_number": 0,
+        "candidates": [
+            "A.  3",
+            "B.  6",
+            "C.  4",
+            "D.  5"
+        ],
+        "answer": "A.  3",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/_T2Avd3tFHc.mp4",
+        "question_id": "2882",
+        "question": "How many people, including the vlogger himself, have lunch together on the first day?",
+        "answer_number": 0,
+        "candidates": [
+            "A.  Six",
+            "B.  Three",
+            "C.  Five",
+            "D.  Eight"
+        ],
+        "answer": "A.  Six",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/_T2Avd3tFHc.mp4",
+        "question_id": "2888",
+        "question": "How many kinds of desserts do the vlogger team and Mikhail have on the third day?",
+        "answer_number": 1,
+        "candidates": [
+            "A.  0",
+            "B.  2",
+            "C.  1",
+            "D.  3"
+        ],
+        "answer": "B.  2",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/RCAqKnvu_P0.mp4",
+        "question_id": "2906",
+        "question": "How many kinds of train cards are threre in Japan?",
+        "answer_number": 1,
+        "candidates": [
+            "A.  Three",
+            "B.  Two",
+            "C.  Four",
+            "D.  Five"
+        ],
+        "answer": "B.  Two",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/wgBlACG927Y.mp4",
+        "question_id": "3089",
+        "question": "How many bubble waffle ice creams models are placed as exhibition in front of the bubble waffle booth?",
+        "answer_number": 1,
+        "candidates": [
+            "A.  15",
+            "B.  7",
+            "C.  14",
+            "D.  8"
+        ],
+        "answer": "B.  7",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/wgBlACG927Y.mp4",
+        "question_id": "3092",
+        "question": "How many arches are there on the overpass?",
+        "answer_number": 2,
+        "candidates": [
+            "A.  1",
+            "B.  4",
+            "C.  2",
+            "D.  3"
+        ],
+        "answer": "C.  2",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/wgBlACG927Y.mp4",
+        "question_id": "3102",
+        "question": "How many pieces are in the purple roll dish the vloggers shoot at the dinner?",
+        "answer_number": 1,
+        "candidates": [
+            "A.  14",
+            "B.  10",
+            "C.  8",
+            "D.  12"
+        ],
+        "answer": "B.  10",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/2zkJFv-ro4A.mp4",
+        "question_id": "3131",
+        "question": "How many red stripes are there on the vlogger's black t-shirt?",
+        "answer_number": 1,
+        "candidates": [
+            "A.  7",
+            "B.  5",
+            "C.  6",
+            "D.  4"
+        ],
+        "answer": "B.  5",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/Va_9Q6ekm60.mp4",
+        "question_id": "3320",
+        "question": "How many Taiyaki cookies does the shop assistant cook?",
+        "answer_number": 0,
+        "candidates": [
+            "A.  30",
+            "B.  18",
+            "C.  40",
+            "D.  20"
+        ],
+        "answer": "A.  30",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/Va_9Q6ekm60.mp4",
+        "question_id": "3323",
+        "question": "How many boxes of ingredients are on the stage when the shop assistant starts the build the Taiyaki ice cream?",
+        "answer_number": 0,
+        "candidates": [
+            "A.  6",
+            "B.  4",
+            "C.  5",
+            "D.  8"
+        ],
+        "answer": "A.  6",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/Va_9Q6ekm60.mp4",
+        "question_id": "3325",
+        "question": "How many Taiyaki ice creams does the shop assistant assemble in total?",
+        "answer_number": 0,
+        "candidates": [
+            "A.  4",
+            "B.  1",
+            "C.  5",
+            "D.  3"
+        ],
+        "answer": "A.  4",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/jp2M1hIEtsk.mp4",
+        "question_id": "3468",
+        "question": "How many flowers does the vlogger put in the cylindrical bottle?",
+        "answer_number": 2,
+        "candidates": [
+            "A.  Two",
+            "B.  One",
+            "C.  Four",
+            "D.  Three"
+        ],
+        "answer": "C.  Four",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/jp2M1hIEtsk.mp4",
+        "question_id": "3473",
+        "question": "How many strips of bacon does the vlogger fry?",
+        "answer_number": 2,
+        "candidates": [
+            "A.  3",
+            "B.  1",
+            "C.  4",
+            "D.  2"
+        ],
+        "answer": "C.  4",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/jp2M1hIEtsk.mp4",
+        "question_id": "3475",
+        "question": "How many pieces of sandwiche does the vlogger eat?",
+        "answer_number": 0,
+        "candidates": [
+            "A.  Two",
+            "B.  One",
+            "C.  Three",
+            "D.  All"
+        ],
+        "answer": "A.  Two",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/jp2M1hIEtsk.mp4",
+        "question_id": "3480",
+        "question": "How many flowers does the vlogger draw?",
+        "answer_number": 1,
+        "candidates": [
+            "A.  Seven",
+            "B.  Nineteen",
+            "C.  Three",
+            "D.  Thirteen"
+        ],
+        "answer": "B.  Nineteen",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/jp2M1hIEtsk.mp4",
+        "question_id": "3486",
+        "question": "How many spoonfuls of soup dose the vlogger put into the glass pot from 25:15-25:31?",
+        "answer_number": 1,
+        "candidates": [
+            "A.  2",
+            "B.  3",
+            "C.  5",
+            "D.  4"
+        ],
+        "answer": "B.  3",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/JlrzSvCsIjE.mp4",
+        "question_id": "4011",
+        "question": "How many times do the two teams hit the ball after the game score is 2-1, point score is 0-30?",
+        "answer_number": 1,
+        "candidates": [
+            "A.  10",
+            "B.  9",
+            "C.  8",
+            "D.  7"
+        ],
+        "answer": "B.  9",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/cWEnogdsW78.mp4",
+        "question_id": "4067",
+        "question": "How many people can be clearly seen on stage in the video at 12:42?",
+        "answer_number": 3,
+        "candidates": [
+            "A.  0",
+            "B.  2",
+            "C.  1",
+            "D.  3"
+        ],
+        "answer": "D.  3",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/rp4NKWb7dXk.mp4",
+        "question_id": "4130",
+        "question": "How many countries send two athletes?",
+        "answer_number": 0,
+        "candidates": [
+            "A.  2",
+            "B.  1",
+            "C.  4",
+            "D.  3"
+        ],
+        "answer": "A.  2",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/Z86xysw5Ncc.mp4",
+        "question_id": "4193",
+        "question": "How many meters is the race about men in the video?",
+        "answer_number": 2,
+        "candidates": [
+            "A.  1500",
+            "B.  3000",
+            "C.  100",
+            "D.  50"
+        ],
+        "answer": "C.  100",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/Z86xysw5Ncc.mp4",
+        "question_id": "4195",
+        "question": "How many athletes in Men's 100M Start-List-Round 1 Heat 1?",
+        "answer_number": 2,
+        "candidates": [
+            "A.  9",
+            "B.  7",
+            "C.  8",
+            "D.  10"
+        ],
+        "answer": "C.  8",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/Z86xysw5Ncc.mp4",
+        "question_id": "4209",
+        "question": "How many seconds is the difference between the first and the second in Men's 100M Round 1 Heat 2?",
+        "answer_number": 1,
+        "candidates": [
+            "A.  0.22s",
+            "B.  0.25s",
+            "C.  0.23s",
+            "D.  0.24s"
+        ],
+        "answer": "B.  0.25s",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/hjoDzK0siaM.mp4",
+        "question_id": "4226",
+        "question": "How many somersaults do the first contestant finish the show?",
+        "answer_number": 1,
+        "candidates": [
+            "A.  1",
+            "B.  3",
+            "C.  8",
+            "D.  6"
+        ],
+        "answer": "B.  3",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/2LH3JCGkEBU.mp4",
+        "question_id": "4306",
+        "question": "How many times do two contestants circle together between 10:20-10:34?",
+        "answer_number": 3,
+        "candidates": [
+            "A.  20",
+            "B.  8",
+            "C.  18",
+            "D.  13"
+        ],
+        "answer": "D.  13",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/2LH3JCGkEBU.mp4",
+        "question_id": "4307",
+        "question": "How many games at the Vancouver 2010 Olympic Games are shown in the video?",
+        "answer_number": 0,
+        "candidates": [
+            "A.  4",
+            "B.  5",
+            "C.  2",
+            "D.  3"
+        ],
+        "answer": "A.  4",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/2LH3JCGkEBU.mp4",
+        "question_id": "4321",
+        "question": "In this video, the Pyeongchang Winter Olympics clip how many outfits did the two people change?",
+        "answer_number": 1,
+        "candidates": [
+            "A.  6",
+            "B.  5",
+            "C.  4",
+            "D.  2"
+        ],
+        "answer": "B.  5",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/2LH3JCGkEBU.mp4",
+        "question_id": "4322",
+        "question": "How many times did that woman wear the red dress in Vancouver?",
+        "answer_number": 2,
+        "candidates": [
+            "A.  3",
+            "B.  1",
+            "C.  2",
+            "D.  4"
+        ],
+        "answer": "C.  2",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/2LH3JCGkEBU.mp4",
+        "question_id": "4324",
+        "question": "How many people are in the waiting room with the two contestants for the short program team competition at Sochi 2014?",
+        "answer_number": 1,
+        "candidates": [
+            "A.  8",
+            "B.  10",
+            "C.  2",
+            "D.  12"
+        ],
+        "answer": "B.  10",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/2LH3JCGkEBU.mp4",
+        "question_id": "4325",
+        "question": "In the footage from Sochi, how many games did the womon wear their hair up?",
+        "answer_number": 0,
+        "candidates": [
+            "A.  4",
+            "B.  5",
+            "C.  6",
+            "D.  3"
+        ],
+        "answer": "A.  4",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/2LH3JCGkEBU.mp4",
+        "question_id": "4329",
+        "question": "How many Olympic Games are featured in the video?",
+        "answer_number": 1,
+        "candidates": [
+            "A.  4",
+            "B.  3",
+            "C.  2",
+            "D.  1"
+        ],
+        "answer": "B.  3",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/9-gOCOu_KGU.mp4",
+        "question_id": "4333",
+        "question": "How many people participated in the final of Men's 10000M?",
+        "answer_number": 1,
+        "candidates": [
+            "A.  10",
+            "B.  39",
+            "C.  9",
+            "D.  3"
+        ],
+        "answer": "B.  39",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/9-gOCOu_KGU.mp4",
+        "question_id": "4337",
+        "question": "How many laps does a game take?",
+        "answer_number": 0,
+        "candidates": [
+            "A.  25",
+            "B.  1",
+            "C.  24",
+            "D.  10"
+        ],
+        "answer": "A.  25",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/9-gOCOu_KGU.mp4",
+        "question_id": "4356",
+        "question": "How many people do not complete the game in total?",
+        "answer_number": 0,
+        "candidates": [
+            "A.  3",
+            "B.  0",
+            "C.  1",
+            "D.  2"
+        ],
+        "answer": "A.  3",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/k2FIFQIYBvA.mp4",
+        "question_id": "4707",
+        "question": "How many people are there at the beginning of the video?",
+        "answer_number": 1,
+        "candidates": [
+            "A.  2",
+            "B.  5",
+            "C.  1",
+            "D.  3"
+        ],
+        "answer": "B.  5",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/k2FIFQIYBvA.mp4",
+        "question_id": "4717",
+        "question": "How many cards are in the playing cards when the man in the hat takes them out for the last time?",
+        "answer_number": 0,
+        "candidates": [
+            "A.  20",
+            "B.  5",
+            "C.  10",
+            "D.  13"
+        ],
+        "answer": "A.  20",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/k2FIFQIYBvA.mp4",
+        "question_id": "4729",
+        "question": "How many microphones are there on the table?",
+        "answer_number": 2,
+        "candidates": [
+            "A.  Three",
+            "B.  Two",
+            "C.  One",
+            "D.  Four"
+        ],
+        "answer": "C.  One",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/k2FIFQIYBvA.mp4",
+        "question_id": "4737",
+        "question": "How many magic tricks played with cards are performed on the stage?",
+        "answer_number": 2,
+        "candidates": [
+            "A.  6",
+            "B.  5",
+            "C.  4",
+            "D.  3"
+        ],
+        "answer": "C.  4",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/k2FIFQIYBvA.mp4",
+        "question_id": "4738",
+        "question": "How many performance does frog been spat out by Jimmy in this video?",
+        "answer_number": 0,
+        "candidates": [
+            "A.  3",
+            "B.  5",
+            "C.  4",
+            "D.  2"
+        ],
+        "answer": "A.  3",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/W-BnDvXXfOs.mp4",
+        "question_id": "4965",
+        "question": "How many male singers are there in the tenth song of the video?",
+        "answer_number": 1,
+        "candidates": [
+            "A.  4",
+            "B.  3",
+            "C.  1",
+            "D.  2"
+        ],
+        "answer": "B.  3",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/W-BnDvXXfOs.mp4",
+        "question_id": "4966",
+        "question": "How many Black individuals are there in the tenth song?",
+        "answer_number": 2,
+        "candidates": [
+            "A.  2",
+            "B.  4",
+            "C.  1",
+            "D.  3"
+        ],
+        "answer": "C.  1",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/W-BnDvXXfOs.mp4",
+        "question_id": "4977",
+        "question": "In the second-to-last song, how many singers are playing instruments?",
+        "answer_number": 0,
+        "candidates": [
+            "A.  3",
+            "B.  1",
+            "C.  2",
+            "D.  4"
+        ],
+        "answer": "A.  3",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/W-BnDvXXfOs.mp4",
+        "question_id": "4980",
+        "question": "How many songs performed by how many singers in the first eleven minutes of this video?",
+        "answer_number": 1,
+        "candidates": [
+            "A.  4 songs performed by 4 people in total",
+            "B.  4 songs performed by 9 people in total",
+            "C.  6 songs performed by 6 people in total",
+            "D.  6 songs performed by 11 people in total"
+        ],
+        "answer": "B.  4 songs performed by 9 people in total",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/vHlSoxg8WHo.mp4",
+        "question_id": "5069",
+        "question": "How many men are shown on the screen between Brittany and the male host?",
+        "answer_number": 2,
+        "candidates": [
+            "A.  3",
+            "B.  4",
+            "C.  2",
+            "D.  1"
+        ],
+        "answer": "C.  2",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/vHlSoxg8WHo.mp4",
+        "question_id": "5080",
+        "question": "How many people could possibly be Travion's father?",
+        "answer_number": 1,
+        "candidates": [
+            "A.  1",
+            "B.  3",
+            "C.  2",
+            "D.  4"
+        ],
+        "answer": "B.  3",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/vHlSoxg8WHo.mp4",
+        "question_id": "5091",
+        "question": "How many cases are there on the show where the biological fathers were not found?",
+        "answer_number": 1,
+        "candidates": [
+            "A.  5",
+            "B.  10",
+            "C.  6",
+            "D.  7"
+        ],
+        "answer": "B.  10",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/vHlSoxg8WHo.mp4",
+        "question_id": "5093",
+        "question": "How many children appeared in this show?",
+        "answer_number": 2,
+        "candidates": [
+            "A.  8",
+            "B.  7",
+            "C.  10",
+            "D.  9"
+        ],
+        "answer": "C.  10",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    },
+    {
+        "task_name": " LVBench ",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/LVBench/all_videos/20lTg3yUrO4.mp4",
+        "question_id": "5171",
+        "question": "How many parcels of Cannabis do men arrest with in Kogi State?",
+        "answer_number": 3,
+        "candidates": [
+            "A.  520",
+            "B.  600",
+            "C.  500",
+            "D.  620"
+        ],
+        "answer": "D.  620",
+        "category": "fact_retrieval",
+        "need_reasoning": false
+    }
+]

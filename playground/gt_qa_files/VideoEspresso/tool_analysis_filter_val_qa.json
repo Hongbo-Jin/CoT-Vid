@@ -1,0 +1,306 @@
+[
+    {
+        "task_name": " VideoEspresso Narrative Analysis",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/videoespresso/all_video/Storystream/Rabbids/000037_0_2.mp4",
+        "question_id": 0,
+        "question": "Analyze how Remy's original mission and his detour to catch the napkin culminated in the final rewarding interaction with the toy robot.",
+        "answer_number": 3,
+        "candidates": [
+            "A. Remy's initial goal of finding the perfect picnic spot reflected his love for nature. The sudden breeze that carried the napkin caused him to follow it into a nearby library. Here, his fascination with maps earned him an unexpected \"Explorer's Guide\" badge, showing that taking detours can lead to surprising educational rewards.",
+            "B. Remy's original mission to locate a hidden bakery highlighted his passion for discovering culinary treasures. As the napkin drifted in the air, it led him to a small patisserie instead. His friendly conversation with the baker earned him the \"Sweet Adventure\" badge, illustrating how openness to changing course can uncover delightful surprises.",
+            "C. Remy's intention to befriend an orange tabby displayed his gentle nature and love for animals. The wandering napkin diverted him into a cozy pet shop, where he saw a variety of adorable creatures. His interaction with the pet shop owner was rewarded with the \"Furry Companion\" badge, demonstrating how following unexpected paths can lead to new friendships.",
+            "D. Remy's quest for the tastiest treat reflected his adventurous spirit. When a flying napkin disrupted his plan, he pursued with determination. This led him to a toy store, where curiosity drew him to a toy robot. Earning the \"Burger Hero\" badge represented success, highlighting how perseverance and curiosity yield both expected and surprising rewards."
+        ],
+        "answer": "Remy's original mission to find the most delicious treat mirrored his persistent and adventurous spirit. When an unexpected disruption caused by the flying napkin made him deviate from simply enjoying his treat, he followed through with equal determination. This unplanned detour led him to the toy store, where curiosity drove him to approach the toy robot. The final unexpected reward of receiving the \"Burger Hero\" badge symbolized a successful completion of his mission, not just through finding the treat, but embracing the adventurous spirit along the way. This intricate chain of events underscores the theme that perseverance and curiosity can lead to both anticipated and serendipitous rewards.",
+        "need_reasoning": true,
+        "category": "tool_analysis"
+    },
+    {
+        "task_name": " VideoEspresso Narrative Analysis",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/videoespresso/all_video/Storystream/Rabbids/000024_0_47.mp4",
+        "question_id": 0,
+        "question": "Elaborate on how the Rabbids' collaborative interaction with the peculiar machine draws parallels to their earlier collaborative imaginative play and discovery.",
+        "answer_number": 3,
+        "candidates": [
+            "A. The Rabbids' engagement with the machine demonstrates a blend of their earlier imaginative play with a subtle evolution towards more structured and collaborative exploration.  ",
+            "B. The Rabbids' discovery of the machine weaves moments of individual problem-solving into a shared journey of creativity, echoing their past collaborative imaginative efforts.  ",
+            "C. The Rabbids' interaction with the machine reveals a nuanced balance of emergent individual initiatives and their characteristic teamwork, consistent with their shared history of creative exploration.  ",
+            "D. The Rabbids' engagement with the machine reflects a continuation of earlier collaborative and imagination, showing consistency in creativity."
+        ],
+        "answer": "The Rabbids' collaborative interaction with the machine parallels their earlier imaginative and cooperative behaviors. Initially, one Rabbid's curiosity-driven discovery of the machine and accidental creation mirrors the playful, accidental creativity seen when decorating themselves with leaves and cucumbers. When the first Rabbid shares the discovery, the friend's immediate suggestion to continue creating art together reflects a strong collaborative spirit, reminiscent of their earlier joint role-playing as pirates and guardians. Their shared excitement and engagement in producing quirky drawings highlight a consistent pattern of collaborative creativity, reinforcing their bond through shared discovery and imaginative play.",
+        "need_reasoning": true,
+        "category": "tool_analysis"
+    },
+    {
+        "task_name": " VideoEspresso Event Dynamic Analysis",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/videoespresso/all_video/vatex/rE5IWS5nyE4_000007_000017.mp4",
+        "question_id": 0,
+        "question": "Analyze how the sequence of these actions portrays the culmination of the bartender's act. What does the final action suggest about the completion or the purpose of the performance?",
+        "answer_number": 1,
+        "candidates": [
+            "A. The sequence evolves with a young man performing fluid movements to balanced, rhythmic music, presenting a poised and harmonious routine. As the performance unfolds, he adeptly spins a shaker and then a glass, each move executed with deliberate control before positioning them on the surface. The final action of setting the glass down softly conveys the end of the act, emphasizing subtle mastery and precision.  ",
+            "B. The order of actions begins with a young man performing to rapid beats, showcasing a dynamic and lively act. As it unfolds, he deftly flips a glass and ultimately a shaker, catching them confidently each time before setting them down. The final action of placing the shaker down indicates the end of his performance, suggesting mastery and a sign to the audience that it is over.  ",
+            "C. The progression starts with a young man engaging the audience with rhythmic movements timed to upbeat, energetic music, signifying a striking and skillful routine. During the act, he smoothly spins a tumbler and then a shaker, executing precise catches and ultimately positioning them down. The act concludes as he places the shaker firmly on the table, delivering a decisive and polished finish to the performance.  ",
+            "D. The routine begins with a young man displaying dynamic spins and confident tosses synchronized to lively classical music, crafting a sophisticated yet vibrant act. As his act continues, he meticulously flips a shaker and then a glass, placing each one with care. The concluding action of carefully setting the glass on the table encapsulates the completion of the act, leaving an impression of refined artistry and control."
+        ],
+        "answer": "The sequence begins with a young man demonstrating moves to high-energy music, indicating an energetic and vibrant performance. As the act progresses, he efficiently manipulates a tumbler and finally a bottle, each time catching them skillfully before placing them down. The final action of putting the bottle on the table suggests the culmination of his act, implying a moment of accomplishment and a cue to the audience that the performance is complete. It signifies the end of his demonstration of bartending prowess and control over the tools.",
+        "need_reasoning": true,
+        "category": "tool_analysis"
+    },
+    {
+        "task_name": " VideoEspresso Event Dynamic Analysis",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/videoespresso/all_video/Storystream/Rabbids/000040_0_8.mp4",
+        "question_id": 0,
+        "question": "Analyzing Binky and Jumpy's playful chase around the large tree stump and eventual interaction with the curious birds, how does the environment enhance their game and attract others to join? ",
+        "answer_number": 2,
+        "candidates": [
+            "A. The warm sunlight and a gentle breeze create a peaceful atmosphere for Binky and Jumpy\u2019s playful chase, while the colorful meadow teems with life from blooming flowers and buzzing bees. This cheerful environment attracts other animals to come closer and observe.  ",
+            "B. The rustling leaves of the tall tree and the dappled sunlight on the ground provide a pleasant backdrop, enhancing the charm of Binky and Jumpy\u2019s lively game. This enchanting setting draws the curiosity of other woodland creatures, encouraging them to approach.  ",
+            "C. The warm sun and breeze create an idyllic setting for Binky and Jumpy, enhancing their playful chase. The open space allows them to hop freely, inviting curious birds to join the infectious, lively scene around the tree stump.  ",
+            "D. The large tree stump is a central landmark for Binky and Jumpy\u2019s energetic game, perfectly complemented by nearby fragrant flowers. The flutter of insects and the gentle murmur of the forest entice other creatures to linger and take an interest in the playful spectacle."
+        ],
+        "answer": "The warm sun and gentle breeze highlighted in the environment create an idyllic setting for Binky and Jumpy's playful chase, enhancing their enjoyment and making their game even more delightful. The open, natural space around the large tree stump allows them to run freely and engage dynamically, reflected in their hopping and dodging movements. This vibrant scene, filled with the lively activity of the rabbits, becomes inviting and contagious, catching the attention of the curious birds. The birds' decision to join in underscores the infectious joy radiating from the rabbits' interactions, demonstrating how a lively and inviting environment can draw others in to participate in the fun.",
+        "need_reasoning": true,
+        "category": "tool_analysis"
+    },
+    {
+        "task_name": " VideoEspresso Preparation Steps / Ingredient Analysis",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/videoespresso/all_video/Youcook2/wgMqKUqaW_w.mkv",
+        "question_id": 0,
+        "question": "If the person is preparing chili con carne, what is the purpose of the liquid being poured into the pan, and how does it relate to the other ingredients visible in the video?",
+        "answer_number": 3,
+        "candidates": [
+            "A. The liquid is added mainly to tenderize the meat while combining subtly with spices, but it doesn\u2019t directly enhance their flavor.  ",
+            "B. It is poured in to help balance the acidity of the tomato base and unify the flavors of the spices and vegetables in the chili.  ",
+            "C. The purpose of the liquid is to lightly simmer the mixture, working indirectly with the spices and the meat to create a harmonious blend.  ",
+            "D. Liquid simmers to deglaze, allowing chili powder to blend seamlessly with the meat and other ingredients."
+        ],
+        "answer": "The liquid being poured into the pan could be water or broth, both used to simmer and deglaze the ingredients for the chili, allowing spices like th Season chili powder to fully infuse their flavors into the meat and other ingredients. The presence of garlic and tomato sauce suggests the formation of a chili base, where liquid is essential to prevent sticking and aid in combining all ingredients into a cohesive dish.",
+        "need_reasoning": true,
+        "category": "tool_analysis"
+    },
+    {
+        "task_name": " VideoEspresso Causal Analysis",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/videoespresso/all_video/Storystream/The_Land/000125_0_1.mp4",
+        "question_id": 0,
+        "question": "How do Tiny's playful nature and his interaction with Batty prepare him to use complex reasoning in helping the baby apatosaurus?",
+        "answer_number": 3,
+        "candidates": [
+            "A. Tiny's playful nature and interactions with Batty help him connect with the baby apatosaurus, enabling him to provide thoughtful and creative solutions to its needs.  ",
+            "B. Tiny's playful and curious disposition, combined with his interactions with Batty, guide him in adapting his behavior to recognize and respond to the baby apatosaurus's challenges.  ",
+            "C. Tiny's playful personality and experience with Batty help him navigate tricky situations, allowing him to support the baby apatosaurus in a careful and resourceful manner.  ",
+            "D. Tiny's playfulness and empathy, developed through interacting with Batty, prepare him to help the baby apatosaurus with compassion and inventive solutions."
+        ],
+        "answer": "Tiny's playful nature and his cheeky demeanor suggest he is naturally inquisitive and unafraid to engage with his surroundings. His interaction with Batty, who is friendly and skilled, likely encourages Tiny to observe and learn from the capabilities of others. This interaction with a more adept creature such as Batty helps Tiny understand the value of different skills and perspectives. When faced with the challenge of helping the baby apatosaurus, Tiny's experience with diverse creatures and his playful curiosity combine to aid his complex reasoning. He can think creatively about solutions and remain persistent. Most importantly, Tiny's understanding and empathy are deepened by these interactions, making him more capable and determined in offering help.",
+        "need_reasoning": true,
+        "category": "tool_analysis"
+    },
+    {
+        "task_name": " VideoEspresso Causal Analysis",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/videoespresso/all_video/vatex/U3-QfUJWdno_000165_000175.mp4",
+        "question_id": 0,
+        "question": "How can the difference in the application of sauce in these images indicate a transition in dish presentation, and what might be the outcome regarding the dish's visual appeal?",
+        "answer_number": 0,
+        "candidates": [
+            "A. The sequence of applying the sauce in these images emphasizes a transformation from technique-driven preparation to creative enhancement. Initially, sauces blend seamlessly into the dish-making process, while later images showcase their role in amplifying the visual sophistication of the dish, signaling a shift toward meticulous presentation.  ",
+            "B. The progression of sauce usage represents a nuanced evolution from functional integration to aesthetic sophistication. Early images depict sauces as an internal part of the cooking process, whereas later ones illustrate their careful placement for artistic flair, showcasing a balance between taste and appearance.  ",
+            "C. The application of sauce remains integral across all stages of cooking and serving, though it subtly shifts in purpose. The initial focus leans toward flavor infusion, while subsequent visuals subtly prioritize design, suggesting the chef strikes a balance\u2014but leans towards a minimal yet intentional visual impact.  ",
+            "D. The appearance of sauce application follows a uniform pattern, maintaining a steady purpose throughout the progression. This suggests the chef's consistent commitment to merging taste and design without significant transitions, focusing instead on steady refinement over fundamental visual changes."
+        ],
+        "answer": "The sequence of applying the sauce in these images indicates a progression from cooking to presentation. The first image describes adding sauce during cooking, while the second and third images indicate dressing the plate or final touches on presentation. This progression suggests that the chef is not only concerned with flavor but also with the visual appeal of the dish. The methodical application of sauce implies an emphasis on aesthetics and refinement, ultimately resulting in a dish that is visually appealing and likely ready to be served to guests or customers.",
+        "need_reasoning": true,
+        "category": "tool_analysis"
+    },
+    {
+        "task_name": " VideoEspresso Causal Analysis",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/videoespresso/all_video/vatex/x6T517yfG54_000038_000048.mp4",
+        "question_id": 0,
+        "question": "What might be a potential outcome for the woman's interaction with the boy when considering they are collecting items outside?",
+        "answer_number": 0,
+        "candidates": [
+            "A. The boy may decide to keep the item for himself, leading the woman to discuss the values of fairness and cooperation.  ",
+            "B. The woman could encourage the boy to return some of the items to where they were found, emphasizing responsibility and care for the environment.  ",
+            "C. The pair might gather the items together with the intention of organizing them later as part of a learning activity.  ",
+            "D. After collecting the items, the boy could casually discard them, leading to a conversation about the need for respect and organization."
+        ],
+        "answer": "Based on the interaction where they collect objects (balls or eggs) into a receptacle and the boy then taking an item out, a potential outcome could be that the boy distributes or places the item elsewhere, emphasizing an informal lesson or play activity facilitated by the woman.",
+        "need_reasoning": true,
+        "category": "tool_analysis"
+    },
+    {
+        "task_name": " VideoEspresso Causal Analysis",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/videoespresso/all_video/Storystream/The_Land/000178_0_13.mp4",
+        "question_id": 0,
+        "question": "What caused the family of dinosaurs to scatter in response to Purpy's excitement, and how might this have altered their interaction with the python?",
+        "answer_number": 1,
+        "candidates": [
+            "A. The family of dinosaurs scattered because Purpy accidentally disturbed a concealed burrow, causing a ruckus that momentarily diverted their attention from the python.  ",
+            "B. The family of dinosaurs scattered in surprise when a green spinosaurus emerged from behind a tree, shifting their focus from the python to the spinosaurus threat.  ",
+            "C. The family of dinosaurs scattered due to a sudden commotion caused by Purpy tripping over a branch, which startled them and caused them to flee from the python\u2019s vicinity.  ",
+            "D. The family of dinosaurs scattered because they were alarmed by Purpy's sudden movements, which disrupted their focus and shifted attention away from the python."
+        ],
+        "answer": "The family of dinosaurs scattered in surprise because a green spinosaurus emerged from behind a tree. This unexpected appearance likely interrupted their curious examination of the python, as their attention was shifted from the python to ensuring their safety from the larger threat of the spinosaurus.",
+        "need_reasoning": true,
+        "category": "tool_analysis"
+    },
+    {
+        "task_name": " VideoEspresso Contextual Analysis",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/videoespresso/all_video/Storystream/George/000309_0_14.mp4",
+        "question_id": 0,
+        "question": "How does the setting described when the man glances at the large clock connect to George (the monkey)'s interaction with the man at the table, considering the observed details like the clock and room decor?",
+        "answer_number": 2,
+        "candidates": [
+            "A. The minimalistic design of the setting emphasizes a focus on simplicity, which subtly parallels the man's keen interest in the antique clock and George's playful yet purposeful engagement during their interactions.  ",
+            "B. The tropical d\u00e9cor and lively atmosphere set an upbeat mood, subtly clashing with the serious undertones of the man's focus on the antique clock, while George's playfulness bridges this contrast and highlights his curiosity.  ",
+            "C. The tropical-themed setting, accented by the man's focus on the antique clock, merges playful modernity with timeless aesthetics. George's playful demeanor enhances their intrigue with bridging eras.  ",
+            "D. The vintage accents of the setting influence the man's lingering interest in the antique clock, while George's lighthearted behavior subtly hints at a shared appreciation for blending old and modern styles."
+        ],
+        "answer": "The setting with the tropical theme and the man's interest in the antique clock suggests an environment mixing both modern playfulness and classic aesthetics. George's playful demeanor at the table matches this eclectic mixture, highlighting how the juxtaposition of modern and vintage elements cater to both the man's curiosity about clocks and George's explorative nature. The elements in the room set a tone bridging time periods, which fascinate both characters.",
+        "need_reasoning": true,
+        "category": "tool_analysis"
+    },
+    {
+        "task_name": " VideoEspresso Role Analysis",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/videoespresso/all_video/Storystream/Rabbids/000074_4_12.mp4",
+        "question_id": 0,
+        "question": "What role did the Rabbid's actions with the ball and his interaction with the slide play in causing the blocks to wobble, and what does this suggest about his interaction with objects? ",
+        "answer_number": 1,
+        "candidates": [
+            "A. The Rabbid's playful actions with the ball and its subsequent movement over the ramp caused the blocks to shift slightly. By altering the ball's trajectory, he accidentally caused the blocks to wobble, suggesting aimless yet impactful interactions.  ",
+            "B. The Rabbid's playful interaction with the ball and his careful approach onto the slide triggered a series of events, ultimately making the blocks wobble. This illustrates that his engagements with objects are deliberate and stem from curiosity and experimentation.  ",
+            "C. The Rabbid observed the ball in motion, seemingly interacting with it passively. His lack of direct action pointed to the wobbling of blocks being coincidental, showing minimal influence over objects and their outcomes.  ",
+            "D. The Rabbid's energetic play involved the ball being launched off a surface, which then struck the blocks, creating a wobble. This reflects that while his actions may appear random, they can lead to significant outcomes, whether by design or accident."
+        ],
+        "answer": "The Rabbid's playful and proactive interactions with the ball instigated the sequence that led to the blocks wobbling. Initially, by chasing after the ball, the Rabbid ensured it reached the slide. His decision to roll the ball down the slide provided it with enough speed and direction to gently bump into the blocks. This suggests that the Rabbid's interactions with objects are not random; instead, they often result in a series of outcomes that are due to his curiosity and eagerness to see possibilities unfold.",
+        "need_reasoning": true,
+        "category": "tool_analysis"
+    },
+    {
+        "task_name": " VideoEspresso Interaction Analysis",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/videoespresso/all_video/Storystream/George/000000_7_43.mp4",
+        "question_id": 0,
+        "question": "How does George (the monkey)'s interaction with the beekeepers set the stage for his subsequent exploration and encounters with other characters?",
+        "answer_number": 1,
+        "candidates": [
+            "A. Holding hands with a beekeeper suggests George\u2019s growing ease in adapting to new environments. This interaction likely influenced his ability to explore and connect with other characters, including the man in a wetsuit.  ",
+            "B. Holding hands with a beekeeper suggests trust and adaptability to structured environments. This interaction likely encouraged George to explore more openly, eventually noticing and engaging with characters such as the smiling man in a wetsuit.  ",
+            "C. Holding hands with a beekeeper highlights George\u2019s willingness to navigate guided experiences, which fosters his curiosity and leads to discoveries such as meeting the man in a wetsuit.  ",
+            "D. Holding hands with a beekeeper reflects George\u2019s openness to supportive human interactions, paving the way for him to encounter and interact with intriguing personalities like the smiling man in a wetsuit."
+        ],
+        "answer": "Holding hands with a beekeeper suggests trust and willingness to participate in human-led activities. This interaction might have encouraged George to further explore his environment, leading him to notice and become curious about other settings and objects. The sequence from beekeeping to encounters shows George's progression from structured activity with humans to independent exploration and meeting diverse characters in different contexts, like the smiling man in a wetsuit.",
+        "need_reasoning": true,
+        "category": "tool_analysis"
+    },
+    {
+        "task_name": " VideoEspresso Interaction Analysis",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/videoespresso/all_video/vatex/3TPL4--CJ6w_000000_000010.mp4",
+        "question_id": 0,
+        "question": "How does the man's interaction with the camera change throughout the video, and what conclusion can you draw about his purpose or activity by the end of the sequence?",
+        "answer_number": 1,
+        "candidates": [
+            "A. Throughout the video, the man starts with making broad hand gestures (caption 1) and then begins tapping his fingers rhythmically (captions 2 and 5). By talking into the camera (caption 3), his actions reflect a desire to create an engaging sequence, possibly aiming to connect with the audience through dynamic movements by the end of the video.",
+            "B. In the video, the man shifts from simple flicking motions (caption 1) to more intricate tongue movements (captions 2 and 5), eventually speaking into the camera (caption 3). By the end, when he sticks out his tongue and licks his lips (caption 4), it suggests a performative intent to maintain audience interest with engaging actions.",
+            "C. During the video, the man starts with adjusting his hat repeatedly (caption 1), then moves on to snapping his fingers (captions 2 and 5). When he talks to the camera (caption 3), his actions indicate a desire to capture the audience's attention through a playful and possibly rhythmic routine, culminating in purposeful gestures at the end.",
+            "D. As the video progresses, the man begins by offering a thumbs-up (caption 1) before winking at the camera (captions 2 and 5). When he finally talks into the camera (caption 3), his mannerisms suggest a deliberate attempt to keep the viewer engaged, ultimately hinting at an approachable and lighthearted tone by the conclusion."
+        ],
+        "answer": "Throughout the video, the man goes from making simple flicking motions (caption 1) to playing more elaborately with his tongue (captions 2 and 5) and eventually begins to talk into the camera (caption 3). By the end of the sequence, when he sticks out his tongue and licks his lips (caption 4), it is likely that his purpose was performative or communicative, possibly trying to keep the audience engaged with his varied and playful actions.",
+        "need_reasoning": true,
+        "category": "tool_analysis"
+    },
+    {
+        "task_name": " VideoEspresso Interaction Analysis",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/videoespresso/all_video/Storystream/George/000033_0_57.mp4",
+        "question_id": 0,
+        "question": "How does George's interaction with the yellow hat relate to his later actions with the scissors and the drawing of himself using an electric saw?",
+        "answer_number": 1,
+        "candidates": [
+            "A. George's fascination with the yellow hat triggers a sense of curiosity, which subtly evolves into his experimental approach with the scissors and his decision to depict himself using an electric saw.  ",
+            "B. George's playful interaction with the yellow hat with a red smudge creates a spark of creativity, motivating his later exploration with the scissors and his imaginative use of an electric saw in the drawing.  ",
+            "C. The yellow hat fills George with a sense of wonder and imagination, gradually encouraging him to experiment with the scissors and later include an electric saw in his drawing.  ",
+            "D. Observing the yellow hat reminds George of creative opportunities, subtly shaping his choice to tinker with scissors and later incorporate an electric saw into his drawing of himself."
+        ],
+        "answer": "George's initial curiosity about the yellow hat, which he noticed with a red smudge, likely sets the stage for his playful and exploratory mood, leading to his subsequent actions with other objects. The presence of the hat, which may have appeared suspicious or intriguing due to its condition, aligns with his curious approach to experimenting with the scissors on the painting and his interest in observing a drawing of himself with an electric saw. This sequence shows a progression of curiosity and experimentation initiated by the mysterious appearance of the hat.",
+        "need_reasoning": true,
+        "category": "tool_analysis"
+    },
+    {
+        "task_name": " VideoEspresso Interaction Analysis",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/videoespresso/all_video/Storystream/George/000003_0_8.mp4",
+        "question_id": 0,
+        "question": "How does George (the monkey)'s interaction with his environment and the people around him suggest a development in his confidence or engagement over time?",
+        "answer_number": 2,
+        "candidates": [
+            "A. Initially, George seems hesitant, sitting in a corner and only occasionally interacting with objects around him. Over time, he begins to explore the blocks nearby and, after observing the individuals in the room, arranges them into a straight line, reflecting growing confidence and interaction.  ",
+            "B. George starts with an uncertain glance at the objects in the room but eventually focuses on arranging them carefully in a pattern. His movements become more fluid as he creates a semicircular form, showing a budding sense of purpose and engagement.  ",
+            "C. George starts by exploring the room and tentatively stands before a semicircle of blocks. Gaining confidence, he arranges them into a circle. His interest when sitting next to the person in yellow shows increased confidence and social engagement.  ",
+            "D. George begins by sitting quietly and looking at the blocks from a distance. While his actions are minimal, he occasionally shifts his gaze toward others. Eventually, he holds a single block in his hands, possibly reflecting growing awareness or thoughtfulness rather than active participation."
+        ],
+        "answer": "Initially, George is observed exploring the room, tentatively standing in front of a semicircle of blocks. As he grows more comfortable, he manipulates the blocks, creating a circular pattern, which suggests an increase in his confidence and engagement with his environment. Later, his curiosity sitting next to the person in a yellow outfit indicates he's actively seeking interaction and learning, demonstrating a development in confidence and social engagement.",
+        "need_reasoning": true,
+        "category": "tool_analysis"
+    },
+    {
+        "task_name": " VideoEspresso Behavior Analysis",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/videoespresso/all_video/vatex/wxf55TGJ0CY_000070_000080.mp4",
+        "question_id": 0,
+        "question": "What is a common action performed by the person in all three frames, and how does the type of tool used differ among the frames, if at all?",
+        "answer_number": 2,
+        "candidates": [
+            "A. The common action performed is slicing/cutting meat. In the first frame, the butcher uses a medium-sized chef's knife to cut the meat, whereas in the second and third frames, two differently sized cleavers are used to make precise cuts.  ",
+            "B. The common action performed is chopping various food items. In the first frame, a large cleaver is used to chop vegetables, while in the second frame, a serrated knife is used to prepare meat, and in the third frame, a smaller kitchen knife is used to portion bread.  ",
+            "C. The common action performed is slicing/cutting meat. In the first frame, the butcher uses a large cleaver, whereas in the second and third frames, a knife is used to cut the meat into individual steaks and small steaks.  ",
+            "D. The common action performed is slicing vegetables. In the first frame, the butcher uses a serrated knife to slice vegetables, while in the second frame, a heavy cleaver is used to process fruit, and in the third frame, a medium-sized chef's knife is used to cut bread."
+        ],
+        "answer": "The common action performed is slicing/cutting meat. In the first frame, the butcher uses a large cleaver, whereas in the second and third frames, a knife is used to cut the meat into individual steaks and small steaks, respectively.",
+        "need_reasoning": true,
+        "category": "tool_analysis"
+    },
+    {
+        "task_name": " VideoEspresso Behavior Analysis",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/videoespresso/all_video/vatex/sfr3rMel7hE_000004_000014.mp4",
+        "question_id": 0,
+        "question": "How does the baby's behavior evolve during his interaction with the cake?",
+        "answer_number": 2,
+        "candidates": [
+            "A. The baby cautiously touches the cake at first and starts eating it slowly, but soon begins smearing it while enjoying small bites.  ",
+            "B. The baby pokes at the cake curiously and eventually eats it with his hands, smearing some of it on himself and making a mess.  ",
+            "C. The baby starts enjoying the cake but becomes messy, using his hands and smearing it all over his face.  ",
+            "D. The baby hesitantly interacts with the cake, taking small bites as he gradually smears it on himself and gets messy."
+        ],
+        "answer": "Initially, the baby enjoys eating the cake, and as he continues, he gets progressively messier, using his hands and fingers, which leads to cake being smeared all over his face.",
+        "need_reasoning": true,
+        "category": "tool_analysis"
+    },
+    {
+        "task_name": " VideoEspresso Emotion Analysis",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/videoespresso/all_video/Storystream/The_Land/000185_0_11.mp4",
+        "question_id": 0,
+        "question": "Analyze the emotional journey of the baby dinosaur from the moment it tries to calm itself in the forest to the moment it smiles at the camera. How does its interaction with the large dinosaur play a pivotal role?",
+        "answer_number": 3,
+        "candidates": [
+            "A. The baby dinosaur starts off feeling fearful and uneasy, calming itself by munching on leaves, and experiences a curious mix of nervousness and intrigue when it notices the large dinosaur. This gradually evolves into a sense of safety, ending with a smile.  ",
+            "B. Initially apprehensive, the baby dinosaur tries to distract itself by munching on leaves. Upon noticing the large dinosaur, its fear momentarily heightens before transitioning into a feeling of safety and eventual happiness, prompted by the large dinosaur's gentle actions.  ",
+            "C. The baby dinosaur, while munching on leaves to steady its nerves, feels an initial wave of fear followed by confusion when it encounters the large dinosaur. This interaction ultimately reassures the baby dinosaur, leaving it content and smiling.  ",
+            "D. The baby dinosaur munches on leaves to quell its unease, but upon seeing the large dinosaur, feels a rush of panic, which subsides into calmness and happiness through the large dinosaur's friendly gestures, resulting in the baby smiling."
+        ],
+        "answer": "The baby dinosaur initially experiences fear and anxiety while munching on leaves to calm its nerves. This emotional state shifts dramatically when it trips and falls in front of the large dinosaur. Initially surprised, the large dinosaur's decision to help the baby marks a turning point. The baby dinosaur's interaction with the large dinosaur results in a newfound sense of safety and happiness, culminating in the baby smiling at the camera. The intervention and kindness of the large dinosaur play a critical role in transforming the baby dinosaur's emotional landscape from fear to joy and security.",
+        "need_reasoning": true,
+        "category": "tool_analysis"
+    },
+    {
+        "task_name": " VideoEspresso Situation Analysis",
+        "video_name": "/mnt/cloud_disk/jinhongbo/LLaVA-NeXT/playground/data/videoespresso/all_video/SQA3D/scene0511_00.mp4",
+        "question_id": 0,
+        "question": "How might the items in the cardboard box next to the wall and the multifunction office printers be utilized together in an efficient workspace setup, considering the kitchen-like setting?",
+        "answer_number": 2,
+        "candidates": [
+            "A. In an efficient workspace setup, the items in the cardboard box might include office supplies like printer paper or ink cartridges, strategically placed next to the multifunction printers for immediate use. Supplies may also be stored in the cabinets to maintain a tidy and organized workspace environment.  ",
+            "B. In an efficient workspace setup, the items in the cardboard box might contain small desk organizers or file folders to streamline document management. The multifunction printers nearby can enhance workflow efficiency while maintaining an orderly and balanced office space.  ",
+            "C. In an efficient workspace setup, the items in the cardboard box might consist of disposable cups, plates, or utensils for use in the kitchen-like area, while the multifunction printers are situated nearby for document-related tasks. This emphasizes seamless integration of work and small breaks into one coordinated space.  ",
+            "D. In an efficient workspace setup, the items in the cardboard box might hold cleaning supplies or maintenance tools to keep the kitchen-like area and office printer area clean and functional. This ensures all aspects of the workspace are optimized for productivity and upkeep."
+        ],
+        "answer": "In an efficient workspace setup, the items in the cardboard box could contain office supplies or organizing tools, while the multifunction printers can be placed strategically for easy access to printing, scanning, and copying. Given the organized and clean nature of the kitchen-like setting, the supplies from the box could be stored in the light, honey-colored cabinets above the countertop to keep the workspace tidy. This setup indicates a multipurpose area where office tasks can be efficiently managed alongside kitchen or household activities, emphasizing the importance of organization and space optimization.",
+        "need_reasoning": true,
+        "category": "tool_analysis"
+    }
+]

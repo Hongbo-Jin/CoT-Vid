@@ -1,0 +1,242 @@
+[
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/TPS22HRRY1k.mp4",
+        "question_id": 0,
+        "question": "Which best summarizes the content of the video?",
+        "answer_number": 1,
+        "candidates": [
+            "A. The process of registering a new mutual fund with the regulator and the associated legal requirements.",
+            "B. A basic explanation of what mutual funds are, and how they work.",
+            "C. A basic explanation of what national debts are, how they work and some key terms management.",
+            "D. The benefits and risks of investing in mutual funds as compared to other investment options such as individual stocks and bonds."
+        ],
+        "answer": "B. A basic explanation of what mutual funds are, and how they work.",
+        "category": "theme_summary",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/GqeRnxSuLFI.mp4",
+        "question_id": 0,
+        "question": "Which best summarizes the content of the video?",
+        "answer_number": 0,
+        "candidates": [
+            "A. Supply and demand.",
+            "B. Bananas supply.",
+            "C. Business competition.",
+            "D. Banana selling."
+        ],
+        "answer": "A. Supply and demand.",
+        "category": "theme_summary",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/21q-lDikdBg.mp4",
+        "question_id": 0,
+        "question": "Which choice best summarizes the main topic of the video?",
+        "answer_number": 2,
+        "candidates": [
+            "A. It advertises resistance bands for better selling.",
+            "B. It shows the difference between resistance bands and dumbbells.",
+            "C. It teaches you to improve your posture using resistance bands.",
+            "D. It evaluates the quality of resistance bands."
+        ],
+        "answer": "C. It teaches you to improve your posture using resistance bands.",
+        "category": "theme_summary",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/FjS2LzrHEO8.mp4",
+        "question_id": 0,
+        "question": "Which summarizes the main content of this video?",
+        "answer_number": 0,
+        "candidates": [
+            "A. Car features.",
+            "B. Transportation.",
+            "C. Wild scenery.",
+            "D. Construction work."
+        ],
+        "answer": "A. Car features.",
+        "category": "theme_summary",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/aqTIB_q40bo.mp4",
+        "question_id": 0,
+        "question": "Which summarizes the main content of this video?",
+        "answer_number": 1,
+        "candidates": [
+            "A. Movie commentary.",
+            "B. Product advertisement.",
+            "C. Motorsport.",
+            "D. Fashion tutorial."
+        ],
+        "answer": "B. Product advertisement.",
+        "category": "theme_summary",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/iPi-QNYgAa4.mp4",
+        "question_id": 0,
+        "question": "Which summarizes the main focus of the video?",
+        "answer_number": 0,
+        "candidates": [
+            "A. The role of nanorobotics in medical treatment.",
+            "B. R&D process and future application of nanorobotics.",
+            "C. The role of nanorobots in cancer treatment.",
+            "D. Cannot be inferred from the video."
+        ],
+        "answer": "A. The role of nanorobotics in medical treatment.",
+        "category": "theme_summary",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/cMim0uU1yzA.mp4",
+        "question_id": 0,
+        "question": "Which summarizes the main focus of the video?",
+        "answer_number": 1,
+        "candidates": [
+            "A. The effects of neurological disorders on brain function.",
+            "B. What happens to the brain as we age.",
+            "C. The effects of social and emotional education on brain development.",
+            "D. Neurological development of the human brain from infancy to adulthood."
+        ],
+        "answer": "B. What happens to the brain as we age.",
+        "category": "theme_summary",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/3fQxvz4ENDg.mp4",
+        "question_id": 0,
+        "question": "Which summarizes the main content of the video?",
+        "answer_number": 3,
+        "candidates": [
+            "A. Introduction to existing AI technologies.",
+            "B. The evolution of artificial intelligence.",
+            "C. Impact of artificial intelligence on human society.",
+            "D. The world's first artificial intelligence law."
+        ],
+        "answer": "D. The world's first artificial intelligence law.",
+        "category": "theme_summary",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/QTyzyP2Afys.mp4",
+        "question_id": 0,
+        "question": "Which of the following best summarizes the core difference between the contrasting viewpoints on the future of Bitcoin in the video?",
+        "answer_number": 2,
+        "candidates": [
+            "A. Whether Bitcoin should prioritize stability as a currency or potential for high returns as an investment.",
+            "B. Whether the focus should be on technological innovation or addressing the environmental impact of Bitcoin mining.",
+            "C. Whether Bitcoin should be integrated into existing financial systems or remain independent as a decentralized alternative.",
+            "D. Whether Bitcoin primarily benefits wealthy investors or has the potential to empower underbanked communities."
+        ],
+        "answer": "C. Whether Bitcoin should be integrated into existing financial systems or remain independent as a decentralized alternative.",
+        "category": "theme_summary",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/9bbWYVrQgZ8.mp4",
+        "question_id": 0,
+        "question": "Which of the following best summarizes the main concern of those who advocate for a reduction in the balance sheet in the video?",
+        "answer_number": 1,
+        "candidates": [
+            "A. The risk of deflation and economic stagnation due to reduced liquidity in the financial system.",
+            "B. The potential for asset bubbles and financial instability driven by excessive risk-taking.",
+            "C. The limitations it imposes on the Fed's ability to respond effectively to future economic crises.",
+            "D. The negative impact on smaller businesses and income inequality due to the focus on supporting large corporations."
+        ],
+        "answer": "B. The potential for asset bubbles and financial instability driven by excessive risk-taking.",
+        "category": "theme_summary",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/Ei-TcECJVXU.mp4",
+        "question_id": 0,
+        "question": "What is the core focus of the video?",
+        "answer_number": 0,
+        "candidates": [
+            "A. An investigative exploration into the ISS's advanced engineering.",
+            "B. A historical overview of the space race and its culmination in the ISS.",
+            "C. The daily life and routines of astronauts aboard the ISS.",
+            "D. The geopolitical implications of international cooperation on the ISS."
+        ],
+        "answer": "A. An investigative exploration into the ISS's advanced engineering.",
+        "category": "theme_summary",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/U9mJuUkhUzk.mp4",
+        "question_id": 0,
+        "question": "Which of the following can best summarize the video?",
+        "answer_number": 0,
+        "candidates": [
+            "A. The launch and explaination of GPT-4 turbo and GPTs.",
+            "B. Announcing the establishment of OpenAI.",
+            "C. Explaination of the usage of already launched modules.",
+            "D. GPTs and some relevant API."
+        ],
+        "answer": "A. The launch and explaination of GPT-4 turbo and GPTs.",
+        "category": "theme_summary",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/mRgstQ4X5d4.mp4",
+        "question_id": 0,
+        "question": "Which of the following descriptions best summarizes Cameron?",
+        "answer_number": 0,
+        "candidates": [
+            "A. Prioritizing family while harboring dreams.",
+            "B. Doing whatever it takes to make his dreams come true.",
+            "C. An unstable mind on the road to his dreams leads to failure.",
+            "D. Going through the motions and getting by."
+        ],
+        "answer": "A. Prioritizing family while harboring dreams.",
+        "category": "theme_summary",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/9tBsMSDoDqk.mp4",
+        "question_id": 0,
+        "question": "Which summarizes the main content of the video?",
+        "answer_number": 0,
+        "candidates": [
+            "A. A collection of 5 magicians that shocked the judges.",
+            "B. A talent show with various acts, including magic performances.",
+            "C. A comedy skit featuring magicians and their funny mishaps.",
+            "D. A tutorial on how to perform magic tricks."
+        ],
+        "answer": "A. A collection of 5 magicians that shocked the judges.",
+        "category": "theme_summary",
+        "need_reasoning": true
+    },
+    {
+        "task_name": " videomme ",
+        "video_name": "/mnt/cloud_disk/public_data/VideoMME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/WQn-c_4dVWs.mp4",
+        "question_id": 0,
+        "question": "What title best summarizes this video?",
+        "answer_number": 3,
+        "candidates": [
+            "A. French frozen food production process.",
+            "B. French frozen food chefs.",
+            "C. French frozen food advantages and disadvantages.",
+            "D. The daily diet of French people and why French people like to eat frozen food."
+        ],
+        "answer": "D. The daily diet of French people and why French people like to eat frozen food.",
+        "category": "theme_summary",
+        "need_reasoning": true
+    }
+]
