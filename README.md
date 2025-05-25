@@ -4,12 +4,17 @@
 <h5 align="center">
 
 [Hongbo Jin](https://hongbo-jin.github.io/hongbo.github.io/)<sup></sup>,
-[Siwei Wen](https://scholar.google.com/citations?user=kJRiUYwAAAAJ&hl=zh-CN)<sup></sup>,
-[Wenjun Wu](https://iai.buaa.edu.cn/info/1013/1093.htm)<sup>1,2,3</sup>, 
-[Lei Huang](https://huangleibuaa.github.io/)<sup>1,2,3,✉</sup>
+[Ruyang Liu](https://scholar.google.com/citations?user=pZ3sWH0AAAAJ&hl=en&oi=ao)<sup></sup>,
+[Wenhao Zhang](https://openreview.net/profile?id=~Wenhao_Zhang10)<sup></sup>, 
+[Guibo Luo](https://www.ece.pku.edu.cn/info/1062/2227.htm)<sup></sup>,
+[Ge Li](https://openreview.net/profile?id=~Ge_Li2)<sup></sup>
 
 <sup></sup>School of Electronic and Computer Science, Peking University<br>
 
+<div align="center">
+
+[![arXiv](https://img.shields.io/badge/Arxiv-2505.11830-AD1C18.svg?logo=arXiv)](https://arxiv.org/pdf/2505.11830)
+</div>
 
 <p align="center" width="100%">
 <img src="./images/overall pipeline.png"  width="80%" height="80%">
