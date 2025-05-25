@@ -1,5 +1,15 @@
+<h2 align="center">CoT-Vid: Dynamic Chain-of-Thought Routing with Self Verification for Training-Free Video Reasoning
+</a>
 
-# CoT-Vid: Dynamic Chain-of-Thought Routing with Self Verification for Training-Free Video Reasoning
+<h5 align="center">
+
+[Hongbo Jin](https://hongbo-jin.github.io/hongbo.github.io/)<sup></sup>,
+[Siwei Wen](https://scholar.google.com/citations?user=kJRiUYwAAAAJ&hl=zh-CN)<sup></sup>,
+[Wenjun Wu](https://iai.buaa.edu.cn/info/1013/1093.htm)<sup>1,2,3</sup>, 
+[Lei Huang](https://huangleibuaa.github.io/)<sup>1,2,3,✉</sup>
+
+<sup></sup>School of Electronic and Computer Science, Peking University<br>
+
 
 <p align="center" width="100%">
 <img src="./images/overall pipeline.png"  width="80%" height="80%">
@@ -37,7 +47,15 @@ We use [SGLang](https://github.com/sgl-project/sglang) to speed up inference and
 
 If you find it useful for your research and applications, please cite related papers/blogs using this BibTeX:
 ```bibtex
-
+@misc{jin2025cotviddynamicchainofthoughtrouting,
+      title={CoT-Vid: Dynamic Chain-of-Thought Routing with Self Verification for Training-Free Video Reasoning}, 
+      author={Hongbo Jin and Ruyang Liu and Wenhao Zhang and Guibo Luo and Ge Li},
+      year={2025},
+      eprint={2505.11830},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2505.11830}, 
+}
 
 ```
 
