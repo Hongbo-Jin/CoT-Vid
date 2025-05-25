@@ -3,11 +3,11 @@
 
 <h5 align="center">
 
-[Hongbo Jin](https://hongbo-jin.github.io/hongbo.github.io/)<sup></sup>,
-[Ruyang Liu](https://scholar.google.com/citations?user=pZ3sWH0AAAAJ&hl=en&oi=ao)<sup></sup>,
-[Wenhao Zhang](https://openreview.net/profile?id=~Wenhao_Zhang10)<sup></sup>, 
+[Hongbo Jin](https://hongbo-jin.github.io/hongbo.github.io/)<sup>*</sup>,
+[Ruyang Liu](https://scholar.google.com/citations?user=pZ3sWH0AAAAJ&hl=en&oi=ao)<sup>\*</sup>,
+[Wenhao Zhang](https://openreview.net/profile?id=~Wenhao_Zhang10)<sup>\*</sup>, 
 [Guibo Luo](https://www.ece.pku.edu.cn/info/1062/2227.htm)<sup></sup>,
-[Ge Li](https://openreview.net/profile?id=~Ge_Li2)<sup></sup>
+[Ge Li](https://openreview.net/profile?id=~Ge_Li2)<sup>✉</sup>
 
 <sup></sup>School of Electronic and Computer Science, Peking University<br>
 
@@ -66,7 +66,8 @@ If you find it useful for your research and applications, please cite related pa
 
 ## Acknowledgement
 
-- [Vicuna](https://github.com/lm-sys/FastChat): the codebase we built upon, and our base model Vicuna-13B that has the amazing language capabilities!
+- [LLaVA-Next](https://github.com/LLaVA-VL/LLaVA-NeXT): the codebase we built upon.
+Great work!
 - The `﻿lmms-eval` framework and its core contributors, including Peiyuan Zhang, Fanyi Pu, Joshua Adrian Cahyono, and Kairui Hu, for their support on the evaluation side.
 
 ## Related Projects
