@@ -3,7 +3,7 @@
 
 <h5 align="center">
 
-[Hongbo Jin](https://hongbo-jin.github.io/hongbo.github.io/)<sup>*</sup>,
+[Hongbo Jin](https://hongbo-jin.github.io/)<sup>*</sup>,
 [Ruyang Liu](https://scholar.google.com/citations?user=pZ3sWH0AAAAJ&hl=en&oi=ao)<sup>\*</sup>,
 [Wenhao Zhang](https://openreview.net/profile?id=~Wenhao_Zhang10)<sup>\*</sup>, 
 [Guibo Luo](https://www.ece.pku.edu.cn/info/1062/2227.htm)<sup></sup>,
